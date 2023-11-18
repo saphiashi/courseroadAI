@@ -1,0 +1,2493 @@
+[
+    "Chemistry (Course 5)",
+    [
+        "block",
+        [
+            "title",
+            "5.000[J] Dimensions of Geoengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.850[J], 10.600[J], 11.388[J], 12.884[J], 15.036[J], 16.645[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Familiarizes students with the potential contributions and risks of using geoengineering technologies to control climate damage from global warming caused by greenhouse gas emissions. Discusses geoengineering in relation to other climate change responses: reducing emissions, removing CO2 from the atmosphere, and adapting to the impacts of climate change. Limited to 100."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch",
+                "M. Zuber"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.002[J] Viruses, Pandemics, and Immunity"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.380[J], HST.438[J]\nSubject meets with 5.003[J], 8.245[J], 10.382[J], HST.439[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.438[J]. Preference to first-year students; all others should take HST.439[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Chakraborty"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.003[J] Viruses, Pandemics, and Immunity"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.245[J], 10.382[J], HST.439[J]\nSubject meets with 5.002[J], 10.380[J], HST.438[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.439[J]. HST.438[J] intended for first-year students; all others should take HST.439[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Chakraborty"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.03 Principles of Inorganic Chemistry I"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.12"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents principles of chemical bonding and molecular structure, and their application to the chemistry of representative elements of the periodic system."
+        ],
+        [
+            "inst",
+            [
+                "D. Suess",
+                "R. Gilliard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.04 Principles of Inorganic Chemistry II"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic presentation of the chemical applications of group theory. Emphasis on the formal development of the subject and its applications to the physical methods of inorganic chemical compounds. Against the backdrop of electronic structure, the electronic, vibrational, and magnetic properties of transition metal complexes are presented and their investigation by the appropriate spectroscopy described."
+        ],
+        [
+            "inst",
+            [
+                "Y. Surendranath",
+                "D. Freedman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.05 Principles of Inorganic Chemistry III"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03; Coreq: 5.04"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Principles of main group (s and p block) element chemistry with an emphasis on synthesis, structure, bonding, and reaction mechanisms."
+        ],
+        [
+            "inst",
+            [
+                "C. C. Cummins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.061 Principles of Organometallic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "A comprehensive treatment of organometallic compounds of the transition metals with emphasis on structure, bonding, synthesis, and mechanism."
+        ],
+        [
+            "inst",
+            [
+                "C. Cummins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.062 Principles of Bioinorganic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Delineates principles that form the basis for understanding how metal ions function in biology. Examples chosen from recent literature on a range of topics, including the global biogeochemical cycles of the elements; choice, uptake and assembly of metal-containing units; structure, function and biosynthesis of complex metallocofactors; electron-transfer and redox chemistry; atom and group transfer chemistry; protein tuning of metal properties; metalloprotein engineering and design; and applications to diagnosis and treatment of disease."
+        ],
+        [
+            "inst",
+            [
+                "D. Suess"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.064 Solid-state Materials Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of materials chemistry with a focus on solid-state materials. Builds upon ideas of band structure from a chemical perspective and progresses to physical properties, including magnetism and conductivity. "
+        ],
+        [
+            "inst",
+            [
+                "D. Freedman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.065 Electrochemistry (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of electrochemistry with an emphasis on physical principles, experimental techniques, and select applications. Builds from molecular-level theories of charge transfer reactions and double layer structure and progress to the use of electrochemistry as a method for characterizing redox properties, synthesizing materials, and interconverting electrical and chemical energy. Background in organic chemistry required."
+        ],
+        [
+            "inst",
+            [
+                "Y. Surendranath"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.067 Crystal Structure Refinement"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.069 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Practical aspects of crystal structure determination from data collection strategies to data reduction and basic and advanced refinement problems of organic and inorganic molecules."
+        ],
+        [
+            "inst",
+            [
+                "P. Mueller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.068 Physical Inorganic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03 and 5.04"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses the physical methods used to probe the electronic and geometric structures of inorganic compounds, with additional techniques employed in the characterization of inorganic solids and surfaces. Includes vibrational spectroscopy, solid state and solution magnetochemical methods, Mossbauer spectroscopy, electron paramagnetic resonance spectroscopy, electrochemical methods, and a brief survey of surface techniques. Applications to current research problems in inorganic and solid-state chemistry."
+        ],
+        [
+            "inst",
+            [
+                "M. Dinca"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.069 Crystal Structure Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03 and 5.04"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to X-ray crystallography: symmetry in real and reciprocal space, space and Laue groups, geometry of diffraction, structure factors, phase problem, direct and Patterson methods, electron density maps, structure refinement, crystal growth, powder methods, limits of diffraction methods, structure data bases."
+        ],
+        [
+            "inst",
+            [
+                "P. Mueller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.07[J] Introduction to Biological Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.507[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.12\" title=\"5.12\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.12');\">5.12</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Chemical and physical properties of the cell and its building blocks. Structures of proteins and principles of catalysis. The chemistry of organic/inorganic cofactors required for chemical transformations within the cell. Basic principles of metabolism and regulation in pathways, including glycolysis, gluconeogenesis, fatty acid synthesis/degradation, pentose phosphate pathway, Krebs cycle and oxidative phosphorylation, DNA replication, and transcription and translation."
+        ],
+        [
+            "inst",
+            [
+                "B. Pentelute",
+                "E. Nolan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.08[J] Fundamentals of Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.08[J]\nSubject meets with 7.80"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a>, <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a>, and (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Spanning the fields of biology, chemistry, and engineering, this class introduces students to the principles of chemical biology and the application of chemical and physical methods and reagents to the study and manipulation of biological systems. Topics include nucleic acid structure, recognition, and manipulation; protein folding and stability, and proteostasis; bioorthogonal reactions and activity-based protein profiling; chemical genetics and small-molecule inhibitor screening; fluorescent probes for biological analysis and imaging; and unnatural amino acid mutagenesis. The class will also discuss the logic of dynamic post-translational modification reactions with an emphasis on chemical biology approaches for studying complex processes including glycosylation, phosphorylation, and lipidation. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "B. Imperiali",
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.111 Principles of Chemical Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to chemistry, with emphasis on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. Introduction to the chemistry of biological, inorganic, and organic molecules."
+        ],
+        [
+            "inst",
+            [
+                "A. Willard",
+                "B. Pentelute",
+                "M. Hong",
+                "B. McGuire"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.112 Principles of Chemical Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to chemistry for students who have taken two or more years of high school chemistry or who have earned a score of at least 4 on the ETS Advanced Placement Exam.  Emphasis on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. Applications of basic principles to problems in metal coordination chemistry, organic chemistry, and biological chemistry."
+        ],
+        [
+            "inst",
+            [
+                "S. Ceyer",
+                "M. Dinca"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.12 Organic Chemistry I"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to organic chemistry. Development of basic principles to understand the structure and reactivity of organic molecules. Emphasis on substitution and elimination reactions and chemistry of the carbonyl group. Introduction to the chemistry of aromatic compounds."
+        ],
+        [
+            "inst",
+            [
+                "J. Johnson",
+                "A. Wendlandt",
+                "R. Danheiser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.13 Organic Chemistry II"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.12"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on synthesis, structure determination, mechanism, and the relationships between structure and reactivity. Selected topics illustrate the role of organic chemistry in biological systems and in the chemical industry."
+        ],
+        [
+            "inst",
+            [
+                "L. Kiessling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.24[J] Archaeological Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.985[J], 12.011[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a> or <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.985[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Hosler",
+                "H. N. Lechtman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.301 Chemistry Laboratory Techniques"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR) and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Practical training in basic chemistry laboratory techniques. Intended to provide students with the skills necessary to undertake original research projects in chemistry. Limited to first-year students in IAP (application required); open to all students in spring (enrollment by lottery)."
+        ],
+        [
+            "inst",
+            [
+                "J. Dolhun"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.302 Introduction to Experimental Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Illustrates fundamental principles of chemical science through practical experience with chemical phenomena. Students explore the theoretical concepts of chemistry through the experiments which informed their discovery, and make chemistry happen with activities that are intellectually stimulating and fun. Preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "J. Dolhun",
+                "M. Shoulders"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.310 Laboratory Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 5.12"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces experimental chemistry for students who are not majoring in Course 5. Principles and applications of chemical laboratory techniques, including preparation and analysis of chemical materials, measurement of pH, gas and liquid chromatography, visible-ultraviolet spectrophotometry, infrared spectroscopy, kinetics, data analysis, and elementary synthesis, are described, in addition to experimental design principles. Includes instruction and practice in written and oral communication to multiple audiences. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Information: P. Venkatesan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.351 Fundamentals of Spectroscopy"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Students carry out an experiment that introduces fundamental principles of the most common types of spectroscopy, including UV-visible absorption and fluorescence, infrared, and nuclear magnetic resonance. Emphasizes principles of how light interacts with matter, a fundamental and hands-on understanding of how spectrometers work, and what can be learned through spectroscopy about prototype molecules and materials. Students record and analyze spectra of small organic molecules, native and denatured proteins, semiconductor quantum dots, and laser crystals. Satisfies 4 units of Institute Laboratory credit."
+        ],
+        [
+            "inst",
+            [
+                "K. Nelson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.352 Synthesis of Coordination Compounds and Kinetics"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 5.351"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Students carry out an experiment that provides an introduction to the synthesis of simple coordination compounds and chemical kinetics. Illustrates cobalt coordination chemistry and its transformations as detected by visible spectroscopy. Students observe isosbestic points in visible spectra, determine the rate and rate law, measure the rate constant at several temperatures, and derive the activation energy for the aquation reaction. Satisfies 5 units of Institute Laboratory credit."
+        ],
+        [
+            "inst",
+            [
+                "Y. Surendranath"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.353 Macromolecular Prodrugs"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 5.12 and 5.352"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Students carry out an experiment that builds skills in how to rationally design macromolecules for drug delivery based on fundamental principles of physical organic chemistry. Begins with conjugation of a drug molecule to a polymerizable group through a cleavable linker to generate a prodrug monomer. Continues with polymerization of monomer to produce macromolecular (i.e., polymer) prodrug; monomer and polymer prodrugs are fully characterized. Rate of drug release is measured and correlated to the size of the macromolecule as well as the structure of the cleavable linker. Satisfies 4 units of Institute Laboratory credit."
+        ],
+        [
+            "inst",
+            [
+                "J. Johnson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.361 Recombinant DNA Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: (5.07[J] or 7.05) and (5.310 or 5.352)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Students explore the biochemical basis for the efficacy of a blockbuster drug: Gleevec, which is used to treat chronic myelogenous leukemia. Its target, Abl kinase, is produced in E. coli by recombinant DNA technology, purified using affinity chromatography, and analyzed with polyacrylamide gel electrophoresis, UV-vis spectroscopy, and a colorimetric assay. Natural mutations found in Gleevec-resistant cancer patients are introduced into the ABL1 proto-oncogene with PCR-based mutagenesis and analyzed by agarose gel electrophoresis."
+        ],
+        [
+            "inst",
+            [
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.362 Cancer Drug Efficacy"
+        ],
+        [
+            "prerec",
+            "Prereq: (5.07[J] or 7.05) and (5.310 or 5.352); Coreq: 5.361"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Students probe the structural basis for the development of resistance to Gleevec by cancer patients. LC-MS is used to quantify the effect of Gleevec on catalysis by wild-type Abl kinase and a Gleevec-resistant variant (Module 4). Other potential drugs are tested as inhibitors of the Abl variant. Molecular graphics software is used to understand catalysis by Abl kinase, its inhibition by Gleevec, and the basis for drug resistance."
+        ],
+        [
+            "inst",
+            [
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.363 Organic Structure Determination"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.12; Coreq: 5.13"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces modern methods for the elucidation of the structure of organic compounds. Students carry out transition metal-catalyzed coupling reactions, based on chemistry developed in the Buchwald laboratory, using reactants of unknown structure. Students also perform full spectroscopic characterization - by proton and carbon NMR, IR, and mass spectrometry of the reactants - and carry out coupling products in order to identify the structures of each compound. Other techniques include transfer and manipulation of organic and organometallic reagents and compounds, separation by extraction, and purification by column chromatography. Satisfies 4 units of Institute Laboratory credit."
+        ],
+        [
+            "inst",
+            [
+                "S. Buchwald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.371 Continuous Flow Chemistry: Sustainable Conversion of Reclaimed Vegetable Oil into Biodiesel"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.13 and 5.363"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the theoretical and practical fundamentals of continuous flow synthesis, wherein pumps, tubes, and connectors are used to conduct chemical reactions instead of flasks, beakers, etc. Focuses on a catalytic reaction that converts natural vegetable oil into biodiesel that can be used in a variety of combustion engines. Provides instruction in several important organic chemistry experimental techniques, including purification by extraction, rotary evaporation, acid-base titration, gas chromatography (GC), and 1H NMR."
+        ],
+        [
+            "inst",
+            [
+                "T. Jamison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.372 Chemistry of Renewable Energy"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03 and 5.352"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the electrochemical processes that underlie renewable energy storage and recovery. Students investigate charge transfer reactions at electrode surfaces that are critical to the operation of advanced batteries, fuel cells, and electrolyzers. Develops basic theory behind inner- and outer-sphere charge transfer reactions at interfaces and applies this theory to construct mechanistic models for important energy conversion reactions including the reduction of O2 to water and the reduction of protons to H2. Students will also synthesize new catalytic materials for these reactions and investigate their relative performance."
+        ],
+        [
+            "inst",
+            [
+                "Y. Surendranath"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.373 Dinitrogen Cleavage"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03 and 5.363; Coreq: 5.61"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the research area of small-molecule activation by transition-element complexes. Covers techniques such as glove-box methods for synthesis for exclusion of oxygen and water; filtration, reaction mixture concentration, and recrystallization under a dinitrogen atmosphere and under static vacuum. Characterization methods include proton NMR spectroscopy of both paramagnetic and diamagnetic systems, Evans method magnetic susceptibility measurement, UV-Vis spectroscopy, and infrared spectroscopy of a metal-nitrogen triple bond system."
+        ],
+        [
+            "inst",
+            [
+                "C. Cummins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.381 Quantum Dots"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.353 and 5.61"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers synthesis of a discrete size series of quantum dots, followed by synthesis of a single size of core/shell quantum dots utilizing air-free Schlenk manipulation of precursors. Uses characterization by absorption and fluorescence spectroscopies to rationalize the compositional/size dependence of the shell on the electronic structure of the quantum dots. Students acquire time traces of the fluorescence of single core and core/shell quantum dots using single molecule spectroscopic tools. The fluorescence on/off blinking distribution observed will be fit to a standard model. Students use Matlab for computational modeling of the electron and hole wavefunction in core and core/shell quantum dots. Analyzes several commercial applications of quantum dot technologies."
+        ],
+        [
+            "inst",
+            [
+                "M. Bawendi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.382 Time- and Frequency-resolved Spectroscopy of Photosynthesis"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.611 and (5.07[J] or 7.05); Coreq: 5.361"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Uses time- and frequency-resolved fluorescence measurements to investigate photosynthetic light harvesting and energy transfer."
+        ],
+        [
+            "inst",
+            [
+                "G. Schlau-Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.383 Fast-flow Peptide and Protein Synthesis"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.363 and (5.07[J] or 7.05)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Develops understanding of both the theory and practice of fundamental techniques in biological chemistry, including chemical reactivity (amide-bond formation, solid phase synthesis, disulfide bond formation, and protecting group chemistry); separation science for purification and analysis, such as preparative HPLC and MALDI-TOF MS; and protein structure-function relationships (protein folding and binding). Periodically, guest lecturers from the local biotech research community will describe practical applications in industry."
+        ],
+        [
+            "inst",
+            [
+                "B. Pentelute"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.39 Research and Communication in Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: An approved research experience and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Independent research under the direction of a member of the Chemistry Department faculty. Allows students with a strong interest in independent research to fulfill  part of the laboratory requirement for the Chemistry Department Program in the context of a research laboratory at MIT. The research must be conducted on the MIT campus and be a continuation of a previous 12-unit UROP project or full-time work over the summer. Instruction and practice in written and oral communication is provided, culminating in a poster presentation of the work at the annual departmental UROP symposium and a research publication-style writeup of the results.  Permission of the faculty research supervisor and the Chemistry Education Office must be obtained in advance."
+        ],
+        [
+            "inst",
+            [
+                "A. Radosevich"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.43 Advanced Organic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.13"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Reaction mechanisms in organic chemistry: methods of investigation, relation of structure to reactivity, and reactive intermediates. Photochemistry and organometallic chemistry, with an emphasis on fundamental reactivity, mechanistic studies, and applications in organic chemistry."
+        ],
+        [
+            "inst",
+            [
+                "T. Swager"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.44 Organometallic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.061, 5.43, 5.47, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall; second half of term)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Examination of the most important transformations of organotransition-metal species. Emphasizes basic mechanisms of their reactions, structure-reactivity relationships, and applications in synthesis."
+        ],
+        [
+            "inst",
+            [
+                "A. Wendlandt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.45 Heterocyclic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.511 and 5.53"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the chemistry of heterocyclic compounds. Surveys synthesis and reactivity of the major classes of heterocyclic organic compounds. Discusses the importance of these molecules in the pharmaceutical and other industries."
+        ],
+        [
+            "inst",
+            [
+                "S. Buchwald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.46 NMR Spectroscopy and Organic Structure Determination"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.13"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Applications of multinuclear NMR spectroscopy to the study of organic compounds."
+        ],
+        [
+            "inst",
+            [
+                "W. Massefski"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.47 Tutorial in Organic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.43 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic review of basic principles concerned with the structure and transformations of organic molecules. Problem-solving workshop format. The program is intended primarily for first-year graduate students with a strong interest in organic chemistry. Meets during the month of September."
+        ],
+        [
+            "inst",
+            [
+                "M. Movassaghi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.48[J] Protein Folding in Health and Disease"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.88[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>) and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on understanding the chemical and biological mechanisms of protein folding, misfolding, aggregation, and quality control. Topics covered include: molecular mechanisms of protein folding; experimental and computational strategies to study protein folding; how cells fold and quality control proteins; protein misfolding and aggregation; proteostasis and human disease; strategies to address protein folding failures in disease; and protein folding in biotechnology development. Provides state-of-the-art understanding of the field, fosters ability to critically assess and use the literature, and empowers students to study and address protein folding issues in their research and beyond."
+        ],
+        [
+            "inst",
+            [
+                "M. Shoulders"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.49 Chemical Microbiology"
+        ],
+        [
+            "prerec",
+            "Prereq: (5.07[J] or 7.05) and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on molecular understanding of fundamental processes central to microbial physiology and infectious disease. Topics covered vary and may include (i) secondary metabolite biosynthesis and function, (ii) small molecule mediators of microbe-microbe and microbe-host interactions, (iii) membrane assembly, (iv) metal homeostasis and regulation, (v) antibiotics and antibiotic resistance, (vi) chemistry of the microbiome, and (vii) molecular basis of host-pathogen interactions. Integrates experimental approaches and primary literature."
+        ],
+        [
+            "inst",
+            [
+                "L. Nolan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.511 Synthetic Organic Chemistry I"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.43 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents and discusses important topics in modern synthetic organic chemistry, with the objective of developing problem-solving skills for the design of synthetic routes to complex molecules."
+        ],
+        [
+            "inst",
+            [
+                "M. Movassaghi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.512 Synthetic Organic Chemistry II"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.511"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "General methods and strategies for the synthesis of complex organic compounds."
+        ],
+        [
+            "inst",
+            [
+                "M. Movassaghi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.52 Tutorial in Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of the core principles of chemistry that underlie biological systems. Students explore research topics and methods in chemical biology by participating in laboratory rotations, then present on experiments performed during each rotation. Intended for first-year graduate students with a strong interest in chemical biology."
+        ],
+        [
+            "inst",
+            [
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.53 Molecular Structure and Reactivity"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.43 and 5.60"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Reaction mechanisms in organic chemistry: methods of investigation, relation of structure to reactivity, and reactive intermediates."
+        ],
+        [
+            "inst",
+            [
+                "A. Radosevich",
+                "M. Elkin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.54[J] Advances in Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.540[J], 20.554[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a>, <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a>, <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a>, and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to current research at the interface of chemistry, biology, and bioengineering. Topics include imaging of biological processes, metabolic pathway engineering, protein engineering, mechanisms of DNA damage, RNA structure and function, macromolecular machines, protein misfolding and disease, metabolomics, and methods for analyzing signaling network dynamics. Lectures are interspersed with class discussions and student presentations based on current literature."
+        ],
+        [
+            "inst",
+            [
+                "L. Kiessling",
+                "M. Shoulders"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.55 NMR Spectroscopy and Biochemical Structure Determination"
+        ],
+        [
+            "prerec",
+            "Prereq: (5.07[J] and 5.08[J]) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Practical nuclear magnetic resonance (NMR) spectroscopy applied to problems in biochemistry and chemical biology."
+        ],
+        [
+            "inst",
+            [
+                "W. Massefski"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.56 Molecular Structure and Reactivity II"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.53 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring; second half of term)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Application of physical principles and methods to contemporary problems of interest in organic and polymer chemistry."
+        ],
+        [
+            "inst",
+            [
+                "J. Johnson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.561 Chemistry in Industry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03, 5.13, and (5.07[J] or 7.05)"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examination of recent advances in organic, biological, and inorganic and physical chemical research in industry. Taught in seminar format with participation by scientists from industrial research laboratories."
+        ],
+        [
+            "inst",
+            [
+                "R. L. Danheiser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.60 Thermodynamics and Kinetics"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and Chemistry (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Equilibrium properties of macroscopic systems. Basic thermodynamics: state of a system, state variables. Work, heat, first law of thermodynamics, thermochemistry. Second and third law of thermodynamics: entropy and free energy, including the molecular basis for these thermodynamic functions. Phase equilibrium and properties of solutions. Chemical equilibrium of reactions in gas and solution phases. Rates of chemical reactions. Special attention to thermodynamics related to global energy issues. Meets with 5.601 first half of term and 5.602 second half of term. Credit cannot also be received for 5.601 or 5.602."
+        ],
+        [
+            "inst",
+            [
+                "R. Griffin",
+                "B. McGuire"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.601 Thermodynamics I"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and Chemistry (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic thermodynamics: state of a system, state variables. Work, heat, first law of thermodynamics, thermochemistry. Second and third law of thermodynamics: entropy and free energy, including the molecular basis for these thermodynamic functions. Equilibrium properties of macroscopic systems. Special attention to thermodynamics related to global energy issues and biological systems. Combination of 5.601 and 5.602 counts as a REST subject."
+        ],
+        [
+            "inst",
+            [
+                "S. Peng",
+                "K. Nelson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.602 Thermodynamics II and Kinetics"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.601"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Free energy and chemical potential. Phase equilibrium and properties of solutions. Chemical equilibrium of reactions. Rates of chemical reactions. Special attention to thermodynamics related to global energy issues and biological systems. Combination of 5.601 and 5.602 counts as a REST subject."
+        ],
+        [
+            "inst",
+            [
+                "Consult B. McGuire"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.611 Introduction to Spectroscopy"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR), Chemistry (GIR), and Physics II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introductory quantum chemistry; particles and waves; wave mechanics; harmonic oscillator; applications to IR, Microwave and NMR spectroscopy. Combination of 5.611 and 5.612 counts as a REST subject."
+        ],
+        [
+            "inst",
+            [
+                "M. Hong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.612 Electronic Structure of Molecules"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.611"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introductory electronic structure; atomic structure and the Periodic Table; valence and molecular orbital theory; molecular structure, and photochemistry. Combination of 5.611 and 5.612 counts as a REST subject."
+        ],
+        [
+            "inst",
+            [
+                "R. Griffin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.62 Physical Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.601, 5.602, 5.611, and 5.612"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Elementary statistical mechanics; transport properties; kinetic theory; solid state; reaction rate theory; and chemical reaction dynamics."
+        ],
+        [
+            "inst",
+            [
+                "S. Ceyer",
+                "A. Willard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.64[J] Advances in Interdisciplinary Science in Human Health and Disease"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.539[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a>, <a href=\"/search/?P=5.601\" title=\"5.601\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.601');\">5.601</a>, <a href=\"/search/?P=5.602\" title=\"5.602\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.602');\">5.602</a>, and (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces major principles, concepts, and clinical applications of biophysics, biophysical chemistry, and systems biology. Emphasizes biological macromolecular interactions, biochemical reaction dynamics, and genomics. Discusses current technological frontiers and areas of active research at the interface of basic and clinical science. Provides integrated, interdisciplinary training and core experimental and computational methods in molecular biochemistry and genomics."
+        ],
+        [
+            "inst",
+            [
+                "A. Shalek",
+                "X. Wang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.68[J] Kinetics of Chemical Reactions"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.652[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.62\" title=\"5.62\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.62');\">5.62</a>, <a href=\"/search/?P=10.37\" title=\"10.37\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.37');\">10.37</a>, or <a href=\"/search/?P=10.65\" title=\"10.65\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.65');\">10.65</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Experimental and theoretical aspects of chemical reaction kinetics, including transition-state theories, molecular beam scattering, classical techniques, quantum and statistical mechanical estimation of rate constants, pressure-dependence and chemical activation, modeling complex reacting mixtures, and uncertainty/ sensitivity analyses. Reactions in the gas phase, liquid phase, and on surfaces are discussed with examples drawn from atmospheric, combustion, industrial, catalytic, and biological chemistry."
+        ],
+        [
+            "inst",
+            [
+                "W. H. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.697[J] Computational Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.437[J]\nSubject meets with 5.698[J], 10.637[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.437[J]. Limited to 35; no listeners."
+        ],
+        [
+            "inst",
+            [
+                "H. J. Kulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.698[J] Computational Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.637[J]\nSubject meets with 5.697[J], 10.437[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.637[J]. Limited to 35; no listeners."
+        ],
+        [
+            "inst",
+            [
+                "H. J. Kulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.70[J] Statistical Thermodynamics"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.546[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Develops classical equilibrium statistical mechanical concepts for application to chemical physics problems. Basic concepts of ensemble theory formulated on the basis of thermodynamic fluctuations. Examples of applications include Ising models, lattice models of binding, ionic and non-ionic solutions, liquid theory, polymer and protein conformations, phase transition, and pattern formation. Introduces computational techniques with examples of liquid and polymer simulations."
+        ],
+        [
+            "inst",
+            [
+                "J. Cao",
+                "B. Zhang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.72 Statistical Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.70[J] or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring; second half of term)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Principles and methods of statistical mechanics. Classical and quantum statistics, grand ensembles, fluctuations, molecular distribution functions, and other topics in equilibrium statistical mechanics. Topics in thermodynamics and statistical mechanics of irreversible processes."
+        ],
+        [
+            "inst",
+            [
+                "J. Cao. B. Zhang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.73 Introductory Quantum Mechanics I"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.61, 8.03, and 18.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the fundamental concepts of quantum mechanics: wave properties, uncertainty principles, Schrodinger equation, and operator and matrix methods. Includes applications to one-dimensional potentials (harmonic oscillator), three-dimensional centrosymetric potentials (hydrogen atom), and angular momentum and spin. Approximation methods include WKB, variational principle, and perturbation theory."
+        ],
+        [
+            "inst",
+            [
+                "M. Bawendi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.74 Introductory Quantum Mechanics II"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.73"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Time-dependent quantum mechanics and spectroscopy. Topics include perturbation theory, two-level systems, light-matter interactions, relaxation in quantum systems, correlation functions and linear response theory, and nonlinear spectroscopy."
+        ],
+        [
+            "inst",
+            [
+                "K. Nelson",
+                "G. Schlau-Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.78 Biophysical Chemistry Techniques"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.71"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Presents principles of macromolecular crystallography that are essential for structure determinations. Topics include crystallization, diffraction theory, symmetry and space groups, data collection, phase determination methods, model building, and refinement. Discussion of crystallography theory complemented with exercises such as crystallization, data processing, and model building. Meets with 7.71 when offered concurrently. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Drennan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.80 Advanced Topics of Current Special Interest"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced topics of current special interest."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.81[J] United States Energy Policy: Lessons Learned for the Future"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.029[J]\nSubject meets with 5.811[J], 15.0291[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Compares the US policy responses, from the Nixon administration to the current administration, on issues ranging from oil import dependence to nuclear nonproliferation. Examines what lessons were learned from these issues and how they have shaped the country's current climate change policy. Prepares students to be informed and effective participants in policy deliberations that require difficult decisions and trade-offs. Addresses both domestic and international policy aspects. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.811[J] United States Energy Policy: Lessons Learned for the Future"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.0291[J]\nSubject meets with 5.81[J], 15.029[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Compares the US policy responses, from the Nixon administration to the current administration, on issues ranging from oil import dependence to nuclear nonproliferation. Examines what lessons were learned from these issues and how they have shaped the country's current climate change policy. Prepares students to be informed and effective participants in policy deliberations that require difficult decisions and trade-offs. Addresses both domestic and international policy aspects. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.83 Advanced NMR Spectroscopy"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.73 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring; first half of term)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Offers a classical and quantum mechanical description of nuclear magnetic resonance (NMR) spectroscopy. The former includes key concepts such as nuclear spin magnetic moment, Larmor precession, Bloch equations, the rotating frame, radio-frequency pulses, vector model of pulsed NMR, Fourier transformation in 1D and nD NMR, orientation dependence of nuclear spin frequencies, and NMR relaxation. The latter covers nuclear spin Hamiltonians, density operator and its time evolution, the interaction representation, Average Hamiltonian Theory for multi-pulse experiments, and analysis of some common pulse sequences in solution and solid-state NMR."
+        ],
+        [
+            "inst",
+            [
+                "R. Griffin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.891 Independent Study in Chemistry for Undergraduates"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of independent study under direction of Chemistry faculty member. May not substitute for required courses for the Chemistry major or minor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.892 Independent Study in Chemistry for Undergraduates"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of independent study under direction of Chemistry faculty member. May not substitute for required courses for the Chemistry major or minor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.893 Practical Internship Experience in Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Course 5 and 5-7 students participating in curriculum-related off-campus internship experiences in chemistry. Before enrolling, students must consult the Chemistry Education Office for details on procedures and restrictions, and have approval from their faculty advisor. Subject to department approval. Upon completion, the student must submit a write-up of the experience, approved by their faculty advisor."
+        ],
+        [
+            "inst",
+            [
+                "J. Weisman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.90 Problems in Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Directed research and study of special chemical problems. For Chemistry graduate students only."
+        ],
+        [
+            "inst",
+            [
+                "J. Weisman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.91 Teaching Experience in the Chemical Sciences (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For students in the chemistry graduate program while teaching. Classroom or laboratory teaching under the supervision of a faculty member and classroom-based instruction on timely topics related to education and modern teaching practices. Limited to chemistry graduate students who are teaching the same term."
+        ],
+        [
+            "inst",
+            [
+                "L. Nolan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.913 Seminar in Organic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses current journal publications in organic chemistry."
+        ],
+        [
+            "inst",
+            [
+                "R. L. Danheiser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.921 Seminar in Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses topics of current interest in chemical biology."
+        ],
+        [
+            "inst",
+            [
+                "M. Shoulders",
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.931 Seminar in Physical Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.60"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses topics of current interest in physical chemistry."
+        ],
+        [
+            "inst",
+            [
+                "A. Willard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.941 Seminar in Inorganic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses current research in inorganic chemistry."
+        ],
+        [
+            "inst",
+            [
+                "M. Dinca"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.95[J] Teaching College-Level Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.95[J], 7.59[J], 8.395[J], 18.094[J]\nSubject meets with 2.978"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. Topics include theories of adult learning; course development; promoting active learning, problemsolving, and critical thinking in students; communicating with a diverse student body; using educational technology to further learning; lecturing; creating effective tests and assignments; and assessment and evaluation. Students research and present a relevant topic of particular interest. Appropriate for both novices and those with teaching experience."
+        ],
+        [
+            "inst",
+            [
+                "J. Rankin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.961[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part I: Advancing Your Professional Strategies and Skills"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.396[J], 9.980[J], 12.396[J], 18.896[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.396[J]. Limited to 80."
+        ],
+        [
+            "inst",
+            [
+                "A. Frebel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.962[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part II: Developing Your Leadership Competencies"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.397[J], 9.981[J], 12.397[J], 18.897[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.397[J]. Limited to 80."
+        ],
+        [
+            "inst",
+            [
+                "D. Rigos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.S00 Special Subject in Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture, subject consisting of material in the broadly-defined field of chemistry not offered in regularly scheduled subjects."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.S64 Special Subject in Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture consisting of material in the broadly-defined field of chemistry not offered in regularly scheduled subjects."
+        ],
+        [
+            "inst",
+            [
+                "X. Wang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.S75 Special Subject in Chemistry (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture consisting of material in the broadly-defined field of chemistry not offered in regularly scheduled subjects."
+        ],
+        [
+            "inst",
+            [
+                "K. Nelson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.S95 Special Subject in Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture consisting of material in the broadly-defined field of chemistry not offered in regularly scheduled subjects."
+        ],
+        [
+            "inst",
+            [
+                "B. Hansberry"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of a PhD thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "J. Weisman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.THU Undergraduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of original research under supervision of a chemistry faculty member, culminating with the preparation of a thesis. Ordinarily requires equivalent of two terms of research with chemistry department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.UAR[J] Climate and Sustainability Undergraduate Advanced Research"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.UAR[J], 3.UAR[J], 11.UAR[J], 12.UAR[J], 15.UAR[J], 22.UAR[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.UAR[J]. Application required; consult MCSC website for more information."
+        ],
+        [
+            "inst",
+            [
+                "D. Plata",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research to be arranged by the student and a departmental faculty member. Research can be applied toward undergraduate thesis."
+        ],
+        [
+            "inst",
+            [
+                "A. Radosevich"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "5.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research to be arranged by the student and a departmental faculty member. May be taken for up to 12 units per term, not to exceed a cumulative total of 48 units. A 10-page paper summarizing research is required."
+        ],
+        [
+            "inst",
+            [
+                "A. Radosevich"
+            ]
+        ]
+    ]
+]

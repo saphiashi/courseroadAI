@@ -1,0 +1,5042 @@
+[
+    "Chemical Engineering (Course 10)",
+    [
+        "block",
+        [
+            "title",
+            "10.00 Molecule Builders"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR) and Physics I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Project-based introduction to the applications of engineering design at the molecular level. Working in teams, students complete an open-ended design project that focuses on a topic such as reactor or biomolecular engineering, chemical process design, materials and polymers, or energy. Provides students practical exposure to the field of chemical engineering as well as potential opportunities to continue their project designs in national/international competitions. Limited to 36; preference to first year students."
+        ],
+        [
+            "inst",
+            [
+                "B. D. Olsen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.000 Engineering Molecular Marvels: Careers and ChemE at MIT"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Exposes students to the ways in which chemical technologies have profoundly altered the course of history. Discusses the next century's great challenges, such as curing cancer and supplying the planet's surging demand for clean water, food and energy, sustainably. Provides an overview of how ChemE students apply fundamental engineering principles and leverage technology, from molecules to systems, in the pursuit of practical solutions for these problems and more. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "T. A. Kinney"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.01 Ethics for Engineers"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.082, 2.900, 6.9320, 10.01, 16.676, 22.014\nSubject meets with 6.9321, 20.005"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores how to be an ethical engineer. Students examine engineering case studies along with foundational ethical readings, and investigate which ethical approaches are best and how to apply them as engineers. Topics include justice, rights, cost-benefit analysis, safety, bias, genetic engineering, climate change, and the promise and peril of AI. Discussion-based. All sections cover the same core ethical frameworks, but some sections have a particular focus for engineering case studies, such as Computer Science or Bioengineering. Students are eligible to take any section of the course, regardless of their registered course number. The subject is taught in separate sections. For 20.005, students additionally undertake an ethical-technical analysis of a BE-related topic of their choosing."
+        ],
+        [
+            "inst",
+            [
+                "D. A. Lauffenberger",
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.02 Foundations of Entrepreneurship for Engineers"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Studies economic and leadership foundations of entrepreneurship as they relate to engineering. Case studies illustrate major impacts of engineering on the world and examine the leaders responsible for such impacts. Authors include Franklin, Keynes, Leonardo, Lincoln, Locke, Machiavelli, Marx, Schmidt, Schumpeter, Smith, Thiel, and Tocqueville. Discusses topics such as the difference between an entrepreneur and a manager, the entrepreneur as founder, and characteristics of principled entrepreneurship."
+        ],
+        [
+            "inst",
+            [
+                "D. Doneson",
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.03[J] Advances in Biomanufacturing"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.458[J]\nSubject meets with 7.548[J], 10.53[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar examines how biopharmaceuticals, an increasingly important class of pharmaceuticals, are manufactured. Topics range from fundamental bioprocesses to new technologies to the economics of biomanufacturing. Also covers the impact of globalization on regulation and quality approaches as well as supply chain integrity. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love",
+                "A. Sinskey",
+                "S. Springs"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.04 A Philosophical History of Energy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Philosophic and historical approach to conceptions of energy through the 19th century. Relation of long standing scientific and philosophic problems in the field of energy to 21st-century debates. Topics include the development of thermodynamics and kinetic theories, the foundation of the scientific project, the classical view of energy, and the harnessing of nature. Authors include Bacon, Boltzmann, Carnot, Compte, Descartes, Gibbs, Plato, Aristotle, Leibniz, Kant, Hegel, Mill, Peirce, Whitehead, and Maxwell. Key texts and controversies form topics of weekly writing assignments and term papers."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Trout",
+                "A. Schulman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.05 Foundational Analyses of Problems in Energy and the Environment"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates key texts and papers on the foundational thought of current issues in energy and environmental science. Builds an understanding of key debates (scientific, ethical, and political). Aims to inform solutions to key problems related to procurement of energy and environmental degradation. Topics address alternative energy technologies and fossil fuel utilization and emissions, especially carbon dioxide, carbon dioxide sequestration, and geoengineering. Foundational readings from Homer and Greek playwrights, Aristotle, Genesis, Bacon, Locke, Rousseau, Coleridge, Carnot, Clausius, Marx, Heidegger, Carson, Gore, Singer, and Brundtland. Assignments include weekly analyses of readings, videos and related engineering calculations in addition to a final project. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.06 Advanced Topics in Ethics for Engineers"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.01, 10.05, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth study of varying advanced topics in ethics for engineers. Focuses on foundational works and their significance for the choices that engineers make, both as students and as practicing engineers. Each semester, different works and topics, based on current and perennial issues in ethics and engineering, will be chosen in order to explore facets of the extremely complex and varied subject of the place of engineering for the individual and society. Examples of topics include genetic engineering and what it means to be human, artificial intelligence and thought, the scope and limits of engineering, and engineering and freedom. May be repeated for credit with permission of instructor. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Trout",
+                "D. Doneson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.07[J] Debating About Society and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.733[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the various interconnections between society and engineering as expressed in a variety of media: speech, visualization, art and music, and writing. Analysis of foundational texts and art together with case studies form the basis for students' weekly assignments. Topics include the connection between engineering and society, the significance of artificial intelligence, evolution, social bias, and relativism of thought and culture. Includes oral and written presentations. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "E. Schiappa",
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.08 Cultural Studies for Chemical Engineering Graduate Students"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar explores some of the key cultural developments of human beings and their related engineering aspects together with insights into the evolution of chemical engineering. Begins with discussion of Warren K. Lewis on culture and civilization, in addition to other chemical engineering luminaries, Rutherford Aris and John Prausnitz, and Sam Florman. Following their leads, seminar addresses key developments in Greek culture, followed by Renaissance culture, and culminating with contemporary culture. Discusses the influence of chemical engineering throughout the term, but focuses on broader cultural understanding as advocated by Lewis and Aris. Weekly meetings and study question responses are complemented with direct experience of culture and its connection to engineering. Includes guests with various expertise in culture and chemical engineering."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.09 Models of Molecular Systems: from Newtonian Mechanics to Machine Learning"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the significance and applicability of models of molecular systems, starting from modern modeling and going back to ancient possibilities. Newtonian mechanics and optics to thermodynamics, statistical mechanics, quantum mechanics, simulations, and machine learning are covered together with foundational modern and ancient concepts of modeling. Addresses the questions of what models of molecular systems aim towards, what makes a good model, and how one should think about model robustness from phenomenological to first-principles models and from concrete to abstract. Foundational readings inform current approaches, applications including biology, optics and vision, and atomic science. Work consists of weekly assignments, class participation, and a final project."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.10 Introduction to Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR) and Physics I (GIR); Coreq: 18.03"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the diverse applications of chemical engineering through example problems designed to build computer skills and familiarity with the elements of engineering design. Solutions require application of fundamental concepts of mass and energy conservation to batch and continuous systems involving chemical and biological processes. Problem-solving exercises distributed among lectures and recitation."
+        ],
+        [
+            "inst",
+            [
+                "K. L. J. Prather",
+                "T. Kinney"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.213 Chemical and Biological Engineering Thermodynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.601 and 10.10"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Thermodynamics of multicomponent, multiphase chemical and biological systems. Applications of first, second, and third laws of thermodynamics to open and closed systems. Properties of mixtures, including colligative properties, chemical reaction equilibrium, and phase equilibrium; non-ideal solutions; power cycles; refrigeration; separation systems."
+        ],
+        [
+            "inst",
+            [
+                "K. K. Gleason",
+                "H. D. Sikes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.22 Molecular Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.60 and 10.213"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces molecular concepts in relation to engineering thermodynamics. Includes topics in statistical mechanics, molecular description of gases and liquids, property estimation, description of equilibrium and dynamic properties of fluids from molecular principles, and kinetics of activated processes. Also covers some basic aspects of molecular simulation and applications in systems of engineering interest."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge",
+                "P. S. Doyle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.25 Industrial Chemistry and Chemical Process Pathways"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR), 10.213, and 10.37"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical and engineering principles involved in creation and operation of viable industrial processes. Topics: analysis of process chemistry by p-pathways (i.e., radical, ionic, and pericyclic reactions of organic syntheses) and d-pathways (i.e., catalysis by transition-metal complexes). Use of reaction mechanisms for inference of co-product formation, kinetics, and equilibria: process synthesis logic related to reaction selectivity, recycle, separations. Illustrations drawn from current and contemplated commercial practice."
+        ],
+        [
+            "inst",
+            [
+                "P. S. Virk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.26 Chemical Engineering Projects Laboratory"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.27, 10.29"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a> and (<a href=\"/search/?P=2.671\" title=\"2.671\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.671');\">2.671</a>, <a href=\"/search/?P=5.310\" title=\"5.310\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.310');\">5.310</a>, <a href=\"/search/?P=7.003\" title=\"7.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.003');\">7.003[J]</a>, <a href=\"/search/?P=12.335\" title=\"12.335\" class=\"bubblelink code\" onclick=\"return showCourse(this, '12.335');\">12.335</a>, <a href=\"/search/?P=20.109\" title=\"20.109\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.109');\">20.109</a>, (<a href=\"/search/?P=1.106\" title=\"1.106\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.106');\">1.106</a> and <a href=\"/search/?P=1.107\" title=\"1.107\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.107');\">1.107</a>), or (<a href=\"/search/?P=5.351\" title=\"5.351\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.351');\">5.351</a>, <a href=\"/search/?P=5.352\" title=\"5.352\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.352');\">5.352</a>, and <a href=\"/search/?P=5.353\" title=\"5.353\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.353');\">5.353</a>))) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Projects in applied chemical engineering research. Students work in teams on one project for the term. Projects often suggested by local industry. Includes training in project planning and project management, execution of experimental work, data analysis, oral presentation, individual and collaborative report writing."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.27 Energy Engineering Projects Laboratory"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.26, 10.29"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a> and (<a href=\"/search/?P=2.671\" title=\"2.671\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.671');\">2.671</a>, <a href=\"/search/?P=5.310\" title=\"5.310\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.310');\">5.310</a>, <a href=\"/search/?P=7.003\" title=\"7.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.003');\">7.003[J]</a>, <a href=\"/search/?P=12.335\" title=\"12.335\" class=\"bubblelink code\" onclick=\"return showCourse(this, '12.335');\">12.335</a>, <a href=\"/search/?P=20.109\" title=\"20.109\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.109');\">20.109</a>, (<a href=\"/search/?P=1.106\" title=\"1.106\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.106');\">1.106</a> and <a href=\"/search/?P=1.107\" title=\"1.107\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.107');\">1.107</a>), or (<a href=\"/search/?P=5.351\" title=\"5.351\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.351');\">5.351</a>, <a href=\"/search/?P=5.352\" title=\"5.352\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.352');\">5.352</a>, and <a href=\"/search/?P=5.353\" title=\"5.353\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.353');\">5.353</a>))) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Projects in applied energy engineering research. Students work in teams on one project for the term. Projects often suggested by local industry. Includes training in project planning and project management, execution of experimental work, data analysis, oral presentation, individual and collaborative report writing. Preference to Energy Studies minors."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.28 Chemical-Biological Engineering Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: ((5.07[J] or 7.05) and (5.310 or 7.003[J])) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the complete design of the bioprocess: from vector selection to production, separation, and characterization of recombinant products. Utilize concepts from many fields, such as, chemical and electrical engineering, and biology. Student teams work through parallel modules spanning microbial fermentation and animal cell culture. With the bioreactor at the core of the experiments, students study cell metabolism and biological pathways, kinetics of cell growth and product formation, oxygen mass transport, scale-up and techniques for the design of process control loops. Introduces novel bioreactors and powerful analytical instrumentation. Downstream processing and recombinant product purification also included. Credit cannot also be received for 10.28A. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J.-F. Hamel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.28A Chemical-Biological Engineering Laboratory I: Introduction to Lab Experiments"
+        ],
+        [
+            "prerec",
+            "Prereq: ((5.07[J] or 7.05) and (5.310 or 7.003[J])) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "First in a two-subject sequence that spans IAP and spring term, and covers the same content as 10.28; see 10.28 for description. Course utilizes online learning technologies and simulations in addition to traditional lab experiments. 10.28A comprises the major lab portion of the subject.  Credit cannot also be received for 10.28. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J.-F. Hamel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.28B Chemical-Biological Engineering Laboratory II: Long-term, Online and Simulated Experiments"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.28A"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Second in a two-subject sequence that spans IAP and spring term, and covers the same content as 10.28; see 10.28 for description. Course utilizes online learning technologies and simulations in addition to traditional lab experiments. 10.28B comprises the simulation portion of the subject, and most of the communication component. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J.-F. Hamel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.29 Biological Engineering Projects Laboratory"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.26, 10.27"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a> and (<a href=\"/search/?P=2.671\" title=\"2.671\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.671');\">2.671</a>, <a href=\"/search/?P=5.310\" title=\"5.310\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.310');\">5.310</a>, <a href=\"/search/?P=7.003\" title=\"7.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.003');\">7.003[J]</a>, <a href=\"/search/?P=12.335\" title=\"12.335\" class=\"bubblelink code\" onclick=\"return showCourse(this, '12.335');\">12.335</a>, <a href=\"/search/?P=20.109\" title=\"20.109\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.109');\">20.109</a>, (<a href=\"/search/?P=1.106\" title=\"1.106\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.106');\">1.106</a> and <a href=\"/search/?P=1.107\" title=\"1.107\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.107');\">1.107</a>), or (<a href=\"/search/?P=5.351\" title=\"5.351\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.351');\">5.351</a>, <a href=\"/search/?P=5.352\" title=\"5.352\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.352');\">5.352</a>, and <a href=\"/search/?P=5.353\" title=\"5.353\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.353');\">5.353</a>))) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Projects in applied biological engineering research. Students work in teams on one project for the term. Projects often suggested by local industry. Includes training in project planning and project management, execution of experimental work, data analysis, oral presentation, individual and collaborative report writing."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.291[J] Introduction to Sustainable Energy"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.650[J], 22.081[J]\nSubject meets with 1.818[J], 2.65[J], 10.391[J], 11.371[J], 22.811[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.081[J]. Limited to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "M. W. Golay"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.301 Fluid Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.10 and 18.03"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the mechanical principles governing fluid flow. Stress in a fluid. Conservation of mass and momentum, using differential and integral balances. Elementary constitutive equations. Hydrostatics. Exact solutions of the Navier-Stokes equations. Approximate solutions using control volume analysis. Mechanical energy balances and Bernoulli's equation. Dimensional analysis and dynamic similarity. Introduces boundary-layer theory and turbulence."
+        ],
+        [
+            "inst",
+            [
+                "P. S. Doyle",
+                "F. R. Brushett"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.302 Transport Processes"
+        ],
+        [
+            "prerec",
+            "Prereq: (5.601, 10.213, and 10.301) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Principles of heat and mass transfer. Steady and transient conduction and diffusion. Radiative heat transfer. Convective transport of heat and mass in both laminar and turbulent flows. Emphasis on the development of a physical understanding of the underlying phenomena and upon the ability to solve real heat and mass transfer problems of engineering significance."
+        ],
+        [
+            "inst",
+            [
+                "W. A. Tisdale",
+                "B. DeKosky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.31 Nanoscale Energy Transport Processes"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.51"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: ((<a href=\"/search/?P=2.51\" title=\"2.51\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.51');\">2.51</a> or <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a>) and (<a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> or 5.61)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the impact of nanoscale phenomena on macroscale transport of energy-carrying molecules, phonons, electrons, and excitons. Studies the effect of structural and energetic disorder, wave-like vs. particle-like transport, quantum and classical size effects, and quantum coherence. Emphasizes quantitative analysis, including the Boltzmann transport equation, Einstein relation, Wiedemann-Franz law, and Marcus electron transfer theory. Also addresses percolation theory and the connection to energy conversion technologies, such as solar cells, thermoelectrics, and LEDs. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "W. A. Tisdale"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.32 Separation Processes"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213 and 10.302"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "General principles of separation by equilibrium and rate processes. Staged cascades. Applications to distillation, absorption, adsorption, and membrane processes. Use of material balances, phase equilibria, and diffusion to understand and design separation processes."
+        ],
+        [
+            "inst",
+            [
+                "T. A. Hatton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.321 Design Principles in Mammalian Systems and Synthetic Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.521"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the layers of design, from molecular to large networks, in mammalian biology. Formally introduces concepts in the emerging fields of mammalian systems and synthetic biology, including engineering principles in neurobiology and stem cell biology. Exposes advanced students from quantitative backgrounds to problem-solving opportunities at the interface of molecular biology and engineering. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. E. Galloway"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.333 Introduction to Modeling and Simulation"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.021, 3.021, 10.333, 22.00"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>,  3.016B, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.021."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler",
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.34 Numerical Methods Applied to Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Numerical methods for solving problems arising in heat and mass transfer, fluid mechanics, chemical reaction engineering, and molecular simulation. Topics: numerical linear algebra, solution of nonlinear algebraic equations and ordinary differential equations, solution of partial differential equations (e.g., Navier-Stokes), numerical methods in molecular simulation (dynamics, geometry optimization). All methods are presented within the context of chemical engineering problems. Familiarity with structured programming is assumed."
+        ],
+        [
+            "inst",
+            [
+                "C. Coley",
+                "W. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.345 Fundamentals of Metabolic and Biochemical Engineering: Applications to Biomanufacturing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.545"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the fundamentals of cell and metabolic engineering for biocatalyst design and optimization, as well as biochemical engineering principles for bioreactor design and operation, and downstream processing. Presents applications of microbial processes for production of commodity and specialty chemicals and biofuels in addition to mammalian cell cultures for production of biopharmaceuticals. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Gr. Stephanopoulos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.352 Modern Control Design"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.552"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers modern methods for dynamical systems analysis, state estimation, controller design, and related topics. Uses example applications to demonstrate Lyapunov and linear matrix inequality-based methods that explicitly address actuator constraints, nonlinearities, and model uncertainties. Students taking graduate version complete additional assignments.  Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.353 Model Predictive Control"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.553"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the multivariable control of dynamical systems with constraints on manipulated, state, and output variables. Covers multiple mathematical formulations that are popular in academia and industry, including dynamic matrix control and state-space model predictive control of uncertain, nonlinear, and large-scale systems. Uses numerous real industrial processes as examples. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.354[J] Process Data Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.874[J]\nSubject meets with 2.884[J], 10.554[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to data analytics for manufacturing processes. Topics include chemometrics, discriminant analysis, hyperspectral imaging, machine learning, big data, Bayesian methods, experimental design, feature spaces, and pattern recognition as relevant to manufacturing process applications (e.g., output estimation, process control, and fault detection, identification and diagnosis). Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz",
+                "B. Anthony"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.37 Chemical Kinetics and Reactor Design"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213 and 10.302"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Applies the concepts of reaction rate, stoichiometry and equilibrium to the analysis of chemical and biological reacting systems. Derivation of rate expressions from reaction mechanisms and equilibrium or steady state assumptions. Design of chemical and biochemical reactors via synthesis of chemical kinetics, transport phenomena, and mass and energy balances. Topics: chemical/biochemical pathways; enzymatic, pathway and cell growth kinetics; batch, plug flow and well-stirred reactors for chemical reactions and cultivations of microorganisms and mammalian cells; heterogeneous and enzymatic catalysis; heat and mass transport in reactors, including diffusion to and within catalyst particles and cells or immoblized enzymes."
+        ],
+        [
+            "inst",
+            [
+                "Gr. Stephanopoulos",
+                "Y. Roman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.380[J] Viruses, Pandemics, and Immunity"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.002[J], HST.438[J]\nSubject meets with 5.003[J], 8.245[J], 10.382[J], HST.439[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.438[J]. Preference to first-year students; all others should take HST.439[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Chakraborty"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.382[J] Viruses, Pandemics, and Immunity"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.003[J], 8.245[J], HST.439[J]\nSubject meets with 5.002[J], 10.380[J], HST.438[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.439[J]. HST.438[J] intended for first-year students; all others should take HST.439[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Chakraborty"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.390[J] Fundamentals of Advanced Energy Conversion"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.60[J]\nSubject meets with 2.62[J], 10.392[J], 22.40[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.006\" title=\"2.006\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.006');\">2.006</a>, (2.051 and 2.06), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.60[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. F. Ghoniem",
+                "W. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.391[J] Sustainable Energy"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.818[J], 2.65[J], 11.371[J], 22.811[J]\nSubject meets with 2.650[J], 10.291[J], 22.081[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.811[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. W. Golay"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.392[J] Fundamentals of Advanced Energy Conversion"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.62[J], 22.40[J]\nSubject meets with 2.60[J], 10.390[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.006\" title=\"2.006\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.006');\">2.006</a>, (2.051 and 2.06), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.62[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. F. Ghoniem",
+                "W. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.40 Chemical Engineering Thermodynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic postulates of classical thermodynamics. Application to transient open and closed systems. Criteria of stability and equilibria. Constitutive property models of pure materials and mixtures emphasizing molecular-level effects using the formalism of statistical mechanics. Phase and chemical equilibria of multicomponent systems. Applications emphasized through extensive problem work relating to practical cases."
+        ],
+        [
+            "inst",
+            [
+                "B. Olsen",
+                "A. Charkraborty"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.407[J] Money for Startups"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.916[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the substance and process of funding technology startups. Topics include a comparative analysis of various sources of capital; templates to identify the optimal investor; legal frameworks, US and offshore, of the investment process and its related jargon; an introduction to understanding venture capital as a business; and market practice and standards for term sheet negotiation. Emphasizes strategy as well as tactics necessary to negotiate and build effective, long-term relationships with investors, particularly venture capital firms (VCs)."
+        ],
+        [
+            "inst",
+            [
+                "S. Loessberg",
+                "D. P. Hart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.421[J] Energy Systems for Climate Change Mitigation"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.067[J], IDS.065[J]\nSubject meets with 1.670[J], 10.621[J], IDS.521[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a>, <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a>, and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.065[J]. Preference to students in the Energy Studies or Environment and Sustainability minors."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.424 Pharmaceutical Engineering"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.524"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.213\" title=\"10.213\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.213');\">10.213</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Presents engineering principles and unit operations involved in the manufacture of small molecules pharmaceuticals, from the isolation of purified active pharmaceutical ingredients (API) to the final production of drug product. Regulatory issues include quality by design and process analytical technologies of unit operations, such as crystallization, filtration, drying, milling, blending, granulation, tableting and coating. Also covers principles of formulation for solid dosage forms and parenteral drugs. Students taking graduate version complete additional assignments. Limited to 50."
+        ],
+        [
+            "inst",
+            [
+                "A. S. Myerson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.426 Electrochemical Energy Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.626"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces electrochemical energy systems from the perspective of thermodynamics, kinetics, and transport. Surveys analysis and design of electrochemical reactions and processes by integrating chemical engineering fundamentals with knowledge from diverse fields, including chemistry, electrical engineering, and materials science. Includes applications to fuel cells, electrolyzers, and batteries. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Bazant"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.43 Introduction to Interfacial Phenomena"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213 or introductory subject in thermodynamics or physical chemistry"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces fundamental and applied aspects of interfacial systems. Theory of capillarity. Experimental determination of surface and interfacial tensions. Thermodynamics of interfaces. The Gibbs adsorption equation. Charged interfaces. Surfactant adsorption at interfaces. Insoluble monolayers. Curvature effects on the equilibrium state of fluids. Nucleation and growth. Fundamentals of wetting and contact angle. Adhesion, cohesion, and spreading. Wetting of textured surfaces. Super-hydrophilic and super-hydrophobic surfaces. Self-cleaning surfaces."
+        ],
+        [
+            "inst",
+            [
+                "D. Blankschtein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.437[J] Computational Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.697[J]\nSubject meets with 5.698[J], 10.637[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses both the theory and application of first-principles computer simulations methods (i.e., quantum, chemical, or electronic structure), including Hartree-Fock theory, density functional theory, and correlated wavefunction methods. Covers enhanced sampling, ab initio molecular dynamics, and transition-path-finding approaches as well as errors and accuracy in total and free energies. Discusses applications such as the study and prediction of properties of chemical systems, including heterogeneous, molecular, and biological catalysts (enzymes), and physical properties of materials. Students taking graduate version complete additional assignments. Limited to 35; no listeners."
+        ],
+        [
+            "inst",
+            [
+                "H. J. Kulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.441[J] Molecular and Engineering Aspects of Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.37[J], 20.361[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> and (<a href=\"/search/?P=2.005\" title=\"2.005\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.005');\">2.005</a>,  3.012, <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a>, or <a href=\"/search/?P=20.110\" title=\"20.110[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.110');\">20.110[J]</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 7.37[J]."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.442 Biochemical Engineering and Biomanufacturing Principles"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.542"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a>, <a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a>, and <a href=\"/search/?P=10.37\" title=\"10.37\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.37');\">10.37</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the interactions of chemical engineering, biochemical engineering, and microbiology with particular emphasis on applications to bioprocess development. Examines mathematical representations of microbial systems, especially with regard to the kinetics of growth, death, and metabolism. Discusses the fundamentals of bioreactor design and operation, including continuous fermentation, mass transfer, and agitation. Examples encompass both enzyme and whole cell systems. Presents concepts in process development for microbial and animal cell cultures, with considerations towards production of biological products ranging from chiral specialty chemicals/pharmaceuticals to therapeutic proteins. Concludes with a discussion of aspects of cellular engineering and the role of molecular biology in addressing process development problems."
+        ],
+        [
+            "inst",
+            [
+                "K. J. Prather"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.443 Future Medicine: Drug Delivery, Therapeutics, and Diagnostics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.643[J], HST.526[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.12\" title=\"5.12\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.12');\">5.12</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Aims to describe the direction and future of medical technology. Introduces pharmaceutics, pharmacology, and conventional medical devices, then transitions to drug delivery systems, mechanical/electric-based and biological/cell-based therapies, and sensors. Covers nano- and micro drug delivery systems, including polymer-drug conjugates, protein therapeutics, liposomes and polymer nanoparticles, viral and non-viral genetic therapy, and tissue engineering. Previous coursework in cell biology and organic chemistry recommended. Students taking graduate version complete additional assignments. Limited to 40."
+        ],
+        [
+            "inst",
+            [
+                "D. G. Anderson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.450 Process Dynamics, Operations, and Control"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.302 and 18.03"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to dynamic processes and the engineering tasks of process operations and control. Subject covers modeling the static and dynamic behavior of processes; control strategies; design of feedback, feedforward, and other control structures; model-based control; applications to process equipment."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.466 Structure of Soft Matter"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.566"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the basic thermodynamic language used for describing the structure of materials, followed by a survey of the scattering, microscopy and spectroscopic techniques for structure and morphology characterization. Applies these concepts to a series of case studies illustrating the diverse structures formed in soft materials and the common length, time and energy scales that unify this field. For students interested in studying polymer science, colloid science, nanotechnology, biomaterials, and liquid crystals. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. D. Olsen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.467 Polymer Science Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.12"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Experiments broadly aimed at acquainting students with the range of properties of polymers, methods of synthesis, and physical chemistry. Examples: solution polymerization of acrylamide, bead polymerization of divinylbenzene, interfacial polymerization of nylon 6,10. Evaluation of networks by tensile and swelling experiments. Rheology of polymer solutions and suspensions. Physical properties of natural and silicone rubber. Preference to Course 10 seniors and juniors."
+        ],
+        [
+            "inst",
+            [
+                "Z. Smith"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.489 Concepts in Modern Heterogeneous Catalysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.689"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a> and <a href=\"/search/?P=10.37\" title=\"10.37\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.37');\">10.37</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Explores topics in the design and implementation of heterogeneous catalysts for chemical transformations. Emphasizes use of catalysis for environmentally benign and sustainable chemical processes. Lectures address concepts in catalyst preparation, catalyst characterization, quantum chemical calculations, and microkinetic analysis of catalytic processes. Shows how experimental and theoretical approaches can illustrate important reactive intermediates and transition states involved in chemical reaction pathways, and uses that information to help identify possible new catalysts that may facilitate reactions of interest. Draws examples from current relevant topics in catalysis. Includes a group project in which students investigate a specific topic in greater depth. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Y. Roman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.490 Integrated Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.37"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents and solves chemical engineering problems in an industrial context. Emphasis on the integration of fundamental concepts with approaches in process design, and on problems that demand synthesis, economic analysis, and process design; consideration of safety analysis, process dynamics and the use of process simulators and related tools to approach such problems. The specific application of these fundamental concepts will vary each term, and may include chemical, electrochemical, pharmaceutical, biopharmaceutical (biologic) or related processes, operated in batch, semi-batch, continuous or hybrid mode. May be repeated once for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Y. Roman",
+                "P. I. Barton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.492A Integrated Chemical Engineering Topics I"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical engineering problems presented and analyzed in an industrial context. Emphasizes the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies. 10.37 and 10.302 required for certain topic modules. See departmental website for individual ICE-T module descriptions."
+        ],
+        [
+            "inst",
+            [
+                "H. D. Sikes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.492B Integrated Chemical Engineering Topics I"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical engineering problems presented and analyzed in an industrial context. Emphasizes the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies. 10.37 and 10.302 required for certain topic modules. See departmental website for individual ICE-T module descriptions."
+        ],
+        [
+            "inst",
+            [
+                "K. F. Jensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.493 Integrated Chemical Engineering Topics II"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical engineering problems presented and analyzed in an industrial context. Emphasizes the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies. 10.37 and 10.302 required for certain topic modules. See departmental website for individual ICE-T module descriptions."
+        ],
+        [
+            "inst",
+            [
+                "J. Drake"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.494A Integrated Chemical Engineering Topics III"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical engineering problems presented and analyzed in an industrial context. Emphasizes the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies. 10.37 and 10.302 required for certain topic modules. See departmental website for individual ICE-T module descriptions."
+        ],
+        [
+            "inst",
+            [
+                "W. H. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.494B Integrated Chemical Engineering Topics III"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical engineering problems presented and analyzed in an industrial context. Emphasizes the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies. 10.37 and 10.302 required for certain topic modules. See departmental website for individual ICE-T module descriptions."
+        ],
+        [
+            "inst",
+            [
+                "D. G. Anderson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.495 Molecular Design and Bioprocess Development of Immunotherapies"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.595"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines challenges and opportunities for applying chemical engineering principles to address the growing global burden of infectious disease, including drug-resistant strains and neglected pathogens. Topics include a historical overview of vaccines and immunotherapies, the molecular design considerations for new immunotherapies and adjuvants, the economic challenges for process development and manufacturing of immunotherapies, and new technologies for designing and assessing therapies. Case studies to cover topics for specific diseases. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.496[J] Design of Sustainable Polymer Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.096[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=10.213\" title=\"10.213\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.213');\">10.213</a> and <a href=\"/search/?P=10.301\" title=\"10.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.301');\">10.301</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Capstone subject in which students are charged with redesigning consumable plastics to improve their recyclability and illustrate the potential future of plastic sourcing and management. Students engage with industry partners and waste handlers to delineate the design space and understand downstream limitations in waste treatment. Instruction includes principles of plastic design, polymer selection, cost estimation, prototyping, and the principles of sustainable material design. Students plan and propose routes to make enhanced plastic kits. Industry partners and course instructors select winning designs. Those students can elect to proceed to a semester of independent study in which prototype kits are fabricated (using polymer extrusion, cutting, 3D printing), potentially winning seed funds to translate ideas into real impacts. Preference to juniors and seniors in Courses 10, 1, and 2."
+        ],
+        [
+            "inst",
+            [
+                "B. D. Olsen, D. Plata"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.50 Analysis of Transport Phenomena"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 and 10.302"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Unified treatment of heat transfer, mass transfer, and fluid mechanics, emphasizing scaling concepts in formulating models and analytical methods for obtaining solutions. Topics include conduction and diffusion, laminar flow regimes, convective heat and mass transfer, and simultaneous heat and mass transfer with chemical reaction or phase change."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Bazant",
+                "M. Qi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.51 Nanoscale Energy Transport Processes"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.31"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: ((<a href=\"/search/?P=2.51\" title=\"2.51\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.51');\">2.51</a> or <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a>) and (<a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> or 5.61)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the impact of nanoscale phenomena on macroscale transport of energy-carrying molecules, phonons, electrons, and excitons. Studies the effect of structural and energetic disorder, wave-like vs. particle-like transport, quantum and classical size effects, and quantum coherence. Emphasizes quantitative analysis, including the Boltzmann transport equation, Einstein relation, Wiedemann-Franz law, and Marcus electron transfer theory. Also addresses percolation theory and the connection to energy conversion technologies, such as solar cells, thermoelectrics, and LEDs. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "W. A. Tisdale"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.52 Mechanics of Fluids"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.50"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced subject in fluid and continuum mechanics. Content includes kinematics, macroscopic balances for linear and angular momentum, the stress tensor, creeping flows and the lubrication approximation, the boundary layer approximation, linear stability theory, and some simple turbulent flows."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.521 Design Principles in Mammalian Systems and Synthetic Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.321"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the layers of design, from molecular to large networks, in mammalian biology. Formally introduces concepts in the emerging fields of mammalian systems and synthetic biology, including engineering principles in neurobiology and stem cell biology. Exposes advanced students from quantitative backgrounds to problem-solving opportunities at the interface of molecular biology and engineering. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. E. Galloway"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.524 Pharmaceutical Engineering"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.424"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Presents engineering principles and unit operations involved in the manufacture of small molecules pharmaceuticals, from the isolation of purified active pharmaceutical ingredients (API) to the final production of drug product. Regulatory issues include quality by design and process analytical technologies of unit operations, such as crystallization, filtration, drying, milling, blending, granulation, tableting and coating. Also covers principles of formulation for solid dosage forms and parenteral drugs. Students taking graduate version complete additional assignments. Limited to 50."
+        ],
+        [
+            "inst",
+            [
+                "A. S. Myerson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.53[J] Advances in Biomanufacturing"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.548[J]\nSubject meets with 7.458[J], 10.03[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar examines how biopharmaceuticals, an increasingly important class of pharmaceuticals, are manufactured. Topics range from fundamental bioprocesses to new technologies to the economics of biomanufacturing. Also covers the impact of globalization on regulation and quality approaches as well as supply chain integrity. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love",
+                "A. Sinskey",
+                "S. Springs"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.531[J] Macromolecular Hydrodynamics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.341[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.25\" title=\"2.25\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.25');\">2.25</a>, <a href=\"/search/?P=10.301\" title=\"10.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.301');\">10.301</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.341[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. C. Armstrong",
+                "G. H. McKinley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.534 Bioelectrochemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of electrochemistry as it relates to biology, with an emphasis on electron transport in living systems. Primary literature used as a guide for discussion. Objective is to enable students to learn the fundamental principles of electrochemistry and electrochemical engineering applied to biological systems, explore the role of electron transfer in the natural world using examples from the primary literature, analyze recent work related to bioelectrochemistry, and develop an original research proposal based on course material. Topics include thermodynamics and transport processes in bioelectrical systems, electron transport chains in prokaryotes and eukaryotes, electroanalytical techniques for the evaluation of biological systems, and engineering bioenergetic systems."
+        ],
+        [
+            "inst",
+            [
+                "A. L. Furst"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.535[J] Protein Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.535[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> and (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the field of protein engineering. Develops understanding of key biophysical chemistry concepts in protein structure/function and their applications. Explores formulation of simple kinetic, statistical, and transport models for directed evolution and drug biodistribution. Students read and critically discuss seminal papers from the literature."
+        ],
+        [
+            "inst",
+            [
+                "K. D. Wittrup"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.536[J] Thermal Hydraulics in Power Technology"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.59[J], 22.313[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.006\" title=\"2.006\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.006');\">2.006</a>, <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a>, <a href=\"/search/?P=22.312\" title=\"22.312\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.312');\">22.312</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.313[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Baglietto",
+                "M. Bucci"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.537[J] Molecular, Cellular, and Tissue Biomechanics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.798[J], 3.971[J], 6.4842[J], 20.410[J]\nSubject meets with 2.797[J], 3.053[J], 6.4840[J], 20.310[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.410[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Bathe",
+                "K. Ribbeck",
+                "P. T. So"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.538[J] Principles of Molecular Bioengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.420[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.420[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Jasanoff",
+                "E. Fraenkel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.539[J] Fields, Forces, and Flows in Biological Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.795[J], 6.4832[J], 20.430[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.430[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Bathe",
+                "A. J. Grodzinsky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.540 Intracellular Dynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06, 10.302, 18.03, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers current models and descriptions of the internal cell dynamics of macromolecules due to reaction and transport. Two major areas will be explored: the process of gene expression, including protein-DNA interactions, chromatin dynamics, and the stochastic nature of gene expression; and cell signaling systems, especially those that lead to or rely on intracellular protein gradients. This class is intended for graduate students or advanced undergraduates with some background in cell biology, transport, and kinetics. An introductory class in probability is recommended."
+        ],
+        [
+            "inst",
+            [
+                "N. Maheshri"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.542 Biochemical Engineering and Biomanufacturing Principles"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.442"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a>, <a href=\"/search/?P=10.37\" title=\"10.37\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.37');\">10.37</a>, and (<a href=\"/search/?P=7.012\" title=\"7.012\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.012');\">7.012</a>, <a href=\"/search/?P=7.013\" title=\"7.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.013');\">7.013</a>, <a href=\"/search/?P=7.014\" title=\"7.014\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.014');\">7.014</a>, <a href=\"/search/?P=7.015\" title=\"7.015\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.015');\">7.015</a>, or <a href=\"/search/?P=7.016\" title=\"7.016\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.016');\">7.016</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the interactions of chemical engineering, biochemical engineering, and microbiology with particular emphasis on applications to bioprocess development. Examines mathematical representations of microbial systems, especially with regard to the kinetics of growth, death, and metabolism. Discusses the fundamentals of bioreactor design and operation, including continuous fermentation, mass transfer, and agitation. Examples encompass both enzyme and whole cell systems. Presents concepts in process development for microbial and animal cell cultures, with considerations towards production of biological products ranging from chiral specialty chemicals/pharmaceuticals to therapeutic proteins. Concludes with a discussion of aspects of cellular engineering and the role of molecular biology in addressing process development problems."
+        ],
+        [
+            "inst",
+            [
+                "K. J. Prather"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.544 Metabolic and Cell Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.05, 10.302, and 18.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Presentation of a framework for quantitative understanding of cell functions as integrated molecular systems. Analysis of cell-level processes in terms of underlying molecular mechanisms based on thermodynamics, kinetics, mechanics, and transport principles, emphasizing an engineering, problem-oriented perspective. Objective is to rationalize target selection for genetic engineering and evaluate the physiology of recombinant cells. Topics include cell metabolism and energy production, transport across cell compartment barriers, protein synthesis and secretion, regulation of gene expression, transduction of signals from extracellular environment, cell proliferation, cell adhesion and migration."
+        ],
+        [
+            "inst",
+            [
+                "Gr. Stephanopoulos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.545 Fundamentals of Metabolic and Biochemical Engineering: Applications to Biomanufacturing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.345"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the fundamentals of cell and metabolic engineering for biocatalyst design and optimization, as well as biochemical engineering principles for bioreactor design and operation, and downstream processing. Presents applications of microbial processes for production of commodity and specialty chemicals and biofuels in addition to mammalian cell cultures for production of biopharmaceuticals. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Gr. Stephanopoulos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.546[J] Statistical Thermodynamics"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.70[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.70[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Cao",
+                "B. Zhang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.547[J] Principles and Practice of Drug Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.136[J], HST.920[J], IDS.620[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.136[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Finkelstein",
+                "A. J. Sinskey",
+                "R. Rubin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.548[J] Tumor Microenvironment and Immuno-Oncology: A Systems Biology Approach"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.525[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.525[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. K. Jain"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.55 Colloid and Surfactant Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces fundamental and applied aspects of colloidal dispersions, where the typical particle size is less than a micrometer. Discusses the characterization and unique behavior of colloidal dispersions, including their large surface-to-volume ratio, tendency to sediment in gravitational and centrifugal fields, diffusion characteristics, and ability to generate osmotic pressure and establish Donnan equilibrium. Covers the fundamentals of attractive van der Waals forces and repulsive electrostatic forces. Presents an in-depth discussion of electrostatic and polymer-induced colloid stabilization, including the DLVO theory of colloid stability. Presents an introductory discussion of surfactant physical chemistry."
+        ],
+        [
+            "inst",
+            [
+                "D. Blankschtein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.551 Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213, 10.302, and 10.37"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the elements of systems engineering. Special attention devoted to those tools that help students structure and solve complex problems. Illustrative examples drawn from a broad variety of chemical engineering topics, including product development and design, process development and design, experimental and theoretical analysis of physico-chemical process, analysis of process operations."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz",
+                "P. I. Barton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.552 Modern Control Design"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.352"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Covers modern methods for dynamical systems analysis, state estimation, controller design, and related topics. Uses example applications to demonstrate Lyapunov and linear matrix inequality-based methods that explicitly address actuator constraints, nonlinearities, and model uncertainties. Students taking graduate version complete additional assignments. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.553 Model Predictive Control"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.353"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the multivariable control of dynamical systems with constraints on manipulated, state, and output variables. Covers multiple mathematical formulations that are popular in academia and industry, including dynamic matrix control and state-space model predictive control of uncertain, nonlinear, and large-scale systems. Uses numerous real industrial processes as examples. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.554[J] Process Data Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.884[J]\nSubject meets with 2.874[J], 10.354[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to data analytics for manufacturing processes. Topics include chemometrics, discriminant analysis, hyperspectral imaging, machine learning, big data, Bayesian methods, experimental design, feature spaces, and pattern recognition as relevant to manufacturing process applications (e.g., output estimation, process control, and fault detection, identification and diagnosis). Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz",
+                "B. Anthony"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.555[J] Bioinformatics: Principles, Methods and Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.940[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to bioinformatics, the collection of principles and computational methods used to upgrade the information content of biological data generated by genome sequencing, proteomics, and cell-wide physiological measurements of gene expression and metabolic fluxes. Fundamentals from systems theory presented to define modeling philosophies and simulation methodologies for the integration of genomic and physiological data in the analysis of complex biological processes. Various computational methods address a broad spectrum of problems in functional genomics and cell physiology. Application of bioinformatics to metabolic engineering, drug design, and biotechnology also discussed."
+        ],
+        [
+            "inst",
+            [
+                "Gr. Stephanopoulos",
+                "I. Rigoutsos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.557 Mixed-integer and Nonconvex Optimization"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.34 or 15.053"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the theory and practice of deterministic algorithms for locating the global solution of NP-hard optimization problems. Recurring themes and methods are convex relaxations, branch-and-bound, cutting planes, outer approximation and primal-relaxed dual approaches. Emphasis is placed on the connections between methods. These methods will be applied and illustrated in the development of algorithms for mixed-integer linear programs, mixed-integer convex programs, nonconvex programs, mixed-integer nonconvex programs, and programs with ordinary differential equations embedded. The broad range of engineering applications for these optimization formulations will also be emphasized. Students will be assessed on homework and a term project for which examples from own research are encouraged."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Barton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.56 Advanced Topics in Surfactant Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces fundamental advances and practical aspects of surfactant self-assembly in aqueous media. In-depth discussion of surfactant micellization, including statistical-thermodynamics of micellar solutions, models of micellar growth, molecular models for the free energy of micellization, and geometric packing theories. Presents an introductory examination of mixed micelle and vesicle formation, polymer-surfactant complexation, biomolecule-surfactant interactions, and micellar-assisted solubilization. Discusses molecular dynamics simulations of self-assembling systems. Covers recent advances in surfactant-induced dispersion and stabilization of colloidal particles (e.g., carbon nanotubes and graphene) in aqueous media. Examines surfactant applications in consumer products, environmental and biological separations, enhanced oil recovery using surfactant flooding, mitigation of skin irritation induced by surfactant-containing cosmetic products, and enhanced transdermal drug delivery using ultrasound and surfactants."
+        ],
+        [
+            "inst",
+            [
+                "D. Blankschtein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.560 Structure and Properties of Polymers"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Review of polymer molecular structure and bulk morphology; survey of molecular and morphological influence on bulk physical properties including non-Newtonian flow, macromolecular diffusion, gas transport in polymers, electrical and optical properties, solid-state deformation, and toughness. Case studies for product design."
+        ],
+        [
+            "inst",
+            [
+                "R. E. Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.562[J] Pioneering Technologies for Interrogating Complex Biological Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.271[J], HST.562[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.562[J]. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "K. Chung"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.566 Structure of Soft Matter"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.466"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the basic thermodynamic language used for describing the structure of materials, followed by a survey of the scattering, microscopy and spectroscopic techniques for structure and morphology characterization. Applies these concepts to a series of case studies illustrating the diverse structures formed in soft materials and the common length, time and energy scales that unify this field. For students interested in studying polymer science, colloid science, nanotechnology, biomaterials, and liquid crystals. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. D. Olsen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.568 Physical Chemistry of Polymers"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.60, 10.213, or 10.40"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to polymer science from a molecular perspective. Covers topics in macromolecular confirmation and spatial extent, polymer solution thermodynamics and the theta state, linear viscoelasticity, rubber elasticity, and the thermodynamics and kinetics of formation of glasses and semicrystalline solids. Also provides a basic introduction to dynamics of macromolecules in solutions and melts, with entanglements. Presents methods for characterizing the molecular structure of polymers."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge",
+                "A. Alexander-Katz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.569 Synthesis of Polymers"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.12"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies synthesis of polymeric materials, emphasizing interrelationships of chemical pathways, process conditions, and microarchitecture of molecules produced. Chemical pathways include traditional approaches such as anionic, radical condensation, and ring-opening polymerizations. New techniques, including stable free radicals and atom transfer free radicals, new catalytic approaches to well-defined architectures, and polymer functionalization in bulk and at surfaces. Process conditions include bulk, solution, emulsion, suspension, gas phase, and batch vs continuous fluidized bed. Microarchitecture includes tacticity, molecular-weight distribution, sequence distributions in copolymers, errors in chains such as branches, head-to-head addition, and peroxide incorporation."
+        ],
+        [
+            "inst",
+            [
+                "Z. Smith"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.571[J] Atmospheric Physics and Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.806[J]\nSubject meets with 12.306"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.075\" title=\"18.075\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.075');\">18.075</a> and (<a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a> or 5.61)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 12.806[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. G. Prinn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.580 Solid-State Surface Science"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Structural, chemical, and electronic properties of solids and solid surfaces. Analytical tools used to characterize surfaces including Auger and photoelectron spectroscopies and electron diffraction techniques. Surface thermodynamics and kinetics including adsorption-desorption, catalytic properties, and sputtering processes. Applications to microelectronics, optical materials, and catalysis."
+        ],
+        [
+            "inst",
+            [
+                "K. K. Gleason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.585 Engineering Nanotechnology"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213, 10.302, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Review of fundamental concepts of energy, mass and electron transport in materials confined or geometrically patterned at the nanoscale, where departures from classical laws are dominant. Specific applications to contemporary engineering challenges are discussed including problems in energy, biology, medicine, electronics, and material design."
+        ],
+        [
+            "inst",
+            [
+                "M. Strano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.586 Crystallization Science and Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.213"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Studies the nucleation and growth of crystals from a melt or a liquid solution and their important role in a wide range of applications, including pharmaeuticals, proteins, and semiconductor materials. Provides background information and covers topics needed to understand, perform experiments, construct and simulate mechanistic models, and design, monitor, and control crystallization processes. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "A. S. Myerson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.591 Case Studies in Bioengineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Biology (GIR) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Analysis and discussion of recent research in areas of bioengineering, including drug delivery, protein and tissue engineering, physiological transport, stem cell technology, and quantitative immunology by senior investigators in the Boston area. Students will read and critique papers, then have discussions with authors about their work."
+        ],
+        [
+            "inst",
+            [
+                "C. K. Colton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.595 Molecular Design and Bioprocess Development of Immunotherapies"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.495"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines challenges and opportunities for applying chemical engineering principles to address the growing global burden of infectious disease, including drug-resistant strains and neglected pathogens. Topics include a historical overview of vaccines and immunotherapies, the molecular design considerations for new immunotherapies and adjuvants, the economic challenges for process development and manufacturing of immunotherapies, and new technologies for designing and assessing therapies. Case studies to cover topics for specific diseases. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.600[J] Dimensions of Geoengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.850[J], 5.000[J], 11.388[J], 12.884[J], 15.036[J], 16.645[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.000[J]. Limited to 100."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch",
+                "M. Zuber"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.606 Picturing Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction in best practices for creating more effective graphics and photographs to support and communicate research in science and engineering. Discusses in depth specific examples from a range of scientific contexts, such as journal articles, presentations, grant submissions, and cover art. Topics include graphics for figures depicting form and structure, process, and change over time. Prepares students to create effective graphics for submissions to existing journals and calls attention to the future of published graphics with the advent of interactivity. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "F. Frankel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.621[J] Energy Systems for Climate Change Mitigation"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.670[J], IDS.521[J]\nSubject meets with 1.067[J], 10.421[J], IDS.065[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.521[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.625[J] Electrochemical Energy Conversion and Storage: Fundamentals, Materials and Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.625[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.005\" title=\"2.005\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.005');\">2.005</a>, <a href=\"/search/?P=3.046\" title=\"3.046\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.046');\">3.046</a>, <a href=\"/search/?P=3.53\" title=\"3.53\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.53');\">3.53</a>, <a href=\"/search/?P=10.40\" title=\"10.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.40');\">10.40</a>, (2.051 and 2.06), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.625[J]."
+        ],
+        [
+            "inst",
+            [
+                "Y. Shao-Horn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.626 Electrochemical Energy Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.426"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.50\" title=\"10.50\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.50');\">10.50</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces electrochemical energy systems from the perspective of thermodynamics, kinetics, and transport. Surveys analysis and design of electrochemical reactions and processes by integrating chemical engineering fundamentals with knowledge from diverse fields, including chemistry, electrical engineering, and materials science. Includes applications to fuel cells, electrolyzers, and batteries. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Bazant"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.631 Structural Theories of Polymer Fluid Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Structural and molecular models for polymeric liquids. Nonequilibrium properties are emphasized. Elementary kinetic theory of polymer solutions. General phase space kinetic for polymer melts and solutions. Network theories. Interrelations between structure and rheological properties."
+        ],
+        [
+            "inst",
+            [
+                "R. C. Armstrong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.637[J] Computational Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.698[J]\nSubject meets with 5.697[J], 10.437[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses both the theory and application of first-principles computer simulations methods (i.e., quantum, chemical, or electronic structure), including Hartree-Fock theory, density functional theory, and correlated wavefunction methods. Covers enhanced sampling, ab initio molecular dynamics, and transition-path-finding approaches as well as errors and accuracy in total and free energies. Discusses applications such as the study and prediction of properties of chemical systems, including heterogeneous, molecular, and biological catalysts (enzymes), and physical properties of materials. Students taking graduate version complete additional assignments. Limited to 35; no listeners."
+        ],
+        [
+            "inst",
+            [
+                "H. J. Kulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.643[J] Future Medicine: Drug Delivery, Therapeutics, and Diagnostics"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.526[J]\nSubject meets with 10.443"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.12\" title=\"5.12\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.12');\">5.12</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Aims to describe the direction and future of medical technology. Introduces pharmaceutics, pharmacology, and conventional medical devices, then transitions to drug delivery systems, mechanical/electric-based and biological/cell-based therapies, and sensors. Covers nano- and micro drug delivery systems, including polymer-drug conjugates, protein therapeutics, liposomes and polymer nanoparticles, viral and non-viral genetic therapy, and tissue engineering. Previous coursework in cell biology and organic chemistry recommended. Students taking graduate version complete additional assignments. Limited to 40."
+        ],
+        [
+            "inst",
+            [
+                "D. G. Anderson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.65 Chemical Reactor Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.37 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of chemically reacting systems with emphasis on synthesis of chemical kinetics and transport phenomena. Topics include kinetics of gas, liquid, and surface reactions; quantum chemistry; transition state theory; surface adsorption, diffusion, and desorption processes; mechanism and kinetics of biological processes; mechanism formulation and sensitivity analysis. Reactor topics include nonideal flow reactors, residence time distribution and dispersion models; multiphase reaction systems; nonlinear reactor phenomena. Examples are drawn from different applications, including heterogeneous catalysis, polymerization, combustion, biochemical systems, and materials processing."
+        ],
+        [
+            "inst",
+            [
+                "M. Strano",
+                "G. Stephanopoulos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.652[J] Kinetics of Chemical Reactions"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.68[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.62\" title=\"5.62\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.62');\">5.62</a>, <a href=\"/search/?P=10.37\" title=\"10.37\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.37');\">10.37</a>, or <a href=\"/search/?P=10.65\" title=\"10.65\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.65');\">10.65</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.68[J]."
+        ],
+        [
+            "inst",
+            [
+                "W. H. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.668[J] Statistical Mechanics of Polymers"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.941[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.568\" title=\"10.568\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.568');\">10.568</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Concepts of statistical mechanics and thermodynamics applied to macromolecules: polymer conformations in melts, solutions, and gels; Rotational Isomeric State theory, Markov processes and molecular simulation methods applied to polymers; incompatibility and segregation in incompressible and compressible systems; molecular theory of viscoelasticity; relation to scattering and experimental measurements."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge",
+                "A. Alexander-Katz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.677 Topics in Applied Microfluidics"
+        ],
+        [
+            "prerec",
+            "Prereq: 10.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the field of microfluidics. Reviews fundamental concepts in transport phenomena and dimensional analysis, focusing on new phenomena which arise at small scales. Discusses current applications, with an emphasis on the contributions engineers bring to the field. Local and visiting experts in the field discuss their work. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "P. Doyle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.689 Concepts in Modern Heterogeneous Catalysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 10.489"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a> and <a href=\"/search/?P=10.37\" title=\"10.37\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.37');\">10.37</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Explores topics in the design and implementation of heterogeneous catalysts for chemical transformations. Emphasizes use of catalysis for environmentally benign and sustainable chemical processes. Lectures address concepts in catalyst preparation, catalyst characterization, quantum chemical calculations, and microkinetic analysis of catalytic processes. Shows how experimental and theoretical approaches can illustrate important reactive intermediates and transition states involved in chemical reaction pathways, and uses that information to help identify possible new catalysts that may facilitate reactions of interest. Draws examples from current relevant topics in catalysis. Includes a group project in which students investigate a specific topic in greater depth. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Y. Roman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.7003[J] Applied Molecular Biology Laboratory"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.003[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.002\" title=\"7.002\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.002');\">7.002</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 7.003[J]. Enrollment limited; admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "Fall: E. Calo",
+                "H Sikes. Spring: L. Case",
+                "H. Sikes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.792[J] Global Operations Leadership Seminar"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.890[J], 15.792[J], 16.985[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.792[J]. Preference to LGO students."
+        ],
+        [
+            "inst",
+            [
+                "T. Roemer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.801 Project Management and Problem Solving in Academia and Industry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Teaches both soft and hard skills to foster student success through one-month team projects, as part of the Master of Science in Chemical Engineering Practice (M.S.CEP) program. The same skills are expected to be valuable for problem-solving in both academic and industrial settings at large. Themes to be covered include career development, project management, leadership, project economics, techniques for problem solving, literature search, safety, professional behavior, and time management. Students participate in activities and discussions during class time, study preparatory and review materials on MITx and complete active-learning assessments between meetings, and complete a quiz at the end of the course. Enrollment will be limited to students in the School of Chemical Engineering Practice."
+        ],
+        [
+            "inst",
+            [
+                "T. A. Hatton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.805[J] Technology, Law, and the Working Environment"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.436[J]\nSubject meets with 1.802[J], 1.812[J], 11.022[J], 11.631[J], IDS.061[J], IDS.541[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.436[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. A. Ashford",
+                "C. C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.806 Management in Engineering"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 2.96, 6.9360, 10.806, 16.653"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.96. Restricted to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "H. S. Marcus",
+                "J.-H. Chun"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.807[J] Innovation Teams"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.907[J], 15.371[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces skills and capabilities for real-world problem solving to take technology from lab to societal impact: technical and functional exploration, opportunity discovery, market understanding, value economics, scale-up, intellectual property, and communicating/working for impact across disciplines. Students work in multidisciplinary teams formed around MIT research breakthroughs, with extensive in-class coaching and guidance from faculty, lab members, and select mentors. Follows a structured approach to innovating in which everything is a variable and the product, technology, and opportunities for new ventures can be seen as an act of synthesis. Teams gather evidence that permits a fact-based iteration across multiple application domains, markets, functionalities, technologies, and products, leading to a recommendation that maps a space of opportunity and includes actionable next steps to evolve the market and technology."
+        ],
+        [
+            "inst",
+            [
+                "L. Perez-Breva",
+                "D. Hart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.817[J] Atmospheric Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.84[J], 12.807[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.601\" title=\"5.601\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.601');\">5.601</a> and <a href=\"/search/?P=5.602\" title=\"5.602\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.602');\">5.602</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.84[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. H. Kroll"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "School of Chemical Engineering Practice"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.80 (10.82, 10.84, 10.86) School of Chemical Engineering Practice -- Technical Accomplishment"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Conducted at industrial field stations of the School of Chemical Engineering Practice. Group problem assignments include process development design, simulation and control, technical service, and new-product development. Grading based on technical accomplishment. Credit granted in lieu of master's thesis. See departmental descripton on School of Chemical Engineering Practice for details. Enrollment limited and subject to plant availability."
+        ],
+        [
+            "inst",
+            [
+                "T. A. Hatton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.81 (10.83, 10.85, 10.87) School of Chemical Engineering Practice -- Communication Skills and Human Relations"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Conducted at industrial field stations of the School of Chemical Engineering Practice. Group problem assignments include process development, design, simulation and control, technical service, and new-product development. Grading based on communication skills and human relations in group assignments. Credit granted in lieu of master's thesis; see departmental description on School of Chemical Engineering Practice for details. Enrollment limited and subject to plant availability."
+        ],
+        [
+            "inst",
+            [
+                "T. A. Hatton"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "General"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.90 Independent Research Problem"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For special and graduate students who wish to carry out some minor investigation in a particular field. Subject and hours to fit individual requirements."
+        ],
+        [
+            "inst",
+            [
+                "P. S. Doyle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.910 Independent Research Problem"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate students who wish to carry out a special investigation in a particular field. Topic and hours arranged."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.911 Independent Research Problem"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate students who wish to carry out a special investigation in a particular field. Topic and hours arranged."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.912 Practical Internship in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides academic credit for professional experiences in chemical engineering at external facilities, such as companies or laboratories. At the end of the internship, students must submit a report that describes the experience, details their accomplishments, and synthesizes the perspectives, knowledge, and skills to be carried forward into the rest of their studies."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.951 Seminar in Biological Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Students, postdocs, and visitors to present their work on design, construction, and characterization of biological systems expanding on topics in synthetic biology, molecular systems biology, and cellular reprogramming. "
+        ],
+        [
+            "inst",
+            [
+                "K. E. Galloway"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.952 Seminar in Bioelectrochemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Students, postdocs and visitors present and discuss their research in bioelectrochemistry. Specific topics include electrochemical platform design for diagnostics and screening tools, fundamental studies of metalloproteins and electron transfer-proficient microbes, materials for bioelectronics, and in vitro disease models."
+        ],
+        [
+            "inst",
+            [
+                "A. L. Furst"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.953 Seminar in Heterogeneous Catalysis"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students present their research to other students and staff. Research topics include heterogeneous catalysis, design of catalytic materials, biomass conversion, biofuels, and CO2 utilization."
+        ],
+        [
+            "inst",
+            [
+                "Y. Roman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.954 Seminar in Applied Optical Spectroscopy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminars given by students, postdocs, and visitors. Topics covered include applied optical spectroscopy and imaging, with particular emphasis on nanomaterials and how they relate to alternative energy technologies."
+        ],
+        [
+            "inst",
+            [
+                "W. A. Tisdale"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.955 Seminar in Electrochemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed to allow students to present and discuss their research in the area of electrochemical engineering with a particular emphasis on energy storage and conversion (e.g., batteries, fuel cells, electroreactors). Specific topics include active materials design, electroanalytical platform development, and integration of electrochemical and imaging techniques."
+        ],
+        [
+            "inst",
+            [
+                "F. R. Brushett"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.956 Seminar in Atomistic Simulation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar allows students to present their research to other students and staff. The research topics include electronic structure theory, computational chemistry techniques, and density functional theory with a focus on applications to catalysis and materials science."
+        ],
+        [
+            "inst",
+            [
+                "H. J. Kulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.957 Seminar in Bioengineering Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminars presented by students and guest speakers on emerging biotechnologies."
+        ],
+        [
+            "inst",
+            [
+                "K. Chung"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.958 Seminar in the Fluid Mechanics and Self-assembly of Soft Matter"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics related to low Reynolds number hydrodynamics and the statistical physics of particulate media. Specifics include the kinetics of phase transitions in soft matter and the time-varying deformation of colloidal dispersions, glasses and gels."
+        ],
+        [
+            "inst",
+            [
+                "J. W. Swan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.960[J] Seminar in Polymers and Soft Matter"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.903[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "A series of seminars covering a broad spectrum of topics in polymer science and engineering, featuring both on- and off-campus speakers."
+        ],
+        [
+            "inst",
+            [
+                "A. Alexander-Katz",
+                "R. E. Cohen",
+                "D. Irvine"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.961 Seminar in Advanced Air Pollution Research"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminars, presented by students engaged in thesis work in the field of air pollution. Particular emphasis given to atmospheric chemistry, mathematical modeling, and policy analysis."
+        ],
+        [
+            "inst",
+            [
+                "G. J. McRae"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.962 Seminar in Molecular Cell Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Weekly seminar with discussion of ongoing research and relevant literature by graduate students, postdoctoral fellows, and visiting scientists on issues at the interface of chemical engineering with molecular cell biology. Emphasis is on quantitative aspects of physicochemical mechanisms involved in receptor/ligand interactions, receptor signal transduction processes, receptor-mediated cell behavioral responses, and applications of these in biotechnology and medicine."
+        ],
+        [
+            "inst",
+            [
+                "D. A. Lauffenburger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.963 Seminar in Computer-Assisted Molecular Discovery"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Allows students to present their research and literature reviews to other students and staff. Topics include the use of automation and computational methods for understanding the biological, chemical, and physical properties of molecular structures, as well as the design of new functional molecules and the synthetic processes to produce them."
+        ],
+        [
+            "inst",
+            [
+                "C. W. Coley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.964 Seminar on Transport Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminars presented by students and guest speakers on mathematical modeling of transport phenomena, focusing on electrochemical systems, electrokinetics, and microfluidics."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Bazant"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.965 Seminar in Biosystems Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced topics on the state-of-the-art in design and implementation of analytical processes for biological systems, including single-cell analysis, micro/nanotechnologies, systems biology, biomanufacturing, and process engineering. Seminars and discussions guided by the research interests of participating graduate students, postdoctoral associates, faculty, and visiting lecturers."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.966 Seminar in Drug Delivery, Biomaterials, and Tissue Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on presentations by students and staff on current research in the area of drug delivery, biomaterials, and tissue engineering. Includes topics such as nanotherapeutics, intracellular delivery, and therapies for diabetes."
+        ],
+        [
+            "inst",
+            [
+                "D. G. Anderson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.967 Seminar in Protein-Polymer Materials Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminar covers topics on protein-based polymeric materials. Specific topics include bioelectronic materials, protein-polymer hybrids, and nanostructured proteins and polymers."
+        ],
+        [
+            "inst",
+            [
+                "B. D. Olsen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.968 Seminar in Biomolecular Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers research progress in the area of design, testing and mechanistic investigation of novel molecular systems for biotechnological applications."
+        ],
+        [
+            "inst",
+            [
+                "H. D. Sikes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.969 Molecular Engineering Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar allows students to present their research to other students and staff. Research topics include molecular simulations techniques and applications, and molecular engineering of pharmaceutical and biopharmaceutical processes and formulations."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.970 Seminar in Molecular Computation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar allows students to present their research to other students and staff. The research topics include computational chemistry techniques, kinetics, and catalysis. Focus is on molecular-level understanding of chemical change."
+        ],
+        [
+            "inst",
+            [
+                "W. H. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.971 Seminar in Fluid Mechanics and Transport Phenomena"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar series on current research on Newtonian and non-Newtonian fluid mechanics and transport phenomena, and applications to materials processing. Seminars given by guest speakers and research students."
+        ],
+        [
+            "inst",
+            [
+                "P. S. Doyle",
+                "G. H. McKinley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.972 Biochemical Engineering Research Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar allows students to present their research programs to other students and staff. The research topics include fermentation and enzyme technology, mammalian and animal cell cultivation, and biological product separation."
+        ],
+        [
+            "inst",
+            [
+                "D. I. C. Wang",
+                "C. L. Cooney"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.973 Bioengineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar covering topics related to current research in the application of chemical engineering principles to biomedical science and biotechnology."
+        ],
+        [
+            "inst",
+            [
+                "C. K. Colton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.974 Seminar in Chemical Engineering Nanotechnology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar covering topics related to current research in the application of chemical engineering principles to nanotechnology. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "M. S. Strano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.975 Seminar in Polymer Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminars, presented by students engaged in thesis work in the field of polymers and by visiting lecturers from industry and academia."
+        ],
+        [
+            "inst",
+            [
+                "P. T. Hammond",
+                "G. C. Rutledge "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.976 Process Design, Operations, and Control"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminars on the state of the art in design, operations, and control of processing systems, with emphasis on computer-based tools. Discussions guided by the research interests of participating students. Topics include mathematical and numerical techniques, representational methodologies, and software development."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Barton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.977 Seminar in Electrocatalysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar held every week, with presentations by graduate students and postdoctoral researchers on topics related to the molecular engineering of electrocatalysts. Emphasis on correlating atomic-level understanding of surfaces, their interactions with adsorbates, and the resulting impact on catalytic mechanisms."
+        ],
+        [
+            "inst",
+            [
+                "K. Manthiram"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.978 Seminar in Advanced Materials for Energy Applications"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students, postdocs, and visitors to present their work on synthesis, design, and characterization of polymeric and inorganic materials for applications related to membrane and adsorption-based separations."
+        ],
+        [
+            "inst",
+            [
+                "Z. P. Smith"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.979 Seminar in Biological Soft Matter"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Students, postdocs, and visitors present their work on understanding and designing soft materials and complex fluids related to human health and medical applications. Both experimental and modeling approaches are discussed, covering topics such as macromolecular transport, microhydrodynamics, biomechanics, microfluidics, and microphysiological systems."
+        ],
+        [
+            "inst",
+            [
+                "Q. M. Qi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.981 Seminar in Colloid and Interface Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Review of current topics in colloid and interface science. Topics include statistical mechanics and thermodynamics of micellar solutions, self-assembling systems, and microemulsions; solubilization of simple ions, amino acids, and proteins in reversed micelles; enzymatic reactions in reversed micelles; phase equilibria in colloidal systems; interfacial phenomena in colloidal systems; biomedical aspects of colloidal systems."
+        ],
+        [
+            "inst",
+            [
+                "D. Blankschtein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.982 Seminar in Experimental Colloid and Surface Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth discussion of fundamental physical relationships underlying techniques commonly used in the study of colloids and surfaces with a focus on recent advances and experimental applications. Topics have included the application of steady-state and time-resolved fluorescence spectroscopies, infrared spectroscopy, and scanning probe microscopies."
+        ],
+        [
+            "inst",
+            [
+                "T. A. Hatton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.983 Reactive Processing and Microfabricated Chemical Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced topics in synthesis of materials through processes involving transport phenomena and chemical reactions. Chemical vapor deposition, modeling, and experimental approaches to kinetics of gas phase and surface reactions, transport phenomena in complex systems, materials synthesis, and materials characterization. Design fabrication and applications of microfabricated chemical systems. Seminars by graduate students, postdoctoral associates, participating faculty, and visiting lecturers."
+        ],
+        [
+            "inst",
+            [
+                "K. F. Jensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.984 Biomedical Applications of Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Weekly seminar with lectures on current research by graduate students, postdoctoral fellows, and visiting scientists on topics related to biomedical applications of chemical engineering. Specific topics include polymeric controlled release technology, extracorporal reactor design, biomedical polymers, bioengineering aspects of pharmaceuticals, and biomaterials/tissue and cell interactions."
+        ],
+        [
+            "inst",
+            [
+                "R. S. Langer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.985 Advanced Manufacturing Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the state of the art in the systems engineering of materials products and materials manufacturing processes. Addresses topics such as pharmaceuticals manufacturing, polymeric drug delivery systems, and nano- and microstructured materials. Discussions guided by the research interests of participating students. Includes techniques from applied mathematics and numerical methods, multiscale systems analysis, and control theory."
+        ],
+        [
+            "inst",
+            [
+                "R. D. Braatz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.986 Seminar in Energy Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar series on current research on energy systems modeling and analysis. Seminars given by guest speakers and research students."
+        ],
+        [
+            "inst",
+            [
+                "R. C. Armstrong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.987 Solid Thin Films and Interfaces"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Current research topics and fundamental issues relating to the deposition and properties of solid thin films and interfaces. Emphasis on applying analytical techniques, such as solid-state NMR, to explore the thermodynamics and kinetics of growth, defect formation, and structural modification incurred during film growth and post processing."
+        ],
+        [
+            "inst",
+            [
+                "K. K. Gleason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.988 Seminar in Immune Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Students, postdocs, and visitors present their work on the discovery of protein drugs and the engineering of immune responses to advance human health and enhance fundamental knowledge of immune systems. Experimental and computational methods are discussed, covering topics such as antibodies, T cell receptors, vaccines, protein therapeutics, infectious diseases, autoimmune mechanisms, and cancer treatments. "
+        ],
+        [
+            "inst",
+            [
+                "B. DeKosky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.989 Seminar in Biotechnology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Research seminars, presented by graduate students and visitors from industry and academia, covering a broad range of topics of current interest in biotechnology. Discussion focuses on generic questions with potential biotechnological applications and the quest for solutions through a coordinated interdisciplinary approach."
+        ],
+        [
+            "inst",
+            [
+                "Gr. Stephanopoulos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.990 Introduction to Chemical Engineering Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to research in chemical engineering by faculty of chemical engineering department. Focus is on recent developments and research projects available to new graduate students."
+        ],
+        [
+            "inst",
+            [
+                "P. T. Hammond"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.991 Seminar in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "For students working on doctoral theses."
+        ],
+        [
+            "inst",
+            [
+                "P. T. Hammond"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.992 Seminar in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For students working on doctoral theses."
+        ],
+        [
+            "inst",
+            [
+                "K. F. Jensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.994 Molecular Bioengineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presentations and discussion by graduate students, postdoctoral fellows, and visiting scientists of current literature and research on the engineering of protein biopharmaceuticals. Topics include combinatorial library construction and screening strategies, antibody engineering, gene therapy, cytokine engineering, and immunotherapy engineering strategies."
+        ],
+        [
+            "inst",
+            [
+                "K. D. Wittrup"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.995 Cellular and Metabolic Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate students, postdoctoral fellows, visiting scientists, and guest industrial practitioners to present their own research and highlight important advances from the literature in biochemical and bioprocess engineering. Topics of interest include metabolic engineering, novel microbial pathway design and optimization, synthetic biology, and applications of molecular biology to bioprocess development."
+        ],
+        [
+            "inst",
+            [
+                "K. J. Prather"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.997 Theoretical and Computational Immunology Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presentations and discussions of current literature and research in theoretical and computational immunology. Topics include T cell biology, cell-cell recognition in immunology, polymers and membranes, and statistical mechanics."
+        ],
+        [
+            "inst",
+            [
+                "A. K. Chakraborty"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.998 Seminar in Crystallization Science and Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on current topics related to crystallization science and technology in the chemical, pharmaceutical and food industries. Discusses fundamental work on nucleation, polymorphism, impurity crystal interactions and nano-crystal formation, along with industrial applications of crystallization."
+        ],
+        [
+            "inst",
+            [
+                "A. S. Myerson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.C01[J] Machine Learning for Molecular Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.C01[J], 20.C01[J]\nSubject meets with 3.C51[J], 10.C51[J], 20.C51[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=6.C01\" title=\"6.C01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C01');\">6.C01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.C01[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. Gomez-Bombarelli",
+                "C. Coley",
+                "E. Fraenkel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.C51[J] Machine Learning for Molecular Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.C51[J], 20.C51[J]\nSubject meets with 3.C01[J], 10.C01[J], 20.C01[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=6.C51\" title=\"6.C51\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C51');\">6.C51</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.C51[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. Gomez-Bombarelli",
+                "C. Coley",
+                "E. Fraenkel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.EPE UPOP Engineering Practice Experience"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPE, 2.EPE, 3.EPE, 6.EPE, 8.EPE, 10.EPE, 15.EPE, 16.EPE, 20.EPE, 22.EPE"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPE. Application required; consult UPOP website for more information."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.EPW UPOP Engineering Practice Workshop"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPW, 2.EPW, 3.EPW, 6.EPW, 10.EPW, 16.EPW, 20.EPW, 22.EPW"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.EPE\" title=\"2.EPE\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.EPE');\">2.EPE</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPW. Enrollment limited to those in the UPOP program."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.S28 Special Laboratory Subject in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory subject that covers content not offered in the regular curriculum. Consult department to learn of offerings for a particular term. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J.-F. Hamel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.S94 Special Problems in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on problem of current interest not covered in regular curriculum; topic varies from year to year."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.S95 Special Problems in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on problem of current interest not covered in regular curriculum; topic varies from year to year."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Bazant"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.S96 Special Problems in Chemical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on problem of current interest not covered in regular curriculum; topic varies from year to year."
+        ],
+        [
+            "inst",
+            [
+                "A. L. Furst"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of an SM, PhD, or ScD thesis; to be arranged by the student and appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "D. Blankschtein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.THU Undergraduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to writing an SB thesis; topic arranged between student and MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.UAR Individual Laboratory Experience"
+        ],
+        [
+            "prerec",
+            "Prereq: 5.310, 7.002, or (Coreq: 12 units UROP or other approved laboratory subject and permission of instructor)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Companion subject for students pursuing UROP or other supervised project experience. Instruction in responsible conduct of research and technical communication skills. Concurrent enrollment in an approved UROP or other supervised project required. Limited to Course 10 juniors and seniors; requires advance enrollment application subject to instructor approval."
+        ],
+        [
+            "inst",
+            [
+                "W. A. Tisdale"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for participation in the work of a research group, or for special investigation in a particular field. Topic and hours to fit individual requirements."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "10.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for participation in a research group, or for special investigation in a particular field. Topic and hours to fit individual requirements."
+        ],
+        [
+            "inst",
+            [
+                "B. S. Johnston"
+            ]
+        ]
+    ]
+]

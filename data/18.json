@@ -1,0 +1,5082 @@
+[
+    "Mathematics (Course 18)",
+    [
+        "head",
+        "General Mathematics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.01 Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Differentiation and integration of functions of one variable, with applications. Informal treatment of limits and continuity. Differentiation: definition, rules, application to graphing, rates, approximations, and extremum problems. Indefinite integration; separable first-order differential equations. Definite integral; fundamental theorem of calculus. Applications of integration to geometry and science. Elementary functions. Techniques of integration. Polar coordinates. L'Hopital's rule. Improper integrals. Infinite series: geometric, p-harmonic, simple comparison tests, power series for some elementary functions."
+        ],
+        [
+            "inst",
+            [
+                "Fall: L. Guth. Spring: Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.01A Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Knowledge of differentiation and elementary integration"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Six-week review of one-variable calculus, emphasizing material not on the high-school AB syllabus: integration techniques and applications, improper integrals, infinite series, applications to other topics, such as probability and statistics, as time permits. Prerequisites: one year of high-school calculus or the equivalent, with a score of 5 on the AB Calculus test (or the AB portion of the BC test, or an equivalent score on a standard international exam), or equivalent college transfer credit, or a passing grade on the first half of the 18.01 advanced standing exam."
+        ],
+        [
+            "inst",
+            [
+                "A. Moitra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.02 Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Calculus of several variables. Vector algebra in 3-space, determinants, matrices. Vector-valued functions of one variable, space motion. Scalar functions of several variables: partial differentiation, gradient, optimization techniques. Double integrals and line integrals in the plane; exact differentials and conservative fields; Green's theorem and applications, triple integrals, line and surface integrals in space, Divergence theorem, Stokes' theorem; applications."
+        ],
+        [
+            "inst",
+            [
+                "Fall: S Dyatlov. Spring: D Jerison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.02A Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "First half is taught during the last six weeks of the Fall term; covers material in the first half of 18.02 (through double integrals). Second half of 18.02A can be taken either during IAP (daily lectures) or during the second half of the Spring term; it covers the remaining material in 18.02."
+        ],
+        [
+            "inst",
+            [
+                "Fall",
+                "IAP: J. W. M. Bush. Spring: D. Jerison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.022 Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Calculus of several variables. Topics as in 18.02 but with more focus on mathematical concepts. Vector algebra, dot product, matrices, determinant. Functions of several variables, continuity, differentiability, derivative. Parametrized curves, arc length, curvature, torsion. Vector fields, gradient, curl, divergence. Multiple integrals, change of variables, line integrals, surface integrals. Stokes' theorem in one, two, and three dimensions."
+        ],
+        [
+            "inst",
+            [
+                "W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.03 Differential Equations"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of differential equations, including modeling physical systems. Solution of first-order ODEs by analytical, graphical, and numerical methods. Linear ODEs with constant coefficients. Complex numbers and exponentials. Inhomogeneous equations: polynomial, sinusoidal, and exponential inputs. Oscillations, damping, resonance. Fourier series. Matrices, eigenvalues, eigenvectors, diagonalization. First order linear systems: normal modes, matrix exponentials, variation of parameters. Heat equation, wave equation. Nonlinear autonomous systems: critical point analysis, phase plane diagrams."
+        ],
+        [
+            "inst",
+            [
+                "Fall: J. Dunkel. Spring: L. Demanet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.031 System Functions and the Laplace Transform"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.03"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies basic continuous control theory as well as representation of functions in the complex frequency domain. Covers generalized functions, unit impulse response, and convolution; and Laplace transform, system (or transfer) function, and the pole diagram. Includes examples from mechanical and electrical engineering."
+        ],
+        [
+            "inst",
+            [
+                "Information: H. R. Miller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.032 Differential Equations"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers much of the same material as 18.03 with more emphasis on theory. The point of view is rigorous and results are proven. Local existence and uniqueness of solutions."
+        ],
+        [
+            "inst",
+            [
+                "A. Lawrie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.04 Complex Variables with Applications"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and (18.03 or 18.032)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Complex algebra and functions; analyticity; contour integration, Cauchy's theorem; singularities, Taylor and Laurent series; residues, evaluation of integrals; multivalued functions, potential theory in two dimensions; Fourier analysis, Laplace transforms, and partial differential equations."
+        ],
+        [
+            "inst",
+            [
+                "H. Cheng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.05 Introduction to Probability and Statistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Elementary introduction with applications. Basic probability models. Combinatorics. Random variables. Discrete and continuous probability distributions. Statistical estimation and testing. Confidence intervals. Introduction to linear regression."
+        ],
+        [
+            "inst",
+            [
+                "J. French"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.06 Linear Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic subject on matrix theory and linear algebra, emphasizing topics useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, singular value decomposition, and positive definite matrices. Applications to least-squares approximations, stability of differential equations, networks, Fourier transforms, and Markov processes. Uses linear algebra software. Compared with 18.700, more emphasis on matrix algorithms and many applications."
+        ],
+        [
+            "inst",
+            [
+                "Fall: TBD. Spring: A. Borodin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.C06[J] Linear Algebra and Optimization"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.C06[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introductory course in linear algebra and optimization, assuming no prior exposure to linear algebra and starting from the basics, including vectors, matrices, eigenvalues, singular values, and least squares. Covers the basics in optimization including convex optimization, linear/quadratic programming, gradient descent, and regularization, building on insights from linear algebra. Explores a variety of applications in science and engineering, where the tools developed give powerful ways to understand complex systems and also extract structure from data."
+        ],
+        [
+            "inst",
+            [
+                "A. Moitra",
+                "P. Parrilo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.062[J] Mathematics for Computer Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.1200[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.1200[J]."
+        ],
+        [
+            "inst",
+            [
+                "Z. R. Abel, F. T. Leighton, A. Moitra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.0651"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Reviews linear algebra with applications to life sciences, finance, engineering, and big data. Covers singular value decomposition, weighted least squares, signal and image processing, principal component analysis, covariance and correlation matrices, directed and undirected graphs, matrix factorizations, neural nets, machine learning, and computations with large matrices."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.0651 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.065"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Reviews linear algebra with applications to life sciences, finance, engineering, and big data. Covers singular value decomposition, weighted least squares, signal and image processing, principal component analysis, covariance and correlation matrices, directed and undirected graphs, matrix factorizations, neural nets, machine learning, and computations with large matrices. Students in Course 18 must register for the undergraduate version, 18.065."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.075 Methods for Scientists and Engineers"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.0751"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers functions of a complex variable; calculus of residues. Includes ordinary differential equations; Bessel and Legendre functions; Sturm-Liouville theory; partial differential equations; heat equation; and wave equations."
+        ],
+        [
+            "inst",
+            [
+                "H. Cheng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.0751 Methods for Scientists and Engineers"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.075"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers functions of a complex variable; calculus of residues. Includes ordinary differential equations; Bessel and Legendre functions; Sturm-Liouville theory; partial differential equations; heat equation; and wave equations. Students in Courses 6, 8, 12, 18, and 22 must register for undergraduate version, 18.075."
+        ],
+        [
+            "inst",
+            [
+                "H. Cheng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.085 Computational Science and Engineering I"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.0851"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Review of linear algebra, applications to networks, structures, and estimation, finite difference and finite element solution of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, discrete Fourier transform, convolution. Frequent use of MATLAB in a wide range of scientific and engineering applications."
+        ],
+        [
+            "inst",
+            [
+                "Fall: D. Kouskoulas. Spring: Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.0851 Computational Science and Engineering I"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.085"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Review of linear algebra, applications to networks, structures, and estimation, finite difference and finite element solution of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, discrete Fourier transform, convolution. Frequent use of MATLAB in a wide range of scientific and engineering applications. Students in Course 18 must register for the undergraduate version, 18.085."
+        ],
+        [
+            "inst",
+            [
+                "Fall: D. Kouskoulas. Spring: Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.086 Computational Science and Engineering II"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.0861"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Initial value problems: finite difference methods, accuracy and stability, heat equation, wave equations, conservation laws and shocks, level sets, Navier-Stokes. Solving large systems: elimination with reordering, iterative methods, preconditioning, multigrid, Krylov subspaces, conjugate gradients. Optimization and minimum principles: weighted least squares, constraints, inverse problems, calculus of variations, saddle point problems, linear programming, duality, adjoint methods."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. G. Strang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.0861 Computational Science and Engineering II"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.086"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Initial value problems: finite difference methods, accuracy and stability, heat equation, wave equations, conservation laws and shocks, level sets, Navier-Stokes. Solving large systems: elimination with reordering, iterative methods, preconditioning, multigrid, Krylov subspaces, conjugate gradients. Optimization and minimum principles: weighted least squares, constraints, inverse problems, calculus of variations, saddle point problems, linear programming, duality, adjoint methods. Students in Course 18 must register for the undergraduate version, 18.086."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. G. Strang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.089 Review of Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "One-week review of one-variable calculus (18.01), followed by concentrated study covering multivariable calculus (18.02), two hours per day for five weeks. Primarily for graduate students in Course 2N. Degree credit allowed only in special circumstances."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.090 Introduction to Mathematical Reasoning"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on understanding and constructing mathematical arguments. Discusses foundational topics (such as infinite sets, quantifiers, and methods of proof) as well as selected concepts from algebra (permutations, vector spaces, fields) and analysis (sequences of real numbers). Particularly suitable for students desiring additional experience with proofs before going on to more advanced mathematics subjects or subjects in related areas with significant mathematical content."
+        ],
+        [
+            "inst",
+            [
+                "S. Dyatlov",
+                "B. Poonen",
+                "P. Seidel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.094[J] Teaching College-Level Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.95[J], 5.95[J], 7.59[J], 8.395[J]\nSubject meets with 2.978"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.95[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Rankin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.095 Mathematics Lecture Series"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Ten lectures by mathematics faculty members on interesting topics from both classical and modern mathematics. All lectures accessible to students with calculus background and an interest in mathematics. At each lecture, reading and exercises are assigned. Students prepare these for discussion in a weekly problem session."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.098 Internship in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides academic credit for students pursuing internships to gain practical experience in the applications of mathematical concepts and methods."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.099 Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies (during IAP) or special individual reading (during regular terms). Arranged in consultation with individual faculty members and subject to departmental approval.  May not be used to satisfy Mathematics major requirements."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Analysis"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1001 Real Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.100A"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. Proofs and definitions are less abstract than in 18.100B. Gives applications where possible. Concerned primarily with the real line. Students in Course 18 must register for undergraduate version 18.100A."
+        ],
+        [
+            "inst",
+            [
+                "Fall: Q. Deng. Spring: J. Zhu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1002 Real Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.100B"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. More demanding than 18.100A, for students with more mathematical maturity. Places more emphasis on point-set topology and n-space. Students in Course 18 must register for undergraduate version 18.100B."
+        ],
+        [
+            "inst",
+            [
+                "Fall: R. Melrose. Spring: G. Franz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.100A Real Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1001"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. Proofs and definitions are less abstract than in 18.100B. Gives applications where possible. Concerned primarily with the real line."
+        ],
+        [
+            "inst",
+            [
+                "Fall: Q. Deng. Spring: J. Zhu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.100B Real Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1002"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. More demanding than 18.100A, for students with more mathematical maturity. Places more emphasis on point-set topology and n-space."
+        ],
+        [
+            "inst",
+            [
+                "Fall: R. Melrose. Spring: G. Franz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.100P Real Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. Proofs and definitions are less abstract than in 18.100B. Gives applications where possible. Concerned primarily with the real line. Includes instruction and practice in written communication. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Naff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.100Q Real Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. More demanding than 18.100A, for students with more mathematical maturity. Places more emphasis on point-set topology and n-space. Includes instruction and practice in written communication. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Oh"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.101 Analysis and Manifolds"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1011"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the theory of manifolds: vector fields and densities on manifolds, integral calculus in the manifold setting and the manifold version of the divergence theorem. 18.901 helpful but not required."
+        ],
+        [
+            "inst",
+            [
+                "M. Jezequel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1011 Analysis and Manifolds"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.101"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the theory of manifolds: vector fields and densities on manifolds, integral calculus in the manifold setting and the manifold version of the divergence theorem. 18.9011 helpful but not required. Students in Course 18 must register for the undergraduate version, 18.101."
+        ],
+        [
+            "inst",
+            [
+                "M. Jezequel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.102 Introduction to Functional Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1021"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Normed spaces, completeness, functionals, Hahn-Banach theorem, duality, operators. Lebesgue measure, measurable functions, integrability, completeness of L-p spaces. Hilbert space. Compact, Hilbert-Schmidt and trace class operators. Spectral theorem."
+        ],
+        [
+            "inst",
+            [
+                "M. Jezequel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1021 Introduction to Functional Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.102"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Normed spaces, completeness, functionals, Hahn-Banach theorem, duality, operators. Lebesgue measure, measurable functions, integrability, completeness of L-p spaces. Hilbert space. Compact, Hilbert-Schmidt and trace class operators. Spectral theorem. Students in Course 18 must register for the undergraduate version, 18.102."
+        ],
+        [
+            "inst",
+            [
+                "M. Jezequel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.103 Fourier Analysis: Theory and Applications"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1031"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Roughly half the subject devoted to the theory of the Lebesgue integral with applications to probability, and half to Fourier series and Fourier integrals."
+        ],
+        [
+            "inst",
+            [
+                "J. Shi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1031 Fourier Analysis: Theory and Applications"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.103"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Roughly half the subject devoted to the theory of the Lebesgue integral with applications to probability, and half to Fourier series and Fourier integrals. Students in Course 18 must register for the undergraduate version, 18.103."
+        ],
+        [
+            "inst",
+            [
+                "J. Shi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.104 Seminar in Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.100A, 18.100B, 18.100P, or 18.100Q"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students present and discuss material from books or journals. Topics vary from year to year. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Fall: T. Ozuch-Meersseman. Spring: G. Staffilani"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.112 Functions of a Complex Variable"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1121"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Studies the basic properties of analytic functions of one complex variable. Conformal mappings and the Poincare model of non-Euclidean geometry. Cauchy-Goursat theorem and Cauchy integral formula. Taylor and Laurent decompositions. Singularities, residues and computation of integrals. Harmonic functions and Dirichlet's problem for the Laplace equation. The partial fractions decomposition. Infinite series and infinite product expansions. The Gamma function. The Riemann mapping theorem. Elliptic functions."
+        ],
+        [
+            "inst",
+            [
+                "A. Lawrie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1121 Functions of a Complex Variable"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.112"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Studies the basic properties of analytic functions of one complex variable. Conformal mappings and the Poincare model of non-Euclidean geometry. Cauchy-Goursat theorem and Cauchy integral formula. Taylor and Laurent decompositions. Singularities, residues and computation of integrals. Harmonic functions and Dirichlet's problem for the Laplace equation. The partial fractions decomposition. Infinite series and infinite product expansions. The Gamma function. The Riemann mapping theorem. Elliptic functions. Students in Course 18 must register for the undergraduate version, 18.112."
+        ],
+        [
+            "inst",
+            [
+                "A. Lawrie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.116 Riemann Surfaces"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.112"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Riemann surfaces, uniformization, Riemann-Roch Theorem. Theory of elliptic functions and modular forms. Some applications, such as to number theory."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Etingof"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.117 Topics in Several Complex Variables"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.112 and 18.965"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Harmonic theory on complex manifolds, Hodge decomposition theorem, Hard Lefschetz theorem. Vanishing theorems. Theory of Stein manifolds. As time permits students also study holomorphic vector bundles on Kahler manifolds."
+        ],
+        [
+            "inst",
+            [
+                "B. Poonen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.118 Topics in Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "S. Dyatlov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.125 Measure Theory and Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.100A, 18.100B, 18.100P, or 18.100Q"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a rigorous introduction to Lebesgue's theory of measure and integration. Covers material that is essential in analysis, probability theory, and differential geometry."
+        ],
+        [
+            "inst",
+            [
+                "M. Jezequel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.137 Topics in Geometric Partial Differential Equations"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "T. Colding"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.152 Introduction to Partial Differential Equations"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.1521"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces three main types of partial differential equations: diffusion, elliptic, and hyperbolic. Includes mathematical tools, real-world examples and applications, such as the Black-Scholes equation, the European options problem, water waves, scalar conservation laws, first order equations and traffic problems."
+        ],
+        [
+            "inst",
+            [
+                "T. Collins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.1521 Introduction to Partial Differential Equations"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.152"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces three main types of partial differential equations: diffusion, elliptic, and hyperbolic. Includes mathematical tools, real-world examples and applications, such as the Black-Scholes equation, the European options problem, water waves, scalar conservation laws, first order equations and traffic problems. Students in Course 18 must register for the undergraduate version, 18.152."
+        ],
+        [
+            "inst",
+            [
+                "T. Collins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.155 Differential Analysis I"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.102 or 18.103"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "First part of a two-subject sequence. Review of Lebesgue integration. Lp spaces. Distributions. Fourier transform. Sobolev spaces. Spectral theorem, discrete and continuous spectrum. Homogeneous distributions. Fundamental solutions for elliptic, hyperbolic and parabolic differential operators. Recommended prerequisite: 18.112."
+        ],
+        [
+            "inst",
+            [
+                "S. Dyatlov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.156 Differential Analysis II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.155"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Second part of a two-subject sequence. Covers variable coefficient elliptic, parabolic and hyperbolic partial differential equations."
+        ],
+        [
+            "inst",
+            [
+                "D. Jerison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.157 Introduction to Microlocal Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.155"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "The semi-classical theory of partial differential equations. Discussion of Pseudodifferential operators, Fourier integral operators, asymptotic solutions of partial differential equations, and the spectral theory of Schroedinger operators from the semi-classical perspective. Heavy emphasis placed on the symplectic geometric underpinnings of this subject."
+        ],
+        [
+            "inst",
+            [
+                "R. B. Melrose"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.158 Topics in Differential Equations"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.157"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "L. Guth"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.199 Graduate Analysis Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Studies original papers in differential analysis and differential equations. Intended for first- and second-year graduate students. Permission must be secured in advance."
+        ],
+        [
+            "inst",
+            [
+                "V. W. Guillemin"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Discrete Applied Mathematics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.200 Principles of Discrete Applied Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.06"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of illustrative topics in discrete applied mathematics, including probability theory, information theory, coding theory, secret codes, generating functions, and linear programming. Instruction and practice in written communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "P. W. Shor",
+                "A. Moitra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.200A Principles of Discrete Applied Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.06"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of illustrative topics in discrete applied mathematics, including probability theory, information theory, coding theory, secret codes, generating functions, and linear programming."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.204 Undergraduate Seminar in Discrete Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: ((6.1200[J] or 18.200) and (18.06, 18.700, or 18.701)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar in combinatorics, graph theory, and discrete mathematics in general. Participants read and present papers from recent mathematics literature. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. He",
+                "D. Mikulincer",
+                "M. Sherman-Bennett",
+                "A. Weigandt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.211 Combinatorial Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and (18.06, 18.700, or 18.701)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Combinatorial problems and methods for their solution. Enumeration, generating functions, recurrence relations, construction of bijections. Introduction to graph theory. Prior experience with abstraction and proofs is helpful."
+        ],
+        [
+            "inst",
+            [
+                "A. Weigandt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.212 Algebraic Combinatorics"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.701 or 18.703"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Applications of algebra to combinatorics. Topics include walks in graphs, the Radon transform, groups acting on posets, Young tableaux, electrical networks."
+        ],
+        [
+            "inst",
+            [
+                "A. Postnikov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.217 Combinatorial Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year."
+        ],
+        [
+            "inst",
+            [
+                "A. Postnikov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.218 Topics in Combinatorics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "L. Sauermann"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.219 Seminar in Combinatorics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year. Readings from current research papers in combinatorics. Topics to be chosen and presented by the class."
+        ],
+        [
+            "inst",
+            [
+                "Information: Y. Zhao"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.225 Graph Theory and Additive Combinatorics"
+        ],
+        [
+            "prerec",
+            "Prereq: ((18.701 or 18.703) and (18.100A, 18.100B, 18.100P, or 18.100Q)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to extremal graph theory and additive combinatorics. Highlights common themes, such as the dichotomy between structure versus pseudorandomness. Topics include Turan-type problems, Szemeredi's regularity lemma and applications, pseudorandom graphs, spectral graph theory, graph limits, arithmetic progressions (Roth, Szemeredi, Green-Tao), discrete Fourier analysis, Freiman's theorem on sumsets and structure. Discusses current research topics and open problems."
+        ],
+        [
+            "inst",
+            [
+                "Y. Zhao"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.226 Probabilistic Methods in Combinatorics"
+        ],
+        [
+            "prerec",
+            "Prereq: (18.211, 18.600, and (18.100A, 18.100B, 18.100P, or 18.100Q)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the probabilistic method, a fundamental and powerful technique in combinatorics and theoretical computer science. Focuses on methodology as well as combinatorial applications. Suitable for students with strong interest and background in mathematical problem solving. Topics include linearity of expectations, alteration, second moment, Lovasz local lemma, correlation inequalities, Janson inequalities, concentration inequalities, entropy method."
+        ],
+        [
+            "inst",
+            [
+                "Y. Zhao"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Continuous Applied Mathematics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.300 Principles of Continuum Applied Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and (18.03 or 18.032)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamental concepts in continuous applied mathematics. Applications from traffic flow, fluids, elasticity, granular flows, etc. Also covers continuum limit; conservation laws, quasi-equilibrium; kinematic waves; characteristics, simple waves, shocks; diffusion (linear and nonlinear); numerical solution of wave equations; finite differences, consistency, stability; discrete and fast Fourier transforms; spectral methods; transforms and series (Fourier, Laplace). Additional topics may include sonic booms, Mach cone, caustics, lattices, dispersion and group velocity. Uses MATLAB computing environment."
+        ],
+        [
+            "inst",
+            [
+                "B. Geshkovski"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.303 Linear Partial Differential Equations: Analysis and Numerics"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.06 or 18.700"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides students with the basic analytical and computational tools of linear partial differential equations (PDEs) for practical applications in science and engineering, including heat/diffusion, wave, and Poisson equations. Analytics emphasize the viewpoint of linear algebra and the analogy with finite matrix problems. Studies operator adjoints and eigenproblems, series solutions, Green's functions, and separation of variables. Numerics focus on finite-difference and finite-element techniques to reduce PDEs to matrix problems, including stability and convergence analysis and implicit/explicit timestepping. Some programming required for homework and final project."
+        ],
+        [
+            "inst",
+            [
+                "V. Heinonen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.305 Advanced Analytic Methods in Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.04, 18.075, or 18.112"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers expansion around singular points: the WKB method on ordinary and partial differential equations; the method of stationary phase and the saddle point method; the two-scale method and the method of renormalized perturbation; singular perturbation and boundary-layer techniques; WKB method on partial differential equations."
+        ],
+        [
+            "inst",
+            [
+                "H. Cheng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.306 Advanced Partial Differential Equations with Applications"
+        ],
+        [
+            "prerec",
+            "Prereq: (18.03 or 18.032) and (18.04, 18.075, or 18.112)"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Concepts and techniques for partial differential equations, especially nonlinear. Diffusion, dispersion and other phenomena. Initial and boundary value problems. Normal mode analysis, Green's functions, and transforms. Conservation laws, kinematic waves, hyperbolic equations, characteristics shocks, simple waves. Geometrical optics, caustics. Free-boundary problems. Dimensional analysis. Singular perturbation, boundary layers, homogenization. Variational methods. Solitons. Applications from fluid dynamics, materials science, optics, traffic flow, etc."
+        ],
+        [
+            "inst",
+            [
+                "R. R. Rosales"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.327 Topics in Applied Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "L. Demanet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.330 Introduction to Numerical Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and (18.03 or 18.032)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic techniques for the efficient numerical solution of problems in science and engineering. Root finding, interpolation, approximation of functions, integration, differential equations, direct and iterative methods in linear algebra. Knowledge of programming in a language such as MATLAB, Python, or Julia is helpful."
+        ],
+        [
+            "inst",
+            [
+                "L. Demanet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.335[J] Introduction to Numerical Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7310[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Advanced introduction to numerical analysis: accuracy and efficiency of numerical algorithms. In-depth coverage of sparse-matrix/iterative and dense-matrix algorithms in numerical linear algebra (for linear systems and eigenproblems). Floating-point arithmetic, backwards error analysis, conditioning, and stability. Other computational topics (e.g., numerical integration or nonlinear optimization) may also be surveyed. Final project involves some programming."
+        ],
+        [
+            "inst",
+            [
+                "A. J. Horning"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.336[J] Fast Methods for Partial Differential and Integral Equations"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7340[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.7300\" title=\"6.7300[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7300');\">6.7300[J]</a>, <a href=\"/search/?P=16.920\" title=\"16.920[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.920');\">16.920[J]</a>, <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a>, <a href=\"/search/?P=18.335\" title=\"18.335[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.335');\">18.335[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial-differential and integral equations. Topics include preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches, such as multigrid algorithms and hierarchical low-rank matrix decompositions; and low and high frequency Fast Multipole Methods. Example applications include aircraft design, cardiovascular system modeling, electronic structure computation, and tomographic imaging."
+        ],
+        [
+            "inst",
+            [
+                "K. Burns"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.337[J] Parallel Computing and Scientific Machine Learning"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7320[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to scientific machine learning with an emphasis on developing scalable differentiable programs. Covers scientific computing topics (numerical differential equations, dense and sparse linear algebra, Fourier transformations, parallelization of large-scale scientific simulation) simultaneously with modern data science (machine learning, deep neural networks, automatic differentiation), focusing on the emerging techniques at the connection between these areas, such as neural differential equations and physics-informed deep learning. Provides direct experience with the modern realities of optimizing code performance for supercomputers, GPUs, and multicores in a high-level language."
+        ],
+        [
+            "inst",
+            [
+                "A. Edelman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.338 Eigenvalues of Random Matrices"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.701 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers the modern main results of random matrix theory as it is currently applied in engineering and science. Topics include matrix calculus for finite and infinite matrices (e.g., Wigner's semi-circle and Marcenko-Pastur laws), free probability, random graphs, combinatorial methods, matrix statistics, stochastic operators, passage to the continuum limit, moment methods, and compressed sensing. Knowledge of Julia helpful, but not required."
+        ],
+        [
+            "inst",
+            [
+                "A. Edelman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.352[J] Nonlinear Dynamics: The Natural Environment"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.009[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a>; <i>Coreq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 12.009[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. H. Rothman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.353[J] Nonlinear Dynamics: Chaos"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.050[J], 12.006[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 12.006[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Rothman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.354[J] Nonlinear Dynamics: Continuum Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.062[J], 12.207[J]\nSubject meets with 18.3541"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "General mathematical principles of continuum systems. From microscopic to macroscopic descriptions in the form of linear or nonlinear (partial) differential equations. Exact solutions, dimensional analysis, calculus of variations and singular perturbation methods. Stability, waves and pattern formation in continuum systems. Subject matter illustrated using natural fluid and solid systems found, for example, in geophysics and biology."
+        ],
+        [
+            "inst",
+            [
+                "B. Primkulov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.3541 Nonlinear Dynamics: Continuum Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.062[J], 12.207[J], 18.354[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "General mathematical principles of continuum systems. From microscopic to macroscopic descriptions in the form of linear or nonlinear (partial) differential equations. Exact solutions, dimensional analysis, calculus of variations and singular perturbation methods. Stability, waves and pattern formation in continuum systems. Subject matter illustrated using natural fluid and solid systems found, for example, in geophysics and biology. Students in Courses 1, 12, and 18 must register for undergraduate version, 18.354[J]."
+        ],
+        [
+            "inst",
+            [
+                "B. Primkulov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.355 Fluid Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.25, 12.800, or 18.354[J]"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics include the development of Navier-Stokes equations, inviscid flows, boundary layers, lubrication theory, Stokes flows, and surface tension. Fundamental concepts illustrated through problems drawn from a variety of areas, including geophysics, biology, and the dynamics of sport. Particular emphasis on the interplay between dimensional analysis, scaling arguments, and theory. Includes classroom and laboratory demonstrations."
+        ],
+        [
+            "inst",
+            [
+                "J. W. Bush"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.357 Interfacial Phenomena"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.25, 12.800, 18.354[J], 18.355, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Fluid systems dominated by the influence of interfacial tension. Elucidates the roles of curvature pressure and Marangoni stress in a variety of hydrodynamic settings. Particular attention to drops and bubbles, soap films and minimal surfaces, wetting phenomena, water-repellency, surfactants, Marangoni flows, capillary origami and contact line dynamics. Theoretical developments are accompanied by classroom demonstrations. Highlights the role of surface tension in biology."
+        ],
+        [
+            "inst",
+            [
+                "J. W. Bush"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.358[J] Nonlinear Dynamics and Turbulence"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.686[J], 2.033[J]\nSubject meets with 1.068"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060A\" title=\"1.060A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060A');\">1.060A</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.686[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Bourouiba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.367 Waves and Imaging"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "The mathematics of inverse problems involving waves, with examples taken from reflection seismology, synthetic aperture radar, and computerized tomography. Suitable for graduate students from all departments who have affinities with applied mathematics. Topics include acoustic, elastic, electromagnetic wave equations; geometrical optics; scattering series and inversion; migration and backprojection; adjoint-state methods; Radon and curvilinear Radon transforms; microlocal analysis of imaging; optimization, regularization, and sparse regression."
+        ],
+        [
+            "inst",
+            [
+                "L. Demanet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.369[J] Mathematical Methods in Nanophotonics"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.315[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.07\" title=\"8.07\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.07');\">8.07</a>, <a href=\"/search/?P=18.303\" title=\"18.303\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.303');\">18.303</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "High-level approaches to understanding complex optical media, structured on the scale of the wavelength, that are not generally analytically soluable. The basis for understanding optical phenomena such as photonic crystals and band gaps, anomalous diffraction, mechanisms for optical confinement, optical fibers (new and old), nonlinearities, and integrated optical devices. Methods covered include linear algebra and eigensystems for Maxwell's equations, symmetry groups and representation theory, Bloch's theorem, numerical eigensolver methods, time and frequency-domain computation, perturbation theory, and coupled-mode theories."
+        ],
+        [
+            "inst",
+            [
+                "S. G. Johnson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.376[J] Wave Propagation"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.138[J], 2.062[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.003\" title=\"2.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.003');\">2.003[J]</a> and <a href=\"/search/?P=18.075\" title=\"18.075\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.075');\">18.075</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.062[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. R. Akylas",
+                "R. R. Rosales"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.377[J] Nonlinear Dynamics and Waves"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.685[J], 2.034[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "A unified treatment of nonlinear oscillations and wave phenomena with applications to mechanical, optical, geophysical, fluid, electrical and flow-structure interaction problems. Nonlinear free and forced vibrations; nonlinear resonances; self-excited oscillations; lock-in phenomena. Nonlinear dispersive and nondispersive waves; resonant wave interactions; propagation of wave pulses and nonlinear Schrodinger equation. Nonlinear long waves and breaking; theory of characteristics; the Korteweg-de Vries equation; solitons and solitary wave interactions. Stability of shear flows. Some topics and applications may vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "R. R. Rosales"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.384 Undergraduate Seminar in Physical Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: 12.006[J], 18.300, 18.354[J], or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers the mathematical modeling of physical systems, with emphasis on the reading and presentation of papers. Addresses a broad range of topics, with particular focus on macroscopic physics and continuum systems: fluid dynamics, solid mechanics, and biophysics. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "O. Kodio"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.385[J] Nonlinear Dynamics and Chaos"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.036[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the theory of nonlinear dynamical systems with applications from science and engineering. Local and global existence of solutions, dependence on initial data and parameters. Elementary bifurcations, normal forms. Phase plane, limit cycles, relaxation oscillations, Poincare-Bendixson theory. Floquet theory. Poincare maps. Averaging. Near-equilibrium dynamics. Synchronization. Introduction to chaos. Universality. Strange attractors. Lorenz and Rossler systems. Hamiltonian dynamics and KAM theory. Uses MATLAB computing environment."
+        ],
+        [
+            "inst",
+            [
+                "R. R. Rosales"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.397 Mathematical Methods in Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.745 or some familiarity with Lie theory"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year. Recent developments in quantum field theory require mathematical techniques not usually covered in standard graduate subjects."
+        ],
+        [
+            "inst",
+            [
+                "V. G. Kac"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Theoretical Computer Science"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.400[J] Computability and Complexity Theory"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.1400[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a> and <a href=\"/search/?P=6.1210\" title=\"6.1210\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1210');\">6.1210</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.1400[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. Williams",
+                "R. Rubinfeld"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.404 Theory of Computation"
+        ],
+        [
+            "prerec",
+            "Subject meets with 6.5400[J], 18.4041[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a> or <a href=\"/search/?P=18.200\" title=\"18.200\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.200');\">18.200</a> "
+            ]
+        ],
+        [
+            "desc",
+            "A more extensive and theoretical treatment of the material in 6.1400[J]/18.400[J], emphasizing computability and computational complexity theory. Regular and context-free languages. Decidable and undecidable problems, reducibility, recursive function theory. Time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems."
+        ],
+        [
+            "inst",
+            [
+                "M. Sipser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.4041[J] Theory of Computation"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.5400[J]\nSubject meets with 18.404"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a> or <a href=\"/search/?P=18.200\" title=\"18.200\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.200');\">18.200</a> "
+            ]
+        ],
+        [
+            "desc",
+            "A more extensive and theoretical treatment of the material in 6.1400[J]/18.400[J], emphasizing computability and computational complexity theory. Regular and context-free languages. Decidable and undecidable problems, reducibility, recursive function theory. Time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems. Students in Course 18 must register for the undergraduate version, 18.404."
+        ],
+        [
+            "inst",
+            [
+                "M. Sipser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.405[J] Advanced Complexity Theory"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.5410[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.404\" title=\"18.404\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.404');\">18.404</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Current research topics in computational complexity theory. Nondeterministic, alternating, probabilistic, and parallel computation models. Boolean circuits. Complexity classes and complete sets. The polynomial-time hierarchy. Interactive proof systems. Relativization. Definitions of randomness. Pseudo-randomness and derandomizations. Interactive proof systems and probabilistically checkable proofs."
+        ],
+        [
+            "inst",
+            [
+                "R. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.408 Topics in Theoretical Computer Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of areas of current interest in theoretical computer science. Topics vary from term to term."
+        ],
+        [
+            "inst",
+            [
+                "Fall: D. Minzer. Spring: A. Moitra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.410[J] Design and Analysis of Algorithms"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.1220[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a> and <a href=\"/search/?P=6.1210\" title=\"6.1210\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1210');\">6.1210</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.1220[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Demaine",
+                "M. Goemans"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.413 Introduction to Computational Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.417"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1210\" title=\"6.1210\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1210');\">6.1210</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to computational molecular biology with a focus on the basic computational algorithms used to solve problems in practice. Covers classical techniques in the field for solving problems such as genome sequencing, assembly, and search; detecting genome rearrangements; constructing evolutionary trees; analyzing mass spectrometry data; connecting gene expression to cellular function; and machine learning for drug discovery. Prior knowledge of biology is not required. Particular emphasis on problem solving, collaborative learning, theoretical analysis, and practical implementation of algorithms. Students taking graduate version complete additional and more complex assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. Berger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.415[J] Advanced Algorithms"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.5210[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1220\" title=\"6.1220[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1220');\">6.1220[J]</a> and (<a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a>, <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, or <a href=\"/search/?P=18.600\" title=\"18.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.600');\">18.600</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.5210[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Moitra",
+                "D. R. Karger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.416[J] Randomized Algorithms"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.5220[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a> or <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>) and (<a href=\"/search/?P=6.1220\" title=\"6.1220[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1220');\">6.1220[J]</a> or <a href=\"/search/?P=6.5210\" title=\"6.5210[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.5210');\">6.5210[J]</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.5220[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. R. Karger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.417 Introduction to Computational Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.413"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1210\" title=\"6.1210\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1210');\">6.1210</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to computational molecular biology with a focus on the basic computational algorithms used to solve problems in practice. Covers classical techniques in the field for solving problems such as genome sequencing, assembly, and search; detecting genome rearrangements; constructing evolutionary trees; analyzing mass spectrometry data; connecting gene expression to cellular function; and machine learning for drug discovery. Prior knowledge of biology is not required. Particular emphasis on problem solving, collaborative learning, theoretical analysis, and practical implementation of algorithms. Students taking graduate version complete additional and more complex assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. Berger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.418[J] Topics in Computational Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.504[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.8701\" title=\"6.8701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.8701');\">6.8701</a>, <a href=\"/search/?P=18.417\" title=\"18.417\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.417');\">18.417</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers current research topics in computational molecular biology. Recent research papers presented from leading conferences such as the International Conference on Computational Molecular Biology (RECOMB) and the Conference on Intelligent Systems for Molecular Biology (ISMB). Topics include original research (both theoretical and experimental) in comparative genomics, sequence and structure analysis, molecular evolution, proteomics, gene expression, transcriptional regulation, biological networks, drug discovery, and privacy. Recent research by course participants also covered. Participants will be expected to present individual projects to the class."
+        ],
+        [
+            "inst",
+            [
+                "B. Berger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.424 Seminar in Information Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: (6.3700, 18.05, or 18.600) and (18.06, 18.700, or 18.701)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Considers various topics in information theory, including data compression, Shannon's Theorems, and error-correcting codes. Students present and discuss the subject matter. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Kelner"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.425[J] Cryptography and Cryptanalysis"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.5620[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1220\" title=\"6.1220[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1220');\">6.1220[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.5620[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Goldwasser",
+                "S. Micali",
+                "V. Vaikuntanathan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.434 Seminar in Theoretical Computer Science"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.1220[J]"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year. Students present and discuss the subject matter. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Fall: E. Mossel. Spring: D. Minzer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.435[J] Quantum Computation"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.111[J], 6.6410[J], 8.370[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.05\" title=\"8.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.05');\">8.05</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>, or <a href=\"/search/?P=18.C06\" title=\"18.C06[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.C06');\">18.C06[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the theory and practice of quantum computation. Topics covered: physics of information processing; quantum algorithms including the factoring algorithm and Grover's search algorithm; quantum error correction; quantum communication and cryptography. Knowledge of quantum mechanics helpful but not required."
+        ],
+        [
+            "inst",
+            [
+                "I. Chuang",
+                "A. Harrow",
+                "P. Shor"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.436[J] Quantum Information Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.6420[J], 8.371[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.435\" title=\"18.435[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.435');\">18.435[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.371[J]."
+        ],
+        [
+            "inst",
+            [
+                "I. Chuang",
+                "A. Harrow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.437[J] Distributed Algorithms"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.5250[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1220\" title=\"6.1220[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1220');\">6.1220[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.5250[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghaffari",
+                "N. A. Lynch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.453 Combinatorial Optimization"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.4531"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Thorough treatment of linear programming and combinatorial optimization. Topics include matching theory, network flow, matroid optimization, and how to deal with NP-hard optimization problems. Prior exposure to discrete mathematics (such as 18.200) helpful."
+        ],
+        [
+            "inst",
+            [
+                "Information: M. X. Goemans"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.4531 Combinatorial Optimization"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.453"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Thorough treatment of linear programming and combinatorial optimization. Topics include matching theory, network flow, matroid optimization, and how to deal with NP-hard optimization problems. Prior exposure to discrete mathematics (such as 18.200) helpful. Students in Course 18 must register for the undergraduate version, 18.453."
+        ],
+        [
+            "inst",
+            [
+                "Information: M. X. Goemans"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.455 Advanced Combinatorial Optimization"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.453 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced treatment of combinatorial optimization with an emphasis on combinatorial aspects. Non-bipartite matchings, submodular functions, matroid intersection/union, matroid matching, submodular flows, multicommodity flows, packing and connectivity problems, and other recent developments."
+        ],
+        [
+            "inst",
+            [
+                "M. X. Goemans"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.456[J] Algebraic Techniques and Semidefinite Optimization"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7230[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.7210\" title=\"6.7210[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7210');\">6.7210[J]</a> or <a href=\"/search/?P=15.093\" title=\"15.093[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.093');\">15.093[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.7230[J]."
+        ],
+        [
+            "inst",
+            [
+                "P. Parrilo"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Logic"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.504 Seminar in Logic"
+        ],
+        [
+            "prerec",
+            "Prereq: (18.06, 18.510, 18.700, or 18.701) and (18.100A, 18.100B, 18.100P, or 18.100Q)"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Students present and discuss the subject matter taken from current journals or books. Topics vary from year to year. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "H. Cohn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.510 Introduction to Mathematical Logic and Set Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Propositional and predicate logic. Zermelo-Fraenkel set theory. Ordinals and cardinals. Axiom of choice and transfinite induction. Elementary model theory: completeness, compactness, and Lowenheim-Skolem theorems. Godel's incompleteness theorem."
+        ],
+        [
+            "inst",
+            [
+                "H. Cohn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.515 Mathematical Logic"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "More rigorous treatment of basic mathematical logic, Godel's theorems, and Zermelo-Fraenkel set theory. First-order logic. Models and satisfaction. Deduction and proof. Soundness and completeness. Compactness and its consequences. Quantifier elimination. Recursive sets and functions. Incompleteness and undecidability. Ordinals and cardinals. Set-theoretic formalization of mathematics."
+        ],
+        [
+            "inst",
+            [
+                "Information: B. Poonen"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Probability and Statistics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.600 Probability and Random Variables"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Probability spaces, random variables, distribution functions. Binomial, geometric, hypergeometric, Poisson distributions. Uniform, exponential, normal, gamma and beta distributions. Conditional probability, Bayes theorem, joint distributions. Chebyshev inequality, law of large numbers, and central limit theorem. Credit cannot also be received for 6.041A or 6.041B."
+        ],
+        [
+            "inst",
+            [
+                "Fall: S. Sheffield. Spring: J. Kelner"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.615 Introduction to Stochastic Processes"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.3700 or 18.600"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Basics of stochastic processes. Markov chains, Poisson processes, random walks, birth and death processes, Brownian motion."
+        ],
+        [
+            "inst",
+            [
+                "J. He"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.619[J] Discrete Probability and Stochastic Processes (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7720[J], 15.070[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3702\" title=\"6.3702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3702');\">6.3702</a>, <a href=\"/search/?P=6.7700\" title=\"6.7700[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7700');\">6.7700[J]</a>, <a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.070[J]."
+        ],
+        [
+            "inst",
+            [
+                "G. Bresler",
+                "D. Gamarnik",
+                "E. Mossel, Y. Polyanskiy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.642 Topics in Mathematics with Applications in Finance"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.03, 18.06, and (18.05 or 18.600)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to mathematical concepts and techniques used in finance. Lectures focusing on linear algebra, probability, statistics, stochastic processes, and numerical methods are interspersed with lectures by financial sector professionals illustrating the corresponding application in the industry. Prior knowledge of economics or finance helpful but not required."
+        ],
+        [
+            "inst",
+            [
+                "P. Kempthorne",
+                "V. Strela",
+                "J. Xia"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.650[J] Fundamentals of Statistics"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.014[J]\nSubject meets with 18.6501"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=18.600\" title=\"18.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.600');\">18.600</a> "
+            ]
+        ],
+        [
+            "desc",
+            "A rapid introduction to the theoretical foundations of statistical methods that are useful in many applications. Covers a broad range of topics in a short amount of time with the goal of providing a rigorous and cohesive understanding of the modern statistical landscape. Mathematical language is used for intuition and basic derivations but not proofs. Main topics include: parametric estimation, confidence intervals, hypothesis testing, Bayesian inference, and linear and logistic regression. Additional topics may include: causal inference, nonparametric estimation, and classification."
+        ],
+        [
+            "inst",
+            [
+                "Fall: P. Rigollet. Spring: A. Katsevich"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.6501 Fundamentals of Statistics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.650[J], IDS.014[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=18.600\" title=\"18.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.600');\">18.600</a> "
+            ]
+        ],
+        [
+            "desc",
+            "A rapid introduction to the theoretical foundations of statistical methods that are useful in many applications. Covers a broad range of topics in a short amount of time with the goal of providing a rigorous and cohesive understanding of the modern statistical landscape. Mathematical language is used for intuition and basic derivations but not proofs. Main topics include: parametric estimation, confidence intervals, hypothesis testing, Bayesian inference, and linear and logistic regression. Additional topics may include: causal inference, nonparametric estimation, and classification. Students in Course 18 must register for the undergraduate version, 18.650[J]."
+        ],
+        [
+            "inst",
+            [
+                "Fall: P. Rigollet. Spring: A. Katsevich"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.655 Mathematical Statistics"
+        ],
+        [
+            "prerec",
+            "Prereq: (18.650[J] and (18.100A, 18.100A, 18.100P, or 18.100Q)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Decision theory, estimation, confidence intervals, hypothesis testing. Introduces large sample theory. Asymptotic efficiency of estimates. Exponential families. Sequential analysis. Prior exposure to both probability and statistics at the university level is assumed."
+        ],
+        [
+            "inst",
+            [
+                "P. Kempthorne"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.656[J] Mathematical Statistics: a Non-Asymptotic Approach"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.521[J], IDS.160[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.7700\" title=\"6.7700[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7700');\">6.7700[J]</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, and <a href=\"/search/?P=18.6501\" title=\"18.6501\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.6501');\">18.6501</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.521[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Rakhlin",
+                "P. Rigollet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.657 Topics in Statistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from term to term."
+        ],
+        [
+            "inst",
+            [
+                "P. Rigollet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.675 Theory of Probability"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.100A, 18.100B, 18.100P, or 18.100Q"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Sums of independent random variables, central limit phenomena, infinitely divisible laws, Levy processes, Brownian motion, conditioning, and martingales. Prior exposure to probability (e.g., 18.600) recommended."
+        ],
+        [
+            "inst",
+            [
+                "Y. Shenfeld"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.676 Stochastic Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.675"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to stochastic processes, building on the fundamental example of Brownian motion. Topics include Brownian motion, continuous parameter martingales, Ito's theory of stochastic differential equations, Markov processes and partial differential equations, and may also include local time and excursion theory. Students should have familiarity with Lebesgue integration and its application to probability."
+        ],
+        [
+            "inst",
+            [
+                "N. Sun"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.677 Topics in Stochastic Processes"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.675"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "A. Borodin"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Algebra and Number Theory"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.700 Linear Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Vector spaces, systems of linear equations, bases, linear independence, matrices, determinants, eigenvalues, inner products, quadratic forms, and canonical forms of matrices. More emphasis on theory and proofs than in 18.06."
+        ],
+        [
+            "inst",
+            [
+                "V. Kac"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.701 Algebra I"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.100A, 18.100B, 18.100P, 18.100Q, 18.090, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "18.701-18.702 is more extensive and theoretical than the 18.700-18.703 sequence. Experience with proofs necessary. 18.701 focuses on group theory, geometry, and linear algebra."
+        ],
+        [
+            "inst",
+            [
+                "H. Cohn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.702 Algebra II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.701"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Continuation of 18.701. Focuses on group representations, rings, ideals, fields, polynomial rings, modules, factorization, integers in quadratic number fields, field extensions, and Galois theory."
+        ],
+        [
+            "inst",
+            [
+                "A. Negut"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.703 Modern Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on traditional algebra topics that have found greatest application in science and engineering as well as in mathematics: group theory, emphasizing finite groups; ring theory, including ideals and unique factorization in polynomial and Euclidean rings; field theory, including properties and applications of finite fields. 18.700 and 18.703 together form a standard algebra sequence."
+        ],
+        [
+            "inst",
+            [
+                "V. G. Kac"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.704 Seminar in Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.701, (18.06 and 18.703), or (18.700 and 18.703)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year. Students present and discuss the subject matter. Instruction and practice in written and oral communication provided. Some experience with proofs required. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Vashaw"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.705 Commutative Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.702"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Exactness, direct limits, tensor products, Cayley-Hamilton theorem, integral dependence, localization, Cohen-Seidenberg theory, Noether normalization, Nullstellensatz, chain conditions, primary decomposition, length, Hilbert functions, dimension theory, completion, Dedekind domains."
+        ],
+        [
+            "inst",
+            [
+                "W. Zhang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.706 Noncommutative Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.702"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics may include Wedderburn theory and structure of Artinian rings, Morita equivalence and elements of category theory, localization and Goldie's theorem, central simple algebras and the Brauer group, representations, polynomial identity rings, invariant theory growth of algebras, Gelfand-Kirillov dimension."
+        ],
+        [
+            "inst",
+            [
+                "R. Bezrukavnikov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.708 Topics in Algebra"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.705"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Etingof"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.715 Introduction to Representation Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.702 or 18.703"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Algebras, representations, Schur's lemma. Representations of SL(2). Representations of finite groups, Maschke's theorem, characters, applications. Induced representations, Burnside's theorem, Mackey formula, Frobenius reciprocity. Representations of quivers."
+        ],
+        [
+            "inst",
+            [
+                "G. Lusztig"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.721 Introduction to Algebraic Geometry"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.702 and 18.901"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents basic examples of complex algebraic varieties, affine and projective algebraic geometry, sheaves, cohomology."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.725 Algebraic Geometry I"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.705"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the basic notions and techniques of modern algebraic geometry. Covers fundamental notions and results about algebraic varieties over an algebraically closed field; relations between complex algebraic varieties and complex analytic varieties; and examples with emphasis on algebraic curves and surfaces. Introduction to the language of schemes and properties of morphisms. Knowledge of elementary algebraic topology, elementary differential geometry recommended, but not required."
+        ],
+        [
+            "inst",
+            [
+                "D. Maulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.726 Algebraic Geometry II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.725"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Continuation of the introduction to algebraic geometry given in 18.725. More advanced properties of the varieties and morphisms of schemes, as well as sheaf cohomology."
+        ],
+        [
+            "inst",
+            [
+                "D. Maulik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.727 Topics in Algebraic Geometry"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.725"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "A. Negut"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.737 Algebraic Groups"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.705"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Structure of linear algebraic groups over an algebraically closed field, with emphasis on reductive groups. Representations of groups over a finite field using methods from etale cohomology. Some results from algebraic geometry are stated without proof."
+        ],
+        [
+            "inst",
+            [
+                "J.-L. Kim"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.745 Lie Groups and Lie Algebras I"
+        ],
+        [
+            "prerec",
+            "Prereq: (18.701 or 18.703) and (18.100A, 18.100B, 18.100P, or 18.100Q)"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamentals of the theory of Lie algebras and related groups. Topics may include theorems of Engel and Lie; enveloping algebra, Poincare-Birkhoff-Witt theorem; classification and construction of semisimple Lie algebras; the center of their enveloping algebras; elements of representation theory; compact Lie groups and/or finite Chevalley groups."
+        ],
+        [
+            "inst",
+            [
+                "V. G. Kac"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.747 Infinite-dimensional Lie Algebras"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.745"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Etingof"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.748 Topics in Lie Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Etingof"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.755 Lie Groups and Lie Algebras II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.745 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A more in-depth treatment of Lie groups and Lie algebras. Topics may include homogeneous spaces and groups of automorphisms; representations of compact groups and their geometric realizations, Peter-Weyl theorem; invariant differential forms and cohomology of Lie groups and homogeneous spaces; complex reductive Lie groups, classification of real reductive groups."
+        ],
+        [
+            "inst",
+            [
+                "Z. Yun"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.757 Representations of Lie Groups"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.745 or 18.755"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Covers representations of locally compact groups, with emphasis on compact groups and abelian groups. Includes Peter-Weyl theorem and Cartan-Weyl highest weight theory for compact Lie groups."
+        ],
+        [
+            "inst",
+            [
+                "P. I. Etingof"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.781 Theory of Numbers"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An elementary introduction to number theory with no algebraic prerequisites. Primes, congruences, quadratic reciprocity, diophantine equations, irrational numbers, continued fractions, partitions."
+        ],
+        [
+            "inst",
+            [
+                "M.-T. Trinh"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.782 Introduction to Arithmetic Geometry"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.702"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Exposes students to arithmetic geometry, motivated by the problem of finding rational points on curves. Includes an introduction to p-adic numbers and some fundamental results from number theory and algebraic geometry, such as the Hasse-Minkowski theorem and the Riemann-Roch theorem for curves. Additional topics may include Mordell's theorem, the Weil conjectures, and Jacobian varieties."
+        ],
+        [
+            "inst",
+            [
+                "S. Chidambaram"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.783 Elliptic Curves"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.7831"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.702\" title=\"18.702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.702');\">18.702</a>, <a href=\"/search/?P=18.703\" title=\"18.703\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.703');\">18.703</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Computationally focused introduction to elliptic curves, with applications to number theory and cryptography. Topics include point-counting, isogenies, pairings, and the theory of complex multiplication, with applications to integer factorization, primality proving, and elliptic curve cryptography. Includes a brief introduction to modular curves and the proof of Fermat's Last Theorem."
+        ],
+        [
+            "inst",
+            [
+                "A. Sutherland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.7831 Elliptic Curves"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.783"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.702\" title=\"18.702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.702');\">18.702</a>, <a href=\"/search/?P=18.703\" title=\"18.703\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.703');\">18.703</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Computationally focused introduction to elliptic curves, with applications to number theory and cryptography. Topics include point-counting, isogenies, pairings, and the theory of complex multiplication, with applications to integer factorization, primality proving, and elliptic curve cryptography. Includes a brief introduction to modular curves and the proof of Fermat's Last Theorem. Students in Course 18 must register for the undergraduate version, 18.783."
+        ],
+        [
+            "inst",
+            [
+                "A. Sutherland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.784 Seminar in Number Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.701 or (18.703 and (18.06 or 18.700))"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year. Students present and discuss the subject matter. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "A. Landesman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.785 Number Theory I"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.705"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Dedekind domains, unique factorization of ideals, splitting of primes. Lattice methods, finiteness of the class group, Dirichlet's unit theorem. Local fields, ramification, discriminants. Zeta and L-functions, analytic class number formula. Adeles and ideles. Statements of class field theory and the Chebotarev density theorem."
+        ],
+        [
+            "inst",
+            [
+                "B. Poonen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.786 Number Theory II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.785"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Continuation of 18.785. More advanced topics in number theory, such as Galois cohomology, proofs of class field theory, modular forms and automorphic forms, Galois representations, or quadratic forms."
+        ],
+        [
+            "inst",
+            [
+                "A. Sutherland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.787 Topics in Number Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "W. Zhang"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Mathematics Laboratory"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.821 Project Laboratory in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Two mathematics subjects numbered 18.100 or above"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Guided research in mathematics, employing the scientific method. Students confront puzzling and complex mathematical situations, through the acquisition of data by computer, pencil and paper, or physical experimentation, and attempt to explain them mathematically. Students choose three projects from a large collection of options. Each project results in a laboratory report subject to revision; oral presentation on one or two projects. Projects drawn from many areas, including dynamical systems, number theory, algebra, fluid mechanics, asymptotic analysis, knot theory, and probability. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Fall: A. Negut. Spring: L. Piccirillo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.896[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part I: Advancing Your Professional Strategies and Skills"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.961[J], 8.396[J], 9.980[J], 12.396[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.396[J]. Limited to 80."
+        ],
+        [
+            "inst",
+            [
+                "A. Frebel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.897[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part II: Developing Your Leadership Competencies"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.962[J], 8.397[J], 9.981[J], 12.397[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.397[J]. Limited to 80."
+        ],
+        [
+            "inst",
+            [
+                "D. Rigos"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Topology and Geometry"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.900 Geometry and Topology in the Plane"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.03 or 18.06"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to selected aspects of geometry and topology, using concepts that can be visualized easily. Mixes geometric topics (such as hyperbolic geometry or billiards) and more topological ones (such as loops in the plane). Suitable for students with no prior exposure to differential geometry or topology."
+        ],
+        [
+            "inst",
+            [
+                "P. Seidel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.901 Introduction to Topology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.9011"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces topology, covering topics fundamental to modern analysis and geometry. Topological spaces and continuous functions, connectedness, compactness, separation axioms, covering spaces, and the fundamental group."
+        ],
+        [
+            "inst",
+            [
+                "Fall: A. Pieloch. Spring: R. Jiang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.9011 Introduction to Topology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.901"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces topology, covering topics fundamental to modern analysis and geometry. Topological spaces and continuous functions, connectedness, compactness, separation axioms, covering spaces, and the fundamental group. Students in Course 18 must register for the undergraduate version, 18.901."
+        ],
+        [
+            "inst",
+            [
+                "Fall: A. Pieloch. Spring: R. Jiang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.904 Seminar in Topology"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.901"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics vary from year to year. Students present and discuss the subject matter. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "A. Ward"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.905 Algebraic Topology I"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.901 and (18.701 or 18.703)"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Singular homology, CW complexes, universal coefficient and Künneth theorems, cohomology, cup products, Poincaré duality."
+        ],
+        [
+            "inst",
+            [
+                "D. Alvarez-Gavela"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.906 Algebraic Topology II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.905 and (18.101 or 18.965)"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Continues the introduction to Algebraic Topology from 18.905. Topics include basic homotopy theory, spectral sequences, characteristic classes, and cohomology operations."
+        ],
+        [
+            "inst",
+            [
+                "T. S. Mrowka"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.917 Topics in Algebraic Topology"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.906"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year. Introduces new and significant developments in algebraic topology with the focus on homotopy theory and related areas."
+        ],
+        [
+            "inst",
+            [
+                "Information: T. Schlank"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.919 Graduate Topology Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.906"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Study and discussion of important original papers in the various parts of topology. Open to all students who have taken 18.906 or the equivalent, not only prospective topologists."
+        ],
+        [
+            "inst",
+            [
+                "T. Schlank"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.937 Topics in Geometric Topology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year. Introduces new and significant developments in geometric topology."
+        ],
+        [
+            "inst",
+            [
+                "T. S. Mrowka"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.950 Differential Geometry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.9501"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to differential geometry, centered on notions of curvature. Starts with curves in the plane, and proceeds to higher dimensional submanifolds. Computations in coordinate charts: first and second fundamental form, Christoffel symbols. Discusses the distinction between extrinsic and intrinsic aspects, in particular Gauss' theorema egregium. The Gauss-Bonnet theorem. Geodesics. Examples such as hyperbolic space."
+        ],
+        [
+            "inst",
+            [
+                "G. Franz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.9501 Differential Geometry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 18.950"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, <a href=\"/search/?P=18.700\" title=\"18.700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.700');\">18.700</a>, or <a href=\"/search/?P=18.701\" title=\"18.701\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.701');\">18.701</a>) and (<a href=\"/search/?P=18.100A\" title=\"18.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100A');\">18.100A</a>, <a href=\"/search/?P=18.100B\" title=\"18.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100B');\">18.100B</a>, <a href=\"/search/?P=18.100P\" title=\"18.100P\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100P');\">18.100P</a>, or <a href=\"/search/?P=18.100Q\" title=\"18.100Q\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.100Q');\">18.100Q</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to differential geometry, centered on notions of curvature. Starts with curves in the plane, and proceeds to higher dimensional submanifolds. Computations in coordinate charts: first and second fundamental form, Christoffel symbols. Discusses the distinction between extrinsic and intrinsic aspects, in particular Gauss' theorema egregium. The Gauss-Bonnet theorem. Geodesics. Examples such as hyperbolic space. Students in Course 18 must register for the undergraduate version, 18.950."
+        ],
+        [
+            "inst",
+            [
+                "G. Franz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.952 Theory of Differential Forms"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.101 and (18.700 or 18.701)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Multilinear algebra: tensors and exterior forms. Differential forms on Rn: exterior differentiation, the pull-back operation and the Poincaré lemma. Applications to physics: Maxwell's equations from the differential form perspective. Integration of forms on open sets of Rn. The change of variables formula revisited. The degree of a differentiable mapping. Differential forms on manifolds and De Rham theory. Integration of forms on manifolds and Stokes' theorem. The push-forward operation for forms. Thom forms and intersection theory. Applications to differential topology."
+        ],
+        [
+            "inst",
+            [
+                "V. W. Guillemin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.965 Geometry of Manifolds I"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.101, 18.950, or 18.952"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Differential forms, introduction to Lie groups, the DeRham theorem, Riemannian manifolds, curvature, the Hodge theory. 18.966 is a continuation of 18.965 and focuses more deeply on various aspects of the geometry of manifolds. Contents vary from year to year, and can range from Riemannian geometry (curvature, holonomy) to symplectic geometry, complex geometry and Hodge-Kahler theory, or smooth manifold topology. Prior exposure to calculus on manifolds, as in 18.952, recommended."
+        ],
+        [
+            "inst",
+            [
+                "W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.966 Geometry of Manifolds II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.965"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Continuation of 18.965, focusing more deeply on various aspects of the geometry of manifolds. Contents vary from year to year, and can range from Riemannian geometry (curvature, holonomy) to symplectic geometry, complex geometry and Hodge-Kahler theory, or smooth manifold topology."
+        ],
+        [
+            "inst",
+            [
+                "T. Colding"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.968 Topics in Geometry"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.965"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year."
+        ],
+        [
+            "inst",
+            [
+                "P. Seidel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.979 Graduate Geometry Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Content varies from year to year. Study of classical papers in geometry and in applications of analysis to geometry and topology."
+        ],
+        [
+            "inst",
+            [
+                "T. Mrowka"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.994 Seminar in Geometry"
+        ],
+        [
+            "prerec",
+            "Prereq: (18.06, 18.700, or 18.701) and (18.100A, 18.100B, 18.100P, or 18.100Q)"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students present and discuss subject matter taken from current journals or books. Topics vary from year to year. Instruction and practice in written and oral communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Q. Deng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.999 Research in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of graduate-level topics in mathematics under the supervision of a member of the department. For graduate students desiring advanced work not provided in regular subjects."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.C20[J] Introduction to Computational Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.C20[J], 16.C20[J], CSE.C20[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=8.01\" title=\"8.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.01');\">8.01</a> and <a href=\"/search/?P=18.01\" title=\"18.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.01');\">18.01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.C20[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. L. Darmofal",
+                "N. Seethapathi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.C25[J] Real World Computation with Julia (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.C25[J], 6.C25[J], 12.C25[J], 16.C25[J], 22.C25[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>, <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on algorithms and techniques for writing and using modern technical software in a job, lab, or research group environment that may consist of interdisciplinary teams, where performance may be critical, and where the software needs to be flexible and adaptable. Topics include automatic differentiation, matrix calculus, scientific machine learning, parallel and GPU computing, and performance optimization with introductory applications to climate science, economics, agent-based modeling, and other areas. Labs and projects focus on performant, readable, composable algorithms, and software. Programming will be in Julia. Expects students to have some familiarity with Python, Matlab, or R. No Julia experience necessary."
+        ],
+        [
+            "inst",
+            [
+                "A. Edelman",
+                "R. Ferrari",
+                "B. Forget",
+                "C. Leiseron,Y. Marzouk",
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in mathematics. Permission required in advance to register for this subject. For further information, consult the departmental coordinator."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of a Ph.D. thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Information: W. Minicozzi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S096 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S097 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to departmental approval. 18.S097 is graded P/D/F."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S190 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S191 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S995 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of advanced subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the mathematics faculty on an ad hoc basis, subject to departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S996 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of advanced subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to Departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S997 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of advanced subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to Departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "18.S998 Special Subject in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of advanced subjects in mathematics not otherwise included in the curriculum. Offerings are initiated by members of the Mathematics faculty on an ad hoc basis, subject to departmental approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

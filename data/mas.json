@@ -1,0 +1,1880 @@
+[
+    "Media Arts and Sciences (MAS)",
+    [
+        "head",
+        "Undergraduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.131 Computational Camera and Photography"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.531"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the complete pipeline of computational cameras that attempt to digitally capture the essence of visual information by exploiting the synergistic combination of task-specific optics, illumination, sensors, and processing. Students discuss and use thermal, multi-spectral, high-speed and 3-D range-sensing cameras, as well as camera arrays. Presents opportunities in scientific and medical imaging, and mobile phone-based photography. Also covers cameras for human computer interaction (HCI) and sensors that mimic animal eyes. Intended for students with interest in algorithmic and technical aspects of imaging and photography. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Raskar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.132 Mathematical Methods in Imaging"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.532"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the landscape of imaging techniques and develops skills for conducting imaging research. Reviews technical and social aspects of the evolving camera culture and considers its role in transforming social interactions, reshaping businesses, and influencing communities worldwide. Explores innovative protocols for sharing and consumption of visual media, as well as novel hardware and software tools based on advanced lenses, digital illumination, modern sensors, and emerging image-analysis algorithms. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Raskar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.240 Black Mobility and Safety: From Birth to Walking in the US"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.740"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "One of two related subjects which explore physical, mental, socio-economic, political, and other issues related to mobility and safety for Black Americans through words, images, and sounds that reference social science and anti-racist research. Topics include birth, breathing, sleeping, eating, and walking while Black. Weekly meetings include private group discussions on assigned materials, public lectures from guests ranging from designers and urban planners to activists and social scientists, and private individual presentations for the group. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "E. Ijeoma"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.241 Black Mobility and Safety: From Loving to Learning in the US"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.741"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "One of two related subjects which explore physical, mental, socio-economic, political, and other issues related to mobility and safety for Black Americans through words, images, and sounds that reference social science and anti-racist research. Topics include learning, voting, driving, working, and loving while Black. Weekly meetings include private group discussions on assigned materials, public lectures from guests ranging from designers and urban planners to activists and social scientists, and private individual presentations for the group. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "E. Ijeoma"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.342 Safeguarding the Future"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.842"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Leading experts guide discussions of how to safeguard the world against the greatest threats to our future. Topics range from the overt perils of pandemic and nuclear proliferation to the underlying coordination failures responsible for climate change, and from technological stagnation to transformative AI. Draws on the history of invention and science communication to explore which technologies are most likely to shape the future and how inventors and developers can influence outcomes, with the goal of determining how to accomplish as much good as possible. Emphasizes science writing and communication. Students write three op-eds on key issues and participate in a group project aiming to coordinate effective action. Students taking the graduate version complete additional work."
+        ],
+        [
+            "inst",
+            [
+                "K. Esvelt",
+                "M. Specter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.453[J] Mobile and Sensor Computing"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.1820[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1800\" title=\"6.1800\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1800');\">6.1800</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.1820[J]."
+        ],
+        [
+            "inst",
+            [
+                "H. Balakrishnan",
+                "S. Madden",
+                "F. Adib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.490 Independent Study in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Special projects on group or individual basis. Registration subject to prior arrangement of subject matter and supervision by staff."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.491 Independent Study in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Special projects on group or individual basis. Registration subject to prior arrangement of subject matter and supervision by staff."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.UR Undergraduate Research in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual or group study, research, or laboratory investigations under faculty supervision, including individual participation in an ongoing research project. See UROP coordinator for further information"
+        ],
+        [
+            "inst",
+            [
+                "MAS Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.URG Undergraduate Research in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual or group study, research, or laboratory investigations under faculty supervision, including individual participation in an ongoing research project. See UROP coordinator for further information."
+        ],
+        [
+            "inst",
+            [
+                "MAS Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Graduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.531 Computational Camera and Photography"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.131"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the complete pipeline of computational cameras that attempt to digitally capture the essence of visual information by exploiting the synergistic combination of task-specific optics, illumination, sensors, and processing. Students discuss and use thermal, multi-spectral, high-speed and 3-D range-sensing cameras, as well as camera arrays. Presents opportunities in scientific and medical imaging, and mobile phone-based photography. Also covers cameras for human computer interaction (HCI) and sensors that mimic animal eyes. Intended for students with interest in algorithmic and technical aspects of imaging and photography. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Raskar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.532 Mathematical Methods in Imaging"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.132"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the landscape of imaging techniques and develops skills for conducting imaging research. Reviews technical and social aspects of the evolving camera culture and considers its role in transforming social interactions, reshaping businesses, and influencing communities worldwide. Explores innovative protocols for sharing and consumption of visual media, as well as novel hardware and software tools based on advanced lenses, digital illumination, modern sensors, and emerging image-analysis algorithms. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Raskar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.552[J] City Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.557[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on architectural and mobility interventions that respond to changing patterns of living, working, and transport. Emphasizes mass-customized housing, autonomous parking, charging infrastructure, and shared-use networks of lightweight electric vehicles (LEVs). Students work in small teams and are lead by researchers from the Changing Places group. Projects focus on the application of these ideas to case study cities and may include travel. Invited guests from academia and industry participate. Repeatable for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "K. Larson",
+                "R. Chin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.600 Human 2.0"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers principles underlying current and future technologies for cognitive, emotional and physical augmentation. Focuses on using anatomical, biomechanical, neuromechanical, biochemical and neurological models of the human body to guide the designs of augmentation technology for persons with either unusual or normal physiologies that wish to extend their cognitive, emotion, social or physical capability to new levels. Topics include robotic exoskeletons and powered orthoses, external limb prostheses, neural implant technology, social-emotional prostheses, and cognitive prostheses. Requires student presentations, critiques of class readings, and a final project including a publication-quality paper. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "H. Herr"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.630 Advanced Seminar: Affective Computing and Ethics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Instructs students on how to develop artificial intelligence technologies that help people measure and communicate emotion, that respectfully read and that intelligently respond to emotion, and that have internal mechanisms inspired by the useful roles emotions play in humans.  Students will also discuss ethical questions that arise with the use of emotion-AI technologies and how to prevent misuse.  Topics vary from year to year, and may include the interaction of emotion with cognition and perception; the communication of human emotion via face, voice, physiology, and behavior; construction of computers, agents, and robots having skills of emotional intelligence; the role of emotion in decision-making and learning; and ethical uses of affective technologies for education, autism, health, and market research applications. Weekly reading, discussion, and a term project required. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. W. Picard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.664[J] AI for Impact: Solving Societal-Scale Problems"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.376[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar promotes internal and external entrepreneurship, based on artificial intelligence (AI) technologies, to increase understanding of how digital innovations grow into societal change. Cases illustrate examples of both successful and failed businesses, as well as difficulties in deploying and diffusing products. Explores a range of business models and opportunities enabled by emerging AI innovations. Students craft a business analysis for one of the featured technology innovations. Past analyses have become the basis for research publications, and new ventures. Particular focus on AI and big data, mobile, and the use of personal data."
+        ],
+        [
+            "inst",
+            [
+                "R. Rasksar",
+                "J. Bonsen A. Pentland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.665[J] Global Ventures"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.375[J], EC.731[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar on founding, financing, and building entrepreneurial ventures in developing nations. Challenges students to craft enduring and economically viable solutions to the problems faced by these countries. Cases illustrate examples of both successful and failed businesses, and the difficulties in deploying and diffusing products and services through entrepreneurial action. Explores a range of established and emerging business models, as well as new business opportunities enabled by innovations emerging from MIT labs and beyond. Students develop a business plan executive summary suitable for submission in the MIT $100K Entrepreneurship Competition's Accelerate Contest or MIT IDEAS."
+        ],
+        [
+            "inst",
+            [
+                "J. Bonsen",
+                "A. Pentland",
+                "R. Raskar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.690 Independent Study in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a faculty member. Registration subject to prior arrangement of subject matter and supervision by staff."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.712 Learning Creative Learning"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An introduction to the design of technologies, activities, and communities to support young people in creative learning experiences. Through readings, activities, and group discussions, explores the four P's of creative learning: projects, passion, peers, and play. Draws on examples from the Lifelong Kindergarten group at the MIT Media Lab, including the Scratch programming language and online community. Special focus on how to engage learners from many different backgrounds, with many different interests."
+        ],
+        [
+            "inst",
+            [
+                "M. Resnick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.740 Black Mobility and Safety: From Birth to Walking in the US"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.240"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "One of two related subjects which explore physical, mental, socio-economic, political, and other issues related to mobility and safety for Black Americans through words, images, and sounds that reference social science and anti-racist research. Topics include birth, breathing, sleeping, eating, and walking while Black. Weekly meetings include private group discussions on assigned materials, public lectures from guests ranging from designers and urban planners to activists and social scientists, and private individual presentations for the group. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "E. Ijeoma"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.741 Black Mobility and Safety: From Loving to Learning in the US"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.241"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "One of two related subjects which explore physical, mental, socio-economic, political, and other issues related to mobility and safety for Black Americans through words, images, and sounds that reference social science and anti-racist research. Topics include learning, voting, driving, working, and loving while Black. Weekly meetings include private group discussions on assigned materials, public lectures from guests ranging from designers and urban planners to activists and social scientists, and private individual presentations for the group. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Ijeoma"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.750 Human-Robot Interaction"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth exploration of the leading research, design principles, and technical challenges in human-robot interaction (HRI), with an emphasis on socially interactive robots. Topics include mixed-initiative interaction, multi-modal interfaces, face-to-face communication, human-robot teamwork, social learning, aspects of social cognition, and long-term interaction. Applications of these topics to the development of personal robots for health, education, elder care, domestic assistance, and other domains will be surveyed. Requires student presentations, critiques of class readings, student projects, and a final project including a publication quality paper."
+        ],
+        [
+            "inst",
+            [
+                "C. Breazeal"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.771 Autism Theory and Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Illuminates current theories about autism together with challenges faced by people on the autism spectrum. Theories in communicating, interacting socially, managing cognitive and affective overload, and achieving independent lifestyles are covered. In parallel, the course presents state-of-the-art technologies being developed for helping improve both theoretical understanding and practical outcomes. Participants expected to meet and interact with people on the autism spectrum. Weekly reading, discussion, and a term project required. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. Picard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.772 AI for Mental Health"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction about behaviors and technologies that promote good mental health and foster resilience to stress and anxiety. Covers AI and smart technologies used in diagnosing, monitoring, and treating mental disorders. Students develop a project of their choosing on the topic, which may include novel technology design and evaluation, human subjects studies, machine learning and data analysis, or other investigations that propose and evaluate new ways to use AI for improving mental health. Enrollment limited; preference to MAS and other MIT students in their final year."
+        ],
+        [
+            "inst",
+            [
+                "R. Picard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.790 Independent Study in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a faculty member. Registration subject to prior arrangement of subject matter and supervision by staff."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.808 Decoders 2.0: Microfabricated Devices"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores various microfabricated device layouts and their impacts on the world through guest lectures. Follows with literature review wherein students compose a summary paper based on representative papers published by the guest lecturers. As a final project, students write and publish on the class website a comprehensive perspective article based on guest lectures. May be repeated for credit with permission of instructor. Limited to 10; preference to Media Arts and Sciences students."
+        ],
+        [
+            "inst",
+            [
+                "C. Dagdeviren"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.809 Decoders 1.9: Introduction to Microfabrication"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures along with cleanroom lab sessions (in Conformable Decoders' YellowBox) provide exposure to cleanroom processes and microfabrication techniques. Builds practical experience with all five components of the microfabrication techniques, including cleaning, deposition, patterning, etching, and testing. Working in small teams, students complete a midterm project in which they create a video of a microfabrication process demonstrated in the cleanroom. As a final project, students identify a problem that would be tackled with a collective device fabricated in the cleanroom in following semester. Students work throughout the term to develop a class booklet of microfabrication terms. Limited to 10 students, no listeners."
+        ],
+        [
+            "inst",
+            [
+                "C. Dagdeviren"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.810 Decoders 1.8: Project Realization in Cleanroom"
+        ],
+        [
+            "prerec",
+            "Prereq: MAS.809 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Builds on the combination of knowledge and skills learned in D1.0 and D1.7, respectively to guide students to develop their own mechanically adaptive (i.e., stretchable & flexible) piezoelectric systems. Students write an article about their research findings that will be published on the course website by the end of term. Instructs how to do literature review, to compose clear and concise sentences to describe findings, and to write a perspective article in a collective manner. Limited to 10; no listeners."
+        ],
+        [
+            "inst",
+            [
+                "C. Dagdeviren"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.825[J] Musical Aesthetics and Media Technology"
+        ],
+        [
+            "prerec",
+            "Same subject as 21M.580[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "In-depth exploration of contemporary concepts in music and media. Studies recent music that uses advanced technology, and the artistic motivations and concerns implied by the new media. Practical experience with computer music technology, including MIDI and post-MIDI systems. Special emphasis on the interactive systems for professionals as well as amateurs. Midterm paper and term project required."
+        ],
+        [
+            "inst",
+            [
+                "T. Machover"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.826[J] Projects in Media and Music"
+        ],
+        [
+            "prerec",
+            "Same subject as 21M.581[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=MAS.825\" title=\"MAS.825[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'MAS.825');\">MAS.825[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Current computer music concepts and practice. Project-based work on research or production projects using the Media Lab's computer music, interactive, and media resources. Requires significant studio work and a term project. Projects based on class interests and skills, and may be individually or group-based. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "T. Machover"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.834 Tangible Interfaces"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores design issues surrounding tangible user interfaces, a new form of human-computer interaction. Tangible user interfaces seek to realize seamless interfaces between humans, digital information, and the physical environment by giving physical form to digital information and computation, making bits directly manipulable with hands and perceptible at the periphery of human awareness. In the design studio environment, students explore experimental tangible interface designs, theories, applications, and underlying technologies, using concept sketches, posters, physical mockups, and working prototypes."
+        ],
+        [
+            "inst",
+            [
+                "H. Ishii"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.836 Sensor Technologies for Interactive Environments"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A broad introduction to a host of sensor technologies, illustrated by applications drawn from human-computer interfaces and ubiquitous computing. After extensively reviewing electronics for sensor signal conditioning, the lectures cover the principles and operation of a variety of sensor architectures and modalities, including pressure, strain, displacement, proximity, thermal, electric and magnetic field, optical, acoustic, RF, inertial, and bioelectric. Simple sensor processing algorithms and wired and wireless network standards are also discussed. Students are required to complete written assignments, a set of laboratories, and a final project."
+        ],
+        [
+            "inst",
+            [
+                "J. Paradiso"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.837 Principles of Electronic Music Interfaces"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the ways in which electronic music is controlled and performed. A solid historical perspective is presented, tracing the development of various families of electronic musical controllers and instruments from their genesis in the late 1800s onwards. Design principles and engineering detail are also given for various current and classic controllers. Evolving issues in the control of computer music for live performance and interactive installations are discussed, including computer mapping of sensor signals and transduced gesture onto sound, music, and other media. Weekly reading assignments are given, and a final project or paper is required."
+        ],
+        [
+            "inst",
+            [
+                "J. Paradiso"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.838[J] Prototyping our Sci-Fi Space Future: Designing & Deploying Projects for Zero Gravity Flights"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.88[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Instruction in project development, prototyping, and deployment readiness for parabolic flights. Admitted student teams are offered flyer and project-deployment slots on the Space Exploration Initiative's spring parabolic flight, upon successful completion of the course in the fall and integration with the flight provider. Covers three main topic areas: 1) rapid prototyping and engineering skills to prepare projects for operation in microgravity; 2) logistics, training, and safety pre-approval steps to meet flight readiness requirements and pass a Technical Readiness Review (TRR); and 3) creative and technical lenses for the future of space exploration, examining the MIT Space Exploration Initiative's design and prototyping approach, and MIT parabolic flight research examples across Science, Engineering, Art, and Design, and across departments. Enrollment limited; admission by application."
+        ],
+        [
+            "inst",
+            [
+                "J. Paradiso",
+                "A. Ekblaw"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.839[J] Operating in the Lunar Environment"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.839[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores in detail the design and engineering challenges posed by operating in the lunar environment. Students work in teams to design a payload to address strategic objectives associated with NASA's Artemis program, aiming to enable near-term sustainable settlements on the lunar surface. Lectures and associated recitations explore varying mission goals and operating environments, from lunar-class launch, to orbiters, landers, rovers, and habitats. Guest lecturers include prominent engineers, scientists, industry players, and policymakers with direct experience in lunar mission design and development. Enrollment limited; admission by application."
+        ],
+        [
+            "inst",
+            [
+                "J. Hoffman",
+                "A. Ekblaw"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.841 Evolution: Natural and Directed"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics in molecular evolution, including mutation, recombination, evolvability, sexual reproduction and substitutes, experimental and directed evolution, genomic conflict, and gene drive. Features discussion-based critical analyses of the primary literature. At the end of the term, students prepare short research proposals emphasizing research strategy, experimental design, presentation, and writing. They also write a short grant proposal or manuscript intended for publication."
+        ],
+        [
+            "inst",
+            [
+                "K. Esvelt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.842 Safeguarding the Future"
+        ],
+        [
+            "prerec",
+            "Subject meets with MAS.342"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Leading experts guide discussions of how to safeguard the world against the greatest threats to our future. Topics range from the overt perils of pandemic and nuclear proliferation to the underlying coordination failures responsible for climate change, and from technological stagnation to transformative AI. Draws on the history of invention and science communication to explore which technologies are most likely to shape the future and how inventors and developers can influence outcomes, with the goal of determining how to accomplish as much good as possible. Emphasizes science writing and communication. Students write three op-eds on key issues and participate in a group project aiming to coordinate effective action. Students taking the graduate version complete additional work."
+        ],
+        [
+            "inst",
+            [
+                "K. Esvelt",
+                "M. Specter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.858[J] Asking How Space Enabled Designs Advance Justice and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.857[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines theoretical and practical challenges of applying complex technology, such as space systems, to advance justice and development within human society. Proposes and critiques a concept of justice and development based on attainment of the US Sustainable Development Goals. Analyzes text by historians and economists around global patterns of uneven technology access. Teaches systems engineering tools to analyze the context, stakeholders, functions and forms of complex systems that impact society. Presents six space technologies used for specific Sustainable Development Goal. Students read several text, discuss key themes, write reflective responses, and write a research proposal on a topic of their choice. Part of two-class series on space technology and sustainable development. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "D. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.859 Space Technology for the Development Leader"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Follow on to MAS.858[J]. Introduces intersections between space technology and sustainable development by examining technical, policy and social aspects of seven space technologies: satellite earth observation; satellite communication; satellite positioning; human space flight and micro gravity research; space technology transfer; fundamental scientific space research; and small satellites. Lectures introduce the UN Sustainable Development Goals and show linkages to seven space technologies from the perspective of development practitioners. Students read scholarly papers, write weekly responses, give presentations, and write a research paper."
+        ],
+        [
+            "inst",
+            [
+                "D. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.862 The Physics of Information Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Self-contained introduction to the governing equations for devices that collect, store, manipulate, transmit and present information. Provides an understanding of how operational device principles work, their uses, the limits on their performance, and how they might be improved. Students review the foundations of thermodynamics and noise, electromagnetics, and the quantum description of materials, and then study their application in areas such as semiconductor logic, magnetic storage, wireless and optical communications, and quantum information and computation."
+        ],
+        [
+            "inst",
+            [
+                "N. Gershenfeld"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.863[J] How to Make (Almost) Anything"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.140[J], 6.9020[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a practical hands-on introduction to digital fabrication, including CAD/CAM/CAE, NC machining, 3-D printing and scanning, molding and casting, composites, laser and waterjet cutting, PCB design and fabrication; sensors and actuators; mixed-signal instrumentation, embedded processing, and wired and wireless communications. Develops an understanding of these capabilities through projects using them individually and jointly to create functional systems."
+        ],
+        [
+            "inst",
+            [
+                "N. Gershenfeld",
+                "J. DiFrancesco",
+                "J. Lavallee",
+                "G. Darcey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.864 The Nature of Mathematical Modeling"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the range of levels of description for mathematical modeling, including analytical solutions and approximations for difference and differential equations; finite difference, finite element, and discrete element numerical models; stochastic processes, nonlinear function fitting, constrained optimization, and machine learning architectures. Emphasis is on how these methods relate, and on their efficient practical implementation."
+        ],
+        [
+            "inst",
+            [
+                "N. Gershenfeld"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.865 Rapid-Prototyping of Rapid-Prototyping Machines: How to Make Something that Makes (Almost) Anything"
+        ],
+        [
+            "prerec",
+            "Prereq: MAS.863[J] or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Studies rapid-prototyping machines and covers the theory and practice of digital fabrication processes. Weekly lectures supported by readings from research literature. Students work on machine development projects throughout the term."
+        ],
+        [
+            "inst",
+            [
+                "N. Gershenfeld"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.881[J] Principles of Neuroengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.422[J], 20.452[J]\nSubject meets with 20.352"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers how to innovate technologies for brain analysis and engineering, for accelerating the basic understanding of the brain, and leading to new therapeutic insight and inventions. Focuses on using physical, chemical and biological principles to understand technology design criteria governing ability to observe and alter brain structure and function. Topics include optogenetics, noninvasive brain imaging and stimulation, nanotechnologies, stem cells and tissue engineering, and advanced molecular and structural imaging technologies. Includes design projects. Designed for students with engineering maturity who are ready for design. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. S. Boyden",
+                "III"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.883[J] Revolutionary Ventures: How to Invent and Deploy Transformative Technologies"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.455[J], 15.128[J], 20.454[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar on envisioning and building ideas and organizations to accelerate engineering revolutions. Focuses on emerging technology domains, such as neurotechnology, imaging, cryotechnology, gerontechnology, and bio-and-nano fabrication. Draws on historical examples as well as live case studies of existing or emerging organizations, including labs, institutes, startups, and companies. Goals range from accelerating basic science to developing transformative products or therapeutics. Each class is devoted to a specific area, often with invited speakers, exploring issues from the deeply technical through the strategic. Individually or in small groups, students prototype new ventures aimed at inventing and deploying revolutionary technologies."
+        ],
+        [
+            "inst",
+            [
+                "E. Boyden",
+                "J. Bonsen",
+                "J. Jacobson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.885 How To Grow (Almost) Anything (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Teaches skills at the cutting edge of bioengineering and synthetic biology. Taught in three major modules: synthetic biology bootcamp, biofabrication and imaging, and genome engineering. Guest lecturers provide expertise in their respective domains and wet lab skills development. Topics include bio design, next generation synthesis, bio production, protein design, synthetic minimal cells, engineering the gut microbiome, 3D bio printing & biofabrication, expansion microscopy, and DNA nanostructures. Students should have experience or background in at least one of the following areas: synthetic biology, molecular, cell, or micro-biology, digital fabrication, design, or art. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "J. Jacobson",
+                "D. Kong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.890 Independent Study in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a faculty member. Registration subject to prior arrangement of subject matter and supervision by staff."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.910 Research in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For research assistants in Media Arts and Sciences, where the assigned research is approved for academic credit by the department."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.912 Teaching in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory, tutorial, or classroom teaching under the supervision of a Media Arts and Sciences faculty member. Students selected by interview. Enrollment limited by availability of suitable teaching assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.914 Practical Experience in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Media Arts and Sciences masters students participating in curriculum-related off-campus professional internship experiences. Before enrolling, students must have an employment offer from a company or organization and approval from their advisor. Subject to departmental approval. Upon completion of the activity the student must submit a write-up of the experience, approved by the MIT supervisor. Consult the MAS Office for details on procedures and restrictions."
+        ],
+        [
+            "inst",
+            [
+                "MAS Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.915 Practical Experience in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Media Arts and Sciences doctoral students participating in curriculum-related off-campus professional internship experiences. Before enrolling, students must have an employment offer from a company or organization and approval from their advisor. Subject to departmental approval. Upon completion of the activity the student must submit a write-up of the experience, approved by the MIT supervisor. Consult the MAS Office for details on procedures and restrictions."
+        ],
+        [
+            "inst",
+            [
+                "MAS Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.921 Proseminar in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed specifically for new doctoral students in the Media Arts and Sciences (MAS) program. Explores intellectual foundations of MAS, unifying themes connecting MAS research, and working practices of MAS researchers. Restricted to MAS doctoral students."
+        ],
+        [
+            "inst",
+            [
+                "J. Paradiso"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.940 Preparation for SM Thesis I"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For first-year master's students in the MAS program. Features faculty-led discussions on best practices for conducting and evaluating research in diverse disciplines, ways of assessing the consequences of new technologies, and strategies for mitigating unintended outcomes. Working in small groups, students share and critique research ideas to catalyze and refine projects and collaborations. By the end of the course, students will have identified potential committee members to help guide their thesis research."
+        ],
+        [
+            "inst",
+            [
+                "K. Esvelt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.941 Preparation for SM Thesis II"
+        ],
+        [
+            "prerec",
+            "Prereq: MAS.940 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Guides students in the selection of thesis topic, definition of method of approach, and preparation for Crit Day and thesis proposal."
+        ],
+        [
+            "inst",
+            [
+                "K.  Esvelt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.945 Media Arts and Sciences General Exam"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Selected readings for Media Arts and Sciences doctoral students in preparation for their qualifying exams."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.950 Preparation for Ph.D. Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Selects thesis subject, defines method of approach, and prepares preliminary thesis outline. Independent study, supplemented by frequent individual conferences with staff members. Restricted to doctoral candidates."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S10 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "MAS Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S60-MAS.S64 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S65-MAS.S69 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S70 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S71 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S72 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S73 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S74 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S75 Special Subject in Media Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S76 Special Subject in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.S90 Special Subject in Media Arts and Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Supplementary work in areas not covered by the regular curriculum. Registration subject to prior arrangement."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "MAS.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research and writing of thesis; to be arranged by the student with supervising committee."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

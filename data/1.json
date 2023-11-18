@@ -1,0 +1,5430 @@
+[
+    "Civil and Environmental Engineering (Course 1)",
+    [
+        "head",
+        "Fundamentals"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.00 Engineering Computation and Data Science"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.001"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Presents engineering problems in a computational setting with emphasis on data science and problem abstraction. Covers exploratory data analysis and visualization, filtering, regression. Building basic machine learning models (classifiers, decision trees, clustering) for smart city applications. Labs and programming projects focused on analytics problems faced by cities, infrastructure, and environment. Students taking graduate version complete additional assignments and project work."
+        ],
+        [
+            "inst",
+            [
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.000 Introduction to Computer Programming and Numerical Methods for Engineering Applications"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.03"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the fundamentals of computing and computer programming (procedural and object-oriented programming) in an engineering context. Introduces logical operations, floating-point arithmetic, data structures, induction, iteration, and recursion. Computational methods for interpolation, regression, root finding, sorting, searching, and the solution of linear systems of equations and ordinary differential equations. Control of sensors and visualization of scientific data. Draws examples from engineering and scientific applications. Students use the MATLAB programming environment to complete weekly assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Juanes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.001 Engineering Computation and Data Science"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.00"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Presents engineering problems in a computational setting with emphasis on data science and problem abstraction. Covers exploratory data analysis and visualization, filtering, regression. Building basic machine learning models (classifiers, decision trees, clustering) for smart city applications. Labs and programming projects focused on analytics problems faced by cities, infrastructure and environment. Students taking graduate version will complete additional assignments and project work."
+        ],
+        [
+            "inst",
+            [
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.004 Startup Sustainable Tech"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.147"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a practical introduction to key innovations in the fields of civil and environmental engineering that are currently having an impact. Structured around the different aspects of starting and maintaining a company in the first years after incorporation. Key topics include idea protection, team formation, and seed funds. Guest speakers who are involved in the startup process or are successful entrepreneurs present. Under faculty supervision, students work on case studies in areas such as renewable energy, sustainable design, food security, climate change, new infrastructures, and transportation. Concludes with the writing of a SBIR/STTR-type grant or business model. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. Marelli"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.005 Experiential Sustainability"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the frameworks, governance, science, and social science of sustainability around students' summer internships, research, and other experiential learning activities. During the summer (virtually) and through the first four weeks of the fall term, students engage in small group discussions on diverse topics in sustainability, from environmental justice to corporate social responsibility. Includes global climate action negotiation simulation activities, roundtables with experts in sustainability, and/or similar opportunities for interaction with broad topics in sustainability. In the fall, students reflect on their engagement with sustainability during their summer experience, culminating in a showcase of final presentations. Students planning to take this subject must apply in the spring; consult the program website for details."
+        ],
+        [
+            "inst",
+            [
+                "D. Plata"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.006 Tools for Sustainable Design"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Conveys the principles, tools, and practice of environmentally sustainable design. Augments understanding of societal limitations to implementation of sustainable solutions, such that they may be strategically navigated. Presents the arguments and historical motivation for early evaluation of environmental impact metrics; illustrates and utilizes modern, rigorous tools for environmental optimization; and highlights national and global experts drawn from non-governmental organizations (NGOs), government, industry, and academia. Provides an overview of the principles of Green Chemistry and Engineering, Life Cycle Analysis, toxicity prediction, and basic chemical and materials flows knowledge."
+        ],
+        [
+            "inst",
+            [
+                "D. Plata"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.008 Engineering for a Sustainable World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces engineering principles for sustainable development of infrastructure, environmental, and societal systems. Faculty members discuss case studies that highlight challenges and opportunities in the areas of smart cities, cyber-physical systems (transportation, electricity, and societal networks), sustainable resource management (land, water, and energy), and resilient design under the changing environment. Instruction covers the use of computation and data analytics for generating insights, and exercises designed to promote systems thinking and problem-solving skills. Subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "S. Amin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.009 Climate Change"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to global climate change processes, drivers, and impacts. Offers exposure to exciting MIT research on climate change. Students explore why and how the world should solve this global problem and how they can contribute to the solutions. Students produce a mini-project on the topic. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "E. Eltahir"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.010 Probability and Causal Inference"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces probability and causal inference with an emphasis on understanding, quantifying, and modeling uncertainty and cause-effect relationships in an engineering context. Topics in the first half include events and their probability, the total probability and Bayes' theorems, discrete and continuous random variables and vectors, and conditional analysis. Topics in the second half include covariance, correlation, regression analysis, causality analysis, structural causal models, interventions, and hypothesis testing. Concepts illustrated through data and applications. credit cannot also be received for 1.010A or 1.010B."
+        ],
+        [
+            "inst",
+            [
+                "S. Saavedra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.010A Probability: Concepts and Applications (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces probability with an emphasis on probabilistic systems analysis. Readings about conceptual and mathematical background are given in advanced of each class. Classes revise background and are centered on developing problem-solving skills. The course is exam-based and focused on the analysis of probabilistic outcomes, estimating what can happen under uncertain environments. Topics include random events and their probability, combinatorial analysis, conditional analysis, random vectors, functions of random vectors, propagation of uncertainty, and prediction analysis. Credit cannot also be received for 1.010."
+        ],
+        [
+            "inst",
+            [
+                "S. Saavedra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.010B Causal Inference for Data Analysis (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.010A or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces causal inference with an emphasis on probabilistic systems analysis. Readings about conceptual and mathematical background are given in advanced of each class. Class is focused on understanding theory based on real-world applications. The course is project-based and focused on cause-effect relationships, understanding why probabilistic outcomes happen. Topics include correlation analysis, Reichenbach's principle, Simpson's paradox, structural causal models and graphs, interventions, do-calculus, average causal effects, dealing with missing information, mediation, and hypothesis testing. Credit cannot also be received for 1.010."
+        ],
+        [
+            "inst",
+            [
+                "S. Saavedra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.013 Senior Civil and Environmental Engineering Design"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students engage with faculty around a topic of mutual interest, building on the knowledge/skills gained throughout their program. Synthesizes prior coursework and experiences through a semester-long design project and related assignments. Students form teams and work on projects advised by faculty representatives from each core in the 1-ENG curriculum. Teams demonstrate creativity in applying theories and methodologies while considering their project's technical, environmental and social feasibility. Includes lectures on a variety of related engineering concepts, as well as scholarship and engineering practice and ethics. Provides instruction and practice in oral and written communication."
+        ],
+        [
+            "inst",
+            [
+                "J. Carstensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.015[J] Design of Electromechanical Robotic Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.017[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.003\" title=\"2.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.003');\">2.003[J]</a>, <a href=\"/search/?P=2.016\" title=\"2.016\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.016');\">2.016</a>, and <a href=\"/search/?P=2.678\" title=\"2.678\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.678');\">2.678</a>; <i>Coreq: <a href=\"/search/?P=2.671\" title=\"2.671\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.671');\">2.671</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.017[J]. Enrollment may be limited due to laboratory capacity."
+        ],
+        [
+            "inst",
+            [
+                "M. Triantafyllou",
+                "M. Sacarny"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.016[J] Design for Complex Environmental Issues"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.00C[J], EC.746[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.00C[J]. Limited to first-year students. Open to students outside of Terrascope."
+        ],
+        [
+            "inst",
+            [
+                "A. W. Epstein",
+                "J. Grimm",
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.018[J] Fundamentals of Ecology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.30[J], 12.031[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of ecology, considering Earth as an integrated dynamic living system. Coevolution of the biosphere and geosphere, biogeochemical cycles, metabolic diversity, primary productivity, competition and the niche, trophic dynamics and food webs, population growth and limiting factors. Population modeling, global carbon cycle, climate change, geoengineering, theories of resource competition and mutualism, allometric scaling, ecological genomics, niche theory, human population growth. Applied ecology."
+        ],
+        [
+            "inst",
+            [
+                "M. Follows",
+                "D. Des Marais"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.020 Engineering Sustainability: Analysis and Design"
+        ],
+        [
+            "prerec",
+            "Prereq: Physics I (GIR), 18.03, and (1.00 or 1.000)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces a systems approach to modeling, analysis, and design of sustainable systems. Covers principles of dynamical systems, network models, optimization, and control, with applications in ecosystems, infrastructure networks, and energy systems. Includes a significant programming component. Students implement and analyze numerical models of systems, and make design decisions to balance physical, environmental, and economic considerations based on real and simulated data."
+        ],
+        [
+            "inst",
+            [
+                "S. Amin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.021 Introduction to Modeling and Simulation"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.021, 3.021, 10.333, 22.00"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>,  3.016B, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.021."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler",
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.022 Introduction to Network Models"
+        ],
+        [
+            "prerec",
+            "Prereq: (1.010, 18.03, and (1.00 or 1.000)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to complex networks, their structure, and function, with examples from engineering, applied mathematics and social sciences. Topics include spectral graph theory, notions of centrality, random graph models, contagion phenomena, cascades and diffusion, and opinion dynamics."
+        ],
+        [
+            "inst",
+            [
+                "A. Jadbabaie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.032 Advanced Soil Mechanics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.361"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.037\" title=\"1.037\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.037');\">1.037</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics in the characterization and nature of soils as multi-phase materials; the principle of effective stress; hydraulic conductivity and groundwater seepage; shear strength and stability analyses; stress-deformation properties, consolidation theory and calculation of settlements for clays and sands. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. Whittle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.035 Mechanics of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.535"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.050\" title=\"1.050\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.050');\">1.050</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the structure and properties of natural and manufactured building materials, including rheology elasticity, fracture mechanics, viscoelasticity and plasticity. Emphasizes effects of molecular and nanoscopic structure and interactions on macroscopic material behavior. Focuses on design of natural and structural materials. Discusses material aspects of sustainable development. Presents principles of experimental characterization techniques. Explores microscopic and macroscopic mechanical approaches to characterize structure and properties of materials. In laboratory and in-field sessions, students design and implement experimental approaches to characterize natural and building materials and study their interaction with the environment. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "F. J. Ulm"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.036 Structural Mechanics and Design"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.035 and 1.050"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Familiarizes students with structural systems, loads, and basis for structural design, including analysis of determinate and indeterminate structures (trusses, beams, frames, cables, and arches). Covers mechanical properties of construction materials, including concrete, steel, and composites. Studies concrete and steel structures through application of principles of structural mechanics. Evaluates behavior and design of reinforced concrete structural elements using limit strength design and serviceability principles. Introduces plastic analysis and design, and load factor design of structural steel members and connections. Team project emphasizes material covered through behavior and problem-based learning."
+        ],
+        [
+            "inst",
+            [
+                "O. Buyukozturk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.037 Soil Mechanics and Geotechnical Design"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to soils as engineering materials, including classification and characterization, pore pressures and seepage, principles of effective stress and consolidation, deformation, and shear strength properties. Surveys analysis methods, with a focus on slope stability, limiting earth pressures and bearing capacity, and settlements of foundations. Examines applications in the design of earth dams, earth retaining systems, foundations, and staged construction processes."
+        ],
+        [
+            "inst",
+            [
+                "A. Whittle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.041[J] Transportation: Foundations and Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.075[J]\nSubject meets with 1.200[J], 11.544[J], IDS.675[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=1.010\" title=\"1.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.010');\">1.010</a> and (<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a> or <a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers core analytical and numerical methods for modeling, planning, operations, and control of transportation systems. Traffic flow theory, vehicle dynamics and behavior, numerical integration and simulation, graphical analysis. Properties of delays, queueing theory. Resource allocation, optimization models, linear and integer programming. Autonomy in transport, Markov Decision Processes, reinforcement learning, deep learning. Applications drawn broadly from land, air, and sea transport; private and public sector; transport of passengers and goods; futuristic, modern, and historical. Hands-on computational labs. Linear algebra background is encouraged but not required. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Wu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.050 Solid Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: Physics I (GIR); Coreq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic principles of mechanics to describe the behavior of materials, structures and fluids. Dimensional analysis, conservation of momentum, static equilibrium, stress and stress states, hydrostatics, moments and forces. Material and structural strength criteria. Deformation and strain. Conservation of energy in solid mechanics, elasticity and elasticity bounds. Energy dissipation, plasticity and fracture. Open-ended geotechnical and structural engineering studio exercises and experiments with natural and man-made physical systems."
+        ],
+        [
+            "inst",
+            [
+                "J. Carstensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.052 Advancing Mechanics and Materials via Machine Learning"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.121[J], 2.174[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a>, <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a>, and (<a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>, <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>, <a href=\"/search/?P=6.100L\" title=\"6.100L\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100L');\">6.100L</a>, or <a href=\"/search/?P=16.C20\" title=\"16.C20[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.C20');\">16.C20[J]</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Concepts in mechanics (solid mechanics: continuum, micro, meso and molecular mechanics; elasticity, plasticity, fracture and buckling) and machine learning (stochastic optimization, neural networks, convolutional neural nets, adversarial neural nets, graph neural nets, recurrent neural networks and long/short-term memory nets, attention models, variational/autoencoders) introduced and applied to mechanics problems. Covers numerical methods, data and image processing, dataset generation, curation and collection, and experimental validation using additive manufacturing. Modules cover: foundations, fracture mechanics and size effects, molecular mechanics and applications to biomaterials (proteins), forward and inverse problems, mechanics of architected materials, and time dependent mechanical phenomena. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.053[J] Dynamics and Control I"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.003[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a>; <i>Coreq: <a href=\"/search/?P=2.087\" title=\"2.087\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.087');\">2.087</a> or <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.003[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. K. Vandiver",
+                "N. C. Makris",
+                "N. M. Patrikalakis",
+                "T. Peacock",
+                "D. Gossard",
+                "K. Turitsyn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.054 Mechanics and Design of Concrete Structures"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.541"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.036\" title=\"1.036\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.036');\">1.036</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Studies strength and deformation of concrete under various states of stress; failure criteria; concrete plasticity; and fracture mechanics concepts. Topics include fundamental behavior of reinforced concrete structural systems and their members; basis for design and code constraints; high-performance concrete materials and their use in innovative design solutions; and yield line theory for slabs. Uses behavior models and nonlinear analysis. Covers complex systems, including bridge structures, concrete shells, and containments. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "O. Buyukozturk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.056[J] Introduction to Structural Design"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.440[J]\nSubject meets with 4.462"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 4.440[J]."
+        ],
+        [
+            "inst",
+            [
+                "Consult J. Carstensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.057 Heritage Science and Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Interdisciplinary, applied introduction to ancient materials and technology. Students explore materials sustainability and durability from multiple perspectives, using ancient societies, architecture and building materials as time-proven examples of innovation in construction. Involves discussions of peer-reviewed literature and cultural heritage, project formulation, data collection, and data analysis. Culminates in presentation of research project(s), and write-ups of the research in manuscript form."
+        ],
+        [
+            "inst",
+            [
+                "A. Masic"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.058 Structural Dynamics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.581[J], 2.060[J], 16.221[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines response of structures to dynamic excitation: free vibration, harmonic loads, pulses and earthquakes. Covers systems of single- and multiple-degree-of-freedom, up to the continuum limit, by exact and approximate methods. Includes applications to buildings, ships, aircraft and offshore structures. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.060 Fluid Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Mechanics principles for incompressible fluids. Review of hydrostatics. Conservation of mass, momentum and energy in fluid mechanics. Flow nets, velocity distributions in laminar and turbulent flows, groundwater flows. Momentum and energy principles in hydraulics, with emphasis on open channel flow and hydraulic structures. Drag and lift forces. Analysis of pipe systems, pumps and turbines. Gradually varied flow in open channels, significance of the Froude number, backwater curves and kinematic waves. Application of principles through open-ended studio exercises. Meets with 1.060A first half of term."
+        ],
+        [
+            "inst",
+            [
+                "B. Marelli"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.060A Fluid Mechanics I"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 18.03; or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Mechanics principles for incompressible fluids. Review of hydrostatics. Conservation of mass, momentum and energy in fluid mechanics. Flow nets, velocity distributions in laminar and turbulent flows, groundwater flows. Momentum and energy principles in hydraulics, with emphasis on open channel flow and hydraulic structures. Meets with 1.060 in first half of term."
+        ],
+        [
+            "inst",
+            [
+                "B. Marelli"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.061 Transport Processes in the Environment"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.61"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060\" title=\"1.060\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060');\">1.060</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to mass transport in environmental flows, with emphasis on river and lake systems. Covers derivation and solutions to the differential form of mass conservation equations, hydraulic models for environmental systems, residence time distribution, molecular and turbulent diffusion for continuous and point sources, boundary layers, dissolution, bed-water exchange, air-water exchange, and particle transport. Meets with 1.061A first half of term. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. M. Nepf"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.061A Transport Processes in the Environment I"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.060A"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to mass transport in environmental flows. Covers derivation and solution to the differential form of mass conservation, hydraulic models for environmental systems, residence time distribution, and molecular and turbulent diffusion for continuous and point sources. Meets with 1.061 first half of term."
+        ],
+        [
+            "inst",
+            [
+                "H. Nepf"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.062[J] Nonlinear Dynamics: Continuum Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.207[J], 18.354[J]\nSubject meets with 18.3541"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.032\" title=\"18.032\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.032');\">18.032</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 18.354[J]."
+        ],
+        [
+            "inst",
+            [
+                "B. Primkulov"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.063 Fluids and Diseases"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.631[J], 2.250[J], HST.537[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Designed for students in engineering and the quantitative sciences who want to explore applications of mathematics, physics and fluid dynamics to infectious diseases and health; and for students in epidemiology, environmental health, ecology, medicine, and systems modeling seeking to understand physical and spatial modeling, and the role of fluid dynamics and physical constraints on infectious diseases and pathologies. The first part of the class reviews modeling in epidemiology and data collection, and highlights concepts of spatial modeling and heterogeneity. The remainder highlights multi-scale dynamics, the role of fluids and fluid dynamics in physiology, and pathology in a range of infectious diseases. The laboratory portion entails activities aimed at integrating applied learning with theoretical concepts discussed in lectures and covered in problem sets. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Bourouiba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.066[J] Fluid Physics"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.292[J], 12.330[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a>, <a href=\"/search/?P=8.044\" title=\"8.044\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.044');\">8.044</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.292[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Bourouiba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.067[J] Energy Systems for Climate Change Mitigation"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.421[J], IDS.065[J]\nSubject meets with 1.670[J], 10.621[J], IDS.521[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a>, <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a>, and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.065[J]. Preference to students in the Energy Studies or Environment and Sustainability minors."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.068 Nonlinear Dynamics and Turbulence"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.686[J], 2.033[J], 18.358[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060A\" title=\"1.060A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060A');\">1.060A</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Reviews theoretical notions of nonlinear dynamics, instabilities, and waves with applications in fluid dynamics. Discusses hydrodynamic instabilities leading to flow destabilization and transition to turbulence. Focuses on physical turbulence and mixing from homogeneous isotropic turbulence. Also covers topics such as rotating and stratified flows as they arise in the environment, wave-turbulence, and point source turbulent flows. Laboratory activities integrate theoretical concepts covered in lectures and problem sets. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Bourouiba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.070A[J] Introduction to Hydrology and Water Resources"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.320A[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060A\" title=\"1.060A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060A');\">1.060A</a>; <i>Coreq: <a href=\"/search/?P=1.061A\" title=\"1.061A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.061A');\">1.061A</a> and <a href=\"/search/?P=1.106\" title=\"1.106\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.106');\">1.106</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Water in the environment; Water resource systems; The hydrologic cycle at its role in the climate system; Surface water and energy balance; evaporation and transpiration through vegetation; Precipitation formation, infiltration, storm runoff, and flood processes; Groundwater aquifers, subsurface flow and the hydraulics of wells."
+        ],
+        [
+            "inst",
+            [
+                "D. Entekhabi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.070B[J] Introduction to Hydrology Modeling"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.320B[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.070A\" title=\"1.070A[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.070A');\">1.070A[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Develops understanding of numerical modeling of aquifers, groundwater flow and contaminant transport, as well as uncertainty and risk analysis for water resources."
+        ],
+        [
+            "inst",
+            [
+                "D. Entekhabi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.071[J] Global Change Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.300[J]\nSubject meets with 1.771"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the basic principles and concepts in atmospheric physics, and climate dynamics, through an examination of: greenhouse gases emissions (mainly CO2), global warming, and regional climate change. Case studies are presented for the regional impacts of climate change on extreme weather, water availability, and disease transmission. Introduction to regional and global environmental problems for students in basic sciences and engineering. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Eltahir"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.072 Groundwater Hydrology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.72"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.061\" title=\"1.061\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.061');\">1.061</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Presents the fundamentals of subsurface flow and transport, emphasizing the role of groundwater in the hydrologic cycle, the relation of groundwater flow to geologic structure, and the management of contaminated groundwater. Topics include Darcy equation, flow nets, mass conservation, the aquifer flow equation, heterogeneity and anisotropy, storage properties, regional circulation, unsaturated flow, recharge, stream-aquifer interaction, well hydraulics, flow through fractured rock, numerical models, groundwater quality, contaminant transport processes, dispersion, decay, and adsorption. Includes laboratory and computer demonstrations. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Harvey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.073 Introduction to Environmental Data Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.010"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers theory and practical methods for the analysis of univariate data sets. Topics include basics of statistical inference, analysis of trends and stationarity; Gaussian stochastic processes, covariance and correlation analysis, and introduction to spectral analysis. Students analyze data collected from the civil, environment, and systems domains."
+        ],
+        [
+            "inst",
+            [
+                "E. Eltahir"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.074 Multivariate Data Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.010"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to statistical multivariate analysis methods and their applications to analyze data and mathematical models. Topics include sampling, experimental design, regression analysis, specification testing, dimension reduction, categorical data analysis, classification and clustering."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.075 Water Resource Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.731"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.070B\" title=\"1.070B[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.070B');\">1.070B[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys optimization and simulation methods for management of water resources. Case studies illustrate linear, quadratic, nonlinear programming and real-time control. Applications include river basin planning, irrigation and agriculture, reservoir operations, capacity expansion, assimilation of remote sensing data, and sustainable resource development. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. McLaughlin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.076 Carbon Management"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.760"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the carbon cycle and \"climate solutions.\" Provides specialized knowledge to manage and offset carbon emissions for government entities and large corporations through nature-based solutions and technology. Students prepare a mini-project simulating the assessment of practices and technologies for removing carbon dioxide from the air for a specific organization, which prepares them to become professionals with the skills to help evaluate and manage carbon emissions. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Terrer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.077 Land, Water, Food, and Climate"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.74"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines land, water, food, and climate in a changing world, with an emphasis on key scientific questions about the connections between natural resources and food production. Students read and discuss papers on a range of topics, including water and land resources, climate change, demography, agroecology, biotechnology, trade, and food security. Supporting information used for background and context includes data and analysis based on government reports, textbooks, and longer peer-reviewed documents not included in the readings. Provides a broad perspective on one of the defining global issues of this century. Students carry out exercises with relevant data sets, write critiques of key issues, and complete a focused term project. Completion of MIT Science Core or equivalent recommended but not required. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. McLaughlin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.080 Environmental Chemistry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.800"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to environmental chemistry, focusing on the fate of chemicals in both natural and engineered systems. Covers equilibrium reactions (e.g., partitioning, dissolution/precipitation, acid-base, redox, metal complexation), and kinetically-controlled reactions (e.g., photolysis, free radical oxidation). Specific environmental topics covered include heavy metals in natural waters, drinking water, and soils; biogeochemical cycles; radioactivity in the environment; smog formation; greenhouse gases and climate change; and engineering for the prevention and remediation of pollution. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Kroll"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.081[J] Environmental Cancer Risks, Prevention, and Therapy"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.104[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a>, <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a>, and <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.104[J]."
+        ],
+        [
+            "inst",
+            [
+                "W. Thilly",
+                "R. McCunney"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.082 Ethics for Engineers"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.082, 2.900, 6.9320, 10.01, 16.676, 22.014\nSubject meets with 6.9321, 20.005"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.01."
+        ],
+        [
+            "inst",
+            [
+                "D. A. Lauffenberger",
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.084[J] Applied Microbiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.106[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> and <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.106[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Niles",
+                "K. Ribbeck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.085[J] Air Pollution and Atmospheric Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.336[J]\nSubject meets with 1.855"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a working knowledge of basic air quality issues, with emphasis on a multidisciplinary approach to investigating the sources and effects of pollution. Topics include emission sources; atmospheric chemistry and removal processes; meteorological phenomena and their impact on pollution transport at local to global scales; air pollution control technologies; health effects; and regulatory standards. Discusses regional and global issues, such as acid rain, ozone depletion and air quality connections to climate change. Students taking graduate version complete additional assignments. Recommended for upper-level undergraduate students."
+        ],
+        [
+            "inst",
+            [
+                "C. Heald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.086 Physics of Renewable Energy Systems and Computational Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.861"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a>, <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a>, and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to renewable energy generation in the context of the energy grid system. Focuses on computational analysis and modeling of energy systems. Topics include the energy grid and energy markets; fossil fuel generation; wind, solar, hydroelectric, and ocean energy; and energy storage. Tools, including computational models of wind energy generation and energy forecasting algorithms, introduced. Final project focuses on the development of low-carbon, low-cost energy systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Howland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.088 Genomics and Evolution of Infectious Disease"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.881[J], HST.538[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> and (<a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a> or <a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a thorough introduction to the forces driving infectious disease evolution, practical experience with bioinformatics and computational tools, and discussions of current topics relevant to public health. Topics include mechanisms of genome variation in bacteria and viruses, population genetics, outbreak detection and tracking, strategies to impede the evolution of drug resistance, emergence of new disease, and microbiomes and metagenomics. Discusses primary literature and computational assignments. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Lieberman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.089 Environmental Microbial Biogeochemistry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.89"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a thorough introduction to biogeochemical cycling from the vantage point of microbial physiology. Emphasizes molecular mechanisms, experimental design and methodology, hypothesis testing, and applications. Topics include aerobic and anaerobic respiration, trace metals, secondary metabolites, redox, plant-microbe interactions, carbon storage, agriculture, and bioengineering. Formal lectures and in-depth discussions of foundational and contemporary primary literature. Students use knowledge of microbial metabolisms to develop final projects on applied solutions to problems in agriculture and biogeochemistry. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. McRose"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.091 Traveling Research Environmental eXperience (TREX): Fieldwork"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to environmental fieldwork and research, with a focus on data collection and analysis. Subject spans three weeks, including two weeks of fieldwork, and involves one or more projects central to environmental science and engineering. Location varies year-to-year, though recent projects have focused on the island of Hawaii. Limited to Course 1 students."
+        ],
+        [
+            "inst",
+            [
+                "D. Des Marais"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.096[J] Design of Sustainable Polymer Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.496[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=10.213\" title=\"10.213\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.213');\">10.213</a> and <a href=\"/search/?P=10.301\" title=\"10.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.301');\">10.301</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.496[J]. Preference to juniors and seniors in Courses 10, 1, and 2."
+        ],
+        [
+            "inst",
+            [
+                "B. D. Olsen, D. Plata"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.097 Introduction to Civil and Environmental Engineering Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Students work one-on-one with a CEE graduate student or postdoc mentor on a project that aligns with their research interests. Previous project topics include transportation networks, structural mechanics, sediment transport, climate science, and microbial ecology. Includes weekly seminar-style talks. Intended for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Undergraduate Laboratory Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.101 Introduction to Civil and Environmental Engineering Design I"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the creative design process in the context of civil and environmental engineering. Emphasizes the idea-to-product trajectory: identification of a design question/problem, evaluation of requirements/constraints set by the application and/or client, and implementation into a concrete product deliverable. Fosters active learning through open-ended, student-driven projects in which teams apply the design process to a design/planning problem. In labs, students design and build a working model or an experiment that addresses a specific engineering aspect of their project. In addition to written and oral presentations, students start a web-based portfolio. Satisfies 6 units of Institute Laboratory credit. Enrollment limited; preference to Course 1 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "T. Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.102 Introduction to Civil and Environmental Engineering Design II"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.101 and (Physics II (GIR) or Coreq: 1.060)"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Project-oriented subject focused on the principles and practice of engineering design. Emphasis on construction and deployment of designs, plus performance testing used to determine if designs behave as expected. Includes a major team project involving use and application of sensors, as well as environmentally-friendly, and energy-effective or energy-producing designs. Develops practical, teamwork and communication skills. Satisfies 6 units of Institute Laboratory credit. Enrollment limited; preference to Course 1 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "A. Masic"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.103[J] Infrastructure Design for Climate Change"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.173[J]\nSubject meets with 1.303[J], 11.273[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "In this team-oriented, project-based subject, students work to find technical solutions that could be implemented to mitigate the effects of natural hazards related to climate change, bearing in mind that any proposed measures must be appropriate in a given region's socio-political-economic context. Students are introduced to a variety of natural hazards and possible mitigation approaches as well as principles of design, including adaptable design and design for failure. Students select the problems they want to solve and develop their projects. During the term, officials and practicing engineers of Cambridge, Boston, Puerto Rico, and MIT Facilities describe their approaches. Student projects are documented in a written report and oral presentation. Students taking graduate version complete additional assignments. Enrollment limited; preference to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "H. Einstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.104 Sensing and Intelligent Systems (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: (1.000 or 6.100A) and (1.101 or permission of instructor)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces concepts and tools for modern sensing, data acquisition, and post-processing techniques, with applications to monitoring and control of infrastructure and environmental systems. Provides technical knowledge of sensing and monitoring technologies. Students collaborate to develop a design project that involves: selecting the right kind of sensors guided by the physical principles and sensing modalities; synthesizing multi-modal data for new applications; refining commercially available sensors for new real-world applications; designing a sensor network and building data-acquisition system for use in lab experiments and/or real-world deployments; sending the data over the Internet for visualization and post-processing; and using intuition and mathematical models to analyze the data. Guided visits to faculty research labs and field visits provide perspective. Provides instruction in oral and written communication."
+        ],
+        [
+            "inst",
+            [
+                "S. Amin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.106 Environmental Fluid Transport Processes and Hydrology Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 1.061A"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of mass transport and flow measurement in environmental systems. Topics include analysis of measurement uncertainty, diffusion, dispersion, air-water exchange, dissolution, and porous media flow. Develops communication skills through the writing and revision of formal lab reports and short oral presentations. Satisfies 6 units of Institute Laboratory credit. Enrollment limited; preference to 1-ENG majors."
+        ],
+        [
+            "inst",
+            [
+                "H. Nepf"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.107 Environmental Chemistry Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 1.080"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory and field techniques in environmental engineering and its application to the understanding of natural and engineered ecosystems. Exercises involve data collection and analysis covering a range of topics, spanning all major domains of the environment (air, water, soils, and sediments), and using a number of modern environmental analytical techniques. Instruction and practice in written and oral communication provided. Concludes with a student-designed final project, which is written up in the form of a scientific manuscript. Satisfies 6 units of Institute Laboratory credit. Enrollment limited; preference to 1-ENG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.108 Climate and Sustainability Lab (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: 12.003 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students work together on a project addressing climate mitigation and/or adaptation. The topic of the project changes from year to year but builds on the knowledge and skills gained in previous coursework in climate science and engineering. Students are challenged to demonstrate creativity in applying theories and methodologies while considering their project's technical, social, and theoretical feasibility. Includes lectures on related climate-change scientific and engineering concepts. Provides instruction and practice in oral and written communication."
+        ],
+        [
+            "inst",
+            [
+                "C. Harvey"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Engineering Information Systems and Computation"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.121[J] Advancing Mechanics and Materials via Machine Learning"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.174[J]\nSubject meets with 1.052"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Concepts in mechanics (solid mechanics: continuum, micro, meso, and molecular mechanics; elasticity, plasticity, fracture and buckling) and machine learning (stochastic optimization, neural networks, convolutional neural nets, adversarial neural nets, graph neural nets, recurrent neural networks and long/short-term memory nets, attention models, variational/autoencoders) introduced and applied to mechanics problems. Covers numerical methods, data and image processing, dataset generation, curation and collection, and experimental validation using additive manufacturing. Modules cover: foundations, fracture mechanics and size effects, molecular mechanics and applications to biomaterials (proteins), forward and inverse problems, mechanics of architected materials, and time dependent mechanical phenomena. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.125 Architecting and Engineering Software Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Software architecting and design of cloud-based software-intensive systems. Targeted at future engineering managers who must understand both the business and technical issues involved in architecting enterprise-scale systems. Student teams confront technically challenging problems. Introduces modern dev-ops concepts and cloud-computing, including cloud orchestration for machine learning. Also discusses cyber-security issues of key management and use of encrypted messaging for distributed ledgers, e.g., blockchain. Students face problem solving in an active learning lab setting, completing in-class exercises and weekly assignments leading to a group project. Some programming experience preferred. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.127[J] Reinforcement Learning: Foundations and Methods (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7920[J], IDS.140[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.7920[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Wu"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Engineering Analysis Methods"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.138[J] Wave Propagation"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.062[J], 18.376[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.003\" title=\"2.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.003');\">2.003[J]</a> and <a href=\"/search/?P=18.075\" title=\"18.075\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.075');\">18.075</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.062[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. R. Akylas",
+                "R. R. Rosales"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Engineering Systems, Economics, and Optimization"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.142[J] Robust Modeling, Optimization, and Computation"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.094[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.094[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Bertsimas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.146 Engineering Systems Analysis for Design"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.146, 16.861, EM.422, IDS.332"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.332. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.147 Startup Sustainable Tech"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.004"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a practical introduction to key innovations in the fields of civil and environmental engineering that are currently having an impact. Structured around the different aspects of starting and maintaining a company in the first years after incorporation. Key topics include idea protection, team formation, and seed funds. Guest speakers who are involved in the startup process or are successful entrepreneurs present. Under faculty supervision, students work on case studies in areas such as renewable energy, sustainable design, food security, climate change, new infrastructures, and transportation. Concludes with the writing of a SBIR/STTR-type grant or business model. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. Marelli"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Transportation"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.200[J] Transportation: Foundations and Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.544[J], IDS.675[J]\nSubject meets with 1.041[J], IDS.075[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>, (<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a> and <a href=\"/search/?P=1.010\" title=\"1.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.010');\">1.010</a>), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers core analytical and numerical methods for modeling, planning, operations, and control of transportation systems. Traffic flow theory, vehicle dynamics and behavior, numerical integration and simulation, graphical analysis. Properties of delays, queueing theory. Resource allocation, optimization models, linear and integer programming. Autonomy in transport, Markov Decision Processes, reinforcement learning, deep learning. Applications drawn broadly from land, air, and sea transport; private and public sector; transport of passengers and goods; futuristic, modern, and historical. Hands-on computational labs. Linear algebra background is encouraged but not required. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Wu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.202 Demand Modeling"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Theory and application of modeling and statistical methods for analysis and forecasting of demand for facilities, services, and products. Topics include: review of probability and statistics, estimation and testing of linear regression models, theory of individual choice behavior, derivation, estimation, and testing of discrete choice models, estimation under various sample designs and data collection methods (including revealed and stated preferences), sampling, aggregate and disaggregate forecasting methods, iterative proportional fitting, and related methods. Introductions to advanced topics are covered including Bayesian estimation and combining discrete choice analysis and machine learning. Lectures reinforced with case studies, which require specification, estimation, testing, and analysis of models using data sets from actual applications. Lab hours are for workbook case studies."
+        ],
+        [
+            "inst",
+            [
+                "M. Ben-Akiva"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.203[J] Applied Probability and Stochastic Models"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.073[J], IDS.700[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=18.600\" title=\"18.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.600');\">18.600</a> "
+            ]
+        ],
+        [
+            "desc",
+            "A vigorous use of probabilistic models to approximate real-life situations in Finance, Operations Management, Economics, and Operations Research. Emphasis on how to develop a suitable probabilistic model in a given setting and, merging probability with statistics, and on how to validate a proposed model against empirical evidence. Extensive treatment of Monte Carlo simulation for modeling random processes when analytic solutions are unattainable."
+        ],
+        [
+            "inst",
+            [
+                "A. Barnett"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.205 Advanced Demand Modeling"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.202 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced theories and applications of models for analysis and forecasting of users' behavior and demand for facilities, services, and products. Topics vary each year and typically include linear and nonlinear latent variable models, including structural equations and latent class models; estimation techniques with multiple data sources; joint discrete and continuous choice models; dynamic models; analysis of panel data; analysis of complex choices; estimation and forecasting with large choice sets; multidimensional probabilistic choice models; advanced choice models, including probit, logit mixtures, treatment of endogeneity, hybrid choice models, hidden Markov models, Monte Carlo simulation, Bayesian methods, survey design, sampling, model transferability, use of stated preferences data, and discrete choice models with machine learning. Term paper required."
+        ],
+        [
+            "inst",
+            [
+                "M. Ben-Akiva"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.208 Resilient Networks"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.3702 or 15.093[J]"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Network and combinatorial optimization methods and game-theoretic modeling for resilience of large-scale networks against disruptions, both random and adversarial. Topics include network resilience metrics, interdiction and security games, strategic resource allocation and network design, cascades in networks, routing games and network equilibrium models, reliability and security assessment of networked systems, and incentive problems in network security. Applications to transportation, logistics, supply chain, communication, and electric power systems."
+        ],
+        [
+            "inst",
+            [
+                "S. Amin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.231[J] Planning and Design of Airport Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.781[J], IDS.670[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.781[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville",
+                "A. R. Odoni"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.232[J] The Airline Industry"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.054[J], 16.71[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.71[J]."
+        ],
+        [
+            "inst",
+            [
+                "P. P. Belobaba",
+                "H. Balakrishnan",
+                "A. I. Barnett",
+                "R. J. Hansman",
+                "T. A. Kochan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.233[J] Air Transportation Operations Research"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.763[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3702\" title=\"6.3702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3702');\">6.3702</a>, <a href=\"/search/?P=15.093\" title=\"15.093[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.093');\">15.093[J]</a>, <a href=\"/search/?P=16.71\" title=\"16.71[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.71');\">16.71[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.763[J]."
+        ],
+        [
+            "inst",
+            [
+                "H. Balakrishnan",
+                "C. Barnhart",
+                "P. P. Belobaba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.251[J] Comparative Land Use and Transportation Planning"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.526[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.526[J]."
+        ],
+        [
+            "inst",
+            [
+                "F. Duarte"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.253[J] Transportation Policy, the Environment, and Livable Communities"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.543[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.543[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Coughlin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.260[J] Logistics Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.770[J], IDS.730[J], SCM.260[J]\nSubject meets with SCM.271"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject SCM.260[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Caplice",
+                "D. Correll"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.261[J] Case Studies in Logistics and Supply Chain Management"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.771[J], SCM.261[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject SCM.261[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Byrnes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.263[J] Urban Last-Mile Logistics"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.263[J], SCM.293[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=SCM.254\" title=\"SCM.254\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.254');\">SCM.254</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject SCM.293[J]."
+        ],
+        [
+            "inst",
+            [
+                "M.  Winkenbach"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.265[J] Global Supply Chain Management"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.965[J], 15.765[J], SCM.265[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.761\" title=\"15.761\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.761');\">15.761</a>, <a href=\"/search/?P=15.778\" title=\"15.778\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.778');\">15.778</a>, <a href=\"/search/?P=SCM.260\" title=\"SCM.260[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.260');\">SCM.260[J]</a>, <a href=\"/search/?P=SCM.261\" title=\"SCM.261[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.261');\">SCM.261[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject SCM.265[J]."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.266 Supply Chain and Demand Analytics"
+        ],
+        [
+            "prerec",
+            "Prereq: 15.761 or SCM.260[J]"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on effective supply chain and demand analytics for companies that operate globally, with emphasis on how to plan and integrate supply chain components into a coordinated system. Exposes students to concepts, models and machine learning, and optimization-based algorithms important in supply chain planning, with emphasis on supply chain segmentation, inventory optimization, supply and demand coordination, supply chain resiliency, and flexibility."
+        ],
+        [
+            "inst",
+            [
+                "D. Simchi-Levi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.267 Statistical Learning in Operations"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on applications of machine learning methods, combined with OR techniques, to study a variety of operational problems — from supply chain through revenue management all the way to healthcare management. The class will bring together two different disciplines, Operations Research and Computer Science, to develop both theory and effective techniques for dealing with operational problems."
+        ],
+        [
+            "inst",
+            [
+                "D. Simchi-Levi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.27 Studies in Transportation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual advanced study of a topic in transportation systems, selected with the approval of the instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.271[J] The Theory of Operations Management"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.764[J], IDS.250[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.7210\" title=\"6.7210[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7210');\">6.7210[J]</a> and <a href=\"/search/?P=6.7700\" title=\"6.7700[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7700');\">6.7700[J]</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.764[J]."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.273[J] Supply Chain Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.762[J], IDS.735[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.761\" title=\"15.761\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.761');\">15.761</a> or <a href=\"/search/?P=SCM.260\" title=\"SCM.260[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.260');\">SCM.260[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.762[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Trichakis",
+                "S. Willems"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.274[J] Supply Chain: Capacity Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.763[J], IDS.736[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.761\" title=\"15.761\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.761');\">15.761</a>, <a href=\"/search/?P=15.778\" title=\"15.778\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.778');\">15.778</a>, or <a href=\"/search/?P=SCM.260\" title=\"SCM.260[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.260');\">SCM.260[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.763[J]."
+        ],
+        [
+            "inst",
+            [
+                "S.  Graves",
+                "N. Trichakis",
+                "S. Willems"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.275[J] Business and Operations Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.305[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.305[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Simchi-Levi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.286[J] Urban Energy Systems and Policy"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.477[J]\nSubject meets with 11.165"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=11.203\" title=\"11.203\" class=\"bubblelink code\" onclick=\"return showCourse(this, '11.203');\">11.203</a>, <a href=\"/search/?P=14.01\" title=\"14.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '14.01');\">14.01</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.477[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Hsu"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Geoenvironmental and Geotechnical Engineering"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.303[J] Infrastructure Design for Climate Change"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.273[J]\nSubject meets with 1.103[J], 11.173[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "In this team-oriented, project-based subject, students work to find technical solutions that could be implemented to mitigate the effects of natural hazards related to climate change, bearing in mind that any proposed measures must be appropriate in a given region's socio-political-economic context. Students are introduced to a variety of natural hazards and possible mitigation approaches as well as principles of design, including adaptable design and design for failure. Students select the problems they want to solve and develop their projects. During the term, officials and practicing engineers of Cambridge, Boston, Puerto Rico, and MIT Facilities describe their approaches. Student projects are documented in a written report and oral presentation. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Einstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.322 Soil Behavior"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.361"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Detailed study of soil properties with emphasis on interpretation of field and laboratory test data and their use in soft-ground construction engineering. Includes: consolidation and secondary compression; basic strength principles; stress-strain strength behavior of clays, emphasizing effects of sample disturbance, anisotropy, and strain rate; strength and compression of granular soils; and engineering properties of compacted soils. Some knowledge of field and laboratory testing assumed; 1.37 desirable."
+        ],
+        [
+            "inst",
+            [
+                "A. J. Whittle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.351 Theoretical Soil Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.361"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presentation of fundamental theories in soil mechanics: field equations of linear elasticity and solutions of boundary value problems. Introduction to finite element method. Steady and transient flow in porous media; applications in confined and unconfined seepage, and one-dimensional consolidation. Introduction to poro-elasticity. Yielding and failure of soils; plasticity theory and limit analyses, with examples for bearing capacity and slope stability. Cam Clay models and critical state theory of soil behavior."
+        ],
+        [
+            "inst",
+            [
+                "A. J. Whittle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.361 Advanced Soil Mechanics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.032"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.036\" title=\"1.036\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.036');\">1.036</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics in the characterization and nature of soils as multi-phase materials; the principle of effective stress; hydraulic conductivity and groundwater seepage; shear strength and stability analyses; stress-deformation properties, consolidatoin theory and calculation of settlements for clays and sands."
+        ],
+        [
+            "inst",
+            [
+                "A. Whittle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.364 Advanced Geotechnical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.361"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Methodology for site characterization and geotechnical aspects of the design and construction of foundation systems. Topics include site investigation (with emphasis on in situ testing), shallow (footings and raftings) and deep (piles and caissons) foundations, excavation support systems, groundwater control, slope stability, soil improvement (compaction, soil reinforcement, etc.), and construction monitoring."
+        ],
+        [
+            "inst",
+            [
+                "A. Whittle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.38 Engineering Geology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies the effect of geologic features and processes on constructed facilities; interaction between the geologic environment and man-made structures, and human activities in general. Planning of subsurface exploration. Engineering geologic characterization of soil and rock, including joint surveys and aspects of sedimented and residual soils. Laboratory on basic geologic identification and mapping techniques. Extensive reading of case histories. Field trip."
+        ],
+        [
+            "inst",
+            [
+                "H. H. Einstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.381 Rock Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.361 and 1.38"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces theoretical and experimental aspects of rock mechanics and prepares students for rock engineering. Includes review of laboratory and field testing; empirical and analytical methods for describing strength, deformability and conductivity of intact rock and rock masses; fracture mechanics and mechanics of discontinua, including flow through discontinua and hydraulic fracturing; and design and analysis of rock slopes and foundations on rock. Also discusses blasting design. Includes term paper/term project."
+        ],
+        [
+            "inst",
+            [
+                "H. H. Einstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.383 Underground Construction"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.361, 1.38, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Provides familiarization with the most important aspects of planning, analysis, design, and construction of underground structures in soil and rock. Covers detailed engineering analysis and design, and major aspects of construction techniques and construction planning. Discusses general planning and economic problems. Includes a major design project involving all aspects of underground construction."
+        ],
+        [
+            "inst",
+            [
+                "H. H. Einstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.39 Independent Study in Geotechnical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For graduate students desiring further individual study of topics in geotechnical engineering."
+        ],
+        [
+            "inst",
+            [
+                "Information: A. J. Whittle"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Construction Engineering and Management"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.462[J] Entrepreneurship in the Built Environment"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.345[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.345[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Gronfeldt",
+                "G. Rosenzweig"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.472[J] Innovative Project Delivery in the Public and Private Sectors"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.344[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.344[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. M. Gordon"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Materials and Structures"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.535 Mechanics of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.035"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.050\" title=\"1.050\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.050');\">1.050</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the structure and properties of natural and manufactured building materials, including rheology elasticity, fracture mechanics, viscoelasticity and plasticity. Emphasizes effects of molecular and nanoscopic structure, and interactions on macroscopic material behavior. Focuses on design of natural and structural materials. Discusses material aspects of sustainable development. Presents principles of experimental characterization techniques. Explores microscopic and macroscopic mechanical approaches to characterize structure and properties of materials. In laboratory and in-field sessions, students design and implement experimental approaches to characterize natural and building materials and study their interaction with the environment. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "F. J. Ulm"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.541 Mechanics and Design of Concrete Structures"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.054"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.036\" title=\"1.036\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.036');\">1.036</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Studies strength and deformation of concrete under various states of stress; failure criteria; concrete plasticity; and fracture mechanics concepts. Topics include fundamental behavior of reinforced concrete structural systems and their members; basis for design and code constraints; high-performance concrete materials and their use in innovative design solutions; and yield line theory for slabs. Uses behavior models and nonlinear analysis. Covers complex systems, including bridge structures, concrete shells, and containments. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "O. Buyukozturk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.545 Atomistic Modeling and Simulation of Materials and Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers multiscale atomistic modeling and simulation methods, with focus on mechanical properties (elasticity, plasticity, creep, fracture, fatigue) of a range of materials (metals, ceramics, proteins, biological materials, biomaterials). Topics include mechanics of materials (energy principles, nano-/micromechanics, deformation mechanisms, size effects, hierarchical biological structures) and atomistic modeling (chemistry, interatomic potentials, chemical reactivity and first-principles methods, visualization, data analysis, numerical methods, supercomputing, data-driven algorithms). Includes interactive computational projects and cloud-based computing. Part I – Basic atomistic and multiscale methods, Part II – Interatomic potentials, Part III – Mechanical properties at multiple scales, Part IV – Materiomics."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.550 Engineering Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to engineering mechanics, including dimensional analysis, stresses and strength, deformation and strain, elasticity and thermodynamics of reversible processes, energy bounds in linear elasticity, perspectives on elastic instability, fracture and yield design. Focus is on underlying physics laws (conservation of momentum, thermodynamic of reversible and irreversible processes) as applied to truss, beam, and continuum systems."
+        ],
+        [
+            "inst",
+            [
+                "F. J. Ulm"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.562 Structural Design Project I"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Students work in teams to design a long-span structure, emphasizing conceptual design and advanced structural analysis. Subject covers structural systems and construction methods, interdisciplinary collaboration, design strategies for resistance to static and dynamic loading, and simplified calculation methods to validate numerical simulations. Emphasis on oral and visual communication of engineering concepts and students present their projects to leading engineers for feedback."
+        ],
+        [
+            "inst",
+            [
+                "G. Herning"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.563 Structural Design Project II"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students work in teams to design a tall building, emphasizing the design of vertical load systems, lateral load systems, and floor systems. Uses studies of precedent buildings and metrics of structural performance including material efficiency and embodied carbon to evaluate multiple design concepts. Simplified calculation methods are validated with advanced numerical simulations. Formal presentations will be used to improve oral and visual communication."
+        ],
+        [
+            "inst",
+            [
+                "J. Ochsendorf"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.564[J] Environmental Technologies in Buildings"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.464[J]\nSubject meets with 4.401"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 4.464[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Reinhart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.573[J] Structural Mechanics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.080[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.002\" title=\"2.002\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.002');\">2.002</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.080[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. Wierzbicki",
+                "D. Parks"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.575[J] Computational Structural Design and Optimization"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.450[J]\nSubject meets with 4.451"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: ((<a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a> or (<a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a> and <a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a>)) and (<a href=\"/search/?P=1.050\" title=\"1.050\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.050');\">1.050</a>, <a href=\"/search/?P=2.001\" title=\"2.001\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.001');\">2.001</a>, or <a href=\"/search/?P=4.462\" title=\"4.462\" class=\"bubblelink code\" onclick=\"return showCourse(this, '4.462');\">4.462</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 4.450[J]. Limited to 25 total for versions meeting together."
+        ],
+        [
+            "inst",
+            [
+                "Consult C. Mueller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.579 Materials in Agriculture, Food Security, and Food Safety"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Offers a unique perspective on the interplay between advanced materials, agriculture and food. Illustrates the impact that advanced materials-based innovation is imparting to four key areas of agriculture: management of plant diseases, mitigation of saline soil, enhancement of crop yield and productivity, and food safety and food security. Exposes students to engineering design concepts that are germane to biopolymer processing, functionalization and characterization, which will be coupled with hands-on activity in a lab setting. Students regenerate, process and functionalize biopolymers from raw to advanced materials, paving the way for the second part of the class, which centers around a proposed research project that aims at bringing materials-based innovation into agriculture."
+        ],
+        [
+            "inst",
+            [
+                "B. Marelli"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.581[J] Structural Dynamics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.060[J], 16.221[J]\nSubject meets with 1.058"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines response of structures to dynamic excitation: free vibration, harmonic loads, pulses and earthquakes. Covers systems of single- and multiple-degree-of-freedom, up to the continuum limit, by exact and approximate methods. Includes applications to buildings, ships, aircraft and offshore structures. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.582 Design of Steel Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides ability to design and assess steel structures. Steel structures are taught at three levels: the overall structural system (multi-story buildings, wide-span buildings, bridges, masts, and towers); the components of a structural system (floor systems, plate girders, frames, and beams); and the details of structural components (connection types, welding, and bolting). Each level includes a balance among theoretical analysis, design requirements, and construction/cost considerations. Existing structures are used as worked examples."
+        ],
+        [
+            "inst",
+            [
+                "J. Ochsendorf",
+                "G. Herning"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.583 Topology Optimization of Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Covers free-form topology design of structures using formal optimization methods and mathematical programs, including design of structural systems, mechanisms, and material architectures. Strong emphasis on designing with gradient-based optimizers, finite element methods, and design problems governed by structural mechanics. Incorporates optimization theory and computational mechanics fundamentals, problem formulation, sensitivity analysis; and introduces cutting-edge extensions, including to other and multiple physics. "
+        ],
+        [
+            "inst",
+            [
+                "J. Carstensen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.589 Studies in Structural Design and Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual study of advanced subjects under staff supervision. Content arranged to suit the particular requirements of the student and interested members of the staff."
+        ],
+        [
+            "inst",
+            [
+                "Information: O. Buyukozturk"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Hydrodynamics and Coastal Engineering"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.61 Transport Processes in the Environment"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.061"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060\" title=\"1.060\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060');\">1.060</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces mass transport in environmental flows, with emphasis on river and lake systems. Covers derivation and solutions to the differential form of mass conservation equations. Topics include molecular and turbulent diffusion, boundary layers, dissolution, bed-water exchange, air-water exchange, and particle transport. Meets with 1.061A first half of term. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. M. Nepf"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.63[J] Advanced Fluid Dynamics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.26[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a> and (<a href=\"/search/?P=2.25\" title=\"2.25\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.25');\">2.25</a> or permission of instructor) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.26[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. R. Akylas",
+                "G. H. McKinley",
+                "R. Stocker"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.631[J] Fluids and Diseases"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.250[J], HST.537[J]\nSubject meets with 1.063"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Designed for students in engineering and the quantitative sciences who want to explore applications of mathematics, physics and fluid dynamics to infectious diseases and health; and for students in epidemiology, environmental health, ecology, medicine, and systems modeling seeking to understand physical and spatial modeling, and the role of fluid dynamics and physical constraints on infectious diseases and pathologies. The first part of the class reviews modeling in epidemiology and data collection, and highlights concepts of spatial modeling and heterogeneity. The remainder highlights multi-scale dynamics, the role of fluids and fluid dynamics in physiology, and pathology in a range of infectious diseases. The laboratory portion entails activities aimed at integrating applied learning with theoretical concepts discussed in lectures and covered in problem sets. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Bourouiba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.65 Atmospheric Boundary Layer Flows and Wind Energy"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.060 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction into the atmospheric boundary layer (ABL) and turbulence, which is critical to applications including renewable energy generation, pollution, weather and climate modeling, and more. Topics include the origins of wind in the atmosphere, an introduction to turbulent flows, the atmosphere and the diurnal cycle; momentum balance, scaling, and TKE; buoyancy, stability, and Coriolis forces; Ekman layer and RANS modeling; experimental methods; data analysis of ABL field measurements; and large eddy simulation."
+        ],
+        [
+            "inst",
+            [
+                "M. Howland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.66 Problems in Water Resources and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual study in advanced topics as arranged between individual students and staff. Choice of subjects from theoretical, experimental, and practical phases of hydromechanics, hydraulic engineering, water resources, hydrology, and environmental engineering."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.670[J] Energy Systems for Climate Change Mitigation"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.621[J], IDS.521[J]\nSubject meets with 1.067[J], 10.421[J], IDS.065[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.521[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.685[J] Nonlinear Dynamics and Waves"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.034[J], 18.377[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.034[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. R. Rosales"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.686[J] Nonlinear Dynamics and Turbulence"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.033[J], 18.358[J]\nSubject meets with 1.068"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060A\" title=\"1.060A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060A');\">1.060A</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Reviews theoretical notions of nonlinear dynamics, instabilities, and waves with applications in fluid dynamics. Discusses hydrodynamic instabilities leading to flow destabilization and transition to turbulence. Focuses on physical turbulence and mixing from homogeneous isotropic turbulence. Also covers topics such as rotating and stratified flows as they arise in the environment, wave-turbulence, and point source turbulent flows. Laboratory activities integrate theoretical concepts covered in lectures and problem sets. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Bourouiba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.69 Introduction to Coastal Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.061"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Basic dynamics of ocean surface waves; wave-driven, wind-driven, and tidal currents; boundary layers and sediment transport; and selected engineering applications. Formulation of the boundary-value problem for surface waves, linear plane-wave solution, shoaling, refraction, diffraction, statistical representation, and elements of nonlinearity. Depth-averaged formulation and selected solutions for sea level and currents driven by waves, winds, and tides. Elements of boundary layers, initial sediment motion, and bedload and suspended sediment transport. Alongshore sediment transport and shoreline change. Emphasizes basic principles, mathematical formulation and solution, and physical interpretation, with selected applications and exposure to current research."
+        ],
+        [
+            "inst",
+            [
+                "J. Trowbridge"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.692[J] Seakeeping of Ships and Offshore Energy Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.24[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.20\" title=\"2.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.20');\">2.20</a> and <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.24[J]."
+        ],
+        [
+            "inst",
+            [
+                "P. D. Sclavounos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.699[J] Projects in Oceanographic Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.689[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.689[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Preisig",
+                "Woods Hole Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Hydrology and Water Resource Systems"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.713[J] Land-Atmosphere Interactions"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.834[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Topics include the exchange of mass, heat and momentum between the soil, vegetation or water surface and the overlying atmosphere; flux and transport in the turbulent boundary layer; and coupled balance of moisture and energy."
+        ],
+        [
+            "inst",
+            [
+                "D. Entekhabi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.714 Surface Hydrology"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.070B[J] or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers observations and theory of the physical processes involved in the hydrologic cycle. Processes considered are rainfall, infiltration, runoff generation, stream flow, evaporation, transpiration,and rainfall interception."
+        ],
+        [
+            "inst",
+            [
+                "E. A. B. Eltahir"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.72 Groundwater Hydrology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.072"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.061\" title=\"1.061\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.061');\">1.061</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Presents the fundamentals of subsurface flow and transport, emphasizing the role of groundwater in the hydrologic cycle, the relation of groundwater flow to geologic structure, and the management of contaminated groundwater. Topics include Darcy equation, flow nets, mass conservation, the aquifer flow equation, heterogeneity and anisotropy, storage properties, regional circulation, unsaturated flow, recharge, stream-aquifer interaction, well hydraulics, flow through fractured rock, numerical models, groundwater quality, contaminant transport processes, dispersion, decay, and adsorption. Includes laboratory and computer demonstrations. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Harvey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.721 Advanced Subsurface Hydrology"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.72, 18.075, and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced treatment of solute transport in natural porous media with a focus on coupled chemical reaction and transport. Numerical modeling. Stochastic treatment of temporal and spatial variability. Mobile/immobile domain mass transfer, macrodispersion, tracer tests, salt water intrusion, heat transport."
+        ],
+        [
+            "inst",
+            [
+                "C. Harvey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.723 Computational Methods for Flow in Porous Media"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers physical, mathematical and simulation aspects of fluid flow and transport through porous media. Conservation equations for multiphase, multicomponent flow. Upscaling of parameters in heterogeneous fields. Modeling of viscous fingering and channeling. Numerical methods for elliptic equations: finite volume methods, multipoint flux approximations, mixed finite element methods, variational multiscale methods. Numerical methods for hyperbolic equations: low-order and high-order finite volume methods, streamline/front-tracking methods. Applications to groundwater contamination, oil and gas reservoir simulation, and geological CO2 sequestration, among others. Limited to graduate students."
+        ],
+        [
+            "inst",
+            [
+                "R. Juanes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.727 Surface Water Ecosystems: Biogeochemistry and Chemical Transport"
+        ],
+        [
+            "prerec",
+            "Prereq: (Chemistry (GIR), 1.018[J], and 1.060) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the nature of lakes, wetlands, and related natural waters, with a focus on their ecology and cycling of nutrients and pollutants. Topics include the hydrology of surface water systems, the nature of aquatic plant and animal communities, the carbon and nitrogen cycles, the behavior and fate of toxic metals and anthropogenic organic compounds in natural waters, and linkages between lakes and the atmosphere, groundwater, and soil. Discusses practical topics in lake and river management. Students participate in field trips to broaden their understanding of these topics."
+        ],
+        [
+            "inst",
+            [
+                "H. Hemond"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.731 Water Resource Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.075"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.070B\" title=\"1.070B[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.070B');\">1.070B[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys optimization and simulation methods for management of water resources. Case studies illustrate linear, quadratic, nonlinear programming and real-time control. Applications include river basin planning, irrigation and agriculture, reservoir operations, capacity expansion, assimilation of remote sensing data, and sustainable resource development. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. McLaughlin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.74 Land, Water, Food, and Climate"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.077"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines land, water, food, and climate in a changing world, with an emphasis on key scientific questions about the connections between natural resources and food production. Students read and discuss papers on a range of topics, including water and land resources, climate change, demography, agroecology, biotechnology, trade, and food security. Supporting information used for background and context includes data and analysis based on government reports, textbooks, and longer peer-reviewed documents not included in the readings. Provides a broad perspective on one of the defining global issues of this century. Students carry out exercises with relevant data sets, write critiques of key issues, and complete a focused term project. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. McLaughlin"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Aquatic Sciences, Water Quality Control, and Environmental Management"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.76 Aquatic Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR) or (5.601 and 5.602)"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Quantitative treatment of chemical processes in aquatic systems such as lakes, oceans, rivers, estuaries, groundwaters, and wastewaters. A brief review of chemical thermodynamics is followed by discussion of acid-base, precipitation-dissolution, coordination, and reduction-oxidation reactions. Emphasis is on equilibrium calculations as a tool for understanding the variables that govern the chemical composition of aquatic systems and the fate of inorganic pollutants."
+        ],
+        [
+            "inst",
+            [
+                "J. Seewald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.760 Carbon Management (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.076"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the carbon cycle and \"climate solutions.\" Provides specialized knowledge to manage and offset carbon emissions for government entities and large corporations through nature-based solutions and technology. Students prepare a mini-project simulating the assessment of practices and technologies for removing carbon dioxide from the air for a specific organization, which prepares them to become professionals with the skills to help evaluate and manage carbon emissions. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Terrer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.771 Global Change Science"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.071[J], 12.300[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the basic principles and concepts in atmospheric physics, and climate dynamics, through an examination of: greenhouse gases emissions (mainly CO2), global warming, and regional climate change. Case studies are presented for the regional impacts of climate change on extreme weather, water availability, and disease transmission. This subject is an introduction to regional and global environmental problems for students in basic sciences and engineering. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Eltahir"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.800 Environmental Chemistry (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.080"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to environmental chemistry, focusing on the fate of chemicals in both natural and engineered systems. Covers equilibrium reactions (e.g., partitioning, dissolution/precipitation, acid-base, redox, metal complexation), and kinetically-controlled reactions (e.g., photolysis, free radical oxidation). Specific environmental topics covered include heavy metals in natural waters, drinking water, and soils; biogeochemical cycles; radioactivity in the environment; smog formation; greenhouse gases and climate change; and engineering for the prevention and remediation of pollution. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Kroll"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.801[J] Environmental Law, Policy, and Economics: Pollution Prevention and Control"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.021[J], 17.393[J], IDS.060[J]\nSubject meets with 1.811[J], 11.630[J], 15.663[J], IDS.540[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.060[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.802[J] Regulation of Chemicals, Radiation, and Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.022[J], IDS.061[J]\nSubject meets with 1.812[J], 10.805[J], 11.631[J], IDS.436[J], IDS.541[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=IDS.060\" title=\"IDS.060[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'IDS.060');\">IDS.060[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.061[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.811[J] Environmental Law, Policy, and Economics: Pollution Prevention and Control"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.630[J], 15.663[J], IDS.540[J]\nSubject meets with 1.801[J], 11.021[J], 17.393[J], IDS.060[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.540[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.812[J] Regulation of Chemicals, Radiation, and Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.631[J], IDS.541[J]\nSubject meets with 1.802[J], 10.805[J], 11.022[J], IDS.061[J], IDS.436[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=IDS.540\" title=\"IDS.540[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'IDS.540');\">IDS.540[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.541[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C.Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.813[J] Technology, Globalization, and Sustainable Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.466[J], 15.657[J], IDS.437[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.437[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.818[J] Sustainable Energy"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.65[J], 10.391[J], 11.371[J], 22.811[J]\nSubject meets with 2.650[J], 10.291[J], 22.081[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.811[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. W. Golay"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.83 Environmental Organic Chemistry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.831"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.601\" title=\"5.601\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.601');\">5.601</a>, <a href=\"/search/?P=5.602\" title=\"5.602\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.602');\">5.602</a>, and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the processes affecting organic compounds in the environment. Uses physical chemical properties to predict chemical transfers between environmental compartments (air, water, sediments, and biota). Uses molecular structure-reactivity relationships to estimate chemical, photochemical, and biochemical transformation rates. Resulting process models are combined to predict environmental concentrations (and related biological exposures) of anthropogenic and natural organic compounds."
+        ],
+        [
+            "inst",
+            [
+                "P. M. Gschwend"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.831 Environmental Organic Chemistry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.83"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.601\" title=\"5.601\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.601');\">5.601</a>, <a href=\"/search/?P=5.602\" title=\"5.602\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.602');\">5.602</a>, and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the processes affecting organic compounds in the environment. Uses physical chemical properties to predict chemical transfers between environmental compartments (air, water, sediments, and biota). Uses molecular properties to estimate chemical, photochemical, and biochemical transformation rates. Resulting process models are combined to predict environmental concentrations (and related biological exposures) of anthropogenic and natural organic compounds."
+        ],
+        [
+            "inst",
+            [
+                "P. M. Gschwend"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.834[J] Exploring Sustainability at Different Scales (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.834[J]\nSubject meets with 2.814"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.834[J]. Limited to 25."
+        ],
+        [
+            "inst",
+            [
+                "T. Gutowski"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.837 Resilience of Living Systems to Environmental Change"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Takes a multi-scale approach to understanding responses of living systems to perturbation. Mechanisms of stress sensing and response in plants, microbes, and animals from the level of individual cells to whole organisms. Emergent properties of organismal stress and population and community scale. Resilience of ecosystems and biogeochemical cycles to altered environmental conditions. Considers both natural and managed systems, focusing primarily on the terrestrial environment."
+        ],
+        [
+            "inst",
+            [
+                "D. Des Marais"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.84[J] Atmospheric Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.817[J], 12.807[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.601\" title=\"5.601\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.601');\">5.601</a> and <a href=\"/search/?P=5.602\" title=\"5.602\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.602');\">5.602</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a detailed overview of the chemical transformations that control the abundances of key trace species in the Earth's atmosphere. Emphasizes the effects of human activity on air quality and climate. Topics include photochemistry, kinetics, and thermodynamics important to the chemistry of the atmosphere; stratospheric ozone depletion; oxidation chemistry of the troposphere; photochemical smog; aerosol chemistry; and sources and sinks of greenhouse gases and other climate forcers."
+        ],
+        [
+            "inst",
+            [
+                "J. H. Kroll"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.841[J] Atmospheric Composition and Global Change"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.817[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.84\" title=\"1.84[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.84');\">1.84[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Explores how atmospheric chemical composition both drives and responds to climate, with a particular focus on feedbacks via the biosphere. Topics include atmospheric nitrogen; DMS, sulfate, and CLAW; biogenic volatile organic compounds and secondary organic aerosol; wildfires and land use change; atmospheric methane and the oxidative capacity of the troposphere; and air quality and climate and geoengineering."
+        ],
+        [
+            "inst",
+            [
+                "C. Heald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.842[J] Aerosol and Cloud Microphysics and Chemistry"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.814[J]\nSubject meets with 12.338"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 12.814[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Cziczo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.845 Introduction to the Terrestrial Carbon Cycle and Ecosystem Ecology"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.010 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the terrestrial carbon cycle in a climate change context, with a focus on ecosystem ecology and biogeochemistry. Discussion-based seminars followed by practical classes to solve climate-related questions."
+        ],
+        [
+            "inst",
+            [
+                "C. Terrer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.850[J] Dimensions of Geoengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.000[J], 10.600[J], 11.388[J], 12.884[J], 15.036[J], 16.645[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.000[J]. Limited to 100."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch",
+                "M. Zuber"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.855 Air Pollution and Atmospheric Chemistry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.085[J], 12.336[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a working knowledge of basic air quality issues, with emphasis on a multidisciplinary approach to investigating the sources and effects of pollution. Topics include emission sources; atmospheric chemistry and removal processes; meteorological phenomena and their impact on pollution transport at local to global scales; air pollution control technologies; health effects; and regulatory standards. Discusses regional and global issues, such as acid rain, ozone depletion and air quality connections to climate change. Students taking graduate version complete additional assignments. Recommended for master's level graduate students."
+        ],
+        [
+            "inst",
+            [
+                "C. Heald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.86[J] Methods and Problems in Microbiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.492[J], 20.445[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 7.492[J]. Preference to first-year Microbiology and Biology students."
+        ],
+        [
+            "inst",
+            [
+                "M. Laub"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.861 Physics of Renewable Energy Systems and Computational Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.086"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.060\" title=\"1.060\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.060');\">1.060</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to renewable energy generation in the context of the energy grid system. Focuses on computational analysis and modeling of energy systems. Topics include the energy grid and energy markets; fossil fuel generation; wind, solar, hydroelectric, and ocean energy; and energy storage. Tools, including computational models of wind energy generation and energy forecasting algorithms, introduced. Final project focuses on the development of low-carbon, low-cost energy systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Howland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.87[J] Microbial Genetics and Evolution"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.493[J], 12.493[J], 20.446[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 7.493[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. D. Grossman",
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.871 Computational Ecology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Project-based class that provides practical experience in the analysis of community and population dynamics data. Emphasizes computational tools central to modern microbial ecology, such as agent-based simulations, and methods to infer ecological interactions and analyze ecological successions."
+        ],
+        [
+            "inst",
+            [
+                "O. Cordero"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.873 Systems Ecology in Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Centers on explaining and discussing research on the different ecological dynamics emerging in 1-species, 2-species, and multi-species systems across environmental contexts. Builds on ecological theory from a systems perspective to provide quantitative methods to study the expected assembly and persistence patterns of ecological systems. Lectures address phenomenological and mechanistic understanding through graphical, analytical, and numerical analysis."
+        ],
+        [
+            "inst",
+            [
+                "S. Saavedra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.881[J] Genomics and Evolution of Infectious Disease"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.538[J]\nSubject meets with 1.088"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> and (<a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a> or <a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a thorough introduction to the forces driving infectious disease evolution, practical experience with bioinformatics and computational tools, and discussions of current topics relevant to public health. Topics include mechanisms of genome variation in bacteria and viruses, population genetics, outbreak detection and tracking, strategies to impede the evolution of drug resistance, emergence of new disease, and microbiomes and metagenomics. Discusses primary literature and computational assignments. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Lieberman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.89 Environmental Microbial Biogeochemistry"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.089"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a thorough introduction to biogeochemical cycling from the vantage point of microbial physiology. Emphasizes molecular mechanisms, experimental design and methodology, hypothesis testing, and applications. Topics include aerobic and anaerobic respiration, trace metals, secondary metabolites, redox, plant-microbe interactions, carbon storage, agriculture, and bioengineering. Formal lectures and in-depth discussions of foundational and contemporary primary literature. Students use knowledge of microbial metabolisms to develop final projects on applied solutions to problems in agriculture and biogeochemistry. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. McRose"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.899 Career Reengineering Program and Professional Development Workshops"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For students in the 10-month Career Reengineering Program sponsored by the School of Engineering. Limited to CRP fellows."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Special Studies"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.95[J] Teaching College-Level Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.95[J], 7.59[J], 8.395[J], 18.094[J]\nSubject meets with 2.978"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.95[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Rankin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.968 Graduate Studies in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual study, research, or laboratory investigations at the graduate level under faculty supervision."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.976 Graduate Professional Development Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers professional development topics and provides hands-on practice of these skills. Students participate in a series of written and oral communication workshops. Other topics include networking skills, work-life balance, mentoring, and career planning. Features an alumni panel showcasing a range of post-PhD careers. Limited to second-year graduate students in CEE."
+        ],
+        [
+            "inst",
+            [
+                "H. Nepf"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.977 Research Mentorship in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate students mentor an undergraduate student in research for 30 hours per week during the Independent Activities Period (IAP) to help create a self-contained project. Students introduce the project through selected readings and meetings that clearly explain how the undergraduate project fits within the scope of the larger work/research of the graduate student, meet regularly to discuss progress on the project, provide guidance in the creation of a poster presentation that the undergraduate will deliver at the end of IAP, and attend and provide written feedback on the presentations of all mini-UROP participants."
+        ],
+        [
+            "inst",
+            [
+                "Information: CEE Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.982 Research in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For research assistants in the department, when assigned research is not used for thesis but is approved for academic credit. Credit for this subject may not be used for any degree granted by Course 1."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.984 Teaching Experience in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides classroom teaching experience under the supervision of faculty member(s). Students prepare instructional material, deliver lectures, grade assignments, and prepare a teaching portfolio to be submitted at the end of term. Students must send the subject title and the name of the lead instructor for the subject to the 1.984 instructor during or prior to the first week of the semester. Enrollment limited by availability of suitable teaching assignments."
+        ],
+        [
+            "inst",
+            [
+                "Information: C. Heald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.997 Practicum Training in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For graduate CEE students participating in curriculum-related, off-campus experiences in civil, environmental, and transportation engineering or related areas. Before enrolling, students must verify the internship arrangements by submitting a memo or email from the sponsoring company or organization and also from their Academic Advisor. At the conclusion of the training, the students will submit a final report for review and approval by their Academic Advisor. Can be taken for up to 3 units. Prior to enrolling, contact the CEE Academic Programs Office for procedures and restrictions."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.998 Practicum Training in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate CEE students participating in curriculum-related off-campus experiences in civil and environmental engineering or related areas. Before enrolling, students must have an offer from a company or organization and must have prior approval from their CEE academic advisor. At the conclusion of the training, the students will submit a final report for review and approval by their Academic Advisor. Can be taken for up to 3 units. Prior to enrolling, contact the CEE Academic Programs Office for procedures and restrictions."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.999 Undergraduate Studies in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual study, research, or laboratory investigations under faculty supervision."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.C01 Machine Learning for Sustainable Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.C51"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a> and <a href=\"/search/?P=1.010\" title=\"1.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.010');\">1.010</a>) or permission of instructor; <i>Coreq: <a href=\"/search/?P=6.C01\" title=\"6.C01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C01');\">6.C01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Building on core material in 6.C01, emphasizes the design and operation of sustainable systems. Illustrates how to leverage heterogeneous data from urban services, cities, and the environment, and apply machine learning methods to evaluate and/or improve sustainability solutions. Provides case studies from various domains, such as transportation and urban mobility, energy and water resources, environmental monitoring, infrastructure sensing and control, climate adaptation, and disaster resilience. Projects focus on using machine learning to identify new insights or decisions that can help engineer sustainability in societal-scale systems. Students taking graduate version complete additional assignments. Students cannot receive credit without simultaneous completion of the core subject 6.C01."
+        ],
+        [
+            "inst",
+            [
+                "S. Amin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.C25[J] Real World Computation with Julia (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.C25[J], 12.C25[J], 16.C25[J], 18.C25[J], 22.C25[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>, <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 18.C25[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Edelman",
+                "R. Ferrari",
+                "B. Forget",
+                "C. Leiseron,Y. Marzouk",
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.C51 Machine Learning for Sustainable Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 1.C01"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>) or permission of instructor; <i>Coreq: <a href=\"/search/?P=6.C51\" title=\"6.C51\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C51');\">6.C51</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Building on core material in 6.C51, emphasizes the design and operation of sustainable systems. Students learn to leverage heterogeneous data from urban services, cities, and the environment, and apply machine learning methods to evaluate and/or improve sustainability solutions. Provides case studies from various domains, such as transportation and mobility, energy and water resources, environment monitoring, infrastructure sensing and control, climate adaptation, and disaster resilience. Projects focus on using machine learning to identify new insights or decisions to help engineer sustainability in societal-scale systems. Students taking graduate version complete additional assignments. Students cannot receive credit without simultaneous completion of the core subject 6.C51."
+        ],
+        [
+            "inst",
+            [
+                "S. Amin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.EPE UPOP Engineering Practice Experience"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPE, 2.EPE, 3.EPE, 6.EPE, 8.EPE, 10.EPE, 15.EPE, 16.EPE, 20.EPE, 22.EPE"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPE. Application required; consult UPOP website for more information."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.EPW UPOP Engineering Practice Workshop"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPW, 2.EPW, 3.EPW, 6.EPW, 10.EPW, 16.EPW, 20.EPW, 22.EPW"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.EPE\" title=\"2.EPE\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.EPE');\">2.EPE</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPW. Enrollment limited to those in the UPOP program."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of an SM, MEng, CE, PhD, or ScD thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.THU Undergraduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of an S.B. thesis; to be arranged by the student and an appropriate MIT faculty member. Intended for seniors. Student must submit an approved thesis proposal to the Academic Programs Office by the fifth week of the first term the student is registered for thesis."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.UAR[J] Climate and Sustainability Undergraduate Advanced Research"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.UAR[J], 5.UAR[J], 11.UAR[J], 12.UAR[J], 15.UAR[J], 22.UAR[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction in effective research, experiential projects, internships, and externships, including choosing and refining problems, surveying previous work and publications, industry best practices, design for robustness, technical presentation, authorship and collaboration, and ethics. Supporting content includes background and context pertaining to climate change and sustainability, as well as tools for sustainable design. Focus for project work includes research topics relevant to the MIT Climate & Sustainability Consortium (MCSC). Students engage in extensive written and oral communication exercises, in the context of an approved advanced research project. A total of 12 units of credit is awarded for completion of the spring and subsequent fall term offerings. Application required; consult MCSC website for more information."
+        ],
+        [
+            "inst",
+            [
+                "D. Plata",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.UR Research in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual research or laboratory study under faculty supervision. Also, opportunities in ongoing research program. Limited number of funded traineeships available."
+        ],
+        [
+            "inst",
+            [
+                "Information: Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.URG Research in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual research or laboratory study under faculty supervision. Also opportunities in ongoing research program."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S82 Special Problems in Environmental Microbiology and Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced study of topics not covered in the regular subject listings, particularly seminar, laboratory, and experimental subjects offered by permanent or visiting faculty. Addresses topics in environmental microbiology, ecological genomics, microbial evolution and population genetics, oceanography, biogeochemical processes, environmental organic chemistry and aquatic chemistry."
+        ],
+        [
+            "inst",
+            [
+                "S. W. Chisholm",
+                "M. F. Polz",
+                "E. J. Alm",
+                "P. M. Gschwend",
+                "H. F. Hemond"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S977 Special Graduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S978 Special Graduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the regular curriculum. 1.978 is taught P/D/F."
+        ],
+        [
+            "inst",
+            [
+                "Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S979 Special Graduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S980 Special Graduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S981 Special Graduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S982 Special Graduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult G. Herning"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S991 Special Undergraduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S992 Special Undergraduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "1.S993 Special Undergraduate Subject in Civil and Environmental Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Subjects taught experimentally; subjects offered by visiting faculty; and seminars on topics of current interest not included in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Academic Programs Office"
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,3944 @@
+[
+    "Materials Science and Engineering (Course 3)",
+    [
+        "block",
+        [
+            "title",
+            "3.001 Science and Engineering of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a broad introduction to topics in the Department of Materials Science and Engineering's core subjects. Classes emphasize hands-on activities and conceptual and visual examples of materials phenomena and materials engineering, interspersed with guest speakers from inside and outside academia to show career paths. Subject can count toward the 6-unit discovery-focused credit limit for first year students. Preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "K. Kolenbrander",
+                "F. M. Ross"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.002 Materials for Energy and Sustainability"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Materials play a central role in the ongoing global transformation towards more sustainable means of harvesting, storing, and conserving energy, through better batteries, fuel cells, hydrogen electrolyzers, photovoltaics, and the like. Methods for producing materials such as cement, steel, ammonia, and ethylene, which rank amongst today's largest industrial emitters of greenhouse gases, are being re-invented. Much of this work is taking place at MIT and surrounding cleantech startups. This class discusses the underlying science of selected new technologies, the challenges which must be overcome, and the magnitude of their potential impact. Visits to the startups behind each case study and meetings with the scientists and engineers creating these technologies are included. Subject can count toward 6-unit discovery-focused credit limit for first-year students. Preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "Y. Chiang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.003 Principles of Engineering Practice"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.004"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a> and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to the interdisciplinary nature of 21st-century engineering projects with three threads of learning: a technical toolkit, a social science toolkit, and a methodology for problem-based learning. Students encounter the social, political, economic, and technological challenges of engineering practice by participating in actual engineering projects involving public transportation and information infrastructure with faculty and industry. Student teams create prototypes and mixed media reports with exercises in project planning, analysis, design, optimization, demonstration, reporting and team building. Preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "L. Kimerling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.004 Principles of Engineering Practice"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.003"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a> and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to the interdisciplinary nature of 21st-century engineering projects with three threads of learning: a technical toolkit, a social science toolkit, and a methodology for problem-based learning. Students encounter the social, political, economic and technological challenges of engineering practice via case studies and participation in engineering projects. Includes a six-stage term project in which student teams develop solutions through exercises in project planning, analysis, design, optimization, demonstration, reporting, and team building."
+        ],
+        [
+            "inst",
+            [
+                "L. Kimerling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.006 NEET Seminar: Advanced Materials Machines"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar for students enrolled in the Advanced Materials Machines NEET thread. Focuses on topics around innovative materials manufacturing via guest lectures and research discussions."
+        ],
+        [
+            "inst",
+            [
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.0061[J] Introduction to Design Thinking and Rapid Prototyping"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.03[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.03[J]. Enrollment limited; preference to Course 22 & Course 3 majors and minors, and NEET students."
+        ],
+        [
+            "inst",
+            [
+                "M. Short",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.009 Materials, Mechanics, and Flight: Birds, an Engineer¿s Delight"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines how birds work from an engineering perspective and how engineers design materials, lightweight structures, and aircraft using concepts learned from birds. Topics include: materials science of feathers, and how engineers design materials for structural color, thermal insulation, and water repellency; how feathers can create or suppress sound, and how engineers reduce the sound produced by wind turbine blades by mimicking barn owl flight feathers; mechanics of bird bones, structural weight reduction, and its applications to lightweight structures; how birds fly, how the Wright brothers studied bird flight to design their plane, and how modern aircraft fly. Design project allows students to explore different fields of engineering. Preference given to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "L. Gibson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.010 Structure of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR); Coreq: 18.03 or 18.032"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Describes the fundamentals of bonding and structure that underpin materials science. Structure of noncrystalline, crystalline, and liquid-crystalline states across length scales including short and long range ordering. Point, line, and surface imperfections in materials. Diffraction and structure determination. Covers molecular geometry and levels of structure in biological materials. Includes experimental and computational exploration of the connections between structure, properties, processing, and performance of materials. Covers methodology of technical communication (written/oral) with a view to integrate experimental design, execution, and analysis."
+        ],
+        [
+            "inst",
+            [
+                "C. A. Ross",
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.013 Mechanics of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: Physics I (GIR) and Coreq: 18.03; or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic concepts of solid mechanics and mechanical behavior of materials: elasticity, stress-strain relationships, stress transformation, viscoelasticity, plasticity, and fracture. Continuum behavior as well as atomistic explanations of the observed behavior are described. Examples from engineering as well as biomechanics. Lab experiments, computational exercises, and demonstrations give hands-on experience of the physical concepts."
+        ],
+        [
+            "inst",
+            [
+                "C. Tasan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.017 Modelling, Problem Solving, Computing, and Visualization"
+        ],
+        [
+            "prerec",
+            "Prereq: ((3.030, 3.033, or 3.020) and (6.100A, 12.010, 16.66, or 3.016B)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers development and design of models for materials processes and structure-property relations. Emphasizes techniques for solving equations from models or simulating their behavior. Assesses methods for visualizing solutions and aesthetics of the graphical presentation of results. Topics include symmetry and structure, classical and statistical thermodynamics, solid state physics, mechanics, phase transformations and kinetics, statistics and presentation of data."
+        ],
+        [
+            "inst",
+            [
+                "W. C. Carter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.019 Introduction to Symbolic and Mathematical Computing"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces fundamental computational techniques and applications of mathematics to prepare students for materials science and engineering curriculum. Covers elementary programming concepts, including data analysis and visualization. Students study computation/visualization and math techniques and apply them in computational software to gain familiarity with techniques used in subsequent subjects. Uses examples from material science and engineering applications, particularly from structure and mechanics of materials, including linear algebra, tensor transformations, review of calculus of several variables, numerical solutions to differential questions, and random walks."
+        ],
+        [
+            "inst",
+            [
+                "W. C. Carter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.020 Thermodynamics of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR); Coreq: 18.03 or 18.032"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the competition between energetics and disorder that underpins materials thermodynamics. Presents classical thermodynamic concepts in the context of phase equilibria, including phase transformations, phase diagrams, and chemical reactions. Includes computerized thermodynamics and an introduction to statistical thermodynamics. Includes experimental and computational laboratories. Covers methodology of technical communication with the goal of presenting technical methods in broader contexts and for broad audiences.  "
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.021 Introduction to Modeling and Simulation"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.021, 3.021, 10.333, 22.00"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>,  3.016B, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Basic concepts of computer modeling and simulation in science and engineering. Uses techniques and software for simulation, data analysis and visualization. Continuum, mesoscale, atomistic and quantum methods used to study fundamental and applied problems in physics, chemistry, materials science, mechanics, engineering, and biology. Examples drawn from the disciplines above are used to understand or characterize complex structures and materials, and complement experimental observations."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler",
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.023 Synthesis and Design of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.010"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides understanding of transitions in materials, including intermolecular forces, self-assembly, physical organic chemistry, surface chemistry and electrostatics, hierarchical structure, and reactivity. Describes these fundamentals across classes of materials, including solid-state synthesis, polymer synthesis, sol-gel chemistry, and interactions with biological systems. Includes firsthand application of lecture topics through design-oriented experiments."
+        ],
+        [
+            "inst",
+            [
+                "R. Macfarlane",
+                "A. Gumyusenge"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.029 Mathematics and Computational Thinking for Materials Scientists and Engineers I"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR); Coreq: 3.020"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Computational techniques and applications of mathematics to prepare students for a materials science and engineering curriculum. Students study computation/visualization and math techniques and apply them with symbolic algebra software (Mathematica). They code and visualize topics from symmetry and structure of materials and thermodynamics. Topics include symmetry and geometric transformations using linear algebra, review of calculus of several variables, numerical solutions to differential equations, tensor transformations, eigensystems, quadratic forms, and random walks. Supports concurrent material in 3.020."
+        ],
+        [
+            "inst",
+            [
+                "W. C. Carter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.030 Microstructural Evolution in Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.010 and 3.020"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers microstructures, defects, and structural evolution in all classes of materials. Topics include solution kinetics, interface stability, dislocations and point defects, diffusion, surface energetics, grains and grain boundaries, grain growth, nucleation and precipitation, and electrochemical reactions. Lectures illustrate a range of examples and applications based on metals, ceramics, electronic materials, polymers, and biomedical materials. Explores the evolution of microstructure through experiments involving optical and electron microscopy, calorimetry, electrochemical characterization, surface roughness measurements, and other characterization methods. Investigates structural transitions and structure-property relationships through practical materials examples."
+        ],
+        [
+            "inst",
+            [
+                "G. Beach"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.033 Electronic, Optical and Magnetic Properties of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.010 and 3.020"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Uses fundamental principles of quantum mechanics, solid state physics, electricity and magnetism to describe how the electronic, optical and magnetic properties of materials originate. Illustrates how these properties can be designed for particular applications, such as diodes, solar cells, optical fibers, and magnetic data storage. Involves experimentation using spectroscopy, resistivity, impedance and magnetometry measurements, behavior of light in waveguides, and other characterization methods. Uses practical examples to investigate structure-property relationships."
+        ],
+        [
+            "inst",
+            [
+                "J. LeBeau"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.039 Mathematics and Computational Thinking for Materials Scientists and Engineers II"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.029; Coreq: 3.030"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Continues 3.029 with applications to microstructural evolution, electronic optical and magnetic properties of materials. Emphasizes and reinforces topics in 3.030 with visualization, computational, and mathematical techniques. Mathematics topics include symbolic and numerical solutions to partial differential equations, Fourier analysis, Bloch waves, and linear stability analysis."
+        ],
+        [
+            "inst",
+            [
+                "W. C. Carter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.041 Computational Materials Design"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.321"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> and <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Systems approach to analysis and control of multilevel materials microstructures employing genomic fundamental databases. Applies quantitative process-structure-property-performance relations in computational parametric design of materials composition under processability constraints to achieve predicted microstructures meeting multiple property objectives established by industry performance requirements. Covers integration of macroscopic process models with microstructural simulation to accelerate materials qualification through component-level process optimization and forecasting of manufacturing variation to efficiently define minimum property design allowables. Case studies of interdisciplinary multiphysics collaborative modeling with applications across materials classes. Students taking graduate version complete additional assignments. "
+        ],
+        [
+            "inst",
+            [
+                "G. Olson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.042 Materials Project Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.030 or 3.033"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Serves as the capstone design course in the DMSE curriculum. Working in groups, students explore the research and design processes necessary to build prototype materials and devices. Instruction focuses on how to conceive, design, and execute a materials development research plan, on developing competence in the fundamental laboratory and materials processing skills introduced in earlier course work, and on the preparation required for personal success in a team-based professional environment. Selected topics are covered in manufacturing, statistics, intellectual property, and ethics. Instruction and practice in oral and written communication provided. Limited to 25 due to space constraints."
+        ],
+        [
+            "inst",
+            [
+                "M. Tarkanian"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.044 Materials Processing"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.010 and 3.030"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to materials processing science, with emphasis on heat transfer, chemical diffusion, and fluid flow. Uses an engineering approach to analyze industrial-scale processes, with the goal of identifying and understanding physical limitations on scale and speed. Covers materials of all classes, including metals, polymers, electronic materials, and ceramics. Considers specific processes, such as melt-processing of metals and polymers, deposition technologies (liquid, vapor, and vacuum), colloid and slurry processing, viscous shape forming, and powder consolidation."
+        ],
+        [
+            "inst",
+            [
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.046 Advanced Thermodynamics of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.020 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores equilibrium thermodynamics through its application to topics in materials science and engineering. Begins with a fast-paced review of introductory classical and statistical thermodynamics. Students select additional topics to cover; examples include batteries and fuel cells, solar photovoltaics, magnetic information storage, extractive metallurgy, corrosion, thin solid films, and computerized thermodynamics."
+        ],
+        [
+            "inst",
+            [
+                "R. Jaramillo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.052 Nanomechanics of Materials and Biomaterials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.013 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Latest scientific developments and discoveries in the field of nanomechanics, i.e. the deformation of extremely tiny (10-9 meters) areas of synthetic and biological materials. Lectures include a description of normal and lateral forces at the atomic scale, atomistic aspects of adhesion, nanoindentation, molecular details of fracture, chemical force microscopy, elasticity of individual macromolecular chains, intermolecular interactions in polymers, dynamic force spectroscopy, biomolecular bond strength measurements, and molecular motors."
+        ],
+        [
+            "inst",
+            [
+                "C. Ortiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.053[J] Molecular, Cellular, and Tissue Biomechanics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.797[J], 6.4840[J], 20.310[J]\nSubject meets with 2.798[J], 3.971[J], 6.4842[J], 10.537[J], 20.410[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.310[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Bathe",
+                "K. Ribbeck",
+                "P. T. So"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.054 Cellular Solids: Structure, Properties, Applications"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.36"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Discusses processing and structure of cellular solids as they are created from polymers, metals, ceramics, glasses, and composites; derivation of models for the mechanical properties of honeycombs and foams; and how unique properties of honeycombs and foams are exploited in applications such as lightweight structural panels, energy absorption devices, and thermal insulation. Covers applications of cellular solids in medicine, such as increased fracture risk due to trabecular bone loss in patients with osteoporosis, the development of metal foam coatings for orthopedic implants, and designing porous scaffolds for tissue engineering that mimic the extracellular matrix. Includes modelling of cellular materials applied to natural materials and biomimicking. Offers a combination of online and in-person instruction. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Gibson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.055[J] Biomaterials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.363[J]\nSubject meets with 3.963[J], 20.463[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=20.110\" title=\"20.110[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.110');\">20.110[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.363[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Irvine",
+                "K. Ribbeck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.056[J] Materials Physics of Neural Interfaces"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.67[J]\nSubject meets with 3.64[J], 9.670[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Builds a foundation of physical principles underlying electrical, optical, and magnetic approaches to neural recording and stimulation. Discusses neural recording probes and materials considerations that influence the quality of the signals and longevity of the probes in the brain. Students then consider physical foundations for optical recording and modulation. Introduces magnetism in the context of biological systems. Focuses on magnetic neuromodulation methods and touches upon magnetoreception in nature and its physical limits. Includes team projects that focus on designing electrical, optical, or magnetic neural interface platforms for neuroscience. Concludes with an oral final exam consisting of a design component and a conversation with the instructor. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Anikeeva"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.063 Polymer Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.010"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "The mechanical, optical, electrical, and transport properties of polymers and other types of \"soft matter\" are presented with respect to the underlying physics and physical chemistry of polymers and colloids in solution, and solid states. Topics include how enthalpy and entropy determine conformation, molecular dimensions and packing of polymer chains and colloids and supramolecular materials. Examination of the structure of glassy, crystalline, and rubbery elastic states of polymers; thermodynamics of solutions, blends, crystallization; liquid crystallinity, microphase separation, and self-assembled organic-inorganic nanocomposites. Case studies of relationships between structure and function in technologically important polymeric systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. Alexander-Katz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.064 Polymer Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.013 and 3.044"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Overview of polymer material science and engineering. Treatment of physical and chemical properties, mechanical characterization, processing, and their control through inspired polymer material design."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.07 Introduction to Ceramics"
+        ],
+        [
+            "prerec",
+            "Prereq: (3.010 and 3.020) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses structure-property relationships in ceramic materials. Includes hierarchy of structures from the atomic to microstructural levels. Defects and transport, solid-state electrochemical processes, phase equilibria, fracture and phase transformations are discussed in the context of controlling properties for various applications of ceramics. Numerous examples from current technology."
+        ],
+        [
+            "inst",
+            [
+                "Y. Chiang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.071 Amorphous Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: (3.030 and 3.033) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses the fundamental material science behind amorphous solids (non-crystalline materials). Covers formation of amorphous solids; amorphous structures and their electrical and optical properties; and characterization methods and technical applications."
+        ],
+        [
+            "inst",
+            [
+                "J. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.074 Imaging of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.34"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Principles and applications of (scanning) transmission electron microscopy. Topics include electron optics and aberration correction theory; modeling and simulating the interactions of electrons with the specimen; electron diffraction; image formation in transmission and scanning transmission electron microscopy; diffraction and phase contrast; imaging of crystals and crystal imperfections; review of the most recent advances in electron microscopy for bio- and nanosciences; analysis of chemical composition and electronic structure at the atomic scale. Lectures complemented by real-case studies and computer simulations/data analysis. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. LeBeau"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.080 Strategic Materials Selection"
+        ],
+        [
+            "prerec",
+            "Prereq: (3.010 and 3.020) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a survey of methods for evaluating choice of material and explores the implications of that choice along economic and environmental dimensions. Topics include life cycle assessment, data uncertainty, manufacturing economics and utility analysis. Students carry out a group project selecting materials technology options based on performance characteristics beyond and including technical ones."
+        ],
+        [
+            "inst",
+            [
+                "R. Kirchain",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.081 Industrial Ecology of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.560"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=3.010\" title=\"3.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.010');\">3.010</a> and <a href=\"/search/?P=3.020\" title=\"3.020\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.020');\">3.020</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers quantitative techniques to address principles of substitution, dematerialization, and waste mining implementation in materials systems. Includes life-cycle and materials flow analysis of the impacts of materials extraction; processing; use; and recycling for materials, products, and services. Student teams undertake a case study regarding materials and technology selection using the latest methods of analysis and computer-based models of materials process. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.085[J] Venture Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.912[J], 15.373[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.373[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Stern",
+                "E. Fitzgerald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.086 Innovation and Commercialization of Materials Technology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.207"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the fundamental process of innovating and its role in promoting growth and prosperity. Exposes students to innovation through team projects as a structured process, while developing skills to handle multiple uncertainties simultaneously. Provides training to address these uncertainties through research methods in the contexts of materials technology development, market applications, industry structure, intellectual property, and other factors. Case studies place the project in a context of historical innovations with worldwide impact. Combination of projects and real-world cases help students identify how they can impact the world through innovation."
+        ],
+        [
+            "inst",
+            [
+                "E. Fitzgerald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.087 Materials, Societal Impact, and Social Innovation"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.050, 2.001, 10.467, (3.010 and 3.020), or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Students work on exciting, team-based projects at the interdisciplinary frontiers of materials research within a societal and humanistic context. Includes topics such as frontier research and inquiry, social innovation, human-centered design thinking, computational design, and additive manufacturing."
+        ],
+        [
+            "inst",
+            [
+                "C. Ortiz",
+                "E. Spero"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.088 The Social Life of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.988"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.050\" title=\"1.050\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.050');\">1.050</a>, <a href=\"/search/?P=2.001\" title=\"2.001\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.001');\">2.001</a>, <a href=\"/search/?P=3.010\" title=\"3.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.010');\">3.010</a>, <a href=\"/search/?P=10.467\" title=\"10.467\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.467');\">10.467</a>, <a href=\"/search/?P=20.310\" title=\"20.310[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.310');\">20.310[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Students carry out projects on a material of their choice and study its technical, humanistic, and environmental origins and trajectories of development through historical methods; evaluate its current status within a social and humanistic context; and then imagine and evaluate potential futures. Projects supported by topics and scholarship in sociotechnical systems, social innovation, environmental history and justice, equity-based human-centered design, and futures literacy. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Ortiz",
+                "E. Spero"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.091 Introduction to Solid-State Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic principles of chemistry and their application to engineering systems. The relationship between electronic structure, chemical bonding, and atomic order. Characterization of atomic arrangements in crystalline and amorphous solids: metals, ceramics, semiconductors, and polymers. Topical coverage of organic chemistry, solution chemistry, acid-base equilibria, electrochemistry, biochemistry, chemical kinetics, diffusion, and phase diagrams. Examples from industrial practice (including the environmental impact of chemical processes), from energy generation and storage (e.g., batteries and fuel cells), and from emerging technologies (e.g., photonic and biomedical devices)."
+        ],
+        [
+            "inst",
+            [
+                "P. Anikeeva",
+                "R. Gomez-Bombarelli",
+                "K. Kolenbrander"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.094 Materials in Human Experience"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the ways in which people in ancient and contemporary societies have selected, evaluated, and used materials of nature, transforming them to objects of material culture. Some examples: Maya use of lime plaster for frescoes, books and architectural sculpture; sounds and colors of powerful metals in Mesoamerica; cloth and fiber technologies in the Inca empire. Explores ideological and aesthetic criteria often influential in materials development. Laboratory/workshop sessions provide hands-on experience with materials discussed in class. Subject complements 3.091. Enrollment limited to 24."
+        ],
+        [
+            "inst",
+            [
+                "H. N. Lechtman",
+                "D. Hosler,"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.095 Introduction to Metalsmithing"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Centers around art history, design principles, sculptural concepts, and metallurgical processes. Covers metalsmithing techniques of enameling, casting, and hollowware. Students create artworks that interpret lecture material and utilize metalsmithing techniques and metal as means of expression. Also covers topics of art patronage, colonial influence upon arts production, and gender and class issues in making. Lectures and lab sessions supplemented by a visiting artist lecture and art museum field trip. Limited to 12."
+        ],
+        [
+            "inst",
+            [
+                "T. Fadenrecht"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.096 Architectural Ironwork"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the use of iron in the built environment throughout history and the world, with an emphasis on traditional European and American design and connections to contemporary movements in art and architecture. Discusses influence of technology on design and fabrication, spanning both ancient and modern developments. Cultivates the ability to design iron in architecture and criticize ironwork as art. Includes laboratory exercises that teach a variety of basic and advanced iron-working techniques such as hand forging and CNC machining. The project-based curriculum begins with art criticism of Cambridge-area ironwork, progresses to practical studies of iron architectural elements, and finishes with creation of an architectural object of the student's design. Associated writing assignments for in-lab projects hone criticism and analysis skills. Limited to 6."
+        ],
+        [
+            "inst",
+            [
+                "J. Hunter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.098 Ancient Engineering: Ceramic Technologies"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.991"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores human interaction with ceramic materials over a considerable span of time, from 25,000 years ago to the 16th century AD. Through the lens of modern materials science combined with evidence from archaeological investigations, examines ancient ceramic materials — from containers to architecture to art — to better understand our close relationship with this important class of material culture. Examines ceramics structure, properties, and processing. Introduces archaeological perspectives and discusses how research into historical changes in ancient ceramic technologies has led to a deeper comprehension of past human behavior and societal development. Concludes by considering how studies of ancient technologies and techniques are leading modern materials scientists to engineer designs of modern ceramic materials, including glasses, concretes, and pigments. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Meanwell",
+                "W. Gilstrap"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.14 Modern Physical Metallurgy"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.40[J], 22.71[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> and <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the links between the processing, structure, and properties of metals and alloys. First, the physical bases for strength, stiffness, and ductility are discussed with reference to crystallography, defects, and microstructure. Second, phase transformations and microstructural evolution are studied in the context of alloy thermodynamics and kinetics. Together, these components comprise the modern paradigm for designing metallic microstructures for optimized properties. Concludes with a focus on processing-microstructure-property relationships in structural engineering alloys. Students taking the graduate version explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.15 Electrical, Optical, and Magnetic Materials and Devices"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.033"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the relationships between the performance of electrical, optical, and magnetic devices and the microstructural and defect characteristics of the materials from which they are constructed. Features a device-motivated approach that places strong emphasis on the design of functional materials for emerging technologies. Applications center around diodes, transistors, memristors, batteries, photodetectors, solar cells (photovoltaics) and solar-to-fuel converters, displays, light emitting diodes, lasers, optical fibers and optical communications, photonic devices, magnetic data storage and spintronics."
+        ],
+        [
+            "inst",
+            [
+                "K. Kolenbrander"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.152 Magnetic Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.45"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Topics include origin of magnetism in materials, magnetic domains and domain walls, magnetostatics, magnetic anisotropy, antiferro- and ferrimagnetism, magnetism in thin films and nanoparticles, magnetotransport phenomena, and magnetic characterization. Discusses a range of applications, including magnetic recording, spin-valves, and tunnel-junction sensors. Assignments include problem sets and a term paper on a magnetic device or technology. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Ross"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.154[J] Materials Performance in Extreme Environments"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.054[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> and <a href=\"/search/?P=3.044\" title=\"3.044\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.044');\">3.044</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Studies the behavior of materials in extreme environments typical of those in which advanced energy systems (including fossil, nuclear, solar, fuel cells, and battery) operate. Takes both a science and engineering approach to understanding how current materials interact with their environment under extreme conditions. Explores the role of modeling and simulation in understanding material behavior and the design of new materials. Focuses on energy and transportation related systems."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.155[J] Micro/Nano Processing Technology"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.2600[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a>, <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a>, <a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.2600[J]. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. del Alamo",
+                "J. Michel",
+                "J. Scholvin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.156 Photonic Materials and Devices"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.46"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> and (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or 3.016B) "
+            ]
+        ],
+        [
+            "desc",
+            "Optical materials design for semiconductors, dielectrics, organic and nanostructured materials. Ray optics, electromagnetic optics and guided wave optics. Physics of light-matter interactions. Device design principles: LEDs, lasers, photodetectors, solar cells, modulators, fiber and waveguide interconnects, optical filters, and photonic crystals. Device processing: crystal growth, substrate engineering, thin film deposition, etching and process integration for dielectric, silicon and compound semiconductor materials. Micro- and nanophotonic systems. Organic, nanostructured and biological optoelectronics. Assignments include three design projects that emphasize materials, devices and systems applications. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.16 Industrial Challenges in Metallic Materials Selection"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.39"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=3.010\" title=\"3.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.010');\">3.010</a> and <a href=\"/search/?P=3.020\" title=\"3.020\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.020');\">3.020</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Advanced metals and alloy design with emphasis in advanced steels and non-ferrous alloys.  Applies physical metallurgy concepts to solve specific problems targeting sustainable, efficient and safer engineered solutions.  Discusses industrial challenges involving metallic materials selection and manufacturing for different value chains and industrial segments. Includes applications in essential segments of modern life, such as transportation, energy and structural applications.  Recognizing steel as an essential engineering material, subject covers manufacturing and end-uses of advanced steels ranging from microalloyed steels to highly alloyed steels.  Also covers materials for very low temperature applications such as superconducting materials and for higher temperature applications such as superalloys. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Carneiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.17 Principles of Manufacturing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.37"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.010\" title=\"3.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.010');\">3.010</a> and <a href=\"/search/?P=3.020\" title=\"3.020\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.020');\">3.020</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Teaches the methodology to achieve Six Sigma materials yield: 99.99966% of end products perform within the required tolerance limits. Six Sigma methodology employs five stages for continuous improvement — problem definition, quantification, root cause analysis, solution implementation, and process control  to help engineers evaluate efficiency and assess complex systems. Through case studies, explores classic examples of materials processing problems and the solutions that achieved Six Sigma manufacturing yield throughout the manufacturing system: extraction, design, unit processes, process flow, in-line control, test, performance/qualification, reliability, environmental impact, product life cycle, cost, and workforce. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. C. Kimerling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.171 Structural Materials and Manufacturing"
+        ],
+        [
+            "prerec",
+            "Prereq: (3.010 and 3.020) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines theoretical and practical aspects of structural materials by discussing mechanical properties of materials and manufacturing processes used to convert raw materials into high performance and reliable components for particular applications. Discusses specific types of steel, aluminum, titanium, ceramics, cement, polymers, and composites in context of commercially available product designations and specifications. Examines manufacturing processes used for exemplar products of each type of material, including heat treatments, sintering, and injection molding, among others. Considers established methods of metallurgical failure analysis and fractography through product failure case studies in order to prepare students to determine root causes of component failures in the real world. Students taking graduate version submit additional work. Meets with 3.371[J] when offered concurrently."
+        ],
+        [
+            "inst",
+            [
+                "D. Baskin",
+                "A. Slocum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.173 Computing Fabrics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.373"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Highlights connections between industrialization, products, and advances in fibers and fabrics. Discusses the evolution of technologies in their path from basic scientific research to scaled production and global markets, with the ultimate objective of identifying and investigating the degrees of freedom that make fabrics such a powerful form of synthetic engineering and product expression. Topics explored, in part through interactions with industry speakers, include: fiber, yarn, textiles and fabric materials, structure-property relations, and practical demonstrations to anticipate future textile products. Students taking graduate version complete additional assignments. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "Y. Fink"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.18 Materials Science and Engineering of Clean Energy"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.70"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> and <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Develops the materials principles, limitations, and challenges of clean energy technologies, including solar, energy storage, thermoelectrics, fuel cells, and novel fuels. Draws correlations between the limitations and challenges related to key figures of merit and the basic underlying thermodynamic, structural, transport, and physical principles, as well as to the means for fabricating devices exhibiting optimum operating efficiencies and extended life at reasonable cost. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.19 Sustainable Chemical Metallurgy"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.50"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers principles of metal extraction processes. Provides a direct application of the fundamentals of thermodynamics and kinetics to the industrial production of metals from their ores, e.g., iron, aluminum, or reactive metals and silicon. Discusses the corresponding economics and global challenges. Addresses advanced techniques for sustainable metal extraction, particularly with respect to greenhouse gas emissions. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. Allanore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.20 Materials at Equilibrium"
+        ],
+        [
+            "prerec",
+            "Prereq: (3.010, 3.013, 3.020, 3.023, 3.030, 3.033, and 3.042) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Laws of thermodynamics: general formulation and applications to mechanical, electromagnetic and electrochemical systems, solutions, and phase diagrams. Computation of phase diagrams. Statistical thermodynamics and relation between microscopic and macroscopic properties, including ensembles, gases, crystal lattices, phase transitions. Applications to phase stability and properties of mixtures. Representations of chemical equilibria. Interfaces."
+        ],
+        [
+            "inst",
+            [
+                "A. Allanore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.201 Introduction to DMSE"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces new DMSE graduate students to DMSE research groups and the departmental spaces available for research. Guides students in joining a research group. Registration limited to students enrolled in DMSE graduate programs."
+        ],
+        [
+            "inst",
+            [
+                "C. Schuh"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.202 Essential Research Skills"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction in the planning, writing, literature review, presentation, and communication of advanced graduate research work. Registration limited to students enrolled in DMSE graduate programs."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.207 Innovation and Commercialization"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.086"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores in depth projects on a particular materials-based technology. Investigates the science and technology of materials advances and their strategic value, explore potential applications for fundamental advances, and determine intellectual property related to the materials technology and applications. Students map progress with presentations, and are expected to create an end-of-term document enveloping technology, intellectual property, applications, and potential commercialization. Lectures cover aspects of technology, innovation, entrepreneurship, intellectual property, and commercialization of fundamental technologies."
+        ],
+        [
+            "inst",
+            [
+                "E. Fitzgerald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.21 Kinetic Processes in Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.030, 3.044, (3.010 and 3.020), or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Unified treatment of phenomenological and atomistic kinetic processes in materials. Provides the foundation for the advanced understanding of processing, microstructural evolution, and behavior for a broad spectrum of materials. Topics include irreversible thermodynamics; rate and transition state theory, diffusion; nucleation and phase transitions; continuous phase transitions; grain growth and coarsening; capillarity driven morphological evolution; and interface stability during phase transitions."
+        ],
+        [
+            "inst",
+            [
+                "C. Thompson",
+                "M. Cima"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.22 Structure and Mechanics of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.013 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores structural characteristics of materials focusing on bonding types, crystalline and non-crystalline states, molecular and polymeric materials, and nano-structured materials. Discusses how the macroscale mechanical response of materials, and micro-mechanisms of elasticity, plasticity, and fracture, originate from these structural characteristics. Case studies and examples are drawn from a variety of material classes: metals, ceramics, polymers, thin films, composites, and cellular materials."
+        ],
+        [
+            "inst",
+            [
+                "F. M. Ross"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.23 Electrical, Optical, and Magnetic Properties of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 8.03 and 18.03"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Origin of electrical, magnetic and optical properties of materials. Focus on the acquisition of quantum mechanical tools. Analysis of the properties of materials. Presentation of the postulates of quantum mechanics. Examination of the hydrogen atom, simple molecules and bonds, and the behavior of electrons in solids and energy bands. Introduction of the variation principle as a method for the calculation of wavefunctions. Investigation of how and why materials respond to different electrical, magnetic and electromagnetic fields and probes. Study of the conductivity, dielectric function, and magnetic permeability in metals, semiconductors, and insulators. Survey of common devices such as transistors, magnetic storage media, optical fibers."
+        ],
+        [
+            "inst",
+            [
+                "G. Beach"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.30[J] Properties of Solid Surfaces"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.75[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.20\" title=\"3.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.20');\">3.20</a>, <a href=\"/search/?P=3.21\" title=\"3.21\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.21');\">3.21</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.75[J]."
+        ],
+        [
+            "inst",
+            [
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.31[J] Radiation Damage and Effects in Nuclear Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.74[J]\nSubject meets with 22.074"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.21\" title=\"3.21\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.21');\">3.21</a>, <a href=\"/search/?P=22.14\" title=\"22.14\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.14');\">22.14</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.74[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Short",
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.320 Atomistic Computer Modeling of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.030, 3.20, 3.23, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Theory and application of atomistic computer simulations to model, understand, and predict the properties of real materials. Energy models: from classical potentials to first-principles approaches. Density-functional theory and the total-energy pseudopotential method. Errors and accuracy of quantitative predictions. Thermodynamic ensembles: Monte Carlo sampling and molecular dynamics simulations. Free energies and phase transitions. Fluctations and transport properties. Coarse-graining approaches and mesoscale models."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.321 Computational Materials Design"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.041"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.20\" title=\"3.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.20');\">3.20</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Systems approach to analysis and control of multilevel materials microstructures employing genomic fundamental databases. Applies quantitative process-structure-property-performance relations in computational parametric design of materials composition under processability constraints to achieve predicted microstructures meeting multiple property objectives established by industry performance requirements. Covers integration of macroscopic process models with microstructural simulation to accelerate materials qualification through component-level process optimization and forecasting of manufacturing variation to efficiently define minimum property design allowables. Case studies of interdisciplinary multiphysics collaborative modeling with applications across materials classes. Students taking graduate version complete additional assignments. "
+        ],
+        [
+            "inst",
+            [
+                "G. Olson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.33[J] Defects in Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.73[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.21\" title=\"3.21\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.21');\">3.21</a> and <a href=\"/search/?P=3.22\" title=\"3.22\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.22');\">3.22</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Examines point, line, and planar defects in structural and functional materials. Relates their properties to transport, radiation response, phase transformations, semiconductor device performance and quantum information processing. Focuses on atomic and electronic structures of defects in crystals, with special attention to optical properties, dislocation dynamics, fracture, and charged defects population and diffusion. Examples also drawn from other systems, e.g., disclinations in liquid crystals, domain walls in ferromagnets, shear bands in metallic glass, etc."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.34 Imaging of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.074"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a>, <a href=\"/search/?P=3.23\" title=\"3.23\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.23');\">3.23</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Principles and applications of (scanning) transmission electron microscopy. Topics include electron optics and aberration correction theory; modeling and simulating the interactions of electrons with the specimen; electron diffraction; image formation in transmission and scanning transmission electron microscopy; diffraction and phase contrast; imaging of crystals and crystal imperfections; review of the most recent advances in electron microscopy for bio- and nanosciences; analysis of chemical composition and electronic structure at the atomic scale. Lectures complemented by real-case studies and computer simulations/data analysis. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. LeBeau"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.35 Fracture and Fatigue"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.22 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced study of material failure in response to mechanical stresses. Damage mechanisms include microstructural changes, crack initiation, and crack propagation under monotonic and cyclic loads. Covers a wide range of materials: metals, ceramics, polymers, thin films, biological materials, composites. Describes toughening mechanisms and the effect of material microstructures. Includes stress-life, strain-life, and damage-tolerant approaches. Emphasizes fracture mechanics concepts and latest applications for structural materials, biomaterials, microelectronic components as well as nanostructured materials. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "M. Dao"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.36 Cellular Solids: Structure, Properties, Applications"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.054"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Discusses processing and structure of cellular solids as they are created from polymers, metals, ceramics, glasses, and composites; derivation of models for the mechanical properties of honeycombs and foams; and how unique properties of honeycombs and foams are exploited in applications such as lightweight structural panels, energy absorption devices, and thermal insulation. Covers applications of cellular solids in medicine, such as increased fracture risk due to trabecular bone loss in patients with osteoporosis, the development of metal foam coatings for orthopedic implants, and designing porous scaffolds for tissue engineering that mimic the extracellular matrix. Includes modelling of cellular materials applied to natural materials and biomimicking. Offers a combination of online and in-person instruction. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Gibson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.37 Principles of Manufacturing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.17"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Teaches the methodology to achieve Six Sigma materials yield: 99.99966% of end products perform within the required tolerance limits. Six Sigma methodology employs five stages for continuous improvement — problem definition, quantification, root cause analysis, solution implementation, and process control  to help engineers evaluate efficiency and assess complex systems. Through case studies, explores classic examples of materials processing problems and the solutions that achieved Six Sigma manufacturing yield throughout the manufacturing system: extraction, design, unit processes, process flow, in-line control, test, performance/qualification, reliability, environmental impact, product life cycle, cost, and workforce. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. C. Kimerling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.371[J] Structural Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.821[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines theoretical and practical aspects of structural materials by discussing mechanical properties of materials and manufacturing processes used to convert raw materials into high performance and reliable components for particular applications. Discusses specific types of steel, aluminum, titanium, ceramics, cement, polymer,s and composites in context of commercially available product designations and specifications. Examines manufacturing processes used for exemplar products of each type of material, such as heat treatments, sintering, and injection molding, among others. Considers established methods of metallurgical failure analysis and fractography through product failure case studies in order to prepare students to determine root causes of component failures in the real world. Students taking graduate version submit additional work. Meets with 3.171 when offered concurrently."
+        ],
+        [
+            "inst",
+            [
+                "D. Baskin",
+                "A. Slocum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.373 Computing Fabrics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.173"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Highlights connections between industrialization, products, and advances in fibers and fabrics. Discusses the evolution of technologies in their path from basic scientific research to scaled production and global markets, with the ultimate objective of identifying and investigating the degrees of freedom that make fabrics such a powerful form of synthetic engineering and product expression. Topics explored, in part through interactions with industry speakers, include: fiber, yarn, textiles and fabric materials, structure-property relations, and practical demonstrations to anticipate future textile products. Students taking graduate version complete additional assignments. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "Y. Fink"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.39 Industrial Challenges in Metallic Materials Selection"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.16"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.20\" title=\"3.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.20');\">3.20</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Advanced metals and alloy design with emphasis in advanced steels and non-ferrous alloys.  Applies physical metallurgy concepts to solve specific problems aiming at sustainable, efficient and safer engineered solutions.  Discusses industrial challenges involving metallic materials selection and manufacturing for different value chains and industrial segments. Includes applications in essential segments of modern life such as transportation, energy and strutuctural applications.  Recognizing steel as an essential engineering material, the course will cover manufacturing and end-uses of advanced steels ranging from microalloyed steels to highly alloyed steels.  Materials for very low temperature applications such as superconducting materials and for higher temperature applications such as superalloys will also be covered. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Carneiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.40[J] Modern Physical Metallurgy"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.71[J]\nSubject meets with 3.14"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> and <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the links between the processing, structure, and properties of metals and alloys. First, the physical bases for strength, stiffness, and ductility are discussed with reference to crystallography, defects, and microstructure. Second, phase transformations and microstructural evolution are studied in the context of alloy thermodynamics and kinetics. Together, these components comprise the modern paradigm for designing metallic microstructures for optimized properties. Concludes with a focus on processing-microstructure-property relationships in structural engineering alloys. Students taking the graduate version explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.41 Colloids, Surfaces, Absorption, Capillarity, and Wetting Phenomena"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.20 and 3.21"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Integrates elements of physics and chemistry toward the study of material surfaces. Begins with classical colloid phenomena and the interaction between surfaces in different media. Discusses the mechanisms of surface charge generation as well as how dispersion forces are created and controlled. Continues with exploration of chemical absorption processes and surface design of inorganic and organic materials. Includes examples in which such surface design can be used to control critical properties of materials in applications. Addresses lastly how liquids interact with solids as viewed by capillarity and wetting phenomena. Studies how materials are used in processes and applications that are intended to control liquids, and how the surface chemistry and structure of those materials makes such applications possible."
+        ],
+        [
+            "inst",
+            [
+                "M. Cima"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.42 Electronic Materials Design"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.23"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Extensive and intensive examination of structure-processing-property correlations for a wide range of materials including metals, semiconductors, dielectrics, and optical materials. Topics covered include defect equilibria; junction characteristics; photodiodes, light sources and displays; bipolar and field effect transistors; chemical, thermal and mechanical transducers; data storage. Emphasis on materials design in relation to device performance."
+        ],
+        [
+            "inst",
+            [
+                "H. L. Tuller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.43[J] Integrated Microelectronic Devices"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.6500[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.42\" title=\"3.42\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.42');\">3.42</a> or <a href=\"/search/?P=6.2500\" title=\"6.2500\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.2500');\">6.2500</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.6500[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. A. del Alamo",
+                "H. L. Tuller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.44 Materials Processing for Micro- and Nano-Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.20 and 3.21"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Processing of bulk, thin film, and nanoscale materials for applications in electronic, magnetic, electromechanical, and photonic devices and microsystems. Topics include growth of bulk, thin-film, nanoscale single crystals via vapor and liquid phase processes; formation, patterning and processing of thin films, with an emphasis on relationships among processing, structure, and properties; and processing of systems of nanoscale materials. Examples from materials processing for applications in high-performance integrated electronic circuits, micro-/nano-electromechanical devices and systems and integrated sensors."
+        ],
+        [
+            "inst",
+            [
+                "C. V. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.45 Magnetic Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.152"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.23\" title=\"3.23\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.23');\">3.23</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Topics include origin of magnetism in materials, magnetic domains and domain walls, magnetostatics, anisotropy, antiferro- and ferrimagnetism, magnetization dynamics, spintronics, magnetism in thin films and nanoparticles, magnetotransport phenomena, and magnetic characterization. Discusses a range of applications, including magnetic recording, spintronic memory, magnetoopical devices, and multiferroics. Assignments include problem sets and a term paper on a magnetic device or technology. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Ross"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.46 Photonic Materials and Devices"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.156"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.23\" title=\"3.23\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.23');\">3.23</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Optical materials design for semiconductors, dielectrics and polymers. Ray optics, electromagnetic optics and guided wave optics. Physics of light-matter interactions. Device design principles: LEDs, lasers, photodetectors, modulators, fiber and waveguide interconnects, optical filters, and photonic crystals. Device processing: crystal growth, substrate engineering, thin film deposition, etching and process integration for dielectric, silicon and compound semiconductor materials. Microphotonic integrated circuits. Telecom/datacom systems. Assignments include three design projects that emphasize materials, devices and systems applications. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.48 Measurement Science for Materials Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers essentials of measurement science, including instrumentation, instrument-computer interfacing, experimental design, calibration and systematic errors, measurement statistics, data representation, and elements of data analysis, including model selection and statistical analysis. Structured around a series of case studies chosen by the class. Options include: electrical and Hall conductivity measurements, semiconductor junction measurements, spectroscopy (including photoluminescence, Raman, and photoelectron), magnetometry, elemental composition analysis and depth profiling, atomic force microscopy, nanoindentation, dynamical correlations and related measurements, and measuring pressure (from ultra-high vacuum to megabar). Familiarity with coding and data analysis required. Specific measurement challenges in the students' own research discussed."
+        ],
+        [
+            "inst",
+            [
+                "R. Jaramillo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.50 Sustainable Chemical Metallurgy"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.19"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers principles of metal extraction processes. Provides a direct application of the fundamentals of thermodynamics and kinetics to the industrial production of metals from their ores, e.g. iron, aluminum, or reactive metals and silicon. Discusses the corresponding economics and global challenges. Addresses advanced techniques for sustainable metal extraction, particularly with respect to greenhouse gas emissions. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. Allanore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.53 Electrochemical Processing of Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.044"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Thermodynamic and transport properties of aqueous and nonaqueous electrolytes. The electrode/electrolyte interface. Kinetics of electrode processes. Electrochemical characterization: d.c. techniques (controlled potential, controlled current), a.c. techniques (voltametry and impedance spectroscopy). Applications: electrowinning, electrorefining, electroplating, and electrosynthesis, as well as electrochemical power sources (batteries and fuel cells)."
+        ],
+        [
+            "inst",
+            [
+                "D. R. Sadoway"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.55[J] Ionics and Its Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.76[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.76[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Li",
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.560 Industrial Ecology of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.081"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.20\" title=\"3.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.20');\">3.20</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers quantitative techniques to address principles of substitution, dematerialization, and waste mining implementation in materials systems. Includes life-cycle and materials flow analysis of the impacts of materials extraction; processing; use; and recycling for materials, products, and services. Student teams undertake a case study regarding materials and technology selection using the latest methods of analysis and computer-based models of materials process. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.57 Materials Selection, Design, and Economics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "A survey of techniques for analyzing how the choice of materials, processes, and design determine properties, performance, and cost. Topics include production and cost functions, mathematical optimization, evaluation of single and multi-attribute utility, decision analysis, materials property charts, and performance indices. Students use analytical techniques to develop a plan for starting a new materials-related business."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.64[J] Materials Physics of Neural Interfaces"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.670[J]\nSubject meets with 3.056[J], 9.67[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Builds a foundation of physical principles underlying electrical, optical, and magnetic approaches to neural recording and stimulation. Discusses neural recording probes and materials considerations that influence the quality of the signals and longevity of the probes in the brain. Students then consider physical foundations for optical recording and modulation. Introduces magnetism in the context of biological systems. Focuses on magnetic neuromodulation methods and touches upon magnetoreception in nature and its physical limits. Includes team projects that focus on designing electrical, optical, or magnetic neural interface platforms for neuroscience. Concludes with an oral final exam consisting of a design component and a conversation with the instructor. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Anikeeva"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.65 Soft Matter Characterization"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the design and execution of advanced experiments to characterize soft materials, such as synthetic and natural polymers, biological composites, and supramolecular nanomaterials. Each week focuses on a new characterization technique explored through interactive lectures, demonstrations, and practicum sessions in which students gain experience in key experimental aspects of soft matter sample preparation and characterization. Among others, topics include chemical characterization, rheology and viscometry, microscopy, and spectroscopic analyses. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "J. Ortony"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.69 Teaching Fellows Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction to help prepare students for teaching at an advanced level and for industry or academic career paths. Topics include preparing a syllabus, selecting a textbook, scheduling assignments and examinations, lecture preparation, \"chalk and talk\" vs. electronic presentations, academic honesty and discipline, preparation of examinations, grading practices, working with teaching assistants, working with colleagues, mentoring outside the classroom, pursuing academic positions, teaching through technical talks, and successful grant writing strategies."
+        ],
+        [
+            "inst",
+            [
+                "C. Schuh"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.691 Teaching Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides classroom or laboratory teaching experience under the supervision of faculty member(s). Students assist faculty by preparing instructional materials, leading discussion groups, and monitoring students' progress. Limited to Course 3 undergraduates selected by Teaching Assignments Committee."
+        ],
+        [
+            "inst",
+            [
+                "J. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.692 Teaching Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides classroom or laboratory teaching experience under the supervision of faculty member(s). Students assist faculty by preparing instructional materials, leading discussion groups, and monitoring students' progress. Credit arranged on a case-by-case basis and reviewed by the department. Limited to Course 3 undergraduates selected by Teaching Assignments Committee."
+        ],
+        [
+            "inst",
+            [
+                "J. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.694 Teaching Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory, tutorial, or classroom teaching under the supervision of a faculty member. Students selected by interview. Enrollment limited by availability of suitable teaching assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.693-3.699 Teaching Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory, tutorial, or classroom teaching under the supervision of a faculty member. Students selected by interview. Enrollment limited by availability of suitable teaching assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. Sadoway"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.70 Materials Science and Engineering of Clean Energy"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.18"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.20\" title=\"3.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.20');\">3.20</a>, <a href=\"/search/?P=3.23\" title=\"3.23\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.23');\">3.23</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Develops the materials principles, limitations and challenges in clean energy technologies, including solar, energy storage, thermoelectrics, fuel cells, and novel fuels. Draws correlations between the limitations and challenges related to key figures of merit and the basic underlying thermodynamic, structural, transport, and physical principles, as well as to the means for fabricating devices exhibiting optimum operating efficiencies and extended life at reasonable cost. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.903[J] Seminar in Polymers and Soft Matter"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.960[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.960[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Alexander-Katz",
+                "R. E. Cohen",
+                "D. Irvine"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.930 Internship Program"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides academic credit for first approved materials science and engineering internship. For reporting requirements, consult the faculty internship program coordinator. Limited to Course 3 internship track majors."
+        ],
+        [
+            "inst",
+            [
+                "A. Allanore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.931 Internship Program"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.930"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides academic credit for second approved materials science and engineering internship in the year following completion of 3.930. For reporting requirements consult the faculty internship program coordinator. Limited to Course 3 internship track majors."
+        ],
+        [
+            "inst",
+            [
+                "A. Allanore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.932 Industrial Practice"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides academic credit to graduate students for approved internship assignments at companies/national laboratories. Restricted to DMSE SM or PhD/ScD students."
+        ],
+        [
+            "inst",
+            [
+                "D. Sadoway"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.941[J] Statistical Mechanics of Polymers"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.668[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=10.568\" title=\"10.568\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.568');\">10.568</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.668[J]."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Rutledge",
+                "A. Alexander-Katz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.942 Polymer Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.013 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "The mechanical, optical, electrical, and transport properties of polymers and other types of \"soft matter\" are presented with respect to the underlying physics and physical chemistry of polymers and colloids in solution, and solid states. Topics include how enthalpy and entropy determine conformation, molecular dimensions and packing of polymer chains and colloids and supramolecular materials. Examination of the structure of glassy, crystalline, and rubbery elastic states of polymers; thermodynamics of solutions, blends, crystallization; liquid crystallinity, microphase separation, and self-assembled organic-inorganic nanocomposites. Case studies of relationships between structure and function in technologically important polymeric systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. Alexander-Katz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.963[J] Biomaterials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.463[J]\nSubject meets with 3.055[J], 20.363[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=20.110\" title=\"20.110[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.110');\">20.110[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.463[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Irvine",
+                "K. Ribbeck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.971[J] Molecular, Cellular, and Tissue Biomechanics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.798[J], 6.4842[J], 10.537[J], 20.410[J]\nSubject meets with 2.797[J], 3.053[J], 6.4840[J], 20.310[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> and <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.410[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Bathe",
+                "K. Ribbeck",
+                "P. T. So"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Archaeology and Archaeological Science"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.981 Communities of the Living and the Dead: the Archaeology of Ancient Egypt"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the development of complex societies in Egypt over a 3000-year period. Uses archaeological and historical sources to determine how and why prehistoric communities coalesced into a long-lived and powerful state. Studies the remains of ancient settlements, tombs, and temples, exploring their relationships to one another and to the geopolitical landscape of Egypt and the Mediterranean world. Considers the development of advanced technologies, rise of social hierarchy, expansion of empire, role of writing, and growth of a complex economy."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.982 The Ancient Andean World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines development of Andean civilization which culminated in the extraordinary empire established by the Inka. Archaeological, ethnographic, and ethnohistorical approaches. Particular attention to the unusual topography of the Andean area, its influence upon local ecology, and the characteristic social, political, and technological responses of Andean people to life in a topographically \"vertical\" world. Characteristic cultural styles of prehistoric Andean life."
+        ],
+        [
+            "inst",
+            [
+                "D. Hosler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.983 Ancient Mesoamerican Civilization"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines origins, florescence and collapse of selected civilizations of ancient Mesoamerica using archaeological and ethnohistoric evidence. Focuses on the Maya, including their hieroglyphic writing. Themes include development of art and architecture, urbanism, religious and political institutions, human-environment interactions, and socio-political collapse. Representations of Maya society in contemporary film and media. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "F. Rossi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.984 Materials in Ancient Societies: Ceramics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminars and labs provide in-depth study of the technologies ancient societies used to produce objects from ceramic materials, including clays and mortars. Seminars cover basic ceramic materials science and engineering and relate materials selection and processing to environment, exchange, political power, and cultural values."
+        ],
+        [
+            "inst",
+            [
+                "H. N. Lechtman",
+                "J. Meanwell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.985[J] Archaeological Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.24[J], 12.011[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a> or <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Pressing issues in archaeology as an anthropological science. Stresses the natural science and engineering methods archaeologists use to address these issues. Reconstructing time, space, and human ecologies provides one focus; materials technologies that transform natural materials to material culture provide another. Topics include 14C dating, ice core and palynological analysis, GIS and other remote sensing techniques for site location, organic residue analysis, comparisons between Old World and New World bronze production, invention of rubber by Mesoamerican societies, analysis and conservation of Dead Sea Scrolls."
+        ],
+        [
+            "inst",
+            [
+                "D. Hosler",
+                "H. N. Lechtman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.986 The Human Past: Introduction to Archaeology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "From an archaeological perspective, examines ancient human activities and the forces that shaped them. Draws on case studies from the Old and/or New World. Exposes students to various classes of archaeological data, such as stone, bone, and ceramics, that help reconstruct the past."
+        ],
+        [
+            "inst",
+            [
+                "M. Price"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.987 Human Evolution: Data from Palaeontology, Archaeology, and Materials Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines human physical and cultural evolution over the past five million years via lectures and labs that incorporate data from human palaeontology, archaeology, and materials science. Topics include the evolution of hominin morphology and adaptations; the nature and structure of bone and its importance in human evolution; and the fossil and archaeological evidence for human behavioral and cultural evolution, from earliest times through the Pleistocene. Laboratory sessions include study of stone technology, artifacts, and fossil specimens."
+        ],
+        [
+            "inst",
+            [
+                "M. Price"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.989 Materials in Ancient Societies: Metals Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory analysis of archaeological artifacts of metals. Follows on 3.984."
+        ],
+        [
+            "inst",
+            [
+                "J. Meanwell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.990 Seminar in Archaeological Method and Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: 3.985[J], 3.986, and 21A.00"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed for undergraduate seniors majoring in Archaeology and Materials. Critical analysis of major intellectual and methodological developments in American archaeology, including evolutionary theory, the \"New Archaeology,\" Marxism, formal and ideological approaches. Explores the use of science and engineering methods to reconstruct cultural patterns from archaeological data. Seminar format, with formal presentations by all students. Non-majors fulfilling all prerequisites may enroll by permission of instructors. Instruction and practice in oral and written communication provided."
+        ],
+        [
+            "inst",
+            [
+                "D. Hosler",
+                "H. Lechtman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.991 Ancient Engineering: Ceramic Technologies"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.098"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores human interaction with ceramic materials over a considerable span of time, from 25,000 years ago to the 16th century AD. Through the lens of modern materials science combined with evidence from archaeological investigations, examines ancient ceramic materials — from containers to architecture to art — to better understand our close relationship with this important class of material culture. Examines ceramics structure, properties, and processing. Introduces archaeological perspectives and discusses how research into historical changes in ancient ceramic technologies has led to a deeper comprehension of past human behavior and societal development. Concludes by considering how studies of ancient technologies and techniques are leading modern materials scientists to engineer designs of modern ceramic materials, including glasses, concretes, and pigments. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Meanwell",
+                "W. Gilstrap"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.993 Archaeology of the Middle East"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the long history of the Middle East and its role as an enduring center of civilization and human thought. Beginning over 100,000 years ago and ending up in the present day, tackles major issues in the human career through examination of archaeological and written materials. Students track the course of human development in the Middle East, from hunting and gathering to cities and empires."
+        ],
+        [
+            "inst",
+            [
+                "M. Price"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.995 First Year Thesis Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 3.202; permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Preparation for program of research leading to the writing of an SM, PhD, or ScD thesis; to be arranged by the student and an appropriate MIT faculty member. Includes research presentation, in coordination with 3.202."
+        ],
+        [
+            "inst",
+            [
+                "R. Macfarlane"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.997 Graduate Fieldwork in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of field research in materials science and engineering leading to the writing of an SM, PhD, or ScD thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "D. Hosler",
+                "H. Lechtman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.998 Doctoral Thesis Update Meeting"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Thesis research update presentation to the thesis committee. Held the first or second academic term after successfully passing the Thesis Area Examination."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.C01[J] Machine Learning for Molecular Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.C01[J], 20.C01[J]\nSubject meets with 3.C51[J], 10.C51[J], 20.C51[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=6.C01\" title=\"6.C01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C01');\">6.C01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Building on core material in 6.C01, provides an introduction to the use of machine learning to solve problems arising in the science and engineering of biology, chemistry, and materials. Equips students to design and implement machine learning approaches to challenges such as analysis of omics (genomics, transcriptomics, proteomics, etc.), microscopy, spectroscopy, or crystallography data and design of new molecules and materials such as drugs, catalysts, polymer, alloys, ceramics, and proteins. Students taking graduate version complete additional assignments. Students cannot receive credit without simultaneous completion of 6.C01."
+        ],
+        [
+            "inst",
+            [
+                "R. Gomez-Bombarelli",
+                "C. Coley",
+                "E. Fraenkel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.C27[J] Computational Imaging: Physics and Algorithms (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.C27[J], 6.C27[J]\nSubject meets with 2.C67[J], 3.C67[J], 6.C67[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.C06\" title=\"18.C06[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.C06');\">18.C06[J]</a> and (<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a>, <a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>, <a href=\"/search/?P=2.086\" title=\"2.086\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.086');\">2.086</a>, <a href=\"/search/?P=3.019\" title=\"3.019\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.019');\">3.019</a>, or <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.C27[J]."
+        ],
+        [
+            "inst",
+            [
+                "G. Barbastathis",
+                "J. LeBeau",
+                "R. Ram",
+                "S. You"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.C51[J] Machine Learning for Molecular Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.C51[J], 20.C51[J]\nSubject meets with 3.C01[J], 10.C01[J], 20.C01[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=6.C51\" title=\"6.C51\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C51');\">6.C51</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Building on core material in 6.C51, provides an introduction to the use of machine learning to solve problems arising in the science and engineering of biology, chemistry, and materials. Equips students to design and implement machine learning approaches to challenges such as analysis of omics (genomics, transcriptomics, proteomics, etc.), microscopy, spectroscopy, or crystallography data and design of new molecules and materials such as drugs, catalysts, polymer, alloys, ceramics, and proteins. Students taking graduate version complete additional assignments. Students cannot receive credit without simultaneous completion of 6.C51."
+        ],
+        [
+            "inst",
+            [
+                "R. Gomez-Bombarelli",
+                "C. Coley",
+                "E. Fraenkel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.C67[J] Computational Imaging: Physics and Algorithms (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.C67[J], 6.C67[J]\nSubject meets with 2.C27[J], 3.C27[J], 6.C27[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.C06\" title=\"18.C06[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.C06');\">18.C06[J]</a> and (<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a>, <a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>, <a href=\"/search/?P=2.086\" title=\"2.086\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.086');\">2.086</a>, <a href=\"/search/?P=3.019\" title=\"3.019\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.019');\">3.019</a>, or <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.C67[J]."
+        ],
+        [
+            "inst",
+            [
+                "G. Barbastathis",
+                "J. LeBeau",
+                "R. Ram",
+                "S. You"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.EPE UPOP Engineering Practice Experience"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPE, 2.EPE, 3.EPE, 6.EPE, 8.EPE, 10.EPE, 15.EPE, 16.EPE, 20.EPE, 22.EPE"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPE. Application required; consult UPOP website for more information."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.EPW UPOP Engineering Practice Workshop"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPW, 2.EPW, 3.EPW, 6.EPW, 10.EPW, 16.EPW, 20.EPW, 22.EPW"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.EPE\" title=\"2.EPE\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.EPE');\">2.EPE</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPW. Enrollment limited to those in the UPOP program."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S01 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S02 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S03 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S04 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S05 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S06 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S07 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S08 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall, Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S09 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Lecture, seminar, or laboratory consisting of material not offered in regularly scheduled subjects. Can be repeated for credit only for completely different subject matter."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S70 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in Materials Science and Engineering that are not included in the permanent curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S71 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in Materials Science and Engineering that are not included in the permanent curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S72 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in Materials Science and Engineering that are not included in the permanent curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S74 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in Materials Science and Engineering that are not included in the permanent curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S75 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in Materials Science and Engineering that are not included in the permanent curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.S76-3.S79 Special Subject in Materials Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in Materials Science and Engineering that are not included in the permanent curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of an SM, PhD, or ScD thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "F. M. Ross"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.THU Undergraduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of an SB thesis; to be arranged by the student and an appropriate MIT faculty member. Instruction and practice in oral and written communication."
+        ],
+        [
+            "inst",
+            [
+                "Information: DMSE Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.UAR[J] Climate and Sustainability Undergraduate Advanced Research"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.UAR[J], 5.UAR[J], 11.UAR[J], 12.UAR[J], 15.UAR[J], 22.UAR[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.UAR[J]. Application required; consult MCSC website for more information."
+        ],
+        [
+            "inst",
+            [
+                "D. Plata",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Extended participation in work of a research group. Independent study of literature, direct involvement in group's research (commensurate with student skills), and project work under an individual faculty member. See UROP coordinator for registration procedures."
+        ],
+        [
+            "inst",
+            [
+                "Information: DMSE Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "3.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Extended participation in work of a research group. Independent study of literature, direct involvement in group's research (commensurate with student skills), and project work under an individual faculty member. See UROP coordinator for registration procedures."
+        ],
+        [
+            "inst",
+            [
+                "Information: DMSE Academic Office"
+            ]
+        ]
+    ]
+]

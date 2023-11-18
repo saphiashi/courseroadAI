@@ -1,0 +1,2318 @@
+[
+    "Data, Systems, and Society (IDS)",
+    [
+        "block",
+        [
+            "title",
+            "IDS.012[J] Statistics, Computation and Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.3730[J]\nSubject meets with 6.3732[J], IDS.131[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a>, (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, or <a href=\"/search/?P=18.C06\" title=\"18.C06[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.C06');\">18.C06[J]</a>), and (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=6.3800\" title=\"6.3800\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3800');\">6.3800</a>, <a href=\"/search/?P=14.30\" title=\"14.30\" class=\"bubblelink code\" onclick=\"return showCourse(this, '14.30');\">14.30</a>, <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>, or <a href=\"/search/?P=18.05\" title=\"18.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.05');\">18.05</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Hands-on analysis of data demonstrates the interplay between statistics and computation. Includes four modules, each centered on a specific data set, and introduced by a domain expert. Provides instruction in specific, relevant analysis methods and corresponding algorithmic aspects. Potential modules may include medical data, gene regulation, social networks, finance data (time series), traffic, transportation, weather forecasting, policy, or industrial web applications. Projects address a large-scale data analysis question. Students taking graduate version complete additional assignments. Enrollment limited; priority to Statistics and Data Science minors, and to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "C. Uhler",
+                "N. Azizan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.013[J] Statistical Thinking and Data Analysis"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.075[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=15.069\" title=\"15.069\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.069');\">15.069</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.075[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Fazel Zarandi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.014[J] Fundamentals of Statistics"
+        ],
+        [
+            "prerec",
+            "Same subject as 18.650[J]\nSubject meets with 18.6501"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=18.600\" title=\"18.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.600');\">18.600</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 18.650[J]."
+        ],
+        [
+            "inst",
+            [
+                "Fall: P. Rigollet. Spring: A. Katsevich"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.045[J] System Safety"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.63[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.63[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Leveson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.050[J] Cybersecurity"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.447[J]\nSubject meets with 17.448[J], IDS.350[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.447[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Choucri",
+                "S. Pentland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.055[J] Science, Technology, and Public Policy"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.309[J], STS.082[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.309[J]."
+        ],
+        [
+            "inst",
+            [
+                "K. Oye",
+                "N. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.057[J] Data and Society"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.155[J], STS.005[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject STS.005[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Medina",
+                "S. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.060[J] Environmental Law, Policy, and Economics: Pollution Prevention and Control"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.801[J], 11.021[J], 17.393[J]\nSubject meets with 1.811[J], 11.630[J], 15.663[J], IDS.540[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes federal and state regulation of air and water pollution, hazardous waste, greenhouse gas emissions, and production/use of toxic chemicals. Analyzes pollution/climate change as economic problems and failure of markets. Explores the role of science and economics in legal decisions. Emphasizes use of legal mechanisms and alternative approaches (i.e., economic incentives, voluntary approaches) to control pollution and encourage chemical accident and pollution prevention. Focuses on major federal legislation, underlying administrative system, and common law in analyzing environmental policy, economic consequences, and role of the courts. Discusses classical pollutants and toxic industrial chemicals, greenhouse gas emissions, community right-to-know, and environmental justice. Develops basic legal skills: how to read/understand cases, regulations, and statutes. Students taking graduate version explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.061[J] Regulation of Chemicals, Radiation, and Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.802[J], 11.022[J]\nSubject meets with 1.812[J], 10.805[J], 11.631[J], IDS.436[J], IDS.541[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=IDS.060\" title=\"IDS.060[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'IDS.060');\">IDS.060[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on policy design and evaluation in the regulation of hazardous substances and processes. Includes risk assessment, industrial chemicals, pesticides, food contaminants, pharmaceuticals, radiation and radioactive wastes, product safety, workplace hazards, indoor air pollution, biotechnology, victims' compensation, and administrative law. Health and economic consequences of regulation, as well as its potential to spur technological change, are discussed for each regulatory regime. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.062[J] Global Environmental Negotiations"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.346[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Practical introduction to global environmental negotiations designed for science and engineering students. Covers basic issues in international negotiations, such as North-South conflict, implementation and compliance, trade, and historical perspective on global environmental treaties. Offers hands-on practice in developing and interpreting international agreements through role-play simulations and observation of ongoing climate change negotiating processes. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "N. E. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.063[J] People and the Planet: Environmental Governance and Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.387[J], 15.874[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 12.387[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Selin",
+                "S. Solomon",
+                "J. Sterman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.064 Engineering, Economics and Regulation of the Electric Power Sector"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Presents an in-depth interdisciplinary look at the electric power sector, with regulation providing the link among engineering, economic, legal and environmental viewpoints. Topics include electricity markets, incentive regulation of networks, service reliability, renewable energy sources, network issues, retail competition, tariff design, distributed generation, rural electrification, multinational electricity markets, environmental impacts, and the future of utilities and strategic sustainability issues under traditional and competitive regulatory frameworks. Covers engineering, economic and legal basis to evaluate worldwide regulatory instruments. Regulatory approaches apply in other industrial sectors such as fuel gases, telecoms, transportation, water supply. Provides the basis for research or professional activities in energy sectors in industry, government, and consulting."
+        ],
+        [
+            "inst",
+            [
+                "I.  Perez-Arriaga",
+                "C. Battle-Lopez",
+                "T. Schittekatte",
+                "P. Joskow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.065[J] Energy Systems for Climate Change Mitigation"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.067[J], 10.421[J]\nSubject meets with 1.670[J], 10.621[J], IDS.521[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a>, <a href=\"/search/?P=3.091|5.111|5.112\" onclick=\"return showCourse(this, '3.091|5.111|5.112');\">Chemistry (GIR)</a>, and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Reviews the contributions of energy systems to global greenhouse gas emissions, and the levers for reducing those emissions. Lectures and projects focus on evaluating energy systems against climate policy goals, using performance metrics such as cost, carbon intensity, and others. Student projects explore pathways for realizing emissions reduction scenarios. Projects address the climate change mitigation potential of energy technologies (hardware and software), technological and behavioral change trajectories, and technology and policy portfolios. Background in energy systems strongly recommended. Students taking the graduate version complete additional assignments and explore the subject in greater depth. Preference to students in the Energy Studies or Environment and Sustainability minors."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.066[J] Law, Technology, and Public Policy"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.122[J]\nSubject meets with 11.422[J], 15.655[J], IDS.435[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines how law, economics, and technological change shape public policy, and how law can sway technological change; how the legal system responds to environmental, safety, energy, social, and ethical problems; how law and markets interact to influence technological development; and how law can affect wealth distribution, employment, and social justice. Covers energy/climate change; genetic engineering; telecommunications and role of misinformation; industrial automation; effect of regulation on technological innovation; impacts of antitrust law on innovation and equity; pharmaceuticals; nanotechnology; cost/benefit analysis as a decision tool; public participation in governmental decisions affecting science and technology; corporate influence on technology and welfare; and law and economics as competing paradigms to encourage sustainability. Students taking graduate version explore subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.075[J] Transportation: Foundations and Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.041[J]\nSubject meets with 1.200[J], 11.544[J], IDS.675[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=1.010\" title=\"1.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.010');\">1.010</a> and (<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a> or <a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.041[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Wu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.131[J] Statistics, Computation and Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.3732[J]\nSubject meets with 6.3730[J], IDS.012[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a>, (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, or <a href=\"/search/?P=18.C06\" title=\"18.C06[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.C06');\">18.C06[J]</a>), and (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=6.3800\" title=\"6.3800\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3800');\">6.3800</a>, <a href=\"/search/?P=14.30\" title=\"14.30\" class=\"bubblelink code\" onclick=\"return showCourse(this, '14.30');\">14.30</a>, <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>, or <a href=\"/search/?P=18.05\" title=\"18.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.05');\">18.05</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Hands-on analysis of data demonstrates the interplay between statistics and computation. Includes four modules, each centered on a specific data set, and introduced by a domain expert. Provides instruction in specific, relevant analysis methods and corresponding algorithmic aspects. Potential modules may include medical data, gene regulation, social networks, finance data (time series), traffic, transportation, weather forecasting, policy, or industrial web applications. Projects address a large-scale data analysis question. Students taking graduate version complete additional assignments. Limited enrollment; priority to Statistics and Data Science minors and to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "C. Uhler",
+                "N. Azizan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.136[J] Graphical Models: A Geometric, Algebraic, and Combinatorial Perspective"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7820[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3702\" title=\"6.3702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3702');\">6.3702</a> and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction in the geometric, algebraic and combinatorial perspective on graphical models. Presents methods for learning the underlying graph and inferring its parameters. Topics include exponential families, duality theory, conic duality, polyhedral geometry, undirected graphical models, Bayesian networks, Markov properties, total positivity of distributions, hidden variables, and tensor decompositions."
+        ],
+        [
+            "inst",
+            [
+                "C. Uhler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.140[J] Reinforcement Learning: Foundations and Methods (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.127[J], 6.7920[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.7920[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Wu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.145[J] Data Mining: Finding the Models and Predictions that Create Value"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.062[J]\nSubject meets with 15.0621"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.060\" title=\"15.060\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.060');\">15.060</a>, <a href=\"/search/?P=15.075\" title=\"15.075[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.075');\">15.075[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.062[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. E. Welsch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.147[J] Statistical Machine Learning and Data Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.077[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.077[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. E. Welsch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.160[J] Mathematical Statistics: a Non-Asymptotic Approach"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.521[J], 18.656[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.7700\" title=\"6.7700[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7700');\">6.7700[J]</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, and <a href=\"/search/?P=18.6501\" title=\"18.6501\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.6501');\">18.6501</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.521[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Rakhlin",
+                "P. Rigollet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.190 Doctoral Seminar in Statistics and Data Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Interdisciplinary seminar explores diverse topics in statistics and data science. Restricted to students in the Interdisciplinary Doctoral Program in Statistics."
+        ],
+        [
+            "inst",
+            [
+                "Consult D. Shah"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.200[J] Optimization Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7200[J], 15.093[J]\nSubject meets with 6.7201"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.093[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Bertsimas",
+                "P. Parrilo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.250[J] The Theory of Operations Management"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.271[J], 15.764[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.7210\" title=\"6.7210[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7210');\">6.7210[J]</a> and <a href=\"/search/?P=6.7700\" title=\"6.7700[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7700');\">6.7700[J]</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.764[J]."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.305[J] Business and Operations Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.275[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction on identifying, evaluating, and capturing business analytics opportunities that create value. Also provides basic instruction in analytics methods and case study analysis of organizations that successfully deployed these techniques."
+        ],
+        [
+            "inst",
+            [
+                "D. Simchi-Levi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.330[J] Real Options for Product and Systems Design"
+        ],
+        [
+            "prerec",
+            "Same subject as EM.424[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=IDS.333\" title=\"IDS.333[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'IDS.333');\">IDS.333[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on implementation of flexibility (real options) in the design of products, start-ups, ongoing management of operations, or policy plans. Applies the methods presented in IDS.333[J]: recognition of uncertainty, identification of best opportunities for flexibility, and valuation of these options and their effective implementation. Students work on their own project concept, for which they develop a dynamic business plan for design, deployment, and most beneficial implementation of their system over time. Useful complement to thesis or research projects. Class is \"flipped\" to maximize student engagement and learning."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.332 Engineering Systems Analysis for Design"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.146, 16.861, EM.422, IDS.332"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Practical-oriented subject that builds upon theory and methods and culminates in extended application. Covers methods to identify, value, and implement flexibility in design (real options). Topics include definition of uncertainties, simulation of performance for scenarios, screening models to identify desirable flexibility, decision analysis, and multidimensional economic evaluation. Students demonstrate proficiency through an extended application to a system design of their choice. Complements research or thesis projects. Class is \"flipped\" to maximize student engagement and learning. Meets with IDS.333[J] in the first half of term. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.333[J] Risk and Decision Analysis"
+        ],
+        [
+            "prerec",
+            "Same subject as EM.423[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on design choices and decisions under uncertainty. Topics include identification and description of uncertainties using probability distributions; the calculation of commensurate measures of value, such as expected net present values; Monte Carlo simulation and risk analysis; and the use of decision analysis to explore alternative strategies and identify optimal initial choices. Presents applied analysis of practical examples from a variety of engineering systems using spreadsheet and decision analysis software. Class is \"flipped\" to maximize student engagement and learning. Meets with IDS.332 first half of term."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.336[J] Systems Architecting Applied to Enterprises"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.855[J], EM.429[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on understanding, designing and transforming sociotechnical enterprises using systems principles and practices. Includes discussions and reading on enterprise theory, systems architecting, transformation challenges and case studies of evolving enterprises. Covers frameworks and methods for ecosystem analysis, stakeholder analysis, design thinking, systems architecture and evaluation, and human-centered enterprise design strategies. Students engage in interactive breakout sessions during class and participate in a selected small team project to design a future architecture for a real-world enterprise. Selected projects are based on student interests in enterprises such as small, medium, or large companies, government agencies, academic units, start-ups, and nonprofit organizations."
+        ],
+        [
+            "inst",
+            [
+                "D. Rhodes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.337[J] Aerospace Biomedical and Life Support Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.423[J], HST.515[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.06\" title=\"16.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.06');\">16.06</a>, <a href=\"/search/?P=16.400\" title=\"16.400\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.400');\">16.400</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.423[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. J. Newman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.338[J] Multidisciplinary Design Optimization"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.888[J], EM.428[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.888[J]."
+        ],
+        [
+            "inst",
+            [
+                "O. de Weck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.339[J] Space Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.89[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.842\" title=\"16.842\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.842');\">16.842</a>, <a href=\"/search/?P=16.851\" title=\"16.851\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.851');\">16.851</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.89[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. F. Crawley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.340[J] System Safety Concepts"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.863[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.863[J]. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "N. G. Leveson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.341[J] Concepts in the Engineering of Software"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.355[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.355[J]. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "N. G. Leveson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.350[J] Cybersecurity"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.448[J]\nSubject meets with 17.447[J], IDS.050[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.448[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Choucri",
+                "S. Pentland"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.410 Modeling and Assessment for Policy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how scientific information and quantitative models can be used to inform policy decision-making. Develops an understanding of quantitative modeling techniques and their role in the policy process through case studies and interactive activities. Addresses issues such as analysis of scientific assessment processes, uses of integrated assessment models, public perception of quantitative information, methods for dealing with uncertainties, and design choices in building policy-relevant models."
+        ],
+        [
+            "inst",
+            [
+                "N. E. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.411 Concepts and Research in Technology and Policy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Core integrative subject, with substantive participation from a series of guest faculty lecturers, examines key technology-policy concepts. Explores alternative framings of roles of technology in policy, emphasizing the implications of these alternatives upon problem-solving in the area. Exercises prepare students to apply these concepts in the framing of their thesis research. Preference to first-year students in the Technology and Policy Program."
+        ],
+        [
+            "inst",
+            [
+                "F. Field"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.412[J] Science, Technology, and Public Policy"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.310[J], STS.482[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.310[J]."
+        ],
+        [
+            "inst",
+            [
+                "K. Oye",
+                "N. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.435[J] Law, Technology, and Public Policy"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.422[J], 15.655[J]\nSubject meets with 11.122[J], IDS.066[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines how law, economics, and technological change shape public policy, and how law can sway technological change; how the legal system responds to environmental, safety, energy, social, and ethical problems; how law and markets interact to influence technological development; and how law can affect wealth distribution, employment, and social justice. Covers energy/climate change; genetic engineering; telecommunications and the role of misinformation; industrial automation; effect of regulation on technological innovation; impacts of antitrust law on innovation and equity; pharmaceuticals; nanotechnology; cost/benefit analysis as a decision tool; public participation in governmental decisions affecting science and technology; corporate influence on technology and welfare; and law and economics as competing paradigms to encourage sustainability. Students taking graduate version explore subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.436[J] Technology, Law, and the Working Environment"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.805[J]\nSubject meets with 1.802[J], 1.812[J], 11.022[J], 11.631[J], IDS.061[J], IDS.541[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses relationship between technology-related problems and the law applicable to work environment. National Labor Relations Act, Occupational Safety and Health Act. Toxic Substances Control Act, state worker's compensation, and suits by workers in the courts discussed. Problems related to occupational health and safety, collective bargaining as a mechanism for altering technology in the workplace, job alienation, productivity, and the organization of work addressed. Prior courses or experience in the environmental, public health, or law-related areas."
+        ],
+        [
+            "inst",
+            [
+                "N. A. Ashford",
+                "C. C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.437[J] Technology, Globalization, and Sustainable Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.813[J], 11.466[J], 15.657[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates sustainable development, taking a broad view to include not only a healthy economic base, but also a sound environment, stable and rewarding employment, adequate purchasing power and earning capacity, distributional equity, national self-reliance, and maintenance of cultural integrity. Explores national, multinational, and international political and legal mechanisms to further sustainable development through transformation of the industrial state. Addresses the importance of technological innovation and the financial crisis of 2008 and the emergence of the Covid-19 pandemic, Russia's invasion of Ukraine, and inflation, as well as governmental interventions to reduce inequality."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.448 Professional Development: Policy Hackathon (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Bridges knowledge to action for student organizers of the MIT Policy Hackathon. Students work with stakeholders to define needs for information and analysis, identify appropriate data sets, and craft problem statements that aim to provide actionable outputs for decision-making. Builds competence in management and organization, networking, presentation, and fundraising. Restricted to the student organizers for the MIT Policy Hackathon."
+        ],
+        [
+            "inst",
+            [
+                "F. Field",
+                "N. E. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.449 Technology Policy Internship and Professional Perspectives Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: IDS.411 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar examines what technology policy is in practice. Considers the question of \"Who achieves what, when, how, and why?\" regarding technology and policy. Students who completed summer internships present and dissect their experiences with special reference to specific cases in which they participated. Develops perspectives on practice in the field through sessions with alumni, other practitioners, and development professionals within MIT."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.505[J] Engineering, Economics and Regulation of the Electric Power Sector"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.032[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Presents an in-depth interdisciplinary look at the electric power sector, with regulation providing the link among engineering, economic, legal and environmental viewpoints. Topics include electricity markets, incentive regulation of networks, service reliability, renewable energy sources, network issues, retail competition, tariff design, distributed generation, rural electrification, multinational electricity markets, environmental impacts, and the future of utilities and strategic sustainability issues under traditional and competitive regulatory frameworks. Covers engineering, economic and legal basis to evaluate worldwide regulatory instruments. Regulatory approaches apply in other industrial sectors such as fuel gases, telecoms, transportation, water supply. Provides the basis for research or professional activities in energy sectors in industry, government, and consulting. Permission of instructor required for undergraduates wishing to take the class."
+        ],
+        [
+            "inst",
+            [
+                "C. Batlle-Lopez",
+                "T. Schittekatte"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.521[J] Energy Systems for Climate Change Mitigation"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.670[J], 10.621[J]\nSubject meets with 1.067[J], 10.421[J], IDS.065[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Reviews the contributions of energy systems to global greenhouse gas emissions, and the levers for reducing those emissions. Lectures and projects focus on evaluating energy systems against climate policy goals, using performance metrics such as cost, carbon intensity, and others. Student projects explore pathways for realizing emissions reduction scenarios. Projects address the climate change mitigation potential of energy technologies (hardware and software), technological and behavioral change trajectories, and technology and policy portfolios. Background in energy systems strongly recommended. Students taking the graduate version complete additional assignments and explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.522 Mapping and Evaluating New Energy Technologies"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Project-based seminar reviews recent developments in energy conversion and storage technologies. Merits of alternative technologies are debated based on their environmental performance and cost, and their potential improvement and scalability. Project teams develop qualitative insights, quantitative models, and interactive visualization tools to inform the future development of technologies. Models may probe how the impact of a technology depends on assumptions about future advancements in performance, and how quantitative performance targets can be estimated to inform investment and design decisions. Other projects may develop models to inform rational investments in a portfolio of technologies based on economic and environmental performance and scalability constraints. Both information-based (e.g., software and codified practices) and physical technologies will be discussed."
+        ],
+        [
+            "inst",
+            [
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.524[J] People and the Planet: Environmental Histories and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.204[J]\nSubject meets with 11.004[J], STS.033[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.204[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Slocum",
+                "R. Scheffler",
+                "J. Trancik"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.525[J] Global Environmental Negotiations"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.846[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Practical introduction to global environmental negotiations designed for science and engineering students. Covers basic issues in international negotiations, such as North-South conflict, implementation and compliance, trade, and historical perspective on global environmental treaties. Offers hands-on practice in developing and interpreting international agreements through role-play simulations and observation of ongoing climate change negotiating processes. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "N. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.526[J] Sustainability Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.845[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces and develops core ideas and concepts in the field of sustainability science and engineering from an engineering systems perspective. Takes an interdisciplinary approach to discuss case studies of sustainability systems research. Exposes students to techniques for sustainability research across engineering, natural and social science disciplines. Term projects focus on applying techniques."
+        ],
+        [
+            "inst",
+            [
+                "N. E. Selin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.540[J] Environmental Law, Policy, and Economics: Pollution Prevention and Control"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.811[J], 11.630[J], 15.663[J]\nSubject meets with 1.801[J], 11.021[J], 17.393[J], IDS.060[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes federal and state regulation of air and water pollution, hazardous waste, greenhouse gas emissions, and production/use of toxic chemicals. Analyzes pollution/climate change as economic problems and failure of markets. Explores the role of science and economics in legal decisions. Emphasizes use of legal mechanisms and alternative approaches (i.e., economic incentives, voluntary approaches) to control pollution and encourage chemical accident and pollution prevention. Focuses on major federal legislation, underlying administrative system, and common law in analyzing environmental policy, economic consequences, and role of the courts. Discusses classical pollutants and toxic industrial chemicals, greenhouse gas emissions, community right-to-know, and environmental justice. Develops basic legal skills: how to read/understand cases, regulations, and statutes. Students taking graduate version explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C. Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.541[J] Regulation of Chemicals, Radiation, and Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.812[J], 11.631[J]\nSubject meets with 1.802[J], 10.805[J], 11.022[J], IDS.061[J], IDS.436[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=IDS.540\" title=\"IDS.540[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'IDS.540');\">IDS.540[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on policy design and evaluation in the regulation of hazardous substances and processes. Includes risk assessment, industrial chemicals, pesticides, food contaminants, pharmaceuticals, radiation and radioactive wastes, product safety, workplace hazards, indoor air pollution, biotechnology, victims' compensation, and administrative law. Health and economic consequences of regulation, as well as its potential to spur technological change, are discussed for each regulator regime. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "N. Ashford",
+                "C.Caldart"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.620[J] Principles and Practice of Drug Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.547[J], 15.136[J], HST.920[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.136[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Finkelstein",
+                "A. J. Sinskey",
+                "R. Rubin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.670[J] Planning and Design of Airport Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.231[J], 16.781[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on current practice, developing trends, and advanced concepts in airport design and planning. Considers economic, environmental, and other trade-offs related to airport location, as well as the impacts of emphasizing \"green\" measures. Includes an analysis of the effect of airline operations on airports. Topics include demand prediction, determination of airfield capacity, and estimation of levels of congestion; terminal design; the role of airports in the aviation and transportation system; access problems; optimal configuration of air transport networks and implications for airport development; and economics, financing, and institutional aspects. Special attention to international practice and developments."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville",
+                "A. R. Odoni"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.675[J] Transportation: Foundations and Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.200[J], 11.544[J]\nSubject meets with 1.041[J], IDS.075[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=1.000\" title=\"1.000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.000');\">1.000</a>, (<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a> and <a href=\"/search/?P=1.010\" title=\"1.010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.010');\">1.010</a>), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.200[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Wu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.700[J] Applied Probability and Stochastic Models"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.203[J], 15.073[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=18.600\" title=\"18.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.600');\">18.600</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.073[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Barnett"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.730[J] Logistics Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.260[J], 15.770[J], SCM.260[J]\nSubject meets with SCM.271"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject SCM.260[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Caplice",
+                "D. Correll"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.735[J] Supply Chain Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.273[J], 15.762[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.761\" title=\"15.761\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.761');\">15.761</a> or <a href=\"/search/?P=SCM.260\" title=\"SCM.260[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.260');\">SCM.260[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.762[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Trichakis",
+                "S. Willems"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.736[J] Supply Chain: Capacity Analytics"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.274[J], 15.763[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.761\" title=\"15.761\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.761');\">15.761</a>, <a href=\"/search/?P=15.778\" title=\"15.778\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.778');\">15.778</a>, or <a href=\"/search/?P=SCM.260\" title=\"SCM.260[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'SCM.260');\">SCM.260[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.763[J]."
+        ],
+        [
+            "inst",
+            [
+                "S.  Graves",
+                "N. Trichakis",
+                "S. Willems"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.900 Doctoral Seminar in Social and Engineering Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces doctoral students to IDSS research areas. Preference to first-year students in SES."
+        ],
+        [
+            "inst",
+            [
+                "A. Jadbabaie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.910 Leadership Development"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; partial term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar environment created to develop leadership capabilities, and to take advantage of leadership opportunities. An initial Outward Bound experience builds trust, teamwork and communications. Readings and assignments emphasize the characteristics of desired leadership skills. Global leaders participate in the Leadership Lunch series to share their experiences and recommendations. Discussions explore leadership development. Culminates in a personal leadership plan. Restricted to entering students in the Technology and Policy program or instructor permission."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.950 Independent Study in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of IDSS Academic Office"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For graduate students in IDSS. Individual study in data, systems, and society. Intended to expose student to expert-level domain material. Supervised by a member of MIT's teaching staff."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.951 Independent Study in Technology and Policy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of TPP Education Office"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For graduate students in TPP. Individual study in technology and policy. Intended to expose student to expert-level domain material. Supervised by a member of MIT's teaching staff."
+        ],
+        [
+            "inst",
+            [
+                "Consult TPP Education Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.955 Practical Experience in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For IDSS doctoral students participating in off-campus practical experiences in data, systems, and society. Before registering for this subject students must have a training offer from a company or organization, must identify a research supervisor, and must receive prior approval from the IDSS Academic Office. Upon completion of the experience students must submit a letter from the company or organization describing the goals accomplished and a substantive final report to the MIT supervisor."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.956 Practical Experience in Technology and Policy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For TPP students participating in off-campus internship experiences in technology and policy. Before registering for this subject, students must have an employment offer from a company or organization, must identify a research supervisor, and must receive prior approval from the TPP Education Office. Upon completion of the internship, student must submit a letter from the employer describing the work accomplished, along with a substantive final report from the student approved by the MIT supervisor."
+        ],
+        [
+            "inst",
+            [
+                "Consult TPP Education Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.957 Practical Experience in Data Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For doctoral students in the Interdisciplinary Doctoral Program in Statistics participating in off-campus practical experiences in data analysis in programs where practical experience is accepted. Before registering for this subject students must have a training offer from a company or organization, must identify a research supervisor, and must receive prior approval from the IDSS Academic Office. Upon completion of the experience, students must submit a letter from the company or organization describing the goals accomplished and a substantive final report to the MIT supervisor discussing how data science and statistical tools were used during their experience and any interesting problems, applications, or results."
+        ],
+        [
+            "inst",
+            [
+                "E. Milnes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.960 Teaching in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For Teaching Assistants in IDSS, in cases where teaching assignment is approved for academic credit. Laboratory, tutorial, or classroom teaching under supervision of a faculty member. Credit for this subject may be used to satisfy the teaching requirement for the Doctor of Philosophy in Social and Engineering Systems in IDSS. Otherwise, credit for this subject may not used for any other degree requirement or degree in IDSS."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.961 Teaching in Technology and Policy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For Teaching Assistants in TPP, in cases where teaching assignment is approved for academic credit. Laboratory, tutorial, or classroom teaching under supervision of a faculty member. Credit for this subject may not be used for any degree granted by IDSS."
+        ],
+        [
+            "inst",
+            [
+                "Consult TPP Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.970 Research in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Research Assistants in IDSS when assigned research is not used for thesis, but is approved for academic credit. Credit for this subject may not be used for any degree granted by IDSS."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.971 Research in Technology and Policy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For research assistants in TPP when assigned research is not used for thesis, but is approved for academic credit. Credit for this subject may not be used for any degree granted by IDSS."
+        ],
+        [
+            "inst",
+            [
+                "Consult TPP Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S00 Special Undergraduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of topics in Data, Systems, and Society not otherwise included in the curriculum. Offerings initiated by faculty on an ad hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S01 Special Undergraduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S10 Special Undergraduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S11 Special Undergraduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of topics in Data, Systems, and Society not otherwise included in the curriculum. Offerings initiated by faculty on an ad hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S20 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S21 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Information: Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S22 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S23 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S24 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S30 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S31 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for individual or group study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.S32 Special Graduate Subject in Data, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for individual or group study of advanced topics in Data, Systems, and Society not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to IDSS approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research, leading to the writing of an SM or PhD thesis to be arranged by the student with a member of the IDSS faculty. A minimum of 24 thesis units are required for the SM degree."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in Data, Systems, and Society."
+        ],
+        [
+            "inst",
+            [
+                "IDSS Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "IDS.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in Data, Systems, and Society."
+        ],
+        [
+            "inst",
+            [
+                "Consult IDSS Academic Office"
+            ]
+        ]
+    ]
+]

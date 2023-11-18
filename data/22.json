@@ -1,0 +1,2522 @@
+[
+    "Nuclear Science and Engineering (Course 22)",
+    [
+        "head",
+        "Undergraduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.00 Introduction to Modeling and Simulation"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.021, 3.021, 10.333, 22.00"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>,  3.016B, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.021."
+        ],
+        [
+            "inst",
+            [
+                "M. Buehler",
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.003 NEET Seminar: Renewable Energy Machines"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar for students enrolled in the Renewable Energy Machines NEET thread. Focuses on topics around renewable energy via guest lectures and research discussions."
+        ],
+        [
+            "inst",
+            [
+                "M. Short"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.01 Introduction to Nuclear Engineering and Ionizing Radiation"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to nuclear science and its engineering applications. Describes basic nuclear models, radioactivity, nuclear reactions and kinematics. Covers the interaction of ionizing radiation with matter, with an emphasis on radiation detection, radiation shielding, and radiation effects on human health. Presents energy systems based on fission and fusion nuclear reactions, as well as industrial and medical applications of nuclear science. Lectures are viewed outside of class; in-class time is dedicated to problem-solving and discussion."
+        ],
+        [
+            "inst",
+            [
+                "E. Jossou",
+                "M. Short"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.011 Nuclear Engineering: Science, Systems, and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses the field of nuclear science and engineering, including technologies essential to combating climate change and ensuring human health and well-being. Introduces and provides beginner-level experience with programming, radiation, detection, nuclear physics, and nuclear engineering. Students work on projects such as building radiation-sensing robots to navigate a maze of radioactive sources using autonomous navigation via machine learning. No previous experience with electronics, building robots, programming, or nuclear science required. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 20. Preference to first-year undergraduates."
+        ],
+        [
+            "inst",
+            [
+                "A. White",
+                "M. Short",
+                "J. Buongiorno",
+                "J. Parsons"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.014 Ethics for Engineers"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.082, 2.900, 6.9320, 10.01, 16.676, 22.014\nSubject meets with 6.9321, 20.005"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.01."
+        ],
+        [
+            "inst",
+            [
+                "D. A. Lauffenberger",
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.015 Radiation and Life: Applications of Radiation Sources in Medicine, Research, and Industry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to the basics of ionizing and non-ionizing radiation; radiation safety and protection; and an overview of the variety of health physics applications, especially as it pertains to the medical field and to radioactive materials research in academia. Presents basic physics of ionizing and non-ionizing radiation, known effects of the human body, and the techniques to measure those effects. Common radiation-based medical imaging techniques and therapies discussed. Projects, demonstrations, and experiments introduce students to standard techniques and practices in typical medical and MIT research lab environments where radiation is used. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 10. Preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "T. Durak"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.016 Seminar in Fusion and Plasma Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses the challenges and opportunities on the path to fusion energy through a range of plasma and fusion energy topics, including discussion of the global energy picture, basic plasma physics, the physics of fusion, fusion reactors, tokamaks, and inertial confinement facilities. Covers why nuclear science, computer science, and materials are so important for fusion, and how students can take next steps to study fusion while at MIT. Includes tours of laboratories at the Plasma Science and Fusion Center. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 20. Preference to first years and sophomores majoring in Course 22."
+        ],
+        [
+            "inst",
+            [
+                "A. White"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.017 Nuclear in the News"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers the state of nuclear energy and technologies in popular media and current events. Topics include: modern-day Chernobyl, advances in fission reactor building, and the corporate use of fusion devices. Discussions guided by student interest and questions. Includes presentations by expert faculty in nuclear science and engineering. Subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "B. Forget"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.02 Introduction to Applied Nuclear Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers basic concepts of nuclear physics with emphasis on nuclear structure and interactions of radiation with matter. Topics include elementary quantum theory; nuclear forces; shell structure of the nucleus; alpha, beta and gamma radioactive decays; interactions of nuclear radiations (charged particles, gammas, and neutrons) with matter; nuclear reactions; fission and fusion."
+        ],
+        [
+            "inst",
+            [
+                "M. Li",
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.022 Quantum Technology and Devices"
+        ],
+        [
+            "prerec",
+            "Subject meets with 8.751[J], 22.51[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.04\" title=\"8.04\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.04');\">8.04</a>, <a href=\"/search/?P=22.02\" title=\"22.02\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.02');\">22.02</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the unique features of quantum theory to generate technologies with capabilities beyond any classical device. Introduces fundamental concepts in applied quantum mechanics, tools and applications of quantum technology, with a focus on quantum information processing beyond quantum computation. Includes discussion of quantum devices and experimental platforms drawn from active research in academia and industry. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Cappellaro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.03[J] Introduction to Design Thinking and Rapid Prototyping"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.0061[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on design thinking, an iterative process that uses divergent and convergent thinking to approach design problems and prototype and test solutions. Includes experiences in creativity, problem scoping, and rapid prototyping skills. Skills are built over the course of the semester through design exercises and projects. Enrollment limited; preference to Course 22 & Course 3 majors and minors, and NEET students."
+        ],
+        [
+            "inst",
+            [
+                "M. Short",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.033 Nuclear Systems Design Project"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.33"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Group design project involving integration of nuclear physics, particle transport, control, heat transfer, safety, instrumentation, materials, environmental impact, and economic optimization. Provides opportunity to synthesize knowledge acquired in nuclear and non-nuclear subjects and apply this knowledge to practical problems of current interest in nuclear applications design. Past projects have included using a fusion reactor for transmutation of nuclear waste, design and implementation of an experiment to predict and measure pebble flow in a pebble bed reactor, and development of a mission plan for a manned Mars mission including the conceptual design of a nuclear powered space propulsion system and power plant for the Mars surface, a lunar/Martian nuclear power station and the use of nuclear plants to extract oil from tar sands. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Z. Hartwig",
+                "M. Short"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.039 Integration of Reactor Design, Operations, and Safety"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.39"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.05\" title=\"22.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.05');\">22.05</a> and <a href=\"/search/?P=22.06\" title=\"22.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.06');\">22.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the integration of reactor physics and engineering sciences into nuclear power plant design, focusing on designs projected to be used in the first half of this century. Topics include materials issues in plant design and operations, aspects of thermal design, fuel depletion and fission-product poisoning, and temperature effects on reactivity. Addresses safety considerations in regulations and operations, such as the evolution of the regulatory process, the concept of defense in depth, general design criteria, accident analysis, probabilistic risk assessment, and risk-informed regulations.  Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Bagglietto"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.04[J] Social Problems of Nuclear Energy"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.084[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the major social challenges for nuclear energy. Topics include the ability of nuclear power to help mitigate climate change; challenges associated with ensuring nuclear safety; the effects of nuclear accidents; the management of nuclear waste; the linkages between nuclear power and nuclear weapons, the consequences of nuclear war; and political challenges to the safe and economic regulation of the nuclear industry. Weekly readings presented from both sides of the debate, followed by in-class discussions. Instruction and practice in oral and written communication provided. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "R. S. Kemp"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.05 Neutron Science and Reactor Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.03, 22.01, and (1.000, 2.086, 6.100B, or 12.010)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces fundamental properties of the neutron. Covers reactions induced by neutrons, nuclear fission, slowing down of neutrons in infinite media, diffusion theory, the few-group approximation, point kinetics, and fission-product poisoning. Emphasizes the nuclear physics bases of reactor design and its relationship to reactor engineering problems."
+        ],
+        [
+            "inst",
+            [
+                "B. Forget"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.051 Systems Analysis of the Nuclear Fuel Cycle"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.251"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.05\" title=\"22.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.05');\">22.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Studies the relationship between technical and policy elements of the nuclear fuel cycle. Topics include uranium supply, enrichment, fuel fabrication, in-core reactivity and fuel management of uranium and other fuel types, used fuel reprocessing, and waste disposal. Presents principles of fuel cycle economics and the applied reactor physics of both contemporary and proposed thermal and fast reactors. Examines nonproliferation aspects, disposal of excess weapons plutonium, and transmutation of long lived radioisotopes in spent fuel. Several state-of-the-art computer programs relevant to reactor core physics and heat transfer are provided for student use in problem sets and term papers.  Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. Shirvan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.052 Quantum Theory of Materials Characterization (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.52"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.231\" title=\"8.231\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.231');\">8.231</a> or <a href=\"/search/?P=22.02\" title=\"22.02\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.02');\">22.02</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Holistic theoretical foundation of characterization techniques with photons, electrons, and neutron probes in various spaces. Techniques for assessing real space, reciprocal space, energy space, and time space utilizing microscopy, diffraction, spectroscopy, and time-domain methods. Elucidation of microscopic interaction mechanisms of materials. Practical assessment of what each characterization measures, methods for linking experimental features to microscopic materials information, state of the art methods for combining information, and machine learning aids. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.054[J] Materials Performance in Extreme Environments"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.154[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> and <a href=\"/search/?P=3.044\" title=\"3.044\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.044');\">3.044</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.154[J]."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.055 Radiation Biophysics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.55[J], HST.560[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a background in sources of radiation with an emphasis on terrestrial and space environments and on industrial production. Discusses experimental approaches to evaluating biological effects resulting from irradiation regimes differing in radiation type, dose and dose-rate. Effects at the molecular, cellular, organism, and population level are examined. Literature is reviewed identifying gaps in our understanding of the health effects of radiation, and responses of regulatory bodies to these gaps is discussed. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.06 Engineering of Nuclear Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.005"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Using the basic principles of reactor physics, thermodynamics, fluid flow and heat transfer, students examine the engineering design of nuclear power plants. Emphasizes light-water reactor technology, thermal limits in nuclear fuels, thermal-hydraulic behavior of the coolant, nuclear safety and dynamic response of nuclear power plants."
+        ],
+        [
+            "inst",
+            [
+                "K. Shirvan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.061 Fusion Energy"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.01 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the fundamental science and engineering required to generate energy from controlled nuclear fusion. Topics include nuclear physics governing fusion fuel choice and fusion reactivity, physical conditions required to achieve net fusion energy, plasma physics of magnetic confinement, overview of fusion energy concepts, material challenges in fusion systems, superconducting magnet engineering, and fusion power conversion to electricity. Includes in-depth visits at the MIT Plasma Science and Fusion Center and active learning laboratories to reinforce lecture topics."
+        ],
+        [
+            "inst",
+            [
+                "Z. Hartwig"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.071 Analog Electronics and Analog Instrumentation Design"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.03"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the basics of analog electronics, covering everything from basic resistors to non-linear devices such as diodes and transistors. Students build amplifiers with op amps and study the behavior of first- and second-order oscillating circuits. Lectures followed by short laboratory exercises reinforce theoretical knowledge with experiments. Includes project in second half of the term in which students design radiation instruments of their choice (e.g. Geiger radiation counters, or other types of sensors and instruments). Teaches use of Arduino microcontrollers as simple data acquisition systems, allowing for real-time data processing and display. Culminates in student presentations of their designs in an open forum. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "A. Danagoulian",
+                "M. Short"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.072 Corrosion: The Environmental Degradation of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.72"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Applies thermodynamics and kinetics of electrode reactions to aqueous corrosion of metals and alloys. Application of advanced computational and modeling techniques to evaluation of materials selection and susceptibility of metal/alloy systems to environmental degradation in aqueous systems. Discusses materials degradation problems in marine environments, oil and gas production, and energy conversion and generation systems, including fossil and nuclear.  Students taking graduate version complete additional assignments. "
+        ],
+        [
+            "inst",
+            [
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.074 Radiation Damage and Effects in Nuclear Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.31[J], 22.74[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Studies the origins and effects of radiation damage in structural materials for nuclear applications. Radiation damage topics include formation of point defects, defect diffusion, defect reaction kinetics and accumulation, and differences in defect microstructures due to the type of radiation (ion, proton, neutron). Radiation effects topics include detrimental changes to mechanical properties, phase stability, corrosion properties, and differences in fission and fusion systems. Term project required. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Short",
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.078 Nuclear Waste Management"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.78"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the essential knowledge for understanding nuclear waste management. Includes material flow sheets for nuclear fuel cycle, waste characteristics, sources of radioactive wastes, compositions, radioactivity and heat generation, chemical processing technologies, geochemistry, waste disposal technologies, environmental regulations and the safety assessment of waste disposal. Covers different types of wastes: uranium mining waste, low-level radioactive waste, high-level radioactive waste and fusion waste. Provides the quantitative methods to compare the environmental impact of different nuclear and other energy-associated waste. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Wainwright"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.081[J] Introduction to Sustainable Energy"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.650[J], 10.291[J]\nSubject meets with 1.818[J], 2.65[J], 10.391[J], 11.371[J], 22.811[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Assessment of current and potential future energy systems. Covers resources, extraction, conversion, and end-use technologies, with emphasis on meeting 21st-century regional and global energy needs in a sustainable manner. Examines various renewable and conventional energy production technologies, energy end-use practices and alternatives, and consumption practices in different countries. Investigates their attributes within a quantitative analytical framework for evaluation of energy technology system proposals. Emphasizes analysis of energy propositions within an engineering, economic and social context. Students taking graduate version complete additional assignments. Limited to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "M. W. Golay"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.09 Principles of Nuclear Radiation Measurement and Protection"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.90"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.01\" title=\"22.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.01');\">22.01</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Combines lectures, demonstrations, and experiments. Review of radiation protection procedures and regulations; theory and use of alpha, beta, gamma, and neutron detectors; applications in imaging and dosimetry; gamma-ray spectroscopy; design and operation of automated data acquisition experiments using virtual instruments. Meets with graduate subject 22.90, but homework assignments and examinations differ. Instruction and practice in written communication provided."
+        ],
+        [
+            "inst",
+            [
+                "A. Danagoulian",
+                "G. Kohse"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.091, 22.093 Independent Project in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduates who wish to conduct a one-term project of theoretical or experimental nature in the field of nuclear engineering, in close cooperation with individual staff members. Topics and hours arranged to fit students' requirements. Projects require prior approval by the Course 22 Undergraduate Office. 22.093 is graded P/D/F."
+        ],
+        [
+            "inst",
+            [
+                "<em>Consult Undergraduate Officer</em>"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.099 Topics in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for work on material in nuclear science and engineering outside of regularly scheduled subjects. Intended for study abroad with a student exchange program or an approved one-term or one-year study abroad program. Credit may be used to satisfy specific SB degree requirements. Requires prior approval. Consult department."
+        ],
+        [
+            "inst",
+            [
+                "Consult Undergraduate Officer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.S092-22.S094 Special Subject in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar or lecture on a topic in nuclear science and engineering that is not covered in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Undergraduate Officer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.S095 Special Subject in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar or lecture on a topic in nuclear science and engineering that is not covered in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Undergraduate Officer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.S097 Special Subject in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar or lecture on a topic in nuclear science and engineering that is not covered in the regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult Undergraduate Officer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.C01 Modeling with Machine Learning: Nuclear Science and Engineering Applications"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.C51"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=6.C01\" title=\"6.C01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C01');\">6.C01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Building on core material in 6.C01, focuses on applying various machine learning techniques to a broad range of topics which are of core value in modern nuclear science and engineering. Relevant topics include machine learning on fusion and plasma diagnosis, reactor physics and nuclear fission, nuclear materials properties, quantum engineering and nuclear materials, and nuclear security. Special components center on the additional machine learning architectures that are most relevant to a certain field, the implementation, and picking up the right problems to solve using a machine learning approach. Final project dedicated to the field-specific applications. Students taking graduate version complete additional assignments. Students cannot receive credit without simultaneous completion of the core subject 6.C01."
+        ],
+        [
+            "inst",
+            [
+                "E. Jossou",
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.C25[J] Real World Computation with Julia (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.C25[J], 6.C25[J], 12.C25[J], 16.C25[J], 18.C25[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>, <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 18.C25[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Edelman",
+                "R. Ferrari",
+                "B. Forget",
+                "C. Leiseron,Y. Marzouk",
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.C51 Modeling with Machine Learning: Nuclear Science and Engineering Applications"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.C01"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.02|18.02A|18.022|18.024\" onclick=\"return showCourse(this, '18.02|18.02A|18.022|18.024');\">Calculus II (GIR)</a> and <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=6.C51\" title=\"6.C51\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.C51');\">6.C51</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Building on core material in 6.C51, focuses on applying various machine learning techniques to a broad range of topics which are of core value in modern nuclear science and engineering. Relevant topics include machine learning on fusion and plasma diagnosis, reactor physics and nuclear fission, nuclear materials properties, quantum engineering and nuclear materials, and nuclear security. Special components center on the additional machine learning architectures that are most relevant to a certain field, the implementation, and picking up the right problems to solve using a machine learning approach. Final project dedicated to the field-specific applications. Students taking graduate version complete additional assignments. Students cannot receive credit without simultaneous completion of the core subject 6.C51."
+        ],
+        [
+            "inst",
+            [
+                "E. Jossou",
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.EPE UPOP Engineering Practice Experience"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPE, 2.EPE, 3.EPE, 6.EPE, 8.EPE, 10.EPE, 15.EPE, 16.EPE, 20.EPE, 22.EPE"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPE. Application required; consult UPOP website for more information."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.EPW UPOP Engineering Practice Workshop"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPW, 2.EPW, 3.EPW, 6.EPW, 10.EPW, 16.EPW, 20.EPW, 22.EPW"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.EPE\" title=\"2.EPE\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.EPE');\">2.EPE</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPW. Enrollment limited to those in the UPOP program."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.THT Undergraduate Thesis Tutorial"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "A series of lectures on prospectus and thesis writing. Students select a thesis topic and a thesis advisor who reviews and approves the prospectus for thesis work in the spring term."
+        ],
+        [
+            "inst",
+            [
+                "P. Cappallaro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.THU Undergraduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.THT"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research, leading to the writing of an SB thesis, to be arranged by the student and appropriate MIT faculty member. See department undergraduate headquarters."
+        ],
+        [
+            "inst",
+            [
+                "Consult Undergraduate Officer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.UAR[J] Climate and Sustainability Undergraduate Advanced Research"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.UAR[J], 3.UAR[J], 5.UAR[J], 11.UAR[J], 12.UAR[J], 15.UAR[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.UAR[J]. Application required; consult MCSC website for more information."
+        ],
+        [
+            "inst",
+            [
+                "D. Plata",
+                "E. Olivetti"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.UR Undergraduate Research Opportunities Program"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "The Undergraduate Research Opportunities Program is an excellent way for undergraduate students to become familiar with the Department of Nuclear Engineering. Student research as a UROP project has been conducted in areas of fission reactor studies, utilization of fusion devices, applied radiation research, and biomedical applications. Projects include the study of engineering aspects for both fusion and fission energy sources."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. Bucci"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.URG Undergraduate Research Opportunities Program"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "The Undergraduate Research Opportunities Program is an excellent way for undergraduate students to become familiar with the department of Nuclear Science and Engineering. Student research as a UROP project has been conducted in areas of fission reactor studies, utilization of fusion devices, applied radiation physics research, and biomedical applications. Projects include the study of engineering aspects for fusion and fission energy sources, and utilization of radiations."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. Bucci"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Graduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.11 Applied Nuclear Physics"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.02 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to nuclear structure, reactions, and radioactivity. Review of quantization, the wave function, angular momentum and tunneling. Simplified application to qualitative understanding of nuclear structure. Stable and unstable isotopes, radioactive decay, decay products and chains. Nuclear reactions, cross-sections, and fundamental forces, and the resulting phenomena."
+        ],
+        [
+            "inst",
+            [
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.12 Radiation Interactions, Control, and Measurement"
+        ],
+        [
+            "prerec",
+            "Prereq: 8.02 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "The interaction, attenuation, and biological effects of penetrating radiation, especially neutrons and photons. Physical processes of radiation scattering and absorption, and their cross-sections. Outline of health physics. Biological effects of radiation, and its quantification. Principles of radiation shielding, detection, dosimetry and radiation protection."
+        ],
+        [
+            "inst",
+            [
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.13 Nuclear Energy Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.005, 22.01, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to generation of energy from nuclear reactions. Characteristics of nuclear energy. Fission cross-sections, criticality, and reaction control. Basic considerations of fission reactor engineering, thermal hydraulics, and safety. Nuclear fuel and waste characteristics. Fusion reactions and the character and conditions of energy generation. Plasma physics and approaches to achieving terrestrial thermonuclear fusion energy."
+        ],
+        [
+            "inst",
+            [
+                "M. Bucci"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.14 Materials in Nuclear Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the fundamental phenomena of materials science with special attention to radiation and harsh environments. Materials lattices and defects and the consequent understanding of strength of materials, fatigue, cracking, and corrosion. Coulomb collisions of charged particles; their effects on structured materials; damage and defect production, knock-ons, transmutation, cascades and swelling. Materials in fission and fusion applications: cladding, waste, plasma-facing components, blankets."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.15 Essential Numerical Methods"
+        ],
+        [
+            "prerec",
+            "Prereq: 12.010 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces computational methods for solving physical problems in nuclear applications. Ordinary and partial differential equations for particle orbit, and fluid, field, and particle conservation problems; their representation and solution by finite difference numerical approximations. Iterative matrix inversion methods. Stability, convergence, accuracy and statistics. Particle representations of Boltzmann's equation and methods of solution such as Monte-Carlo and particle-in-cell techniques."
+        ],
+        [
+            "inst",
+            [
+                "N. Louriero",
+                "I. Hutchinson",
+                "H. Wainwright"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.16 Nuclear Technology and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.01 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the societal context and challenges for nuclear technology. Major themes include economics and valuation of nuclear power, interactions with government and regulatory frameworks; safety, quantification of radiation hazards, and public attitudes to risk. Covers policies and methods for limiting nuclear-weapons proliferation, including nuclear detection, materials security and fuel-cycle policy."
+        ],
+        [
+            "inst",
+            [
+                "R. S. Kemp"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.211 Nuclear Reactor Physics I"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.05"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of reactor physics methods for core design and analysis. Topics include nuclear data, neutron slowing down, homogeneous and heterogeneous resonance absorption, calculation of neutron spectra, determination of group constants, nodal diffusion methods, Monte Carlo simulations of reactor core reload design methods."
+        ],
+        [
+            "inst",
+            [
+                "B. Forget"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.212 Nuclear Reactor Analysis II"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.211"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses advanced topics in nuclear reactor physics with an additional focus towards computational methods and algorithms for neutron transport. Covers current methods employed in lattice physics calculations, such as resonance models, critical spectrum adjustments, advanced homogenization techniques, fine mesh transport theory models, and depletion solvers. Also presents deterministic transport approximation techniques, such as the method of characteristics, discrete ordinates methods, and response matrix methods."
+        ],
+        [
+            "inst",
+            [
+                "B. Forget"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.213 Nuclear Reactor Physics III"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.211"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers numerous high-level topics in nuclear reactor analysis methods and builds on the student's background in reactor physics to develop a deep understanding of concepts needed for time-dependent nuclear reactor core physics, including coupled non-linear feedback effects. Introduces numerical algorithms needed to solve real-world time-dependent reactor physics problems in both diffusion and transport. Additional topics include iterative numerical solution methods (e.g., CG, GMRES, JFNK, MG), nonlinear accelerator methods, and numerous modern time-integration techniques."
+        ],
+        [
+            "inst",
+            [
+                "B. Forget"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.251 Systems Analysis of the Nuclear Fuel Cycle"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.051"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.05\" title=\"22.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.05');\">22.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Study of the relationship between the technical and policy elements of the nuclear fuel cycle. Topics include uranium supply, enrichment, fuel fabrication, in-core reactivity and fuel management of uranium and other fuel types, used fuel reprocessing and waste disposal. Principles of fuel cycle economics and the applied reactor physics of both contemporary and proposed thermal and fast reactors are presented. Nonproliferation aspects, disposal of excess weapons plutonium, and transmutation of long lived radioisotopes in spent fuel are examined. Several state-of-the-art computer programs relevant to reactor core physics and heat transfer are provided for student use in problem sets and term papers. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. Shirvan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.312 Engineering of Nuclear Reactors"
+        ],
+        [
+            "prerec",
+            "Prereq: (2.001 and 2.005) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Engineering principles of nuclear reactors, emphasizing power reactors. Power plant thermodynamics, reactor heat generation and removal (single-phase as well as two-phase coolant flow and heat transfer), and structural mechanics. Engineering considerations in reactor design."
+        ],
+        [
+            "inst",
+            [
+                "J. Buongiorno"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.313[J] Thermal Hydraulics in Power Technology"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.59[J], 10.536[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.006\" title=\"2.006\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.006');\">2.006</a>, <a href=\"/search/?P=10.302\" title=\"10.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.302');\">10.302</a>, <a href=\"/search/?P=22.312\" title=\"22.312\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.312');\">22.312</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Emphasis on thermo-fluid dynamic phenomena and analysis methods for conventional and nuclear power stations. Kinematics and dynamics of two-phase flows. Steam separation. Boiling, instabilities, and critical conditions. Single-channel transient analysis. Multiple channels connected at plena. Loop analysis including single and two-phase natural circulation. Subchannel analysis."
+        ],
+        [
+            "inst",
+            [
+                "E. Baglietto",
+                "M. Bucci"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.315 Applied Computational Fluid Dynamics and Heat Transfer"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the application of computational fluid dynamics to the analysis of power generation and propulsion systems, and on industrial and chemical processes in general. Discusses simulation methods for single and multiphase applications and their advantages and limitations in industrial situations. Students practice breaking down an industrial problem into its modeling challenges, designing and implementing a plan to optimize and validate the modeling approach, performing the analysis, and quantifying the uncertainty margin."
+        ],
+        [
+            "inst",
+            [
+                "E. Baglietto"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.33 Nuclear Engineering Design"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.033"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.312\" title=\"22.312\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.312');\">22.312</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Group design project involving integration of nuclear physics, particle transport, control, heat transfer, safety, instrumentation, materials, environmental impact, and economic optimization. Provides opportunity to synthesize knowledge acquired in nuclear and non-nuclear subjects and apply this knowledge to practical problems of current interest in nuclear applications design. Past projects have included using a fusion reactor for transmutation of nuclear waste, design and implementation of an experiment to predict and measure pebble flow in a pebble bed reactor, and development of a mission plan for a manned Mars mission including the conceptual design of a nuclear powered space propulsion system and power plant for the Mars surface. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Z. Hartwig",
+                "M. Short"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.38 Probability and Its Applications To Reliability, Quality Control, and Risk Assessment"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Interpretations of the concept of probability. Basic probability rules; random variables and distribution functions; functions of random variables. Applications to quality control and the reliability assessment of mechanical/electrical components, as well as simple structures and redundant systems. Elements of statistics. Bayesian methods in engineering. Methods for reliability and risk assessment of complex systems, (event-tree and fault-tree analysis, common-cause failures, human reliability models). Uncertainty propagation in complex systems (Monte Carlo methods, Latin hypercube sampling). Introduction to Markov models. Examples and applications from nuclear and other industries, waste repositories, and mechanical systems. Open to qualified undergraduates."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.39 Integration of Reactor Design, Operations, and Safety"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.039"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.211\" title=\"22.211\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.211');\">22.211</a> and <a href=\"/search/?P=22.312\" title=\"22.312\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.312');\">22.312</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Integration of reactor physics and engineering sciences into nuclear power plant design focusing on designs that are projected to be used in the first half of this century. Topics include materials issues in plant design and operations, aspects of thermal design, fuel depletion and fission-product poisoning, and temperature effects on reactivity. Safety considerations in regulations and operations such as the evolution of the regulatory process, the concept of defense in depth, general design criteria, accident analysis, probabilistic risk assessment, and risk-informed regulations. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Baglietto",
+                "K. Shirvan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.40[J] Fundamentals of Advanced Energy Conversion"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.62[J], 10.392[J]\nSubject meets with 2.60[J], 10.390[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.006\" title=\"2.006\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.006');\">2.006</a>, (2.051 and 2.06), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.62[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. F. Ghoniem",
+                "W. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.51[J] Quantum Technology and Devices"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.751[J]\nSubject meets with 22.022"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.11\" title=\"22.11\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.11');\">22.11</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the unique features of quantum theory to generate technologies with capabilities beyond any classical device. Introduces fundamental concepts in applied quantum mechanics, tools and applications of quantum technology, with a focus on quantum information processing beyond quantum computation. Includes discussion of quantum devices and experimental platforms drawn from active research in academia and industry. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Cappellaro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.52 Quantum Theory of Materials Characterization (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.052"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.511\" title=\"8.511\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.511');\">8.511</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Holistic theoretical foundation of characterization techniques with photons, electrons, and neutron probes in various spaces. Techniques for assessing real space, reciprocal space, energy space, and time space utilizing microscopy, diffraction, spectroscopy, and time-domain methods. Elucidation of microscopic interaction mechanisms of materials. Practical assessment of what each characterization measures, methods for linking experimental features to microscopic materials information, state of the art methods for combining information, and machine learning aids. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.54[J] Biomedical Systems: Modeling and Inference (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.4800[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.3100\" title=\"6.3100\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3100');\">6.3100</a> and (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> or <a href=\"/search/?P=18.C06\" title=\"18.C06[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.C06');\">18.C06[J]</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.4800[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Adalsteinsson",
+                "T. Heldt",
+                "C. M. Stultz",
+                "J. K. White"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.55[J] Radiation Biophysics"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.560[J]\nSubject meets with 22.055"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a background in sources of radiation with an emphasis on terrestrial and space environments and on industrial production. Discusses experimental approaches to evaluating biological effects resulting from irradiation regimes differing in radiation type, dose and dose-rate. Effects at the molecular, cellular, organism, and population level are examined. Literature is reviewed identifying gaps in our understanding of the health effects of radiation, and responses of regulatory bodies to these gaps is discussed. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.561[J] Magnetic Resonance Analytic, Biochemical, and Imaging Techniques"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.584[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.584[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Wald",
+                "B. Bilgic"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.611[J] Introduction to Plasma Physics I"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.613[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.2300\" title=\"6.2300\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.2300');\">6.2300</a> or <a href=\"/search/?P=8.07\" title=\"8.07\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.07');\">8.07</a>) and (<a href=\"/search/?P=18.04\" title=\"18.04\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.04');\">18.04</a> or <i>Coreq: <a href=\"/search/?P=18.075\" title=\"18.075\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.075');\">18.075</a></i>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces plasma phenomena relevant to energy generation by controlled thermonuclear fusion and to astrophysics. Elementary plasma concepts, plasma characterization. Motion of charged particles in magnetic fields. Coulomb collisions, relaxation times, transport processes. Two-fluid hydrodynamic and MHD descriptions. Plasma confinement by magnetic fields, simple equilibrium and stability analysis. Wave propagation in a magnetic field; application to RF plasma heating. Introduction to kinetic theory; Vlasov, Boltzmann and Fokker-Planck equations; relation of fluid and kinetic descriptions. Electron and ion acoustic plasma waves, Landau damping."
+        ],
+        [
+            "inst",
+            [
+                "N. Loureiro",
+                "I. Hutchinson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.612[J] Introduction to Plasma Physics II"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.614[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.611\" title=\"22.611[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.611');\">22.611[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Follow-up to 22.611[J] provides in-depth coverage of several fundamental topics in plasma physics, selected for their wide relevance and applicability, from fusion to space- and astro-physics. Covers both kinetic and fluid instabilities: two-stream, Weibel, magnetorotational, parametric, ion-temperature-gradient, and pressure-anisotropy-driven instabilities (mirror, firehose). Also covers advanced fluid models, and drift-kinetic and gyrokinetic equations. Special attention to dynamo theory, magnetic reconnection, MHD turbulence, kinetic turbulence, and shocks."
+        ],
+        [
+            "inst",
+            [
+                "N. Loureiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.615 MHD Theory of Fusion Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.611[J]"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Discussion of MHD equilibria in cylindrical, toroidal, and noncircular configurations. MHD stability theory including the Energy Principle, interchange instability, ballooning modes, second region of stability, and external kink modes. Description of current configurations of fusion interest."
+        ],
+        [
+            "inst",
+            [
+                "N. Louriero"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.617 Plasma Turbulence and Transport"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces plasma turbulence and turbulent transport, with a focus on fusion plasmas. Covers theory of mechanisms for turbulence in confined plasmas, fluid and kinetic equations, and linear and nonlinear gyrokinetic equations; transport due to stochastic magnetic fields, magnetohydrodynamic (MHD) turbulence, and drift wave turbulence; and suppression of turbulence, structure formation, intermittency, and stability thresholds. Emphasis on comparing experiment and theory. Discusses experimental techniques, simulations of plasma turbulence, and predictive turbulence-transport models."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.62 Fusion Energy"
+        ],
+        [
+            "prerec",
+            "Prereq: 22.611[J]"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic nuclear physics and plasma physics for controlled fusion. Fusion cross sections and consequent conditions required for ignition and energy production. Principles of magnetic and inertial confinement. Description of magnetic confinement devices: tokamaks, stellarators and RFPs, their design and operation. Elementary plasma stability considerations and the limits imposed. Plasma heating by neutral beams and RF. Outline design of the ITER \"burning plasma\" experiment and a magnetic confinement reactor."
+        ],
+        [
+            "inst",
+            [
+                "J. Hare"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.63 Engineering Principles for Fusion Reactors"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Fusion reactor design considerations: ignition devices, engineering test facilities, and safety/environmental concerns. Magnet principles: resistive and superconducting magnets; cryogenic features. Blanket and first wall design: liquid and solid breeders, heat removal, and structural considerations. Heating devices: radio frequency and neutral beam."
+        ],
+        [
+            "inst",
+            [
+                "D. Whyte",
+                "Z. Hartwig"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.64[J] Ionized Gases"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.55[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02\" title=\"8.02\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.02');\">8.02</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.55[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Guerra Garcia"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.67[J] Principles of Plasma Diagnostics"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.670[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=22.611\" title=\"22.611[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.611');\">22.611[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the physical processes used to measure the properties of plasmas, especially fusion plasmas. Measurements of magnetic and electric fields, particle flux, refractive index, emission and scattering of electromagnetic waves and heavy particles; their use to deduce plasma parameters such as particle density, pressure, temperature, and velocity, and hence the plasma confinement properties. Discussion of practical examples and assessments of the accuracy and reliability of different techniques."
+        ],
+        [
+            "inst",
+            [
+                "J. Hare",
+                "A. White"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.71[J] Modern Physical Metallurgy"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.40[J]\nSubject meets with 3.14"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.013\" title=\"3.013\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.013');\">3.013</a> and <a href=\"/search/?P=3.030\" title=\"3.030\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.030');\">3.030</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.40[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. Freitas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.72 Corrosion: The Environmental Degradation of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.072"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Applies thermodynamics and kinetics of electrode reactions to aqueous corrosion of metals and alloys. Application of advanced computational and modeling techniques to evaluation of materials selection and susceptibility of metal/alloy systems to environmental degradation in aqueous systems. Discusses materials degradation problems in marine environments, oil and gas production, and energy conversion and generation systems, including fossil and nuclear."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.73[J] Defects in Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.33[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.21\" title=\"3.21\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.21');\">3.21</a> and <a href=\"/search/?P=3.22\" title=\"3.22\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.22');\">3.22</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.33[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.74[J] Radiation Damage and Effects in Nuclear Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.31[J]\nSubject meets with 22.074"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.21\" title=\"3.21\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.21');\">3.21</a>, <a href=\"/search/?P=22.14\" title=\"22.14\" class=\"bubblelink code\" onclick=\"return showCourse(this, '22.14');\">22.14</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Studies the origins and effects of radiation damage in structural materials for nuclear applications. Radiation damage topics include formation of point defects, defect diffusion, defect reaction kinetics and accumulation, and differences in defect microstructures due to the type of radiation (ion, proton, neutron). Radiation effects topics include detrimental changes to mechanical properties, phase stability, corrosion properties, and differences in fission and fusion systems. Term project required. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Short",
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.75[J] Properties of Solid Surfaces"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.30[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.20\" title=\"3.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.20');\">3.20</a>, <a href=\"/search/?P=3.21\" title=\"3.21\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.21');\">3.21</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamental principles needed to understand and measure the microscopic properties of the surfaces of solids, with connections to structure, electronic, chemical, magnetic and mechanical properties. Reviews the theoretical aspects of surface behavior, including stability of surfaces, restructuring, and reconstruction. Examines the interaction of the surfaces with the environment, including absorption of atoms and molecules, chemical reactions and material growth, and interaction of surfaces with other point defects within the solids (space charges in semiconductors). Discusses principles of important tools for the characterization of surfaces, such as surface electron and x-ray diffraction, electron spectroscopies (Auger and x-ray photoelectron spectroscopy), scanning tunneling, and force microscopy."
+        ],
+        [
+            "inst",
+            [
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.76[J] Ionics and Its Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.55[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Discusses valence states of ions and how ions and charge move in liquid and solid states. Introduces molten salt systems and how they are used in nuclear energy and processing. Addresses corrosion and the environmental degradation of structural materials. Examines the applications of ionics and electrochemistry in industrial processing, computing, new energy technologies, and recycling and waste treatment."
+        ],
+        [
+            "inst",
+            [
+                "J. Li",
+                "B. Yildiz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.78 Nuclear Waste Management"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.078"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the essential knowledge for understanding nuclear waste management. Includes material flow sheets for nuclear fuel cycle, waste characteristics, sources of radioactive wastes, compositions, radioactivity and heat generation, chemical processing technologies, geochemistry, waste disposal technologies, environmental regulations and the safety assessment of waste disposal. Covers different types of wastes: uranium mining waste, low-level radioactive waste, high-level radioactive waste and fusion waste. Provides the quantitative methods to compare the environmental impact of different nuclear and other energy-associated waste. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Wainwright"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.811[J] Sustainable Energy"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.818[J], 2.65[J], 10.391[J], 11.371[J]\nSubject meets with 2.650[J], 10.291[J], 22.081[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Assessment of current and potential future energy systems. Covers resources, extraction, conversion, and end-use technologies, with emphasis on meeting 21st-century regional and global energy needs in a sustainable manner. Examines various energy technologies in each fuel cycle stage for fossil (oil, gas, synthetic), nuclear (fission and fusion) and renewable (solar, biomass, wind, hydro, and geothermal) energy types, along with storage, transmission, and conservation issues. Emphasizes analysis of energy propositions within an engineering, economic and social context. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. W. Golay"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.814[J] Nuclear Weapons and International Security"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.474[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the historical, political, and technical contexts for nuclear policy making, including the development of nuclear weapons by states, the evolution of nuclear strategy, the role nuclear weapons play in international politics, the risks posed by nuclear arsenals, and the policies and strategies in place to mitigate those risks. Equal emphasis is given to political and technical considerations affecting national choices. Considers the issues surrounding new non-proliferation strategies, nuclear security, and next steps for arms control."
+        ],
+        [
+            "inst",
+            [
+                "R. S. Kemp",
+                "V. Narang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.90 Nuclear Science and Engineering Laboratory"
+        ],
+        [
+            "prerec",
+            "Subject meets with 22.09"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 22.09."
+        ],
+        [
+            "inst",
+            [
+                "A. Danagoulian",
+                "G. Kohse"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.901 Independent Project in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For graduate students who wish to conduct a one-term project of theoretical or experimental nature in the field of nuclear engineering, in close cooperation with individual staff members. Topics and hours arranged to fit students' requirements. Projects require prior approval."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.911 Seminar in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Restricted to graduate students engaged in doctoral thesis research."
+        ],
+        [
+            "inst",
+            [
+                "C. Forsberg",
+                "J. Hare",
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.912 Seminar in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Restricted to graduate students engaged in doctoral thesis research."
+        ],
+        [
+            "inst",
+            [
+                "C. Forsberg",
+                "J. Hare",
+                "M. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.921 Nuclear Power Plant Dynamics and Control"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to reactor dynamics, including subcritical multiplication, critical operation in absence of thermal feedback effects and effects of xenon, fuel and moderator temperature, etc. Derivation of point kinetics and dynamic period equations. Techniques for reactor control including signal validation, supervisory algorithms, model-based trajectory tracking, and rule-based control. Overview of light-water reactor start-up. Lectures and demonstrations with use of the MIT Research Reactor. Open to undergraduates with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "J. A. Bernard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.93 Teaching and Technical Communication Experience in Nuclear Science & Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For qualified graduate students interested in teaching as a career or other technical communication intensive careers. Classroom, laboratory, or tutorial teaching under the supervision of a faculty member or instructor. Students selected by interview. Credits for this subject may not be used toward master's or engineer's degrees. Enrollment limited by availability of suitable teaching assignments and NSE communication lab capacity."
+        ],
+        [
+            "inst",
+            [
+                "Consult NSE Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.94 Research in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of research supervisor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For research assistants in Nuclear Science and Engineering who have not completed the NSE doctoral qualifying exam. Hours arranged with and approved by the research supervisor. Units may not be used towards advanced degree requirements."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.95 Internship in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Nuclear Science and Engineering students participating in research or curriculum-related off-campus experiences. Before enrolling, students must have an offer from a company or organization. Upon completion, the student must submit a final report or presentation to the approved MIT supervisor, usually the student's thesis supervisor or a member of the thesis committee. Subject to departmental approval. Consult the NSE Academic Office for details on procedures and restrictions. Limited to students participating in internships consistent with NSE policies relating to research-related employment."
+        ],
+        [
+            "inst",
+            [
+                "Consult NSE Academic Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.S902-22.S905 Special Subject in Nuclear Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar or lecture on a topic in nuclear science and engineering that is not covered in the regular curriculum. 22.S905 is graded P/D/F."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "22.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research, leading to the writing of an SM, NE, PhD, or ScD thesis; to be arranged by the student and an appropriate MIT faculty member. Consult department graduate office."
+        ],
+        [
+            "inst",
+            [
+                "J. Li"
+            ]
+        ]
+    ]
+]

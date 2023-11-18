@@ -1,0 +1,1329 @@
+[
+    "Experimental Study Group (ES)",
+    [
+        "head",
+        "ESG Science Subjects"
+    ],
+    [
+        "sub",
+        "Biology"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.7012 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 7.012; see 7.012 for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Christie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.7013 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 7.013; see 7.013 for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Christie"
+            ]
+        ]
+    ],
+    [
+        "sub",
+        "Chemistry"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.5111 Principles of Chemical Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 5.111; see 5.111 for description. Instruction provided through small, interactive classes taught by ESG staff. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Christie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.5112 Principles of Chemical Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 5.112; see 5.112 for description. Instruction provided through small, interactive classes taught by ESG staff. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "N. Boekelheide"
+            ]
+        ]
+    ],
+    [
+        "sub",
+        "Mathematics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.1801 Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 18.01; see 18.01 for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "G. Stoy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.1802 Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 18.02; see 18.02 for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "G. Stoy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.1803 Differential Equations"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 18.03; see 18.03 for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "J. Orloff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.181A Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Knowledge of differentiation and elementary integration"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 18.01A; see 18.01A for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "J. Orloff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.182A Calculus"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 18.02A; see 18.02A for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "J. Orloff"
+            ]
+        ]
+    ],
+    [
+        "sub",
+        "Physics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.801 Physics I"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 8.01; see 8.01 for description. Instruction provided through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "A. Barrantes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.8012 Physics I"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 8.012; see 8.012 for description. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Rebusco"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.802 Physics II"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR) and Physics I (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 8.02; see 8.02 for description. Instruction done through small, interactive classes. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "A. Barrantes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.8022 Physics II"
+        ],
+        [
+            "prerec",
+            "Prereq: Physics I (GIR); Coreq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Equivalent to 8.022; see 8.022 for description. Students complete group projects. Some content is decided by students. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Rebusco"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "ESG Writing Program"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.729[J] Engineering Communication in Context"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.729[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces writing, graphics, meetings, reading, oral presentation, collaboration, and design as tools for product development. Students work in teams to conceive, design, prototype, and evaluate energy-related mechanical engineering products. Instruction focuses on communication tasks that are integral to the design process, including design notebooks, email, informal and formal presentations, meeting etiquette, literature searches, white papers, proposals, and reports. Other assignments address the cultural situation of engineers and engineering in the world at large. Limited to 18; preference to ESG students."
+        ],
+        [
+            "inst",
+            [
+                "D. Custer"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "ESG HASS Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.112 Philosophy of Love"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the nature of love through works of philosophy, literature, film, poetry, and individual experience. Investigates the distinction among eros (desiring or appreciative love), philia (mutuality), and agape (love as pure giving). Students discuss ideas of love as a feeling, an action, a species of 'knowing someone,' or a way to give or take. Authors include Plato, Kant, Buber, D. H. Lawrence, Rumi, and Aristotle. Preference to students in ESG and Concourse."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.113 Ancient Greek Philosophy and Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the relationship between ancient Greek philosophy and mathematics. Investigates how ideas of definition, reason, argument and proof, rationality/irrationality, number, quality and quantity, truth, and even the idea of an idea were shaped by the interplay of philosophic and mathematical inquiry. Examines how discovery of the incommensurability of magnitudes challenged the Greek presumption that the cosmos is fully understandable. Explores the influence of mathematics on ancient Greek ethical theories. Authors: Euclid, Plato, Aristotle, Nicomachus, Theon of Smyrna, Bacon, Descartes, Dedekind, and Newton. Preference to students in Concourse and ESG."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.114 Non-violence as a Way of Life"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the philosophical question of what a non-violent life entails. Investigates its ethical dimensions and challenges, and considers whether we can derive a comprehensive moral theory from the principle of non-violence. Discusses the issues of lying, the duty to forgive, non-violent communication, the ethics of our relationship to anger, the possibility of loving enemies, and the ethics of punishment and rehabilitation.  Includes readings from primary exponents of non-violence, such as Tolstoy, Gandhi and King."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.9112 Philosophy of Love - MIT Prison Initiative"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the nature of love through works of philosophy, literature, film, poetry, and individual experience. Investigates the distinction among eros (desiring or appreciative love), philia (mutuality), and agape (love as pure giving). Students discuss ideas of love as a feeling, an action, a species of 'knowing someone,' or a way to give or take. Authors include Plato, Kant, Buber, D. H. Lawrence, Rumi, and Aristotle. Taught inside a secure Massachusetts correctional facility with a mix of MIT students and incarcerated students. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.9114 Non-violence as a Way of Life - MIT Prison Initiative"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the philosophical question of what a non-violent life entails. Investigates its ethical dimensions and challenges, and considers whether we can derive a comprehensive moral theory from the principle of non-violence. Discusses the issues of lying, the duty to forgive, non-violent communication, the ethics of our relationship to anger, the possibility of loving enemies, and the ethics of punishment and rehabilitation.  Includes readings from primary exponents of non-violence, such as Tolstoy, Gandhi and King. Taught inside a secure Massachusetts correctional facility with a mix of MIT students and incarcerated students. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.92 Authenticity - MIT Prison Initiative"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the question of how to live an authentic life, through works of western and eastern philosophy and contemporary psychology. Topics include emotions, anger, honesty, forgiveness, non-violent communication, conflict resolution, kindness and cruelty and compassion. Taught inside a secure Massachusetts correctional facility with a mix of MIT students and incarcerated students. Limited to 12."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "ESG Seminars"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.010 Chemistry of Sports: Understanding How Exercise Affects Your Body"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students apply chemistry knowledge to physical fitness through the study of three sports: swimming, cycling, and running. Classroom component focuses on nutrition, exercise, anatomy, physiology, and the chemistry of supplements and sports equipment. Laboratory component focuses on training for and completion of triathlon competition. Students may earn up to 2 PE points during the term by attending supervised triathlon training workouts. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Christie",
+                "S. Lyons"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.011 Kitchen Chemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "An experimental and \"hands-on\" approach to applied chemistry in cooking. Students perform experiments to illustrate chemical principles, such as extraction, denaturation, and phase changes. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Christie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.100 An Introduction to Maker Skills"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to making and use of MIT's maker spaces intended to build skills needed for designing, conducting, and completing experiments and design projects, such as may be encountered in undergraduate classwork and research activities. Includes maker space training (i.e., wood shop, digital fabrication, and electronics fabrication) and open-ended design projects, with work evenly divided between class, homework, and maker space activities. Limited to 12 by makerspace training and scheduling; priority given to ESG students."
+        ],
+        [
+            "inst",
+            [
+                "D. Custer"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "ESG Teaching and Research"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.200 ESG Undergraduate Teaching"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "An opportunity to assist in the teaching of subjects in ESG in biology, chemistry, humanities and social sciences, mathematics, and physics. Student instructors may be involved in grading, running problemsolving sessions, or teaching classes depending on experience and interest. Qualified students may also develop and teach undergraduate seminars under the supervision of an appropriate faculty or staff member. Student instructors meet weekly with staff to discuss their teaching and cover a variety of topics related to effective teaching techniques. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "P. Christie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.201 ESG Undergraduate Teaching"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An opportunity to assist in the teaching of subjects in ESG in biology, chemistry, humanities and social sciences, mathematics, and physics. Student instructors may be involved in grading, running problem solving sessions, or teaching classes depending on experience and interest. Qualified students may also develop and teach undergraduate seminars under the supervision of an appropriate faculty or staff member. Student instructors meet every other week  with staff to discuss their teaching and cover a variety of topics related to effective teaching techniques. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "G. Stoy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.210 ESG Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a staff member. Projects require prior approval, as well as a written proposal and a final report. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "L. Royden"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.UR Undergraduate Research in ESG"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For students wishing to pursue undergraduate research opportunities in the Experimental Study Group. Limited to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "L. Royden"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "ESG Special Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S10 Special Seminar in Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S11 Special Seminar in Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S20 Special Seminar in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S21 Special Seminar in Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S30 Special Seminar in Engineering and Computer Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S31 Special Seminar in Engineering and Computer Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S40 Special Seminar in the Humanities"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S41 Special Seminar in the Humanities"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S42 Special Seminar in the Humanities"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S50 Special Seminar in the Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S51 Special Seminar in the Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S60 Special Seminar in Social Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S601 Special Topics in Computer Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. Limited to 10. Preference given to ESG students."
+        ],
+        [
+            "inst",
+            [
+                "P. Rebusco"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S602 Special Topics in Computer Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. Preference given to ESG students."
+        ],
+        [
+            "inst",
+            [
+                "P. Rebusco"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S61 Special Seminar in Social Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S70 Special Seminar in Interdisciplinary Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S71 Special Seminar in Interdisciplinary Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in the permanent curriculum. May not be used for GIR credit, but may be repeated for credit with permission of instructor. Preference to students in ESG."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S90 Special Studies in the MIT Initiative for Teaching Incarcerated Individuals"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar taught inside a secure Massachusetts correctional facility with a mix of MIT students and incarcerated students. Topics vary from year to year. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S91 Special Studies in the MIT Initiative for Teaching Incarcerated Individuals"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar taught inside a secure Massachusetts correctional facility with a mix of MIT students and incarcerated students. Topics vary from year to year. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "ES.S92 Special Studies in the MIT Initiative for Teaching Incarcerated Individuals"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar taught inside a secure Massachusetts correctional facility with a mix of MIT students and incarcerated students. Topics vary from year to year. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "L. Perlman"
+            ]
+        ]
+    ]
+]

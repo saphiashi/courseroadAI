@@ -1,0 +1,1677 @@
+[
+    "Women's and Gender Studies (WGS)",
+    [
+        "head",
+        "Undergraduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.101 Introduction to Women's and Gender Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Drawing on multiple disciplines - such as literature, history, economics, psychology, philosophy, political science, anthropology, media studies and the arts - to examine cultural assumptions about sex, gender, and sexuality. Integrates analysis of current events through student presentations, aiming to increase awareness of contemporary and historical experiences of women, and of the ways sex and gender interact with race, class, nationality, and other social identities. Students are introduced to recent scholarship on gender and its implications for traditional disciplines."
+        ],
+        [
+            "inst",
+            [
+                "A. Walsh"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.109 Women and Global Activism in Media and Politics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "An interdisciplinary subject that examines questions of feminism, international women's issues, and globalization through the study of novels, films, critical essays, painting and music. Considers how women redefine the notions of community and nation, how development affects their lives, and how access to the internet and to the production industry impacts women's lives. Primary topics of interest include transformations of traditional values, social change, gender role distribution, identity formation, migration flows, globalization and development, popular culture, urban life, cyber-culture, activism, and human rights. Limited to 25 when Writing Tutor is assigned to the class. Otherwise, limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "A. Sur"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.110[J] Sexual and Gender Identities in the Modern United States"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.108[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the history of gender, sex, and sexuality in the modern United States, from the end of the 19th century to the present. Surveys historical approaches to the field, emphasizing the changing nature of sexual and gender identities over time. Traces attempts to control, construct, and contain sexual and gender identities. Examines the efforts of those who worked to resist, reject, and reform institutionalized heterosexuality and mainstream configurations of gendered power."
+        ],
+        [
+            "inst",
+            [
+                "C. Horan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.111[J] Gender and Media Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as CMS.619[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines representations of race, gender, and sexual identity in the media. Considers issues of authorship, spectatorship, and the ways in which various media (film, television, print journalism, advertising) enable, facilitate, and challenge these social constructions in society. Studies the impact of new media and digital media through analysis of gendered and racialized language and embodiment online in blogs and vlogs, avatars, and in the construction of cyberidentities. Provides introduction to feminist approaches to media studies by drawing from work in feminist film theory, cultural studies, gender and politics, and cyberfeminism."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.115 Gender and Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Considers a wide range of issues related to the contemporary and historical use of technology, the development of new technologies, and the cultural representation of technology, including the role women have played in the development of technology and the effect of technological change on the roles of women and ideas of gender. Discusses the social implications of technology and its understanding and deployment in different cultural contexts. Investigates the relationships between technology and identity categories, such as gender, race, class, and sexuality. Examines how technology offers possibilities for new social relations and how to evaluate them."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.118 Gender in the Visual Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores gender and race through interdisciplinary perspectives from film and visual studies, art history, and performance studies. Provides an overview of methodologies and practices, with an emphasis on contemporary artists working across mediums. Contextualizes artistic output within broader systems of power and cultural institutions. Reflects on the politics of visibility, hypervisibility, and invisibility through an intersectional feminist approach that draws on perspectives from trans*, queer, feminist, dis/ability, and critical race theory. Lectures are supplemented by screenings, discussions, workshops, guest lectures, and optional field trips. Culminates in a final creative project that includes a presentation."
+        ],
+        [
+            "inst",
+            [
+                "C. Bailey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.123 The History of Women in Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a basic overview of the history of women in science, technology, engineering, and mathematics (STEM). Students discuss specific contributions of women across a variety of disciplines to form a broad perspective on how these contributions played a larger role in the advancement of human knowledge and technological achievement. Also grapples with how both historic and modern biases within the STEM disciplines, as well as in representations of women and girls in media and popular culture, can affect outcomes in these areas."
+        ],
+        [
+            "inst",
+            [
+                "M. Weinstock"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.125[J] Games and Culture"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.768[J], CMS.616[J]\nSubject meets with CMS.868"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject CMS.616[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. L. Taylor"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.140[J] Race and Identity in American Literature"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.504[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.504[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Alexandre"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.141[J] International Women's Voices"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.022[J], 21L.522[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.522[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Resnick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.142 Narrative and Identity: Writing and Film by Contemporary Women of Color"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the diverse voices and experiences reflected in writing and film by and about women of color. Examines the roles that culture, community, and kinship play in the development of the writer's individual voice, and compares the similarities and differences of the writer experience across texts and genres. Discussion and assignments, including an independent research presentation, consider the social and political contexts that inform each work, with an emphasis on gender, race, and economic status. Includes works by a variety of novelists, poets, and filmmakers."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.145[J] Globalization: The Good, the Bad and the In-Between"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.020[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.020[J]. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Resnick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.151 Gender, Medicine, and Public Health"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Draws on different disciplines, conceptual frameworks, and methodological approaches to examine gender in relation to health, including public health practice, epidemiologic research, health policy, and clinical application. Discusses a variety of health-related issues that illustrate global, international, domestic, and historical perspectives. Considers other social determinants of health as well, including social class and race. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "B. Charlton"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.154[J] Gender and Japanese Popular Culture"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.143[J], 21G.039[J]\nSubject meets with 21G.591"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.039[J]."
+        ],
+        [
+            "inst",
+            [
+                "I. Condry"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.160[J] Science Activism: Gender, Race, and Power"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.021[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the role scientists have played as activists in social movements in the US following World War II. Themes include scientific responsibility and social justice, the motivation of individual scientists, strategies for organizing, the significance of race and gender, and scientists' impact within social movements. Case studies include atmospheric testing of nuclear weapons and the nuclear freeze campaign, climate science and environmental justice, the civil rights movement, Vietnam War protests, the March 4 movement at MIT, and concerns about genetic engineering, gender equality, intersectional feminism, and student activism at MIT."
+        ],
+        [
+            "inst",
+            [
+                "E. Bertschinger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.161[J] Gender and the Law in US History"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.320[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21H.320[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.172[J] For Love and Money: Rethinking the Family"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.111[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21A.111[J]."
+        ],
+        [
+            "inst",
+            [
+                "H. Paxson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.181 Queer Cinema and Visual Culture"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes mainstream, popular films produced in the post-WWII 20th century US as cultural texts that shed light on ongoing historical struggles over gender identity and appropriate sexual behaviors. Traces the history of LGBTQ/queer film through the 20th and into the 21st century. Examines the effect of the Hollywood Production Code and censorship of sexual themes and content, and the subsequent subversion of queer cultural production in embedded codes and metaphors. Also considers the significance of these films as artifacts and examples of various aspects of queer theory."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.183 Feminist Data Ethics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Considers the ethical implications of new technologies and their impact on how we receive and transmit various types of data: medical, genetic, financial, personal. Data is being generated in many ways from our physical bodies, and this form of \"datafication\" has far-reaching ethical implications, particularly for historically marginalized and/or oppressed bodies, which are often subject to sexual objectification, surveillance, and other forms of control."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.190[J] Black Matters: Introduction to Black Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as 24.912[J], 21H.106[J], 21L.008[J], 21W.741[J], CMS.150[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 24.912[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.220[J] Women and Gender in the Middle East and North Africa"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.263[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of key issues and themes in the study of women and gender relations in the Middle East and North Africa. Includes readings from a variety of disciplines, e.g., history, anthropology, sociology, literature, religious studies, and media studies. Addresses themes such as the relationship between the concepts of nation and gender; women's citizenship; Middle Eastern women's activism and the involvement of their Western \"sisters\" to this movement; gendered interpretations of the Qur'an and the example of the Prophet Muhammad; and the three H's of Orientalism (hijab, harem, and hamam)."
+        ],
+        [
+            "inst",
+            [
+                "L. Eckmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.221 Women in the Developing World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Study of women and gender in the developing world. Interdisciplinary approaches highlight relationships between gender and public policy, economics, art, education, health care, and scientific research. Topics vary by term."
+        ],
+        [
+            "inst",
+            [
+                "A. Sur"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.222[J] Women and War"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.381[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21H.381[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.224 Race, Gender and Social Inequality: Reproductive Health Care in the United States"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the politics of reproductive health care delivery in the United States, with a particular focus on how clinical care is shaped by--and, in turn, shapes--social inequality along axes of race and gender. Considers a variety of reproductive health issues from multiple perspectives, drawing on readings from the fields of history, anthropology, sociology, medicine, epidemiology, and law. Develops skills to interrogate how each field conceptualizes and values reproductive health, both explicitly and implicitly. Introduces major conceptual issues foundational to understanding the politics of reproduction. Goes on to cover topics such as the human biofemale reproductive lifecycle and social movements explicitly organized around reproductive health. Limited to 40."
+        ],
+        [
+            "inst",
+            [
+                "E. Janiak"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.225[J] The Science of Race, Sex, and Gender"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.103[J], STS.046[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the role of science and medicine in the origins and evolution of the concepts of race, sex, and gender from the 17th century to the present. Focus on how biological, anthropological, and medical concepts intersect with social, cultural, and political ideas about racial, sexual, and gender difference in the US and globally. Approach is historical and comparative across disciplines emphasizing the different modes of explanation and use of evidence in each field."
+        ],
+        [
+            "inst",
+            [
+                "A. Sur"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.226[J] Science, Gender and Social Inequality in the Developing World"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.023[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the influence of social and cultural determinants (colonialism, nationalism, class, and gender) on modern science and technology. Discusses the relationship of scientific progress to colonial expansions and nationalist aspirations. Explores the nature of scientific institutions within a social, cultural, and political context, and how science and technology have impacted developing societies"
+        ],
+        [
+            "inst",
+            [
+                "A. Sur"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.228 Psychology of Sex and Gender"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines evidence (and lack thereof) regarding when and how an individual's thoughts, feelings, and actions are affected by sex and gender. Using a biopsychosocial model, reviews the following topics: gender identity development across the lifespan, implicit and explicit bias, achievement, stereotypes, physical and mental health, sexuality, interpersonal relationships, work, and violence. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "C. Kapungu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.229 Race, Culture, and Gender in the US and Beyond: A Psychological Perspective"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the biopsychosocial factors which impact racial-ethnic identity, racial and cultural socialization, and experiences of prejudice, bias, discrimination, and racial microaggressions across gender identities. Reviews topics in multicultural psychology from the lens of challenging ethnocentric biases in the field. Critically evaluates the intersection of race with other social identities (e.g., gender, sexual identity, and socioeconomic status) and how it impacts human behavior. Using a case study approach, students integrate empirical evidence from international psychosocial research on oppression in order to provide more breadth in understanding the influence of race and gender upon human behavior. Develops multicultural competency skills essential for practice in clinical and non-clinical organizational settings. Limited to 25."
+        ],
+        [
+            "inst",
+            [
+                "C. Kapungu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.231[J] Writing about Race"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.742[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21W.742[J]. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Ragusa"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.233[J] New Culture of Gender: Queer France"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.325[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One intermediate subject in French "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.325[J]."
+        ],
+        [
+            "inst",
+            [
+                "B. Perreau"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.235[J] Classics of Chinese Literature in Translation"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.044[J], 21L.494[J]\nSubject meets with 21G.195"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.044[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Teng",
+                "W. Denecke"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.236[J] Introduction to East Asian Cultures: From Zen to K-Pop"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.030[J]\nSubject meets with 21G.193"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.030[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Teng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.238[J] Intersectional Feminist Memoir"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.738[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the memoir genre through a feminist intersectional lens, looking at the ways in which feminist writers ground personal experience within a complex understanding of race, gender, sexuality, class, ethnicity, immigration status/nationality, and dis/ablity. Gives particular attention to the relationships between the personal and the political; form and content; fact, truth, and imagination; self and community; trauma and healing; coming to voice and breaking silence. Readings include books by Audre Lorde, Janet Mock, Daisy Hernandez, Jessica Valenti, and Ariel Gore, and shorter pieces by Meena Alexander and Leah Lakshmi Piepzna-Samarasinha. Drawing on lessons taken from these works, students write a short memoir of their own."
+        ],
+        [
+            "inst",
+            [
+                "K. Ragusa"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.240[J] Jane Austen"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.473[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One subject in Literature "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.473[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. Perry"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.242 The Latina Experience in Literature, Film and Popular Culture"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the rich diversity of Latina and Latino voices and experiences as reflected in various media. Studies cross-cultural expressions of solidarity and examines the Latina experience as it relates to both other women of color and Latino men. Considers how Latinas are represented by mainstream Hollywood and independent filmmakers, and explores the intersections of popular culture and feminism in productions such as music videos and Latina-centered television series. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "S. E. King"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.245[J] Identities and Intersections: Queer Literatures"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.480[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on LGBT literature from the mid-19 century to the present, with an emphasis on fiction and poetry. In particular, analyzes how LGBT identities and their literary representations have changed over time. Covers authors such as Walt Whitman, Oscar Wilde, Virginia Woolf, James Baldwin, Audre Lorde, Cherrie Moraga, Melvin Dixon, Leslie Feinberg, and Luis Negron."
+        ],
+        [
+            "inst",
+            [
+                "J. Terrones"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.247[J] Race, Place, and Modernity in the Americas"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.592[J], 21W.781[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students travel to São Paulo for three weeks. Examines the relationship between race and place in the formation of modern Brazil and the US through comparative analysis and interdisciplinary study. In addition to participating in class discussions on literature, film, and visual art, students visit key cultural and historical sites; interact with archives and museum collections; and, most importantly, engage in dialogue with local activists, religious leaders, community organizers, and scholars. Focusing on the work of Black and Indigenous people, particularly women, places a strong emphasis on the ways in which art and cultural activism can have an impact on racial justice issues. Taught in English; no Portuguese needed. Contact Women's and Gender Studies about travel fee, possible funding opportunities, and other details. Enrollment limited to 20. Application required."
+        ],
+        [
+            "inst",
+            [
+                "J. Terrones"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.250[J] HIV/AIDS in American Culture"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.481[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines cultural responses to HIV/AIDS in the US during the first fifteen years of the epidemic, prior to the advent of highly active antiretroviral therapy. Students consider how sexuality, race, gender, class, and geography shaped the experience of HIV/AIDS and the cultural production surrounding it, as well as the legacy of this cultural production as it pertains to the communities most at risk today. Materials include mainstream press coverage, film, theater, television, popular music, comic books, literature, and visual art."
+        ],
+        [
+            "inst",
+            [
+                "J. Terrones"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.271[J] Dilemmas in Biomedical Ethics: Playing God or Doing Good?"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.133[J], 21A.302[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.133[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. C. James"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.274[J] Images of Asian Women: Dragon Ladies and Lotus Blossoms"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.141[J], 21G.048[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21A.141[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Buyandelger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.275[J] Gender, Race, and Environmental Justice"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.407[J], 21G.057[J], STS.022[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the analysis of gender in science, technology, and environmental politics from a global perspective. Familiarizes students with central objects, questions, and methods in the field. Examines existent critiques of the racial, sexual and environmental politics at stake in techno-scientific cultures. Draws on material from popular culture, media, fiction, film, and ethnography. Addressing specific examples from across the globe, students also explore different approaches to build more livable environments that promote social justice. Taught in English. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "B. Stoetzer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.276[J] Cultures of Computing"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.504[J], STS.086[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21A.504[J]."
+        ],
+        [
+            "inst",
+            [
+                "H. Beltrán"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.277[J] D-Lab: Gender and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as EC.718[J]\nSubject meets with EC.798"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject EC.718[J]. Limited to 12; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "E. McDonald",
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.301[J] Feminist Thought"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.007[J], 24.137[J]\nSubject meets with 17.006[J], 24.637[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes theories of gender and politics, especially ideologies of gender and their construction; definitions of public and private spheres; gender issues in citizenship, the development of the welfare state, experiences of war and revolution, class formation, and the politics of sexuality. Graduate students are expected to pursue the subject in greater depth through reading and individual research."
+        ],
+        [
+            "inst",
+            [
+                "E. Wood",
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.303[J] Gender: Historical Perspectives"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.109[J]\nSubject meets with 21H.983[J], WGS.310[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21H.109[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu",
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.310[J] Gender: Historical Perspectives"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.983[J]\nSubject meets with 21H.109[J], WGS.303[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21H.983[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu",
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.321[J] French Feminist Literature: Yesterday and Today"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.344[J], 21L.621[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One intermediate subject in French or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.344[J]. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "B. Perreau"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.400 WGS Undergraduate Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual supervised work for undergraduate students who wish to study topics not covered in the regular Women's and Gender Studies curriculum. Before registering for this subject, students must plan a course of study with a member of the WGS faculty and secure the Director's approval. Normal maximum credit is 6 units, but exceptional 9-unit projects occasionally approved."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.UR Undergraduate Research in Women's and Gender Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in the Women's and Gender Studies Program."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.URG Undergraduate Research in Women's and Gender Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in the Women's and Gender Studies Program."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.S10 Special Subject in Women's and Gender Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in regular curriculum; taught in seminar format. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "M. Weinstock",
+                "KJ Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.S20 Special Subject in Women's and Gender Studies (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in regular curriculum; taught in seminar format. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.S30 Special Subject in Women's and Gender Studies (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not included in regular curriculum; taught in seminar format. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Graduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.600 Workshop for Dissertation Writers in Women's and Gender Studies"
+        ],
+        [
+            "prerec",
+            "Prereq: Must apply to the Graduate Consortium in Women's Studies"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the main challenges faced by dissertation writers: isolation, writing schedules, and cogent arguments. Opportunity for members to exchange ideas and experiences, learn general principles of academic argument, and receive feedback. Open to graduate students in all phases of dissertation writing. Meets bi-weekly, spans Fall and Spring terms. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "Consult Graduate Consortium in Women's Studies"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.605 WGS Graduate Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Individual supervised work for graduate students who wish to study topics not covered in the regular Women's and Gender Studies offerings. Before registering for this subject, students must plan a course of study with a member of the Women's and Gender Studies faculty and secure the Director's approval. Normal maximum is 6 units; exceptional 9-unit projects occasionally approved."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.610 Seminar in Feminist Issues"
+        ],
+        [
+            "prerec",
+            "Prereq: Must apply to the Graduate Consortium in Women's Studies"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Syllabi vary depending on instructors. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "Information: Graduate Consortium in Women's Studies"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.615 Feminist Inquiry: Strategies for Effective Scholarship"
+        ],
+        [
+            "prerec",
+            "Prereq: Must apply to the Graduate Consortium in Women's Studies"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates theories and practices of feminist inquiry across a range of disciplines. Feminist research involves rethinking disciplinary assumptions and methodologies, developing new understandings of what counts as knowledge, seeking alternative ways of understanding the origins of problems/issues, formulating new ways of asking questions and redefining the relationship between subjects and objects of study. Focus on methodology, i.e., the theory and analysis of how research should proceed. Special attention to epistemological issues--pre-suppositions about the nature of knowledge. What makes research distinctively feminist lies in the complex connections between epistemologies, methodologies and research methods. Explore how these connections are formed in the traditional disciplines and raise questions about why they are inadequate and/or problematic for feminist inquiry and what, specifically, are the feminist critiques of these intersections."
+        ],
+        [
+            "inst",
+            [
+                "Information: Graduate Program in Women's Studies"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.640 Studies in Women's Life Narratives"
+        ],
+        [
+            "prerec",
+            "Prereq: Must apply to the Graduate Consortium in Women's Studies"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Close examination of women's life narratives. Topics vary from term to term. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "Information: Graduate Consortium in Women's Studies"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.645 Issues of Representation: Feminist Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Application to the Graduate Consortium in Women's Studies"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Syllabi vary depending on instructors."
+        ],
+        [
+            "inst",
+            [
+                "Consult Graduate Program in Women's Studies"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.680 The Economic History of Work and the Family"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the changing map of the public and the private in pre-industrial and modern societies and examines how that map affected men's and women's production and consumption of goods and leisure. The reproductive strategies of women, either in conjunction with or in opposition to their families, is another major theme. Subject asks how an ideal of the \"domestic\" arose in the early modern west, and to what extent did it limit the economic position of women; and how has that idea been challenged, and with what success in the post-industrial period. Focuses on western Europe since the Middle Ages and on the United States, but also examines how these issues have played themselves out in non-Western cultures. Graduate students are expected to pursue the subject in greater depth through reading and individual research."
+        ],
+        [
+            "inst",
+            [
+                "A. McCants"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "WGS.700 Interdisciplinary Area Studies in Feminist Theories"
+        ],
+        [
+            "prerec",
+            "Prereq: Must apply to the Graduate Consortium in Women's Studies"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Syllabi vary depending on instructors."
+        ],
+        [
+            "inst",
+            [
+                "Consult Graduate Consortium in Women's Studies Program Manager"
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,4647 @@
+[
+    "Aeronautics and Astronautics (Course 16)",
+    [
+        "block",
+        [
+            "title",
+            "16.00 Introduction to Aerospace and Design"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Highlights fundamental concepts and practices of aerospace engineering through lectures on aeronautics, astronautics, and the principles of project design and execution. Provides training in the use of Course 16 workshop tools and 3-D printers, and in computational tools, such as CAD. Students engage in teambuilding during an immersive, semester-long project in which teams design, build, and fly radio-controlled lighter-than-air (LTA) vehicles. Emphasizes connections between theory and practice and introduces students to fundamental systems engineering practices, such as oral and written design reviews, performance estimation, and post-flight performance analysis."
+        ],
+        [
+            "inst",
+            [
+                "J. A. Hoffman",
+                "R. J. Hansman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.001 Unified Engineering: Materials and Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR) and Physics I (GIR); Coreq: 16.002 and 18.03"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents fundamental principles and methods of materials and structures for aerospace engineering, and engineering analysis and design concepts applied to aerospace systems. Topics include statics; analysis of trusses; analysis of statically determinate and indeterminate systems; stress-strain behavior of materials; analysis of beam bending, buckling, and torsion; material and structural failure, including plasticity, fracture, fatigue, and their physical causes. Experiential lab and aerospace system projects provide additional aerospace context."
+        ],
+        [
+            "inst",
+            [
+                "R. Radovitzky",
+                "D. L. Darmofal"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.002 Unified Engineering: Signals and Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR); Coreq: Physics II (GIR), 16.001, and (18.03 or 18.032)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents fundamental principles and methods of signals and systems for aerospace engineering, and engineering analysis and design concepts applied to aerospace systems. Topics include linear and time invariant systems; convolution; Fourier and Laplace transform analysis in continuous and discrete time; modulation, filtering, and sampling; and an introduction to feedback control. Experiential lab and system projects provide additional aerospace context. Labs, projects, and assignments involve the use of software such as MATLAB and/or Python."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.003 Unified Engineering: Fluid Dynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR), Physics II (GIR), and (18.03 or 18.032); Coreq: 16.004"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents fundamental principles and methods of fluid dynamics for aerospace engineering, and engineering analysis and design concepts applied to aerospace systems. Topics include aircraft and aerodynamic performance, conservation laws for fluid flows, quasi-one-dimensional compressible flows, shock and expansion waves, streamline curvature, potential flow modeling, an introduction to three-dimensional wings and induced drag. Experiential lab and aerospace system projects provide additional aerospace context."
+        ],
+        [
+            "inst",
+            [
+                "D. L. Darmofal"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.004 Unified Engineering: Thermodynamics and Propulsion"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR), Physics II (GIR), and (18.03 or 18.032); Coreq: Chemistry (GIR) and 16.003"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents fundamental principles and methods of thermodynamics for aerospace engineering, and engineering analysis and design concepts applied to aerospace systems. Topics include thermodynamic state of a system, forms of energy, work, heat, the first law of thermodynamics, heat engines, reversible and irreversible processes, entropy and the second law of thermodynamics, ideal and non-ideal cycle analysis, two-phase systems, and introductions to thermochemistry and heat transfer. Experiential lab and aerospace system projects provide additional aerospace context."
+        ],
+        [
+            "inst",
+            [
+                "Z. S. Spakovszky",
+                "D. L. Darmofal"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Core Undergraduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.06 Principles of Automatic Control"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.002"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to design of feedback control systems. Properties and advantages of feedback systems. Time-domain and frequency-domain performance measures. Stability and degree of stability. Root locus method, Nyquist criterion, frequency-domain design, and some state space methods. Strong emphasis on the synthesis of classical controllers. Application to a variety of aerospace systems. Hands-on experiments using simple robotic systems."
+        ],
+        [
+            "inst",
+            [
+                "S. R. Hall"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.07 Dynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: (16.001 or 16.002) and (16.003 or 16.004)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of Newtonian mechanics. Kinematics, particle dynamics, motion relative to accelerated reference frames, work and energy, impulse and momentum, systems of particles and rigid body dynamics. Applications to aerospace engineering including introductory topics in orbital mechanics, flight dynamics, inertial navigation and attitude dynamics."
+        ],
+        [
+            "inst",
+            [
+                "R. Linares"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.09 Statistics and Probability"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to statistics and probability with applications to aerospace engineering. Covers essential topics, such as sample space, discrete and continuous random variables, probability distributions, joint and conditional distributions, expectation, transformation of random variables, limit theorems, estimation theory, hypothesis testing, confidence intervals, statistical tests, and regression."
+        ],
+        [
+            "inst",
+            [
+                "Y. M. Marzouk"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Mechanics and Physics of Fluids"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.100 Aerodynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.003 and 16.004"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Extends fluid mechanic concepts from Unified Engineering to aerodynamic performance of wings and bodies in sub/supersonic regimes. Addresses themes such as subsonic potential flows, including source/vortex panel methods; viscous flows, including laminar and turbulent boundary layers; aerodynamics of airfoils and wings, including thin airfoil theory, lifting line theory, and panel method/interacting boundary layer methods; and supersonic and hypersonic airfoil theory. Material may vary from year to year depending upon focus of design problem."
+        ],
+        [
+            "inst",
+            [
+                "D. L. Darmofal"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.101 Topics in Fluids"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for work on undergraduate-level material in fluids outside of regularly scheduled subjects. Intended for transfer credit and study abroad. Credit may be used to satisfy specific degree requirements in the Course 16 and Course 16-ENG programs. Requires prior approval. Consult department."
+        ],
+        [
+            "inst",
+            [
+                "Y. M. Marzouk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.110 Flight Vehicle Aerodynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.100 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Aerodynamic flow modeling and representation techniques. Potential farfield approximations. Airfoil and lifting-surface theory. Laminar and turbulent boundary layers and their effects on aerodynamic flows. Nearfield and farfield force analysis. Subsonic, transonic, and supersonic compressible flows. Experimental methods and measurement techniques. Aerodynamic models for flight dynamics."
+        ],
+        [
+            "inst",
+            [
+                "M. Drela"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.120 Compressible Internal Flow"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.25 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Internal compressible flow with applications in propulsion and fluid systems. Control volume analysis of compressible flow devices. Compressible channel flow and extensions, including effects of shock waves, momentum, energy and mass addition, swirl, and flow non-uniformity on Mach numbers, flow regimes, and choking."
+        ],
+        [
+            "inst",
+            [
+                "E. M. Greitzer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.122 Aerothermodynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.25, 18.085, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Analysis of external inviscid and viscous hypersonic flows over thin airfoils, lifting bodies of revolution, wedges, cones, and blunt nose bodies. Analyses formulated using singular perturbation and multiple scale methods. Hypersonic equivalence principle. Hypersonic similarity. Newtonian approximation. Curved, detached shock waves. Crocco theorem. Entropy layers. Shock layers. Blast waves. Hypersonic boundary layers."
+        ],
+        [
+            "inst",
+            [
+                "W. L. Harris"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.13 Aerodynamics of Viscous Fluids"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.100, 16.110, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Boundary layers as rational approximations to the solutions of exact equations of fluid motion. Physical parameters influencing laminar and turbulent aerodynamic flows and transition. Effects of compressibility, heat conduction, and frame rotation. Influence of boundary layers on outer potential flow and associated stall and drag mechanisms. Numerical solution techniques and exercises."
+        ],
+        [
+            "inst",
+            [
+                "M. Drela"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.18 Fundamentals of Turbulence (16.950)"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.25 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the fundamentals of turbulent flows, i.e., the chaotic motion of gases and liquids, along with the mathematical tools for turbulence research. Topics range from the classic viewpoint of turbulence to the theories developed in the last decade. Combines theory, data science, and numerical simulations, and is designed for a wide audience in the areas of aerospace, mechanical engineering, geophysics, and astrophysics."
+        ],
+        [
+            "inst",
+            [
+                "A. Lozano-Duran"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Materials and Structures"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.20 Structural Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.001"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Applies solid mechanics to analysis of high-technology structures. Structural design considerations. Review of three-dimensional elasticity theory; stress, strain, anisotropic materials, and heating effects. Two-dimensional plane stress and plane strain problems. Torsion theory for arbitrary sections. Bending of unsymmetrical section and mixed material beams. Bending, shear, and torsion of thin-wall shell beams. Buckling of columns and stability phenomena. Introduction to structural dynamics. Exercises in the design of general and aerospace structures."
+        ],
+        [
+            "inst",
+            [
+                "B. Wardle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.201 Topics in Materials and Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for undergraduate-level work in materials and structures outside of regularly scheduled subjects. Intended for transfer credit and study abroad. Credit may be used to satisfy specific degree requirements in the Course 16 program. Requires prior approval. Consult M. A. Stuppard."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.202 Manufacturing with Advanced Composite Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the methods used to manufacture parts made of advanced composite materials with work in the Technology Laboratory for Advanced Composites. Students gain hands-on experience by fabricating, machining, instrumenting, and testing graphite/epoxy specimens. Students also design, build, and test a composite structure as part of a design contest. Lectures supplement laboratory sessions with background information on the nature of composites, curing, composite machining, secondary bonding, and the testing of composites."
+        ],
+        [
+            "inst",
+            [
+                "P. A. Lagace"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.221[J] Structural Dynamics"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.581[J], 2.060[J]\nSubject meets with 1.058"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines response of structures to dynamic excitation: free vibration, harmonic loads, pulses and earthquakes. Covers systems of single- and multiple-degree-of-freedom, up to the continuum limit, by exact and approximate methods. Includes applications to buildings, ships, aircraft and offshore structures. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Cohen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.223[J] Mechanics of Heterogeneous Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.076[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.002\" title=\"2.002\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.002');\">2.002</a>,  3.032, <a href=\"/search/?P=16.20\" title=\"16.20\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.20');\">16.20</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Mechanical behavior of heterogeneous materials such as thin-film microelectro- mechanical systems (MEMS) materials and advanced filamentary composites, with particular emphasis on laminated structural configurations. Anisotropic and crystallographic elasticity formulations. Structure, properties and mechanics of constituents such as films, substrates, active materials, fibers, and matrices including nano- and micro-scale constituents. Effective properties from constituent properties. Classical laminated plate theory for modeling structural behavior including extrinsic and intrinsic strains and stresses such as environmental effects. Introduction to buckling of plates and nonlinear (deformations) plate theory. Other issues in modeling heterogeneous materials such as fracture/failure of laminated structures."
+        ],
+        [
+            "inst",
+            [
+                "B. L. Wardle",
+                "S-G. Kim"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.225[J] Computational Mechanics of Materials"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.099[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Formulation of numerical (finite element) methods for the analysis of the nonlinear continuum response of materials. The range of material behavior considered includes finite deformation elasticity and inelasticity. Numerical formulation and algorithms include variational formulation and variational constitutive updates; finite element discretization; constrained problems; time discretization and convergence analysis. Strong emphasis on the (parallel) computer implementation of algorithms in programming assignments. The application to real engineering applications and problems in engineering science are stressed throughout. Experience in either C++, C, or Fortran required."
+        ],
+        [
+            "inst",
+            [
+                "R. Radovitzky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.230[J] Plates and Shells: Static and Dynamic Analysis"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.081[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.071\" title=\"2.071\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.071');\">2.071</a>, <a href=\"/search/?P=2.080\" title=\"2.080[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.080');\">2.080[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.081[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. Sapsis"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.235 Design with High Temperature Materials"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to materials design for high-temperature applications. Fundamental principles of thermodynamics and kinetics of the oxidation and corrosion of materials in high-temperature, chemically aggressive environments. Relationship of oxidation theory to design of metals (iron-, cobalt-, nickel-, refractory- and intermetallic alloys), ceramics, composites (metal-, ceramic- and carbon-matrix, coated materials). Relationships between deformation mechanisms (creep, viscoelasticity, thermoelasticity) and microstructure for materials used at elevated temperature. Discussions of high-temperature oxidation, corrosion, and damage problems that occur in energy and aerospace systems."
+        ],
+        [
+            "inst",
+            [
+                "Z. C. Cordero"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Information and Control Engineering"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.30 Feedback Control Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 16.31"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.06\" title=\"16.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.06');\">16.06</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Studies state-space representation of dynamic systems, including model realizations, controllability, and observability. Introduces the state-space approach to multi-input-multi-output control system analysis and synthesis, including full state feedback using pole placement, linear quadratic regulator, stochastic state estimation, and the design of dynamic control laws. Also covers performance limitations and robustness. Extensive use of computer-aided control design tools. Applications to various aerospace systems, including navigation, guidance, and control of vehicles. Laboratory exercises utilize a palm-size drone. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. R. Hall",
+                "C. Fan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.301 Topics in Control, Dynamics, and Automation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for work on undergraduate-level material in control and/or dynamics and/or automation outside of regularly scheduled subjects. Intended for transfer credit and study abroad. Credit may be used to satisfy specific degree requirements in the Course 16 program. Requires prior approval. Consult department."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.31 Feedback Control Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 16.30"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.06\" title=\"16.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.06');\">16.06</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Graduate-level version of 16.30; see description under 16.30. Includes additional homework questions, laboratory experiments, and a term project beyond 16.30 with a particular focus on the material associated with state-space realizations of MIMO transfer function (matrices); MIMO zeros, controllability, and observability; stochastic processes and estimation; limitations on performance; design and analysis of dynamic output feedback controllers; and robustness of multivariable control systems."
+        ],
+        [
+            "inst",
+            [
+                "S. R. Hall",
+                "C. Fan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.32 Principles of Optimal Control and Estimation"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.31"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of optimal control and estimation for discrete and continuous systems. Briefly reviews constrained function minimization and stochastic processes. Topics in optimal control theory include dynamic programming, variational calculus, Pontryagin's maximum principle, and numerical algorithms and software. Topics in estimation include least-squares estimation, and the Kalman filter and its extensions for estimating the states of dynamic systems. May include an individual term project."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.332 Formal Methods for Safe Autonomous Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers formal methods for designing and analyzing autonomous systems. Focuses on both classical and state-of-the-art rigorous methods for specifying, modeling, verifying, and synthesizing various behaviors for systems where embedded computing units monitor and control physical processes. Additionally, covers advanced material on combining formal methods with control theory and machine learning theory for modern safety critical autonomous systems powered by AI techniques such as robots, self-driving cars, and drones. Strong emphasis on the use of various mathematical and software tools to provide safety, soundness, and completeness guarantees for system models with different levels of fidelity."
+        ],
+        [
+            "inst",
+            [
+                "C. Fan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.338[J] Dynamic Systems and Control"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7100[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a> and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.7100[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. A. Dahleh",
+                "A. Megretski"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.343 Spacecraft and Aircraft Sensors and Instrumentation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers fundamental sensor and instrumentation principles in the context of systems designed for space or atmospheric flight. Systems discussed include basic measurement system for force, temperature, pressure; navigation systems (Global Positioning System, Inertial Reference Systems, radio navigation), air data systems, communication systems; spacecraft attitude determination by stellar, solar, and horizon sensing; remote sensing by incoherent and Doppler radar, radiometry, spectrometry, and interferometry. Also included is a review of basic electromagnetic theory and antenna design and discussion of design considerations for flight. Alternate years."
+        ],
+        [
+            "inst",
+            [
+                "K. Cahoy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.346 Astrodynamics"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.03"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of astrodynamics; the two-body orbital initial-value and boundary-value problems with applications to space vehicle navigation and guidance for lunar and planetary missions with applications to space vehicle navigation and guidance for lunar and planetary missions including both powered flight and midcourse maneuvers. Topics include celestial mechanics, Kepler's problem, Lambert's problem, orbit determination, multi-body methods, mission planning, and recursive algorithms for space navigation. Selected applications from the Apollo, Space Shuttle, and Mars exploration programs."
+        ],
+        [
+            "inst",
+            [
+                "S. E. Widnall",
+                "R. Linares"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.35 Real-Time Systems and Software"
+        ],
+        [
+            "prerec",
+            "Prereq: 1.00 or 6.100B"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Concepts, principles, and methods for specifying and designing real-time computer systems. Topics include concurrency, real-time execution implementation, scheduling, testing, verification, real-time analysis, and software engineering concepts. Additional topics include operating system architecture, process management, and networking."
+        ],
+        [
+            "inst",
+            [
+                "J. Shah"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.355[J] Concepts in the Engineering of Software"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.341[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Reading and discussion on issues in the engineering of software systems and software development project design. Includes the present state of software engineering, what has been tried in the past, what worked, what did not, and why. Topics may differ in each offering, but are chosen from the software process and life cycle; requirements and specifications; design principles; testing, formal analysis, and reviews; quality management and assessment; product and process metrics; COTS and reuse; evolution and maintenance; team organization and people management; and software engineering aspects of programming languages.  Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "N. G. Leveson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.36 Communication Systems and Networks"
+        ],
+        [
+            "prerec",
+            "Subject meets with 16.363"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a> or <a href=\"/search/?P=16.002\" title=\"16.002\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.002');\">16.002</a>) and (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the fundamentals of digital communications and networking. Topics include elements of information theory, sampling and quantization, coding, modulation, signal detection and system performance in the presence of noise. Study of data networking includes multiple access, reliable packet transmission, routing and protocols of the internet. Concepts discussed in the context of aerospace communication systems: aircraft communications, satellite communications, and deep space communications. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. H. Modiano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.363 Communication Systems and Networks"
+        ],
+        [
+            "prerec",
+            "Subject meets with 16.36"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a> or <a href=\"/search/?P=16.004\" title=\"16.004\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.004');\">16.004</a>) and (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the fundamentals of digital communications and networking, focusing on the study of networks, including protocols, performance analysis, and queuing theory. Topics include elements of information theory, sampling and quantization, coding, modulation, signal detection and system performance in the presence of noise. Study of data networking includes multiple access, reliable packet transmission, routing and protocols of the internet. Concepts discussed in the context of aerospace communication systems: aircraft communications, satellite communications, and deep space communications. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. H. Modiano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.37[J] Data-Communication Networks"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7450[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> or <a href=\"/search/?P=18.204\" title=\"18.204\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.204');\">18.204</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.7450[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Modiano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.391 Statistics for Engineers and Scientists"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus II (GIR), 18.06, 6.431, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Rigorous introduction to fundamentals of statistics motivated by engineering applications. Topics include exponential families, order statistics, sufficient statistics, estimation theory, hypothesis testing, measures of performance, notions of optimality, analysis of variance (ANOVA), simple linear regression, and selected topics."
+        ],
+        [
+            "inst",
+            [
+                "M. Win"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.393 Statistical Communication and Localization Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Rigorous introduction to statistical communication and localization theory, covering essential topics such as modulation and demodulation of signals, derivation of optimal receivers, characterization of wireless channels, and devising of ranging and localization techniques. Applies decision theory, estimation theory, and modulation theory to the design and analysis of modern communication and localization systems exploring synchronization, diversity, and cooperation. Selected topics will be discussed according to time schedule and class interest."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Win"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.395 Principles of Wide Bandwidth Communication"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.3010, 16.36, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the principles of wide bandwidth wireless communication, with a focus on ultra-wide bandwidth (UWB) systems. Topics include the basics of spread-spectrum systems, impulse radio, Rake reception, transmitted reference signaling, spectral analysis, coexistence issues, signal acquisition, channel measurement and modeling, regulatory issues, and ranging, localization and GPS. Consists of lectures and technical presentations by students."
+        ],
+        [
+            "inst",
+            [
+                "M. Z. Win"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Humans and Automation"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.400 Human Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Subject meets with 16.453[J], HST.518[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a fundamental understanding of human factors that must be taken into account in the design and engineering of complex aviation, space, and medical systems. Focuses primarily on derivation of human engineering design criteria from sensory, motor, and cognitive sources. Includes principles of displays, controls and ergonomics, manual control, the nature of human error, basic experimental design, and human-computer interaction in supervisory control settings. Students taking graduate version complete a research project with a final written report and oral presentation."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.401 Topics in Communication and Software"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for undergraduate-level work in communications and/or software outside of regularly scheduled subjects. Intended for transfer credit and study abroad. Credit may be used to satisfy specific degree requirements in the Course 16 program. Requires prior approval. Consult M. A. Stuppard."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.405[J] Robotics: Science and Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.124[J], 6.4200[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: ((<a href=\"/search/?P=1.00\" title=\"1.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '1.00');\">1.00</a> or <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>) and (<a href=\"/search/?P=2.003\" title=\"2.003[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.003');\">2.003[J]</a>, <a href=\"/search/?P=6.1010\" title=\"6.1010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1010');\">6.1010</a>, <a href=\"/search/?P=6.1210\" title=\"6.1210\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1210');\">6.1210</a>, or <a href=\"/search/?P=16.06\" title=\"16.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.06');\">16.06</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.4200[J]. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "L. Carlone",
+                "S. Karaman",
+                "D. Hadfield-Manell",
+                "J. Leonard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.410[J] Principles of Autonomy and Decision Making"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.4130[J]\nSubject meets with 6.4132[J], 16.413[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a> or <a href=\"/search/?P=6.9080\" title=\"6.9080\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9080');\">6.9080</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys decision making methods used to create highly autonomous systems and decision aids. Applies models, principles and algorithms taken from artificial intelligence and operations research. Focuses on planning as state-space search, including uninformed, informed and stochastic search, activity and motion planning, probabilistic and adversarial planning, Markov models and decision processes, and Bayesian filtering. Also emphasizes planning with real-world constraints using constraint programming. Includes methods for satisfiability and optimization of logical, temporal and finite domain constraints, graphical models, and linear and integer programs, as well as methods for search, inference, and conflict-learning. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. E. Shrobe"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.412[J] Cognitive Robotics"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.8110[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.4100\" title=\"6.4100\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.4100');\">6.4100</a> or <a href=\"/search/?P=16.413\" title=\"16.413[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.413');\">16.413[J]</a>) and (<a href=\"/search/?P=6.1200\" title=\"6.1200[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1200');\">6.1200[J]</a>, <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, or <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Highlights algorithms and paradigms for creating human-robot systems that act intelligently and robustly, by reasoning from models of themselves, their counterparts and their world. Examples include space and undersea explorers, cooperative vehicles, manufacturing robot teams and everyday embedded devices. Themes include architectures for goal-directed systems; decision-theoretic programming and robust execution; state-space programming, activity and path planning; risk-bounded programming and risk-bounded planners; self-monitoring and self-diagnosing systems, and human-robot collaboration. Student teams explore recent advances in cognitive robots through delivery of advanced lectures and final projects, in support of a class-wide grand challenge. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "B. C. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.413[J] Principles of Autonomy and Decision Making"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.4132[J]\nSubject meets with 6.4130[J], 16.410[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a>, <a href=\"/search/?P=6.9080\" title=\"6.9080\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9080');\">6.9080</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys decision making methods used to create highly autonomous systems and decision aids. Applies models, principles and algorithms taken from artificial intelligence and operations research. Focuses on planning as state-space search, including uninformed, informed and stochastic search, activity and motion planning, probabilistic and adversarial planning, Markov models and decision processes, and Bayesian filtering. Also emphasizes planning with real-world constraints using constraint programming. Includes methods for satisfiability and optimization of logical, temporal and finite domain constraints, graphical models, and linear and integer programs, as well as methods for search, inference, and conflict-learning. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "B. C. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.420 Planning Under Uncertainty"
+        ],
+        [
+            "prerec",
+            "Subject meets with 6.4110"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.413\" title=\"16.413[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.413');\">16.413[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Concepts, principles, and methods for planning with imperfect knowledge. Topics include state estimation, planning in information space, partially observable Markov decision processes, reinforcement learning and planning with uncertain models. Students will develop an understanding of how different planning algorithms and solutions techniques are useful in different problem domains. Previous coursework in artificial intelligence and state estimation strongly recommended."
+        ],
+        [
+            "inst",
+            [
+                "N. Roy",
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.422 Human Supervisory Control of Automated Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Principles of supervisory control and telerobotics. Different levels of automation are discussed, as well as the allocation of roles and authority between humans and machines. Human-vehicle interface design in highly automated systems. Decision aiding. Trade-offs between human control and human monitoring. Automated alerting systems and human intervention in automatic operation. Enhanced human interface technologies such as virtual presence. Performance, optimization, and social implications of the human-automation system. Examples from aerospace, ground, and undersea vehicles, robotics, and industrial systems."
+        ],
+        [
+            "inst",
+            [
+                "J. A. Shah"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.423[J] Aerospace Biomedical and Life Support Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.515[J], IDS.337[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.06\" title=\"16.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.06');\">16.06</a>, <a href=\"/search/?P=16.400\" title=\"16.400\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.400');\">16.400</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Fundamentals of human performance, physiology, and life support impacting engineering design and aerospace systems. Topics include effects of gravity on the muscle, skeletal, cardiovascular, and neurovestibular systems; human/pilot modeling and human/machine design; flight experiment design; and life support engineering for extravehicular activity (EVA). Case studies of current research are presented. Assignments include a design project, quantitative homework sets, and quizzes emphasizing engineering and systems aspects."
+        ],
+        [
+            "inst",
+            [
+                "D. J. Newman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.445[J] Entrepreneurship in Aerospace and Mobility Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.468[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines concepts and procedures for new venture creation in aerospace and mobility systems, and other arenas where safety, regulation, and infrastructure are significant components. Includes space systems, aviation, autonomous vehicles, urban aerial mobility, transit, and similar arenas. Includes preparation for entrepreneurship, founders' dilemmas, venture finance, financial modeling and unit economics, fundraising and pitching, recruiting, problem definition, organizational creation, value proposition, go-to-market, and product development. Includes team-based final projects on problem definition, technical innovation, and pitch preparation."
+        ],
+        [
+            "inst",
+            [
+                "D. A. Mindell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.453[J] Human Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.518[J]\nSubject meets with 16.400"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=16.09\" title=\"16.09\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.09');\">16.09</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a fundamental understanding of human factors that must be taken into account in the design and engineering of complex aviation, space, and medical systems. Focuses primarily on derivation of human engineering design criteria from sensory, motor, and cognitive sources. Includes principles of displays, controls and ergonomics, manual control, the nature of human error, basic experimental design, and human-computer interaction in supervisory control settings. Students taking graduate version complete a research project with a final written report and oral presentation."
+        ],
+        [
+            "inst",
+            [
+                "L. A. Stirling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.456[J] Biomedical Signal and Image Processing"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.8800[J], HST.582[J]\nSubject meets with 6.8801[J], HST.482[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a> and (<a href=\"/search/?P=2.004\" title=\"2.004\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.004');\">2.004</a>, <a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a>, <a href=\"/search/?P=16.002\" title=\"16.002\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.002');\">16.002</a>, or <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.8800[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Greenberg",
+                "E. Adalsteinsson",
+                "W. Wells"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.459 Bioengineering Journal Article Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Each term, the class selects a new set of professional journal articles on bioengineering topics of current research interest. Some papers are chosen because of particular content, others are selected because they illustrate important points of methodology. Each week, one student leads the discussion, evaluating the strengths, weaknesses, and importance of each paper. Subject may be repeated for credit a maximum of four terms. Letter grade given in the last term applies to all accumulated units of 16.459."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.470 Statistical Methods in Experimental Design"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.3700, 16.09, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Statistically based experimental design inclusive of forming hypotheses, planning and conducting experiments, analyzing data, and interpreting and communicating results. Topics include descriptive statistics, statistical inference, hypothesis testing, parametric and nonparametric statistical analyses, factorial ANOVA, randomized block designs, MANOVA, linear regression, repeated measures models, and application of statistical software packages."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.475 Human-Computer Interface Design Colloquium"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides guidance on design and evaluation of human-computer interfaces for students with active research projects. Roundtable discussion on developing user requirements, human-centered design principles, and testing and evaluating methodologies. Students present their work and evaluate each other's projects. Readings complement specific focus areas. Team participation encouraged. Open to advanced undergraduates."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.485 Visual Navigation for Autonomous Vehicles"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.32 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers the mathematical foundations and state-of-the-art implementations of algorithms for vision-based navigation of autonomous vehicles (e.g., mobile robots, self-driving cars, drones). Topics include geometric control, 3D vision, visual-inertial navigation, place recognition, and simultaneous localization and mapping. Provides students with a rigorous but pragmatic overview of differential geometry and optimization on manifolds and knowledge of the fundamentals of 2-view and multi-view geometric vision for real-time motion estimation, calibration, localization, and mapping. The theoretical foundations are complemented with hands-on labs based on state-of-the-art mini race car and drone platforms. Culminates in a critical review of recent advances in the field and a team project aimed at advancing the state-of-the-art."
+        ],
+        [
+            "inst",
+            [
+                "L. Carlone",
+                "J. How",
+                "K. Khosoussi"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Propulsion and Energy Conversion"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.50 Aerospace Propulsion"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.003 and (2.005 or 16.004)"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents aerospace propulsive devices as systems, with functional requirements and engineering and environmental limitations. Requirements and limitations that constrain design choices. Both air-breathing and rocket engines covered, at a level which enables rational integration of the propulsive system into an overall vehicle design. Mission analysis, fundamental performance relations, and exemplary design solutions presented."
+        ],
+        [
+            "inst",
+            [
+                "S. Barrett",
+                "J. Sabnis"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.501 Topics in Propulsion (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for work on undergraduate-level material in propulsion outside of regularly scheduled subjects. Intended for transfer credit and study abroad. Credit may be used to satisfy specific degree requirements in the Course 16 and Course 16-ENG programs. Requires prior approval. Consult department."
+        ],
+        [
+            "inst",
+            [
+                "Y. M. Marzouk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.511 Aircraft Engines and Gas Turbines"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.50 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Performance and characteristics of aircraft jet engines and industrial gas turbines, as determined by thermodynamic and fluid mechanic behavior of engine components: inlets, compressors, combustors, turbines, and nozzles. Discusses various engine types, including advanced turbofan configurations, limitations imposed by material properties and stresses. Emphasizes future design trends including reduction of noise, pollutant formation, fuel consumption, and weight."
+        ],
+        [
+            "inst",
+            [
+                "E. M. Greitzer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.512 Rocket Propulsion"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.50 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Chemical rocket propulsion systems for launch, orbital, and interplanetary flight. Modeling of solid, liquid-bipropellant, and hybrid rocket engines. Thermochemistry, prediction of specific impulse. Nozzle flows including real gas and kinetic effects. Structural constraints. Propellant feed systems, turbopumps. Combustion processes in solid, liquid, and hybrid rockets. Cooling; heat sink, ablative, and regenerative."
+        ],
+        [
+            "inst",
+            [
+                "C. Guerra-Garcia"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.522 Space Propulsion"
+        ],
+        [
+            "prerec",
+            "Prereq: 8.02 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Reviews rocket propulsion fundamentals. Discusses advanced concepts in space propulsion with emphasis on high-specific impulse electric engines. Topics include advanced mission analysis; the physics and engineering of electrothermal, electrostatic, and electromagnetic schemes for accelerating propellant; and orbital mechanics for the analysis of continuous thrust trajectories. Laboratory term project emphasizes the design, construction, and testing of an electric propulsion thruster."
+        ],
+        [
+            "inst",
+            [
+                "P. C. Lozano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.530 Advanced Propulsion Concepts"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.50, 16.511, 16.512, or 16.522"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Considers the challenge of achieving net-zero climate impacts, as well as the opportunities presented by the resurgence of investment in new or renewed ideas. Explores advanced propulsion concepts that are not in use or well-developed, but that have established operation principles and could either contribute to environmental performance or are applicable to new aerospace services. Topics vary but may include: electric and turbo-electric aircraft propulsion; batteries, cryogenic fuels, and biofuels; combustion and emissions control concepts; propulsion for UAVs and urban air mobility; propulsion for supersonic and hypersonic vehicles; reusable space access vehicle propulsion; and propulsion in very low earth orbit. Includes a project to evaluate an advanced propulsion concept."
+        ],
+        [
+            "inst",
+            [
+                "S. Barrett",
+                "J. J. Sabnis",
+                "Z. Spakovszky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.540 Internal Flows in Turbomachines"
+        ],
+        [
+            "prerec",
+            "Prereq: 2.25 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Internal fluid motions in turbomachines, propulsion systems, ducts and channels, and other fluid machinery. Useful basic ideas, fundamentals of rotational flows, loss sources and loss accounting in fluid devices, unsteady internal flow and flow instability, flow in rotating passages, swirling flow, generation of streamwise vorticity and three-dimensional flow, non-uniform flow in fluid components."
+        ],
+        [
+            "inst",
+            [
+                "E. M. Greitzer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.55[J] Ionized Gases"
+        ],
+        [
+            "prerec",
+            "Same subject as 22.64[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=8.02\" title=\"8.02\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.02');\">8.02</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Properties and behavior of low-temperature plasmas for energy conversion, plasma propulsion, and gas lasers. Equilibrium of ionized gases: energy states, statistical mechanics, and relationship to thermodynamics. Kinetic theory: motion of charged particles, distribution function, collisions, characteristic lengths and times, cross sections, and transport properties. Gas surface interactions: thermionic emission, sheaths, and probe theory. Radiation in plasmas and diagnostics."
+        ],
+        [
+            "inst",
+            [
+                "C. Guerra Garcia"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Other Undergraduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in aeronautics and astronautics."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.C20[J] Introduction to Computational Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.C20[J], 18.C20[J], CSE.C20[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=8.01\" title=\"8.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.01');\">8.01</a> and <a href=\"/search/?P=18.01\" title=\"18.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.01');\">18.01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to computational algorithms used throughout engineering and science (natural and social) to simulate time-dependent phenomena; optimize and control systems; and quantify uncertainty in problems involving randomness, including an introduction to probability and statistics. Combination of 6.100A and 16.C20[J] counts as REST subject."
+        ],
+        [
+            "inst",
+            [
+                "D. L. Darmofal",
+                "N. Seethapathi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.C25[J] Real World Computation with Julia (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.C25[J], 6.C25[J], 12.C25[J], 18.C25[J], 22.C25[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>, <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, and <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 18.C25[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Edelman",
+                "R. Ferrari",
+                "B. Forget",
+                "C. Leiseron,Y. Marzouk",
+                "J. Williams"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.EPE UPOP Engineering Practice Experience"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPE, 2.EPE, 3.EPE, 6.EPE, 8.EPE, 10.EPE, 15.EPE, 16.EPE, 20.EPE, 22.EPE"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPE. Application required; consult UPOP website for more information."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.EPW UPOP Engineering Practice Workshop"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.EPW, 2.EPW, 3.EPW, 6.EPW, 10.EPW, 16.EPW, 20.EPW, 22.EPW"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.EPE\" title=\"2.EPE\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.EPE');\">2.EPE</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.EPW. Enrollment limited to those in the UPOP program."
+        ],
+        [
+            "inst",
+            [
+                "K. Tan-Tiongco",
+                "D. Fordell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S685 Special Subject in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic undergraduate topics not offered in regularly scheduled subjects. Subject to approval of faculty in charge. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult Y. M. Marzouk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S686 Special Subject in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study or lab work related to aeronautics and astronautics not covered in regularly scheduled subjects. Subject to approval of faculty in charge. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S688 Special Subject in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study or lab work related to aeronautics and astronautics but not covered in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.621 Experimental Projects I"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 16.06 or 16.07"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "First in a two-term sequence that addresses the conception and design of a student-defined or selected experimental research project carried out by two-person team under faculty advisement. Principles of research hypothesis formulation and assessment, experimental measurements and error analysis, and effective report writing and oral presentation, with instruction both in-class and on an individual and team basis. Selection and detailed planning of a research project, including in-depth design of experimental procedure that is then carried through to completion in 16.622."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.622 Experimental Projects II"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.621"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Execution of research project experiments based on the plan developed in 16.621. Working with their faculty advisor and course staff, student teams construct their experiment, carry out measurements of the relevant phenomena, analyze the data, and then apply the results to assess the research hypothesis. Includes instruction on effective report writing and oral presentations culminating in a written final report and formal oral presentation."
+        ],
+        [
+            "inst",
+            [
+                "S. R. Hall",
+                "J. L. Craig",
+                "P. C. Lozano",
+                "S. E. Widnall"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.63[J] System Safety"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.045[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the concepts of system safety and how to analyze and design safer systems. Topics include the causes of accidents in general, and recent major accidents in particular; hazard analysis, safety-driven design techniques; design of human-automation interaction; integrating safety into the system engineering process; and managing and operating safety-critical systems."
+        ],
+        [
+            "inst",
+            [
+                "N. Leveson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.632 Introduction to Autonomous Machines"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 2.086 or 6.100A"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Experiential seminar provides an introduction to the fundamental aspects of robust autonomous machines that includes an overall systems/component-level overview. Projects involve hands-on investigations with a variety of sensors and completely functioning, small-scale autonomous machines utilized for in-class implementation/testing of control algorithms. Students should have concurrent or prior programming experience. Preference to students in the NEET Autonomous Machines thread."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How",
+                "S. Karaman",
+                "G. Long"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.633 NEET Junior Seminar: Autonomous Machines"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Project-based seminar provides instruction on how to program basic autonomy algorithms for a micro aerial vehicle equipped with a camera. Begins by introducing the constituent hardware and components of a quadrotor drone. As this subject progresses, the students practice using simple signal processing, state estimation, control, and computer vision algorithms for mobile robotics. Students program the micro aerial vehicle to compete in a variety of challenges. Limited to students in the NEET Autonomous Machines thread."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How",
+                "S. Karaman",
+                "G. Long"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.634 NEET Senior Seminar: Autonomous Machines"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a foundation for students taking 16.84 as part of the NEET Autonomous Machines thread. Through a set of focused activities, students determine the autonomous system they will design, which includes outlining the materials, facilities, and resources they need to create the system. Limited to students in the NEET Autonomous Machines thread or with instructor's permission."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How",
+                "S. Karaman",
+                "G. Long"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.64 Flight Measurement Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.002"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity to see aeronautical theory applied in real-world environment of flight. Students assist in design and execution of simple engineering flight experiments in light aircraft. Typical investigations include determination of stability derivatives, verification of performance specifications, and measurement of navigation system characteristics. Restricted to students in Aeronautics and Astronautics."
+        ],
+        [
+            "inst",
+            [
+                "R. J. Hansman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.645[J] Dimensions of Geoengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.850[J], 5.000[J], 10.600[J], 11.388[J], 12.884[J], 15.036[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.000[J]. Limited to 100."
+        ],
+        [
+            "inst",
+            [
+                "J. Deutch",
+                "M. Zuber"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.650 Engineering Leadership Lab"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 6.9110, 16.650\nSubject meets with 6.9130[J], 16.667[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=6.9120\" title=\"6.9120\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9120');\">6.9120</a></i>; or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9110. Preference to students enrolled in the Bernard M. Gordon-MIT Engineering Leadership Program."
+        ],
+        [
+            "inst",
+            [
+                "L. McGonagle",
+                "J. Feiler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.651 Engineering Leadership"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 6.9120, 16.651"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=6.9110\" title=\"6.9110\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9110');\">6.9110</a></i>; or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9120. Preference to first-year students in the Gordon Engineering Leadership Program."
+        ],
+        [
+            "inst",
+            [
+                "J. Magarian"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.653 Management in Engineering"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 2.96, 6.9360, 10.806, 16.653"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.96. Restricted to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "H. S. Marcus",
+                "J.-H. Chun"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.66 MATLAB Skills for Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to basic MATLAB skills in programming, analysis, and plotting. Recommended for sophomores without previous MATLAB experience. Preference to Course 16 majors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.6621[J] Introduction to Design Thinking and Innovation in Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.7231[J], 6.9101[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9101[J]. Enrollment limited to 25; priority to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "B. Kotelly"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.662A Design Thinking and Innovation Leadership for Engineers"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 2.723A, 6.910A, 16.662A"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.910A."
+        ],
+        [
+            "inst",
+            [
+                "B. Kotelly"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.662B Design Thinking and Innovation Project"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 2.723B, 6.910B, 16.662B"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.910A\" title=\"6.910A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.910A');\">6.910A</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.910B."
+        ],
+        [
+            "inst",
+            [
+                "B. Kotelly"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.667 Engineering Leadership Lab"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 6.9130, 16.667\nSubject meets with 6.9110[J], 16.650[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.910A\" title=\"6.910A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.910A');\">6.910A</a>, <a href=\"/search/?P=6.9110\" title=\"6.9110\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9110');\">6.9110</a>, <a href=\"/search/?P=6.9120\" title=\"6.9120\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9120');\">6.9120</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9130. Preference to students enrolled in the second year of the Gordon-MIT Engineering Leadership Program."
+        ],
+        [
+            "inst",
+            [
+                "L. McGonagle",
+                "J. Feiler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.669 Project Engineering"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 6.9140, 16.669"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.910A\" title=\"6.910A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.910A');\">6.910A</a> and (<a href=\"/search/?P=6.9110\" title=\"6.9110\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9110');\">6.9110</a> or <a href=\"/search/?P=6.9120\" title=\"6.9120\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.9120');\">6.9120</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9140. Preference to students in the Bernard M. Gordon-MIT Engineering Leadership Program."
+        ],
+        [
+            "inst",
+            [
+                "O. de Weck",
+                "J. Feiler",
+                "L. McGonagle",
+                "R. Rahaman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.671[J] Leading Innovation in Teams"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.9150[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9150[J]. Enrollment limited to seating capacity of classroom. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "D. Nino",
+                "J. Schindall"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.676 Ethics for Engineers"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.082, 2.900, 6.9320, 10.01, 16.676, 22.014\nSubject meets with 6.9321, 20.005"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 10.01."
+        ],
+        [
+            "inst",
+            [
+                "D. A. Lauffenberger",
+                "B. L. Trout"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.680 Project in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity to work on projects related to aerospace engineering outside the department. Requires prior approval."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.681 Topics in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study or laboratory project work not available elsewhere in the curriculum. Topics selected in consultation with the instructor."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.682 Selected Topics in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Study by qualified students. Topics selected in consultation with the instructor. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.683 Seminar in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Speakers from campus and industry discuss current activities and advances in aeronautics and astronautics. Restricted to Course 16 students."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.687 Selected Topics in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Study by qualified students. Topics selected in consultation with the instructor. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.691 Practicum Experience"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Course 16 students participating in curriculum-related off-campus experiences in aerospace engineering and related areas. Before enrolling, a student must have an offer from a company or organization; must identify an appropriate supervisor in the AeroAstro department who, along with the off-campus supervisor, evaluate the student's performance; and must receive prior approval from the AeroAstro department. At the conclusion of the training, the student submits a substantive final report for review and approval by the MIT supervisor. Can be taken for up to 3 units. Contact the AeroAstro Undergraduate Office for details on procedures and restrictions."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Flight Transportation"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.707[J] The History of Aviation"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.467[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject STS.467[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Mindell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.71[J] The Airline Industry"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.232[J], 15.054[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Overview of the global airline industry, focusing on recent industry performance, current issues and challenges for the future. Fundamentals of airline industry structure, airline economics, operations planning, safety, labor relations, airports and air traffic control, marketing, and competitive strategies, with an emphasis on the interrelationships among major industry stakeholders. Recent research findings of the MIT Global Airline Industry Program are showcased, including the impacts of congestion and delays, evolution of information technologies, changing human resource management practices, and competitive effects of new entrant airlines. Taught by faculty participants of the Global Airline Industry Program."
+        ],
+        [
+            "inst",
+            [
+                "P. P. Belobaba",
+                "H. Balakrishnan",
+                "A. I. Barnett",
+                "R. J. Hansman",
+                "T. A. Kochan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.715 Aerospace, Energy, and the Environment"
+        ],
+        [
+            "prerec",
+            "Prereq: Chemistry (GIR) and (1.060, 2.006, 10.301, 16.003, 16.004, or permission of instructor)"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses energy and environmental challenges facing aerospace in the 21st century. Topics include: aircraft performance and energy requirements, propulsion technologies, jet fuels and alternative fuels, lifecycle assessment of fuels, combustion, emissions, climate change due to aviation, aircraft contrails, air pollution impacts of aviation, impacts of supersonic aircraft, and aviation noise. Includes an in-depth introduction to the relevant atmospheric and combustion physics and chemistry with no prior knowledge assumed. Discussion and analysis of near-term technological, fuel-based, regulatory and operational mitigation options for aviation, and longer-term technical possibilities."
+        ],
+        [
+            "inst",
+            [
+                "S. Barrett"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.72 Air Traffic Control"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the various aspects of present and future Air Traffic Control systems. Descriptions of the present system: systems-analysis approach to problems of capacity and safety; surveillance, including NAS and ARTS; navigation subsystem technology; aircraft guidance and control; communications; collision avoidance systems; sequencing and spacing in terminal areas; future directions and development; critical discussion of past proposals and of probable future problem areas. Requires term paper."
+        ],
+        [
+            "inst",
+            [
+                "H. Balakrishnan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.763[J] Air Transportation Operations Research"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.233[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3702\" title=\"6.3702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3702');\">6.3702</a>, <a href=\"/search/?P=15.093\" title=\"15.093[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.093');\">15.093[J]</a>, <a href=\"/search/?P=16.71\" title=\"16.71[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.71');\">16.71[J]</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Presents a unified view of advanced quantitative analysis and optimization techniques applied to the air transportation sector. Considers the problem of operating and managing the aviation sector from the perspectives of the system operators (e.g., the FAA), the airlines, and the resultant impacts on the end-users (the passengers). Explores models and optimization approaches to system-level problems, airline schedule planning problems, and airline management challenges. Term paper required."
+        ],
+        [
+            "inst",
+            [
+                "H. Balakrishnan",
+                "C. Barnhart",
+                "P. P. Belobaba"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.767 Introduction to Airline Transport Aircraft Systems and Automation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Intensive one-week subject that uses the Boeing 767 aircraft as an example of a system of systems. Focuses on design drivers and compromises, system interactions, and human-machine interface. Morning lectures, followed by afternoon desktop simulator sessions. Critique and comparison with other transport aircraft designs. Includes one evening at Boston Logan International Airport aboard an aircraft. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. M. Oman",
+                "B. Nield"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.781[J] Planning and Design of Airport Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.231[J], IDS.670[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on current practice, developing trends, and advanced concepts in airport design and planning. Considers economic, environmental, and other trade-offs related to airport location, as well as the impacts of emphasizing \"green\" measures. Includes an analysis of the effect of airline operations on airports. Topics include demand prediction, determination of airfield capacity, and estimation of levels of congestion; terminal design; the role of airports in the aviation and transportation system; access problems; optimal configuration of air transport networks and implications for airport development; and economics, financing, and institutional aspects. Special attention to international practice and developments."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville",
+                "A. R. Odoni"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Aerospace Systems"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.810 Engineering Design and Rapid Prototyping"
+        ],
+        [
+            "prerec",
+            "Prereq: (6.9110 and 6.9120) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Builds fundamental skills in engineering design and develops a holistic view of the design process through conceiving, designing, prototyping, and testing a multidisciplinary component or system. Students are provided with the context in which the component or system must perform; they then follow a process to identify alternatives, enact a workable design, and improve the design through multi-objective optimization. The performance of end-state designs is verified by testing. Though students develop a physical component or system, the project is formulated so those from any engineering discipline can participate. The focus is on the design process itself, as well as the complementary roles of human creativity and computational approaches. Designs are built by small teams who submit their work to a design competition. Pedagogy based on active learning, blending lectures with design and manufacturing activities.  Limited to 30 students. Preference given to students in the Gordon-MIT Engineering Leadership Program."
+        ],
+        [
+            "inst",
+            [
+                "O. L. de Weck",
+                "J. Magarian"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.82 Flight Vehicle Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Design of an atmospheric flight vehicle to satisfy stated performance, stability, and control requirements. Emphasizes individual initiative, application of fundamental principles, and the compromises inherent in the engineering design process. Includes instruction and practice in written and oral communication, through team presentations and a written final report. Course 16 students are expected to complete two professional or concentration subjects from the departmental program before taking this capstone. Offered alternate Spring and Fall terms."
+        ],
+        [
+            "inst",
+            [
+                "R. J. Hansman",
+                "M. Drela"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.821 Flight Vehicle Development"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on implementation and operation of a flight system. Emphasizes system integration, implementation, and performance verification using methods of experimental inquiry, and addresses principles of laboratory safety. Students refine subsystem designs and fabricate working prototypes. Includes component integration into the full system with detailed analysis and operation of the complete vehicle in the laboratory and in the field, as well as experimental analysis of subsystem performance, comparison with physical models of performance and design goals, and formal review of the overall system design. Knowledge of the engineering design process is helpful. Provides instruction in written and oral communication."
+        ],
+        [
+            "inst",
+            [
+                "R. J. Hansman",
+                "M. Drela"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.83[J] Space Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.43[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Design of a complete space system, including systems analysis, trajectory analysis, entry dynamics, propulsion and power systems, structural design, avionics, thermal and environmental control, human factors, support systems, and weight and cost estimates. Students participate in teams, each responsible for an integrated vehicle design, providing experience in project organization and interaction between disciplines. Includes several aspects of team communication including three formal presentations, informal progress reports, colleague assessments, and written reports. Course 16 students are expected to complete two professional or concentration subjects from the departmental program before taking this capstone. Offered alternate fall and spring terms."
+        ],
+        [
+            "inst",
+            [
+                "K. Cahoy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.831[J] Space Systems Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.431[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Students build a space system, focusing on refinement of sub-system designs and fabrication of full-scale prototypes. Sub-systems are integrated into a vehicle and tested. Sub-system performance is verified using methods of experimental inquiry, and is compared with physical models of performance and design goals. Communication skills are honed through written and oral reports. Formal reviews include the Implementation Plan Review and the Acceptance Review. Knowledge of the engineering design process is helpful."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.839[J] Operating in the Lunar Environment"
+        ],
+        [
+            "prerec",
+            "Same subject as MAS.839[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.839[J]. Enrollment limited; admission by application."
+        ],
+        [
+            "inst",
+            [
+                "J. Hoffman",
+                "A. Ekblaw"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.84 Advanced Autonomous Robotic Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.4200[J] or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students design an autonomous vehicle system to satisfy stated performance goals. Emphasizes both hardware and software components of the design and implementation. Entails application of fundamental principles and design engineering in both individual and group efforts. Students showcase the final design to the public at the end of the term."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How",
+                "S. Karaman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.842 Fundamentals of Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "General introduction to systems engineering for aerospace and more general electro-mechanical-cyber systems. Built on the V-model as well as an agile approach. Topics include stakeholder analysis, requirements definition, system architecture and concept generation, trade-space exploration and concept selection, design definition and optimization, system integration and interface management, system safety, verification and validation, and commissioning and operations. Discusses the trade-offs between performance, life-cycle cost and system operability. Readings based on systems engineering standards. Individual homework assignments apply concepts from class. Prepares students for the systems field exam in the Department of Aeronautics and Astronautics."
+        ],
+        [
+            "inst",
+            [
+                "E. F. Crawley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.851 Introduction to Satellite Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers the principles and governing equations fundamental to the design, launch, and operation of artificial satellites in Earth's orbit and beyond. Material includes the vis-viva equation; the rocket equation; basic orbital maneuvers, including Hohmann transfers; bielliptic trajectories, as well as spiral transfers; the link budget equation; spacecraft power and propulsion; thermal equilibrium and interactions of spacecraft with the space environment, such as aerodynamic drag; electrostatic charging; radiation; and meteorids. Spacecraft are initially treated parametrically as point masses and then as rigid bodies subject to Euler's equations of rotational motion. Serves as a prerequisite for more advanced material in satellite engineering, including the technological implementation of various subsystems. Lectures are offered in a hybrid format, in person and remote."
+        ],
+        [
+            "inst",
+            [
+                "K. Cahoy",
+                "O. L. de Weck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.853 Advanced Satellite Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.66 and 16.851"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced material in satellite engineering, including the physical implementation of spacecraft hardware and software in payloads and bus subsystems, including structures, attitude determination and control, electrical power systems (EPS), control and data handling (CDH), guidance navigation and control (GNC), thermal management, communications, and others. Examples of spacecraft technologies and design tradeoffs are highlighted based on past, current, and future missions. Emphasis on mission success and identification and preventation of spacecraft and mission failures modes. Prepares students for the design of Earth observation as well as interplanetary science missions. Advanced assignments require computational skills in Matlab or Python and short presentations. Guest speakers from NASA and industry. Serves as a basis for the field examination in space systems."
+        ],
+        [
+            "inst",
+            [
+                "K. Cahoy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.854 Spacecraft Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.851 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Practical work in a spacecraft laboratory environment, including learning about cleanroom environments, satellite integration, and testing. Topics include handling of electrostatic discharge (ESD) sensitive electronics, working in a cleanroom, performing spacecraft component and qualification testing using shaker tables to simulate launch and deployment loads, thermal and vacuum testing, and designing and executing a successful spacecraft/instrument test campaign. Emphasis on obtaining laboratory data from sensors such as accelerometers, thermal sensors, and small satellite hardware, and comparing expected results against actual behaviors. Students carry out exercises in small teams and submit digital laboratory reports."
+        ],
+        [
+            "inst",
+            [
+                "R. A. Masterson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.855[J] Systems Architecting Applied to Enterprises"
+        ],
+        [
+            "prerec",
+            "Same subject as EM.429[J], IDS.336[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.336[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Rhodes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.857[J] Asking How Space Enabled Designs Advance Justice and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as MAS.858[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.858[J]. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "D. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.858 Introduction to Discrete Math and Systems Theory for Engineers"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "General discrete math topics include mathematical reasoning, combinatorial analysis, discrete structures (sets, permutations, relations, graphs, trees, and finite state machines), algorithmic thinking and complexity, modeling computation (languages and grammars, finite state machines), and Boolean algebra. Emphasis is on the use of the basic principles to solve engineering problems rather than applying formulae or studying the theoretical mathematical foundations of the topics. Real aerospace engineering examples are used. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "N. Leveson",
+                "O. de Weck",
+                "J. Thomas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.861 Engineering Systems Analysis for Design"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.146, 16.861, EM.422, IDS.332"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.332. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.863[J] System Safety Concepts"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.340[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers important concepts and techniques in designing and operating safety-critical systems. Topics include the nature of risk, formal accident and human error models, causes of accidents, fundamental concepts of system safety engineering, system and software hazard analysis, designing for safety, fault tolerance, safety issues in the design of human-machine interaction, verification of safety, creating a safety culture, and management of safety-critical projects. Includes a class project involving the high-level system design and analysis of a safety-critical system. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "N. G. Leveson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.88[J] Prototyping our Sci-Fi Space Future: Designing & Deploying Projects for Zero Gravity Flights"
+        ],
+        [
+            "prerec",
+            "Same subject as MAS.838[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.838[J]. Enrollment limited; admission by application."
+        ],
+        [
+            "inst",
+            [
+                "J. Paradiso",
+                "A. Ekblaw"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.885 Aircraft Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Holistic view of the aircraft as a system, covering basic systems engineering, cost and weight estimation, basic aircraft performance, safety and reliability, life cycle topics, aircraft subsystems, risk analysis and management, and system realization. Small student teams retrospectively analyze an existing aircraft covering: key design drivers and decisions; aircraft attributes and subsystems; operational experience. Oral and written versions of the case study are delivered. Focuses on a systems engineering analysis of the Space Shuttle. Studies both design and operations of the shuttle, with frequent lectures by outside experts. Students choose specific shuttle systems for detailed analysis and develop new subsystem designs using state of the art technology."
+        ],
+        [
+            "inst",
+            [
+                "R. J. Hansman",
+                "W. Hoburg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.886 Air Transportation Systems Architecting"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the architecting of air transportation systems. Focuses on the conceptual phase of product definition including technical, economic, market, environmental, regulatory, legal, manufacturing, and societal factors. Centers on a realistic system case study and includes a number of lectures from industry and government. Past examples include the Very Large Transport Aircraft, a Supersonic Business Jet and a Next Generation Cargo System. Identifies the critical system level issues and analyzes them in depth via student team projects and individual assignments. Overall goal is to produce a business plan and a system specifications document that can be used to assess candidate systems."
+        ],
+        [
+            "inst",
+            [
+                "R. J. Hansman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.887[J] Technology Roadmapping and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as EM.427[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a review of the principles, methods and tools of technology management for organizations and technologically-enabled systems including technology forecasting, scouting, roadmapping, strategic planning, R&D project execution, intellectual property management, knowledge management, partnering and acquisition, technology transfer, innovation management, and financial technology valuation. Topics explain the underlying theory and empirical evidence for technology evolution over time and contain a rich set of examples and practical exercises from aerospace and other domains, such as transportation, energy, communications, agriculture, and medicine. Special topics include Moore's law, S-curves, the singularity and fundamental limits to technology. Students develop a comprehensive technology roadmap on a topic of their own choice."
+        ],
+        [
+            "inst",
+            [
+                "O. L. de Weck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.888[J] Multidisciplinary Design Optimization"
+        ],
+        [
+            "prerec",
+            "Same subject as EM.428[J], IDS.338[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Systems modeling for design and optimization. Selection of design variables, objective functions and constraints. Overview of principles, methods and tools in multidisciplinary design optimization (MDO). Subsystem identification, development and interface design. Design of experiments (DOE). Review of linear (LP) and non-linear (NLP) constrained optimization formulations. Scalar versus vector optimization problems. Karush-Kuhn-Tucker (KKT) conditions of optimality, Lagrange multipliers, adjoints, gradient search methods, sensitivity analysis, geometric programming, simulated annealing, genetic algorithms and particle swarm optimization. Constraint satisfaction problems and isoperformance. Non-dominance and Pareto frontiers. Surrogate models and multifidelity optimization strategies. System design for value. Students execute a term project in small teams related to their area of interest. "
+        ],
+        [
+            "inst",
+            [
+                "O. de Weck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.89[J] Space Systems Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.339[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=16.842\" title=\"16.842\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.842');\">16.842</a>, <a href=\"/search/?P=16.851\" title=\"16.851\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.851');\">16.851</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focus on developing space system architectures. Applies subsystem knowledge gained in 16.851 to examine interactions between subsystems in the context of a space system design. Principles and processes of systems engineering including developing space architectures, developing and writing requirements, and concepts of risk are explored and applied to the project. Subject develops, documents, and presents a conceptual design of a space system including a preliminary spacecraft design."
+        ],
+        [
+            "inst",
+            [
+                "E. F. Crawley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.891 Space Policy Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores current and historical issues in space policy, highlighting NASA, DOD, and international space agencies. Covers NASA's portfolios in exploration, science, aeronautics, and technology. Discusses US and international space policy. NASA leadership, public private partnerships, and innovation framework are presented. Current and former government and industry leaders provide an \"inside the beltway perspective.\" Study of Congress, the Executive, and government agencies results in weekly policy memos. White papers authored by students provide policy findings and recommendations to accelerate human spaceflight, military space, space technology investments, and space science missions. Intended for graduate students and advanced undergraduates interested in technology policy. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "D. J. Newman",
+                "D. E. Hastings"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.893 Engineering the Space Shuttle"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Detailed historical and technical study of the Space Shuttle, the world's first reusable spacecraft, through lectures by the people who designed, built and operated it. Examines the political, economic and military factors that influenced the design of the Shuttle; looks deeply into the it's many subsystems; and explains how the Shuttle was operated. Lectures are both live and on video. Students work on a final project related to space vehicle design."
+        ],
+        [
+            "inst",
+            [
+                "J. A. Hoffman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.895[J] Engineering Apollo: The Moon Project as a Complex System"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.471[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject STS.471[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Mindell"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Computation"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.90 Computational Modeling and Data Analysis in Aerospace Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.001, 16.002, 16.003, 16.004, or permission of instructor; Coreq: 6.3700 or 16.09"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces principles, algorithms, and applications of computational techniques arising in aerospace engineering. Techniques include numerical integration of systems of ordinary differential equations; numerical discretization of partial differential equations; probabilistic modeling; and computational aspects of estimation and inference. Example applications will include modeling, design, and data analysis."
+        ],
+        [
+            "inst",
+            [
+                "Q. Wang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.901 Topics in Computation"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides credit for undergraduate-level work in computation outside of regularly scheduled subjects. Intended for transfer credit and study abroad. Credit may be used to satisfy specific degree requirements in the Course 16 program. Requires prior approval. Consult M. A. Stuppard."
+        ],
+        [
+            "inst",
+            [
+                "J. P. How"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.910[J] Introduction to Modeling and Simulation"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.096[J], 6.7300[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.7300[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Daniel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.920[J] Numerical Methods for Partial Differential Equations"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.097[J], 6.7330[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> or <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the fundamentals of modern numerical techniques for a wide range of linear and nonlinear elliptic, parabolic, and hyperbolic partial differential and integral equations. Topics include mathematical formulations; finite difference, finite volume, finite element, and boundary element discretization methods; and direct and iterative solution techniques. The methodologies described form the foundation for computational approaches to engineering systems involving heat transfer, solid mechanics, fluid dynamics, and electromagnetics. Computer assignments requiring programming."
+        ],
+        [
+            "inst",
+            [
+                "J. Peraire"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.930 Advanced Topics in Numerical Methods for Partial Differential Equations"
+        ],
+        [
+            "prerec",
+            "Prereq: 16.920[J]"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced topics in numerical methods for the discretization, solution, and control of problems governed by partial differential equations. Topics include the application of the finite element method to systems of equations with emphasis on equations governing compressible, viscous flows; grid generation; optimal control of PDE-constrained systems; a posteriori error estimation and adaptivity; reduced basis approximations and reduced-order modeling. Computer assignments require programming."
+        ],
+        [
+            "inst",
+            [
+                "J. Peraire"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.940 Numerical Methods for Stochastic Modeling and Inference"
+        ],
+        [
+            "prerec",
+            "Prereq: (6.3702 and 16.920[J]) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced introduction to numerical methods for treating uncertainty in computational simulation. Draws examples from a range of engineering and science applications, emphasizing systems governed by ordinary and partial differential equations. Uncertainty propagation and assessment: Monte Carlo methods, variance reduction, sensitivity analysis, adjoint methods, polynomial chaos and Karhunen-Loève expansions, and stochastic Galerkin and collocation methods. Interaction of models with observational data, from the perspective of statistical inference: Bayesian parameter estimation, statistical regularization, Markov chain Monte Carlo, sequential data assimilation and filtering, and model selection."
+        ],
+        [
+            "inst",
+            [
+                "Y. M. Marzouk"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Other Graduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to an SM, EAA, PhD, or ScD thesis; to be arranged by the student with an appropriate MIT faculty member, who becomes thesis supervisor. Restricted to students who have been admitted into the department."
+        ],
+        [
+            "inst",
+            [
+                "Y. M. Marzouk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.971 Practicum Experience"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Course 16 students participating in curriculum-related off-campus experiences in aerospace engineering and related areas. Before enrolling, a student must have an offer from a company or organization; must identify an appropriate supervisor in the AeroAstro department who, along with the off-campus supervisor, evaluate the student's work; and must receive prior approval from the AeroAstro department. At the conclusion of the training, the student submits a substantive final report for review and approval by the MIT supervisor. Can be taken for up to 3 units. Contact the AeroAstro Graduate Office for details on procedures and restrictions."
+        ],
+        [
+            "inst",
+            [
+                "Consult B.Marois"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.980 Advanced Project"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Study, original investigation, or lab project work level by qualified students. Topics selected in consultation with instructor. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.981 Advanced Project"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Study, original investigation, or lab project work by qualified students. Topics selected in consultation with instructor. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.984 Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Discussion of current interest topics by staff and guest speakers. Prior approval required. Restricted to Course 16 students."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.985[J] Global Operations Leadership Seminar"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.890[J], 10.792[J], 15.792[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.792[J]. Preference to LGO students."
+        ],
+        [
+            "inst",
+            [
+                "T. Roemer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.990[J] Leading Creative Teams"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.9280[J], 15.674[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.9280[J]. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "D. Nino",
+                "J. Wu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.995 Doctoral Research and Communication Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents fundamental concepts of technical communication. Addresses how to articulate a research problem, as well as the communication skills necessary to reach different audiences. The primary focus is on technical presentations, but includes aspects of written communication. Students give two technical talks during the term, and provide oral and written feedback to each other. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.997 How To Do Excellent Research"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents and discusses skills valuable for starting research in the department, including time management; reading, reviewing, and writing technical papers; how to network in a research setting, how to be effective in a research group, and how to get good mentoring. In-class peer review is expected. Students write a final paper on one or more of the class topics. Enrollment is limited."
+        ],
+        [
+            "inst",
+            [
+                "D. E. Hastings"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.999 Teaching in Aeronautics and Astronautics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For qualified students interested in gaining teaching experience. Classroom, tutorial, or laboratory teaching under the supervision of a faculty member. Enrollment limited by availability of suitable teaching assignments. Consult department."
+        ],
+        [
+            "inst",
+            [
+                "E. H. Modiano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S198 Advanced Special Subject in Mechanics and Physics of Fluids"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled fluids subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S199 Advanced Special Subject in Mechanics and Physics of Fluids"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled fluids subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S298 Advanced Special Subject in Materials and Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled materials and structures subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S299 Advanced Special Subject in Materials and Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled materials and structures subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult B. L. Wardle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S398 Advanced Special Subject in Information and Control"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S399 Advanced Special Subject in Information and Control"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S498 Advanced Special Subject in Humans and Automation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S499 Advanced Special Subject in Humans and Automation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S598 Advanced Special Subject in Propulsion and Energy Conversion"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S599 Advanced Special Subject in Propulsion and Energy Conversion"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S798 Advanced Special Subject in Flight Transportation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S799 Advanced Special Subject in Flight Transportation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S890 Advanced Special Subject in Aerospace Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S893 Advanced Special Subject in Aerospace Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S896 Advanced Special Subject in Aerospace Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult Consult: M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S897 Advanced Special Subject in Aerospace Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S898 Advanced Special Subject in Aerospace Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult D. Miller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S899 Advanced Special Subject in Aerospace Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S948 Advanced Special Subject in Computation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S949 Advanced Special Subject in Computation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S982 Advanced Special Subject"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "16.S983 Advanced Special Subject"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Organized lecture or laboratory subject consisting of material not available in regularly scheduled subjects. Prior approval required."
+        ],
+        [
+            "inst",
+            [
+                "Consult M. A. Stuppard"
+            ]
+        ]
+    ]
+]

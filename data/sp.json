@@ -1,0 +1,636 @@
+[
+    "Special Programs",
+    [
+        "head",
+        "Interphase EDGE: Pre-First-Year Summer Component"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.100 Interphase"
+        ],
+        [
+            "prerec",
+            "Prereq: Commitment to register as a first-year student in the Fall"
+        ],
+        [
+            "terms",
+            [
+                "U (Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Interphase is a seven-week program designed to enhance the academic success of students entering MIT. The program has a dual focus: it gives students an introduction to the MIT experience by exposing them to the rigors of a full subject load while simultaneously preparing them for academic success beyond MIT. The program includes calculus; chemistry; physical education; physics; writing, oral presentation and teamwork skills; and supporting academic activities, including small-group learning. Students can earn transcript credit for subjects taken in the program, sometimes resulting in advanced placement in corresponding subjects taken in the Fall. Activities include day trips to area cultural, recreational, and business sites. Students participate in a range of personal and educational development seminars and activities designed to ensure their smooth transition to college life."
+        ],
+        [
+            "inst",
+            [
+                "S. Kalloo"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Teaching and Learning Lab"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.200 Teaching Development Fellows Network: Experience Designing and Facilitating Educational Development (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Project-based subject. Students design teaching-development programs and resources that support graduate student teaching in their departments. Instruction provided in advanced topics in teaching and learning, workshop design and facilitation, peer observation, and other topics in educational development under the supervision of the Teaching + Learning Lab staff. Students are selected by an application process and require permission from their department and concurrent appointment as a Teaching Development Fellow. Fellows register for this subject in the Spring and Fall. Enrollment limited by availability of suitable Teaching Development Fellow positions."
+        ],
+        [
+            "inst",
+            [
+                "B. Hansberry"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Institute-wide Discovery Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.245 The Sum of All Courses"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of the wide variety of majors and joint majors as well as minors and concentrations at MIT. At each lecture, faculty from two to three departments describe their fields. One-hour seminars and panels are given on informative and engaging topics such as, \"The Rationale Behind the MIT Curriculum,\" \"The Purpose of an Education,\" \"Integrating by Parts and Other Life Hacks,\" \"Etiquette and Why it Is Important,\" \"So, Darwin, Shakespeare, and Newton Walk into a Bar,\" \"How to Avoid Burnout,\" \"What is your Implicit Bias?,\" \"How to be a Good Human,\" \"Social Impact, Unintended Consequences, and Moral Hazards,\" and include panel discussions with MIT Administration and MIT's Distinguished Professors. Subject can count toward the 6-unit discovery-focused credit limit for first year students. Limited to 1132; preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "C. Carter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.246 The Future: Global Challenges and Questions"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores global challenges through the perspective of an array of majors / disciplines at MIT. Generative and creative questioning activities and reflective discussions introduce the intellectual breadth at the Institute and provide students with tools to develop their ability to question the world and their place in it. Aims to inspire and guide students to consider how they will shape and become a part of the future they want. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "J. E. Fernandez",
+                "D. Darmofal",
+                "W. Deringer",
+                "R. Rigobon"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.247 Exploring Majors at the Intersection of Engineering, Life Sciences, and Medicine"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Interactive introduction to the several majors at MIT that offer curricula bridging engineering and life sciences, through presentations by faculty, current students, and alumni. Representatives of these departments (Courses 1, 2, 3, 5, 6, 6-7, 7, 9, 10, and 20, as well as the BME minor) cover aptitudes of typical students, culture, class offerings and roadmaps, and unique opportunities. Provides first-year students practical advice about how to select, prepare for and thrive in each major. Students taking 3-unit version of SP.247 complete reflection papers outside of class. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "S. A. Clarke",
+                "M. Jonas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.247A Exploring Majors at the Intersection of Engineering, Life Sciences, and Medicine"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Interactive introduction to the several majors at MIT that offer curricula bridging engineering and life sciences, through presentations by faculty, current students, and alumni. Representatives of these departments (Courses 1, 2, 3, 5, 6, 6-7, 7, 9, 10, and 20, as well as the BME minor) cover aptitudes of typical students, culture, class offerings and roadmaps, and unique opportunities. Provides first-year students practical advice about how to select, prepare for and thrive in each major. One-unit version of SP.247 does not include work outside of class. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "S. A. Clarke",
+                "M. Jonas"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.248 NEET Ways of Thinking"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Gives first-year students an opportunity to explore the New Engineering Education Transformation (NEET) program while practicing valuable non-technical skills. Introduces students to the NEET Ways of Thinking, which are cognitive approaches for tackling complex challenges, valued by industry for thriving in an uncertain and rapidly changing world. Student teams engage in challenge-based learning in interdisciplinary engineering education via the NEET program threads. Teams learn how to apply various Ways of Thinking to solve these challenges, including practical methods and tools which they can later use at MIT and beyond. Subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "R. Lavi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.250 Transforming Good Intentions into Good Outcomes"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores hard choices, ethical dilemmas, and the risk of failure in the humanitarian, tech, climate change, and health sectors. Students examine case studies based on challenges faced by MIT alums, faculty, staff, students or community practitioners, and engage in simulations and facilitated discussions. Exposes students to ethical frameworks and standards for social engagement and intervention. Considers the choices faced, stakeholders involved, possible impact, and relevant MIT resources. Students produce a set of guiding questions to ask of themselves and others as they embark on social change work. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 20; preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "S. Bouchard",
+                "A. Hynd"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.251 How to Change the World: Experiences from Social Entrepreneurs"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Every week, students meet a new role model who demonstrates what it means to change the world through social entrepreneurship. Students meet individual entrepreneurs, get immersed in the ecosystem that supports them, and visit MIT labs and startups in the Cambridge innovation community. Each session covers an aspect of social entrepreneurship, from identifying opportunities for change to market fit to planning for scale. Through these speakers and field trips, students gain a greater understanding of how technology-based, impactful solutions can address global challenges. Students learn to identify and address social and environmental problems and understand the relevance of this work for their time at MIT. They will see how to bring their ideas to fruition and extend their ties with the Solve community. Subject can count toward the 6-unit discovery-focused credit limit for first year-students. Limited to 25; preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "A. Dale"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.252 Careers in Medicine"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Through this course, students will explore careers in medicine and health care. It will also explore potential majors for students looking to go into these different careers, which include physicians, physician-scientists, research scientists, biomedical engineers, bioinformatics analysts, computational biologists, health data scientists, health system managers, and health economists. Majors could include biological engineering, biology, chemical engineering, mechanical engineering, computer science, and more. Allows students to explore how they can have an impact in the field of medicine in a variety of different ways. Exposes students to career paths that are patient-facing (clinical) as well as career paths that are behind the scenes. Includes field trips to nearby labs and companies. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 25; preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "A. Carlsen-Bryan",
+                "A. Rosser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.253 Challenge Your Self-Identity to Grow and Achieve Life and Career Happiness"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Are your goals your own? Or do they represent what others wish for you to achieve? Have the evil tendrils of imposter syndrome ever plagued you? We are our own worst enemies when it comes to our success in our lives and careers. Throughout our lives, we absorb labels, identities, and imposed goals from those around us. Reflecting, and broadening these goals can help one break out of fixed thinking and start focusing on how to communicate their ideas and goals to others. This course seeks to challenge students to shift from a static mindset into one of growth, seek contentedness through purpose, and gain skills to better present themselves and their ideas. Instructional activities will include self-reflection (written/oral), interviews, alum panels, and short assignments outside the classroom. Outside assignments include individual and group work. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 25; preference for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "J. Crim"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.254 Low Carbon Energy in Research and Application"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "One of the major challenges of our time is to provide more energy to a growing world population while simultaneously reducing carbon emissions to combat climate change. Climate science shows that it is urgent to accomplish this soon, as the residence times of most greenhouse gasses are large. Subject offers exposure to relevant research that is being done in this context at MIT. Students review short papers on low carbon technologies and climate change; hear from faculty, researchers, and industry representatives associated with the MITEI Low Carbon Energy Centers; and create a digital story exploring the connections between the challenges, research, and current deployment of technologies. Offers context to students' future academic work and exposes students to ways in which many MIT majors apply to energy. Subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "B. Hager",
+                "A. Danielson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.255 Eating Culture: An Exploration of Cultures around the World through Food"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to different cultures around the world via the culinary dishes they enjoy. Examines the varying histories, climates, migration patterns and religions that shape a culture. Each class, students explore and--of course!--taste one dish from one country. Work outside of class includes readings and films which reveal the cultural meanings of food. May include field trips to restaurants or neighborhoods in Boston and Cambridge. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.256 Informed Philanthropy in Theory and Action"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the potential and pitfalls of philanthropy as a mechanism for social change. Students assess the work of community agencies to address challenges and opportunities facing MIT's neighboring communities, with particular focus on community representation, equity, and social justice. Class culminates with students making a group decision on how the Learning by Giving Foundation (which is partnering with the class) will disperse $10,000 to local community agencies. Each session includes a presentation by a local community agency, grant-making foundation, and/or individual philanthropist. Through class discussion and supporting materials, students examine the interaction between philanthropy and social change, including the role of philanthropists past and present in shaping social change and social conservatism. Subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "A. Hynd",
+                "J. Bassett"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.257 MISTI Career Connections: Energy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides students with an opportunity to network and think strategically about their global careers in the energy sector. Content is international, drawing from MISTI's global network of companies and institutions, and professionals, with attention to energy research and skills necessary to work in the energy field. Through weekly discussion-based sessions, students learn from numerous sources: MISTI hosts, MITEI, alumni, and more. As a First-Year Discovery subject, focuses on career goals and skills, providing both a global and local perspective on energy topics. Open to students of all levels and disciplines, students can learn from each other and consider personal and professional goals in a multidisciplinary and international capacity. This subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "MISTI Program Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.258 MISTI: Middle East Cross-Border Development and Leadership"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides opportunities to network and think strategically about challenges facing the Middle East and how situations can benefit from multi-disciplinary, cross-border solutions. Focus is international, with students working alongside peers from Israeli-Palestinian organizations. Through monthly professional development sessions with guest lecturers, weekly discussion-based sessions focused on the culture and history of the Middle East, and a group project, students explore what challenges face the Middle East and what skills are needed to address them. Networking opportunities with industry leaders and peers in the region provided. Open to students of all levels and disciplines. This subject can count toward the 6-unit discovery-focused credit limit for first-year students. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "D. Dolev",
+                "S. Koltai",
+                "K. Schwind"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.259 Pathways to Social Justice at MIT and Beyond (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "This course explores student pathways to support social change and social justice efforts within the greater Boston region and how students can be agents of change throughout their lives. Students are introduced to ethical, reciprocal, and community-informed approaches to creating social change through readings, lectures, class discussions, critical reflection, and direct service experiences with local community organizations. This course also aims to create a supportive community for undergraduate students to build a network of thoughtful MIT stakeholders dedicated to creating social good in the world. Subject offered by the PKG Public Service Center. Subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "V. Yee"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Terrascope"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.310 Engagement and Discovery Through the Terrascope Field Experience"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; partial term)"
+            ]
+        ],
+        [
+            "desc",
+            "Each spring, first-year students in the Terrascope Learning Community spend a week exploring a sustainability-related problem in an off-campus site. During the trip, students engage with communities affected by the problem and people taking a wide range of approaches to address it. In this course, students will integrate and communicate their experience from the trip, with the aim of deepening their consideration of the year's problem and how the field experience impacts their thoughts about their own pathways through MIT and beyond. Students will learn about best practices and opportunities for civic engagement related to the year's topic, and they will explore ways of communicating their learnings from the field experience. Limited to first-year students participating in the Terrascope spring break field experience."
+        ],
+        [
+            "inst",
+            [
+                "D. McGee",
+                "E. Chambers",
+                "A. Epstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.35UR Undergraduate Research in Terrascope"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in Terrascope."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.360 Terrascope Radio"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An exploration of radio as a medium of expression and communication, particularly the communication of complex scientific or technical information to general audiences. Examines the ingredients of effective radio programming, drawing extensively on examples from both commercial and public radio. Student teams produce, assemble, narrate, record and broadcast/webcast radio programs on topics related to the complex environmental issue that is the focus of the year's Terrascope subjects. Includes multiple individual writing assignments that explore the constraints and opportunities in radio as a medium. Limited to 15 first-year students."
+        ],
+        [
+            "inst",
+            [
+                "A. W. Epstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.361 Majors and Careers Through a Terrascope Lens"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "MIT alumni pursuing sustainability-oriented careers describe ways in which their major and career choices have provided them with the lenses through which they see the problems they work to solve. Students participate in guided reflection, focused on making the discussion relevant to their own personal situations and affinities. Students strengthen their ability to think deeply about their goals, for MIT and for the world beyond, and come into direct contact with alumni who can continue to mentor them through this process. Open to all undergraduates, regardless of Terrascope affiliation."
+        ],
+        [
+            "inst",
+            [
+                "D. McGee",
+                "A. W. Epstein"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "SP.3S50 Special Subject: Terrascope"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers areas of study not included in the regular Terrascope curriculum. Preference to students in Terrascope."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

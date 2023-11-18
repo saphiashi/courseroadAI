@@ -1,0 +1,549 @@
+[
+    "Aerospace Studies (AS)",
+    [
+        "head",
+        "Aerospace Studies"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.101 Heritage and Values of the United States Air Force"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: AS.111"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Survey course designed to introduce students to the United States Air Force. Provides an overview of the basic characteristics, missions, and organizations of the Air Force. "
+        ],
+        [
+            "inst",
+            [
+                "M. Sawyer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.102 Heritage and Values of the United States Air Force"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.101 or permission of instructor; Coreq: AS.112"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Survey course designed to introduce students to the United States Air Force. Provides an overview of the basic characteristics, missions, and organizations of the Air Force. AS.102 is a continuation of AS.101."
+        ],
+        [
+            "inst",
+            [
+                "M. Sawyer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.111 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: AS.101"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "First-year General Military Course. Includes a study of Air Force customs and courtesies, drill and ceremonies, and military commands. Also includes studying the environment of an Air Force officer and learning about areas of opportunity available to commissioned officers, as well as interviews, guidance, and information to increase the understanding, motivation, and performance of other cadets."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.112 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.111 or permission of instructor; Coreq: AS.102"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Includes a study of Air Force customs and courtesies, drill and ceremonies, and military commands. Also includes studying the environment of an Air Force officer and learning about areas of opportunity available to commissioned officers, as well as interviews, guidance, and information to increase the understanding, motivation, and performance of other cadets. AS.112 is a continuation of AS.111."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.201 Team and Leadership Fundamentals"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.102 or permission of instructor; Coreq: AS.211"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on laying the foundation for teams and leadership. Topics center on skills that allow cadets to improve their leadership on a personal level and within a team. Prepares cadets for their field training experience where they have the opportunity to put the concepts covered in to practice. Aims to instill a leadership mindset and motivate sophomore students to transition from AFROTC cadet to AFROTC officer candidate."
+        ],
+        [
+            "inst",
+            [
+                "M. Sawyer "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.202 Team and Leadership Fundamentals"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.201 or permission of instructor; Coreq: AS.212"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on laying the foundation for teams and leadership. Topics center on skills that allow cadets to improve their leadership on a personal level and within a team. Prepares cadets for their field training experience where they have the opportunity to put the concepts covered in to practice. Aims to instill a leadership mindset and motivate sophomore students to transition from AFROTC cadet to AFROTC officer candidate."
+        ],
+        [
+            "inst",
+            [
+                "M. Sawyer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.211 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.112 or permission of instructor; Coreq: AS.201"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Emphasizes development of techniques used to direct and inform. Students are assigned leadership and management positions in the AS.111 programs. AS.212 is a continuation of AS.211."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.212 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.211 or permission of instructor; Coreq: AS.202"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Emphasizes development of techniques used to direct and inform. Students are assigned leadership and management positions in the AS.111 programs described above. AS.212 is a continuation of AS.211."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.301 Leading People and Effective Communication"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.202 or permission of instructor; Coreq: AS.311"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced skills and knowledge in management and leadership, with special emphasis on enhancing cadets' leadership skills and communication. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.302 Leading People and Effective Communication"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.301 or permission of instructor; Coreq: AS.312"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers advanced skills and knowledge in management and leadership, with special emphasis on enhancing cadets' leadership skills and communication. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.311 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.212 or permission of instructor; Coreq: AS.301"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences that involve the planning and controlling of military activities of the cadet corps and the preparation and presentation of briefings and other oral and written communications. Also includes interviews, guidance, and information to increase the understanding, motivation, and performance of other cadets. AS.312 is a continuation of AS.311."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.312 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.311 or permission of instructor; Coreq: AS.302"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences that involve the planning and controlling of military activities of the cadet corps and the preparation and presentation of briefings and other oral and written communications. Also includes interviews, guidance, and information to increase the understanding, motivation, and performance of other cadets. AS.312 is a continuation of AS.311."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.401 National Security Affairs/Preparation for Active Duty"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.302 or permission of instructor; Coreq: AS.411"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed for college seniors, providing them the foundation to understand their role as military officers in American society. Includes an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level."
+        ],
+        [
+            "inst",
+            [
+                "J. Heller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.402 National Security Affairs/Preparation for Active Duty"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.401 or permission of instructor; Coreq: AS.412"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed for college seniors, providing them the foundation to understand their role as military officers in American society. Includes an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. Provides information that prepares cadets for active duty."
+        ],
+        [
+            "inst",
+            [
+                "J. Heller "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.411 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.312 or permission of instructor; Coreq: AS.401"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences that involve the planning and controlling of military activities of the cadet corps, and the preparation and presentation of briefings and other oral and written communications. Also includes interviews, guidance, and information to increase the understanding, motivation, and performance of other cadets. AS.412 is a continuation of AS.411."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.412 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.411 or permission of instructor; Coreq: AS.402"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences that involve the planning and controlling of military activities of the cadet corps, and the preparation and presentation of briefings and other oral and written communications. Also includes interviews, guidance, and information to increase the understanding, motivation, and performance of other cadets. AS.412 is a continuation of AS.411."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.511 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.412 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences to continue developing critical leadership, managerial and communication skills along with maintaining an active, physical lifestyle needed in today's Air Force. AS.512 is a continuation of AS.511."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.512 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.511 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences to continue developing critical leadership, managerial and communication skills along with maintaining an active, physical lifestyle needed in today's Air Force. AS.512 is a continuation of AS.511."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.811 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: AS.411 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of activities classified as advanced leadership experiences to continue developing critical leadership, managerial and communication skills, along with maintaining an active, physical lifestyle needed in today's Air Force."
+        ],
+        [
+            "inst",
+            [
+                "P. Dela Cruz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "AS.812 Leadership Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Cadets develop critical leadership, managerial and communication skills while maintaining an active, physical lifestyle needed in today's Air Force. Consists of activities classified as advanced leadership experiences that involve mentoring the cadet corps, special projects, and event planning."
+        ],
+        [
+            "inst",
+            [
+                "A. Dimitruk"
+            ]
+        ]
+    ]
+]

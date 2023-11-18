@@ -1,0 +1,3536 @@
+[
+    "Biology (Course 7)",
+    [
+        "head",
+        "Undergraduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.012 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Exploration into biochemistry and structural biology, molecular and cell biology, genetics and immunology, and viruses and bacteria. Special topics can include cancer biology, aging, and the human microbiome project. Enrollment limited to seating capacity of classroom. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "C. Drennan",
+                "L. Guarente"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.013 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Genomic approaches to human biology, including neuroscience, development, immunology, tissue repair and stem cells, tissue engineering, and infectious and inherited diseases, including cancer. Enrollment limited to seating capacity of classroom. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.014 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "U (Spring)"
+        ],
+        [
+            "terms",
+            [
+                "5-0-7 units. BIOLOGY"
+            ]
+        ],
+        [
+            "desc",
+            "Studies the fundamental principles of biology and their application towards understanding the Earth as a dynamic system shaped by life. Focuses on environmental life science with an emphasis on biogeochemistry, population genetics, population and community ecology, evolution, and the impact of climate change. Enrollment limited to seating capacity of classroom. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Walker",
+                "D. Des Marais"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.015 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Emphasizes the application of fundamental biological principles to modern, trending topics in biology. Specific modules focus on antibiotic resistance, biotechnology (e.g., genetically-modified organisms and CRISPR-based genome editing), personal genetics and genomics, viruses and vaccines, ancient DNA, and the metabolism of drugs. Includes discussion of the social and ethical issues surrounding modern biology. Limited to 60; admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "M. Laub",
+                "S. Vos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.016 Introductory Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental principles of biochemistry, molecular biology and genetics for understanding the functions of living systems. Covers examples of the use of chemical biology, the use of genetics in biological discovery, principles of cellular organization and communication, immunology, cancer, and engineering biological systems. In addition, includes 21st-century molecular genetics in understanding human health and therapeutic intervention. Enrollment limited to seating capacity of classroom. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "S. Hrvatin",
+                "A. Martin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.00 COVID-19, SARS-CoV-2 and the Pandemic"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures by leading experts on the fundamentals of COVID-19 epidemiology, coronavirus and host cell biology, immunity, vaccine development, clinical disease and therapy. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "R. Young",
+                "F. Batista"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.002 Fundamentals of Experimental Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the experimental concepts and methods of molecular biology. Covers basic principles of experimental design and data analysis, with an emphasis on the acquisition of practical laboratory experience. Satisfies 6 units of Institute Laboratory credit. Satisfies biology laboratory credit for pre-health professions. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "T. Baker",
+                "T. Schwartz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.003[J] Applied Molecular Biology Laboratory"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.7003[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.002\" title=\"7.002\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.002');\">7.002</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory-based exploration of modern experimental molecular biology. Specific experimental system studied may vary from term to term, depending on instructor. Emphasizes concepts of experimental design, data analysis and communication in biology and how these concepts are applied in the biotechnology industry. Satisfies 6 units of Institute Laboratory credit. Enrollment limited; admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "Fall: E. Calo",
+                "H Sikes. Spring: L. Case",
+                "H. Sikes"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.03 Genetics"
+        ],
+        [
+            "prerec",
+            "Prereq: Biology (GIR)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "The principles of genetics with application to the study of biological function at the level of molecules, cells, and multicellular organisms, including humans. Structure and function of genes, chromosomes, and genomes. Biological variation resulting from recombination, mutation, and selection. Population genetics. Use of genetic methods to analyze protein function, gene regulation, and inherited disease."
+        ],
+        [
+            "inst",
+            [
+                "Fall: M. Gehring",
+                "P. Reddien. Spring: O. Corradin",
+                "F. Sánchez-Rivera"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.05 General Biochemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: (Biology (GIR) and 5.12) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Contributions of biochemistry toward an understanding of the structure and functioning of organisms, tissues, and cells. Chemistry and functions of constituents of cells and tissues and the chemical and physical-chemical basis for the structures of nucleic acids, proteins, and carbohydrates. Basic enzymology and biochemical reaction mechanisms involved in macromolecular synthesis and degradation, signaling, transport, and movement. General metabolism of carbohydrates, fats, and nitrogen-containing materials such as amino acids, proteins, and related compounds."
+        ],
+        [
+            "inst",
+            [
+                "A. Ringel",
+                "M. Vander Heiden",
+                "M. Yaffe"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.06 Cell Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.03 and 7.05"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the biology of cells of higher organisms. Studies the structure, function, and biosynthesis of cellular membranes and organelles; cell growth and oncogenic transformation; transport, receptors, and cell signaling; the cytoskeleton, the extracellular matrix, and cell movements; cell division and cell cycle; functions of specialized cell types. Emphasizes the current molecular knowledge of cell biological processes as well as the genetic, biochemical, and other experimental approaches that resulted in these discoveries."
+        ],
+        [
+            "inst",
+            [
+                "Fall:  S. Lourido; Spring: K. Knouse",
+                "R. Lamason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.08[J] Fundamentals of Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.08[J]\nSubject meets with 7.80"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a>, <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a>, and (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.08[J]."
+        ],
+        [
+            "inst",
+            [
+                "B. Imperiali",
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.093 Modern Biostatistics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.573"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a practical introduction to probability and statistics used in modern biology. Topics covered include discrete and continuous probability distributions, statistical modeling, hypothesis testing, independence, conditional probability, multiple test corrections, nonparametric methods, clustering, correlation, linear regression, principal components analysis with applications to high-throughput DNA sequencing, and image data analysis. Homework is in the R programming language, but prior programming experience is not required. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "A. Jain",
+                "H. Wong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.094 Modern Computational Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.574"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces modern methods in computational biology, focusing on DNA/RNA/protein analysis. Topics include next-generation DNA sequencing and sequencing data analysis, RNA-seq (bulk and single-cell), and protein dynamics. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                " A. Jain",
+                "H. Wong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.102 Introduction to Molecular Biology Techniques"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed primarily for first-year students with little or no lab experience. Introduces basic methods of experimental molecular biology. Specific experiments vary from year-to-year, but will focus on the identification and characterization of bacteria and bacteriophages from the wild using an array of basic methods in molecular biology and microbiology. Biology GIR or Chemistry GIR recommended. Satisfies 6 units of Institute Laboratory credit. Limited to 16; admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "A. Martin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.11 Biology Teaching"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For qualified undergraduate students interested in gaining some experience in teaching. Laboratory, tutorial, or classroom teaching under the supervision of a faculty member. Students selected by interview."
+        ],
+        [
+            "inst",
+            [
+                "Consult Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.19 Communication in Experimental Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: (7.06 and (5.362, 7.003[J], or 20.109)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students carry out independent literature research. Journal club discussions are used to help students evaluate and write scientific papers. Instruction and practice in written and oral communication is provided. "
+        ],
+        [
+            "inst",
+            [
+                "Fall: F. Batista",
+                "D. Housman. Spring: C. Kaiser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.20[J] Human Physiology"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.540[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Comprehensive exploration of human physiology, emphasizing the molecular basis and applied aspects of organ function and regulation in health and disease. Includes a review of cell structure and function, as well as the mechanisms by which the endocrine and nervous systems integrate cellular metabolism. Special emphasis on examining the cardiovascular, pulmonary, gastrointestinal, and renal systems, as well as liver function, drug metabolism, and pharmacogenetics."
+        ],
+        [
+            "inst",
+            [
+                "M. Krieger",
+                "O. Yilmaz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.21 Microbial Physiology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.62"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Biochemical properties of bacteria and other microorganisms that enable them to grow under a variety of conditions. Interaction between bacteria and bacteriophages. Genetic and metabolic regulation of enzyme action and enzyme formation. Structure and function of components of the bacterial cell envelope. Protein secretion with a special emphasis on its various roles in pathogenesis. Additional topics include bioenergetics, symbiosis, quorum sensing, global responses to DNA damage, and biofilms. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Walker",
+                "A. J. Sinskey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.23[J] Immunology"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.230[J]\nSubject meets with 7.63[J], 20.630[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Comprehensive survey of molecular, genetic, and cellular aspects of the immune system. Topics include innate and adaptive immunity; cells and organs of the immune system; hematopoiesis; immunoglobulin, T cell receptor, and major histocompatibility complex (MHC) proteins and genes; development and functions of B and T lymphocytes; immune responses to infections and tumors; hypersensitivity, autoimmunity, and immunodeficiencies. Particular attention to the development and function of the immune system as a whole, as studied by modern methods and techniques. Students taking graduate version explore the subject in greater depth, including study of recent primary literature."
+        ],
+        [
+            "inst",
+            [
+                "S. Spranger",
+                "M. Birnbaum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.24 Advanced Concepts in Immunology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.84"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.23\" title=\"7.23[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.23');\">7.23[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a comprehensive and intensified understanding of the relevance of the immune system beyond immunity. Focuses on how the immune system intersects with all aspects of body homeostasis/physiology or disease and how the immune system can be manipulated therapeutically. New advances in the intersection of immunology with cancer biology, neurosciences, metabolism, aging, and maternal-fetal immunology or similar explored. Presents new modern methods and techniques applicable beyond immunology. Includes critical analysis and discussion of assigned readings. Students apply principles learned in class to generate a potential research project, presented in a written form. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Moura Silva",
+                "S. Spranger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.26 Molecular Basis of Infectious Disease"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.66"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the principles of host-pathogen interactions with an emphasis on infectious diseases of humans. Presents key concepts of pathogenesis through the study of various human pathogens. Includes critical analysis and discussion of assigned readings. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "E. Chen",
+                "R. Lamason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.27 Principles of Human Disease and Aging"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers modern approaches to human diseases and aging, emphasizing the molecular and cellular basis of genetic diseases, infectious diseases, aging, and cancer. Topics include the genetics of simple and complex traits; karyotypic analysis and positional cloning; genetic diagnosis; evolutionary determination of aging, genetic and molecular aspects of aging, HIV/AIDs and other infectious diseases; the roles of oncogenes and tumor suppressors; the interaction between genetics and environment; animal models of human disease, cancer, and aging; and treatment strategies for diseases and aging. Includes a paper describing novel treatment options for a specific disease chosen by each student."
+        ],
+        [
+            "inst",
+            [
+                "D. Housman",
+                "Y. Soto-Feliciano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.28 Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.58"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>; <i>Coreq: <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Detailed analysis of the biochemical mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. Topics covered in lecture and readings of relevant literature include: gene regulation, DNA replication, genetic recombination, and mRNA translation. Logic of experimental design and data analysis emphasized. Presentations include both lectures and group discussions of representative papers from the literature. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "S. Bell",
+                "E. Calo",
+                "Y. Soto-Feliciano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.29[J] Cellular and Molecular Neurobiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.09[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> or <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the structure and function of the nervous system. Emphasizes the cellular properties of neurons and other excitable cells. Includes the structure and biophysical properties of excitable cells, synaptic transmission, neurochemistry, neurodevelopment, integration of information in simple systems, and detection and information coding during sensory transduction."
+        ],
+        [
+            "inst",
+            [
+                "T. Littleton",
+                "S. Prescott"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.30[J] Fundamentals of Ecology"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.018[J], 12.031[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 1.018[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Follows",
+                "D. Des Marais"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.31 Current Topics in Mammalian Biology: Medical Implications"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers recent advances in mammalian cell and developmental biology with particular emphasis on approaches that utilize mouse genetics. Combines formal lectures on selected topics with readings of original papers which are discussed in class. Major emphasis on the implications of mechanisms of human genetic diseases. Topics include early mammalian development; genomic imprinting; X inactivation; embryonic stem cells; nuclear reprogramming of somatic cells; cell migration; nervous system development; and central nervous system degenerative diseases such as Alzheimer's and Huntington's disease. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "F. Gertler",
+                "R. Jaenisch"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.32 Systems Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.81[J], 8.591[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> and <a href=\"/search/?P=18.05\" title=\"18.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.05');\">18.05</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to cellular and population-level systems biology with an emphasis on synthetic biology, modeling of genetic networks, cell-cell interactions, and evolutionary dynamics. Cellular systems include genetic switches and oscillators, network motifs, genetic network evolution, and cellular decision-making. Population-level systems include models of pattern formation, cell-cell communications, and evolutionary systems biology. Students taking graduate version explore the subject in more depth."
+        ],
+        [
+            "inst",
+            [
+                "J. Gore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.33[J] Evolutionary Biology: Concepts, Models and Computation"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.4710[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a> and <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores and illustrates how evolution explains biology, with an emphasis on computational model building for analyzing evolutionary data. Covers key concepts of biological evolution, including adaptive evolution, neutral evolution, evolution of sex, genomic conflict, speciation, phylogeny and comparative methods, life's history, coevolution, human evolution, and evolution of disease."
+        ],
+        [
+            "inst",
+            [
+                "R. Berwick",
+                "D. Bartel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.340-7.344 Advanced Undergraduate Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06 or 7.28"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminars covering topics of current interest in biology with a focus on how to understand experimental methods and design and how to critically read the primary research literature. Small class size facilitates discussions and interactions with an active research scientist. Students visit research laboratories to see firsthand how biological research is conducted. Contact Biology Education Office for topics."
+        ],
+        [
+            "inst",
+            [
+                "H. R. Horvitz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.345-7.349 Advanced Undergraduate Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06 or 7.28"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminars covering topics of current interest in biology with a focus on how to understand experimental methods and design and how to critically read the primary research literature. Small class size facilitates discussions and interactions with an active research scientist. Students visit research laboratories to see firsthand how biological research is conducted. Contact Biology Education Office for topics."
+        ],
+        [
+            "inst",
+            [
+                "H. R. Horvitz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.35 Human Genetics and Genomics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.75"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a>, (<a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>), or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Upper-level seminar offering in-depth analysis and engaged discussion of primary literature on the dimensions and phenotypic consequences of variation in human genes, chromosomes, and genomes. Topics include the human genome project; pedigree analysis; mutation and selection; linkage and association studies; medical genetics and disease; sex chromosomes and sex differences; the biology of the germ line; epigenetics, imprinting, and transgenerational inheritance; human origins; and evolutionary and population genetics. Students taking graduate version complete additional assignments. Limited to 20 total for versions meeting together."
+        ],
+        [
+            "inst",
+            [
+                "D. Page"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.37[J] Molecular and Engineering Aspects of Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.441[J], 20.361[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> and (<a href=\"/search/?P=2.005\" title=\"2.005\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.005');\">2.005</a>,  3.012, <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a>, or <a href=\"/search/?P=20.110\" title=\"20.110[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.110');\">20.110[J]</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers biological and bioengineering principles underlying the development and therapeutic use of recombinant proteins and stem cells; glycoengineering of recombinant proteins; normal and pathological signaling by growth factors and their receptors; receptor trafficking; monoclonal antibodies as therapeutics; protein pharmacology and delivery; stem cell-derived tissues as therapeutics; RNA therapeutics; combinatorial protein engineering; and new antitumor drugs."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.371 Biological and Engineering Principles Underlying Novel Biotherapeutics"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers biological and bioengineering principles underlying the development and therapeutic use of recombinant proteins and immune cells. Special attention to monoclonal antibodies and engineered immune system cells as therapeutics; protein- and glyco- engineering to enhance protein function; protein pharmacology and delivery; nucleic acid- based biotherapeutics; generation of functional cells and tissues from embryonic stem cells and iPS cells; and immune cell-cancer cell interactions in cancer immunotherapy."
+        ],
+        [
+            "inst",
+            [
+                "J. Chen",
+                "H. Lodish"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.45 The Hallmarks of Cancer"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.85"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a comprehensive introduction to the fundamentals of cancer biology and cancer treatment. Topics include cancer genetics, genomics, and epigenetics; familial cancer syndromes; signal transduction, cell cycle control, and apoptosis; cancer metabolism; stem cells and cancer; metastasis; cancer immunology and immunotherapy; conventional and molecularly-targeted therapies; and early detection and prevention. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Hemann",
+                "T. Jacks"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.46 Building with Cells"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.86"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on fundamental principles of developmental biology by which cells build organs and organisms. Analyzes the pivotal role of stem cells in tissue maintenance or repair, and in treatment of disease. Explores how to integrate this knowledge with engineering tools to construct functional tissue structures. Students taking graduate version complete additional assignments"
+        ],
+        [
+            "inst",
+            [
+                "L. Boyer",
+                "P. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.458[J] Advances in Biomanufacturing"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.03[J]\nSubject meets with 7.548[J], 10.53[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar examines how biopharmaceuticals, an increasingly important class of pharmaceuticals, are manufactured. Topics range from fundamental bioprocesses to new technologies to the economics of biomanufacturing. Also covers the impact of globalization on regulation and quality approaches as well as supply chain integrity. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love",
+                "A. Sinskey",
+                "S. Springs"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.49[J] Developmental Neurobiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.18[J]\nSubject meets with 7.69[J], 9.181[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Considers molecular control of neural specification, formation of neuronal connections, construction of neural systems, and the contributions of experience to shaping brain structure and function. Topics include: neural induction and pattern formation, cell lineage and fate determination, neuronal migration, axon guidance, synapse formation and stabilization, activity-dependent development and critical periods, development of behavior. Students taking graduate version complete additional readings that will be addressed in their mid-term and final exams."
+        ],
+        [
+            "inst",
+            [
+                "E. Nedivi",
+                "M. Heiman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.390 Practical Internship Experience in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Course 7, 5-7, and 6-7 students participating in curriculum-related off-campus internship experiences in biology. Before enrolling, students must consult the Biology Education Office for details on procedures and restrictions, and have approval from their faculty advisor. Subject to department approval.  Upon completion, the student must submit a write-up of the experience, approved by their faculty advisor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.391 Independent Study in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.392 Independent Study in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.393 Independent Study in Genetics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.394 Independent Study in Biochemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.395 Independent Study in Cell and Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.396 Independent Study in Experimental Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S391 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S392 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S399 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in the Department of Biology."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of department"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in the Department of Biology."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Graduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.410 Applied Statistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to modern applied statistics. Topics include likelihood-based methods for estimation, confidence intervals, and hypothesis-testing; bootstrapping; time series modeling; linear models; nonparametric regression; and model selection. Organized around examples drawn from the recent literature."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.411 Seminars in Biological Oceanography"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Selected topics in biological oceanography."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.421 Problems in Biological Oceanography"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced problems in biological oceanography with assigned reading and consultation."
+        ],
+        [
+            "inst",
+            [
+                "Information: M. Neubert (WHOI)"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.430 Topics in Quantitative Marine Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussions on quantitative marine ecology. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.431 Topics in Marine Ecology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussions on ecological principles and processes in marine populations, communities, and ecosystems. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "M. Neubert"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.432 Topics in Marine Physiology and Biochemistry"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussions on physiological and biochemical processes in marine organisms. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.433 Topics in Biological Oceanography"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussions on biological oceanography. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "S. Laney",
+                "M. Hahn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.434 Topics in Zooplankton Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussions on the biology of marine zooplankton. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.435 Topics in Benthic Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussions on the biology of marine benthos. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.436 Topics in Phytoplankton Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussion on the biology of marine phytoplankton. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.437 Topics in Molecular Biological Oceanography"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussion on molecular biological oceanography. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.438 Topics in the Behavior of Marine Animals"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussion on the behavioral biology of marine animals. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.439 Topics in Marine Microbiology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures and discussion on the biology of marine prokaryotes. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.440 An Introduction to Mathematical Ecology"
+        ],
+        [
+            "prerec",
+            "Prereq: Calculus I (GIR), 1.018[J], or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers the basic models of population growth, demography, population interaction (competition, predation, mutualism), food webs, harvesting, and infectious disease, and the mathematical tools required for their analysis. Because these tools are also basic to the analysis of models in biochemistry, physiology, and behavior, subject also broadly relevant to students whose interests are not limited to ecological problems."
+        ],
+        [
+            "inst",
+            [
+                "M. Neubert (WHOI)"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.470 Biological Oceanography"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Intended for students with advanced training in biology. Intensive overview of biological oceanography. Major paradigms discussed, and dependence of biological processes in the ocean on physical and chemical aspects of the environment examined. Surveys the diversity of marine habitats, major groups of taxa inhabiting those habitats, and the general biology of the various taxa: the production and consumption of organic material in the ocean, as well as factors controlling those processes. Species diversity, structure of marine food webs, and the flow of energy within different marine habitats are detailed and contrasted."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.491 Research in Biological Oceanography"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Directed research in biological oceanography not leading to graduate thesis and initiated prior to the qualifying exam."
+        ],
+        [
+            "inst",
+            [
+                "WHOI Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.492[J] Methods and Problems in Microbiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.86[J], 20.445[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students will read and discuss primary literature covering key areas of microbial research with emphasis on methods and approaches used to understand and manipulate microbes. Preference to first-year Microbiology and Biology students."
+        ],
+        [
+            "inst",
+            [
+                "M. Laub"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.493[J] Microbial Genetics and Evolution"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.87[J], 12.493[J], 20.446[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers aspects of microbial genetic and genomic analyses, central dogma, horizontal gene transfer, and evolution."
+        ],
+        [
+            "inst",
+            [
+                "A. D. Grossman",
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.494 Research Problems in Microbiology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Directed research in the fields of microbial science and engineering."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.498 Teaching Experience in Microbiology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For qualified graduate students in the Microbiology graduate program interested in teaching. Classroom or laboratory teaching under the supervision of a faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.499 Research Rotations in Microbiology"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 7.492[J] or 7.493[J]; permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to faculty participating in the interdepartmental Microbiology graduate program through a series of three lab rotations, which provide broad exposure to microbiology research at MIT. Students select a lab for thesis research by the end of their first year. Given the interdisciplinary nature of the program and the many research programs available, students may be able to work jointly with more than one research supervisor. Limited to students in the Microbiology graduate program."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.MTHG Microbiology Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of a PhD thesis. To be arranged by the student and the appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.50 Method and Logic in Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 7.51 and 7.52; or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Logic, experimental design and methods in biology, using discussions of the primary literature to discern the principles of biological investigation in making discoveries and testing hypotheses. In collaboration with faculty, students also apply those principles to generate a potential research project, presented in both written and oral form. Limited to Course 7 graduate students."
+        ],
+        [
+            "inst",
+            [
+                "I. Cheeseman",
+                "J. Lees",
+                "R. Lehmann",
+                "S. Vos",
+                "J. Weissman",
+                "Y. Yamashita"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.51 Principles of Biochemical Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Principles of biochemistry, emphasizing structure, equilibrium studies, kinetics, informatics, single-molecule studies, and experimental design. Topics include macromolecular binding and specificity, protein folding and unfolding, allosteric systems, transcription factors, kinases, membrane channels and transporters, and molecular machines."
+        ],
+        [
+            "inst",
+            [
+                "L. Case",
+                "A. Keating",
+                "R. T. Sauer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.52 Genetics for Graduate Students"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Principles and approaches of genetic analysis, including Mendelian inheritance and prokaryotic genetics, yeast genetics, developmental genetics, neurogenetics, and human genetics."
+        ],
+        [
+            "inst",
+            [
+                "C. Kaiser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.540[J] Advances in Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.54[J], 20.554[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a>, <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a>, <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a>, and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.54[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Kiessling",
+                "M. Shoulders"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.546[J] Science and Business of Biotechnology"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.480[J], 20.586[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=15.401\" title=\"15.401\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.401');\">15.401</a></i>; permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the new types of drugs and other therapeutics in current practice and under development, the financing and business structures of early-stage biotechnology companies, and the evaluation of their risk/reward profiles. Includes a series of live case studies with industry leaders of both established and emerging biotechnology companies as guest speakers, focusing on the underlying science and engineering as well as core financing and business issues. Students must possess a basic background in cellular and molecular biology."
+        ],
+        [
+            "inst",
+            [
+                "J. Chen",
+                "A. Koehler",
+                "A. Lo",
+                "H. Lodish"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.548[J] Advances in Biomanufacturing"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.53[J]\nSubject meets with 7.458[J], 10.03[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar examines how biopharmaceuticals, an increasingly important class of pharmaceuticals, are manufactured. Topics range from fundamental bioprocesses to new technologies to the economics of biomanufacturing. Also covers the impact of globalization on regulation and quality approaches as well as supply chain integrity. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. C. Love",
+                "A. Sinskey",
+                "S. Springs"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.549[J] Case Studies and Strategies in Drug Discovery and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.137[J], 20.486[J], HST.916[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.486[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. W. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.55 Case Studies in Modern Experimental Design"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on enhancing students' ability to analyze, design and present experiments, emphasizing modern techniques. Class discussions begin with papers that developed or utilized contemporary approaches (e.g., quantitative microscopy, biophysical and molecular genetic methods) to address important problems in biology. Each student prepares one specific aim of a standard research proposal for a project that emphasizes research strategy, experimental design, and writing."
+        ],
+        [
+            "inst",
+            [
+                "L. Guarente",
+                "A. Ringel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.571 Quantitative Analysis of Biological Data"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Application of probability theory and statistical methods to analyze biological data. Topics include: descriptive and inferential statistics, an introduction to Bayesian statistics, design of quantitative experiments, and methods to analyze high-dimensional datasets. A <em>conceptual</em> understanding of topics is emphasized, and methods are illustrated using the Python programming language. Although a basic understanding of Python is encouraged, no programming experience is required. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "J. Davis "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.572 Quantitative Measurements and Modeling of Biological Systems"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Quantitative experimental design, data analysis, and modeling for biological systems. Topics include absolute/relative quantification, noise and reproducibility, regression and correlation, and modeling of population growth, gene expression, cellular dynamics, feedback regulation, oscillation. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "G. W. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.573 Modern Biostatistics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.093"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a practical introduction to probability and statistics used in modern biology. Topics covered include discrete and continuous probability distributions, statistical modeling, hypothesis testing, independence, conditional probability, multiple test corrections, nonparametric methods, clustering, correlation, linear regression, principal components analysis with applications to high-throughput DNA sequencing and image data analysis. Homework is in the R programming language, but prior programming experience is not required. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "A. Jain",
+                "H. Wong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.574 Modern Computational Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.094"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces modern methods in computational biology, focusing on DNA/RNA/protein analysis. Topics include next-generation DNA sequencing and sequencing data analysis, RNA-seq (bulk and single-cell), and protein dynamics. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "A",
+                "Jain",
+                "H. Wong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.58 Molecular Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.28"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Detailed analysis of the biochemical mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. Topics covered in lecture and readings of relevant literature include: gene regulation, DNA replication, genetic recombination, and mRNA translation. Logic of experimental design and data analysis emphasized. Presentations include both lectures and group discussions of representative papers from the literature. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "S. Bell",
+                "E. Calo",
+                "Y. Soto-Feliciano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.59[J] Teaching College-Level Science and Engineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.95[J], 5.95[J], 8.395[J], 18.094[J]\nSubject meets with 2.978"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.95[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Rankin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.60 Cell Biology: Structure and Functions of the Nucleus"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.06 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Eukaryotic genome structure, function, and expression, processing of RNA, and regulation of the cell cycle. Emphasis on the techniques and logic used to address important problems in nuclear cell biology. Lectures on broad topic areas in nuclear cell biology and discussions on representative recent papers."
+        ],
+        [
+            "inst",
+            [
+                "L. Boyer",
+                "R. Young"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.61[J] Eukaryotic Cell Biology: Principles and Practice"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.561[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Emphasizes methods and logic used to analyze structure and function of eukaryotic cells in diverse systems (e.g., yeast, fly, worm, mouse, human; development, stem cells, neurons). Combines lectures and in-depth roundtable discussions of literature readings with the active participation of faculty experts. Focuses on membranes (structure, function, traffic), organelles, the cell surface, signal transduction, cytoskeleton, cell motility and extracellular matrix. Ranges from basic studies to applications to human disease, while stressing critical analysis of experimental approaches. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Krieger",
+                "M. Yaffe"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.62 Microbial Physiology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.21"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Biochemical properties of bacteria and other microorganisms that enable them to grow under a variety of conditions. Interaction between bacteria and bacteriophages. Genetic and metabolic regulation of enzyme action and enzyme formation. Structure and function of components of the bacterial cell envelope. Protein secretion with a special emphasis on its various roles in pathogenesis. Additional topics include bioenergetics, symbiosis, quorum sensing, global responses to DNA damage, and biofilms. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "G. C. Walker",
+                "A. J. Sinskey"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.63[J] Immunology"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.630[J]\nSubject meets with 7.23[J], 20.230[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Comprehensive survey of molecular, genetic, and cellular aspects of the immune system. Topics include innate and adaptive immunity; cells and organs of the immune system; hematopoiesis; immunoglobulin, T cell receptor, and major histocompatibility complex (MHC) proteins and genes; development and functions of B and T lymphocytes; immune responses to infections and tumors; hypersensitivity, autoimmunity, and immunodeficiencies. Particular attention to the development and function of the immune system as a whole, as studied by modern methods and techniques. Students taking graduate version explore the subject in greater depth, including study of recent primary literature."
+        ],
+        [
+            "inst",
+            [
+                "S. Spranger",
+                "M. Birnbaum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.64 Molecular Mechanisms, Pathology and Therapy of Human Neuromuscular Disorders"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates the molecular and clinical basis of central nervous system and neuromuscular disorders with particular emphasis on strategies for therapeutic intervention. Considers the in-depth analysis of clinical features, pathological mechanisms, and responses to current therapeutic interventions. Covers neurodegenerative diseases, such as Huntington's disease, Parkinson's disease, Alzheimer's disease, Amyotropic Lateral Schlerosis, Frontal Temporal Dementia, and neuromuscular disorders, such as Myotonic Dystrophy, Facio Scapular Humoral Dystrophy, and Duchenne Muscular Dystrophy."
+        ],
+        [
+            "inst",
+            [
+                "D. Housman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.65[J] Molecular and Cellular Neuroscience Core I"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.015[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.015[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. T. Littleton",
+                "M. Sheng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.66 Molecular Basis of Infectious Disease"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.26"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a> and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the principles of host-pathogen interactions with an emphasis on infectious diseases of humans. Presents key concepts of pathogenesis through the study of various human pathogens. Includes critical analysis and discussion of assigned readings. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "E. Chen",
+                "R. Lamason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.68[J] Molecular and Cellular Neuroscience Core II"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.013[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.013[J]."
+        ],
+        [
+            "inst",
+            [
+                "G. Feng",
+                "L.-H. Tsai"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.69[J] Developmental Neurobiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.181[J]\nSubject meets with 7.49[J], 9.18[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.011\" title=\"9.011\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.011');\">9.011</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.181[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Nedivi",
+                "M. Heiman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.70 Regulation of Gene Expression"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar examines basic principles of biological regulation of gene expression. Focuses on examples that underpin these principles, as well as those that challenge certain long-held views. Topics covered may include the role of transcription factors, enhancers, DNA modifications, non-coding RNAs, and chromatin structure in the regulation of gene expression and mechanisms for epigenetic inheritance of transcriptional states. Limited to 40."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.71 Biophysical Technique"
+        ],
+        [
+            "prerec",
+            "Subject meets with 5.78"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a>, <a href=\"/search/?P=5.60\" title=\"5.60\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.60');\">5.60</a>, (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>), and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to modern biophysical methods to study biological systems from atomic, to molecular and cellular scales. Includes an in-depth discussion on the techniques that cover the full resolution range, including X-ray crystallography, electron-, and light microscopy. Discusses other common biophysical techniques for macromolecular characterizations. Lectures cover theoretical principles behind the techniques, and students are given practical laboratory exercises using instrumentation available at MIT. Meets with 5.78 when offered concurrently. "
+        ],
+        [
+            "inst",
+            [
+                "C. Drennan",
+                "T. Schwartz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.72 Stem Cells, Regeneration, and Development"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics include diverse stem cells, such as muscle, intestine, skin, hair and hematopoietic stem cells, as well as pluripotent stem cells. Topics address cell polarity and cell fate; positional information and patterning of development and regeneration; limb, heart and whole body regeneration; stem cell renewal; progenitor cells in development; responses to wounding; and applications of stem cells in development of therapies. Discussions of papers supplement lectures."
+        ],
+        [
+            "inst",
+            [
+                "R. Jaenisch",
+                "P. Reddien"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.73 Principles of Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.05 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Spanning the fields of biology, chemistry and engineering, class addresses the principles of chemical biology and its application of chemical and physical methods and reagents to the study and manipulation of biological systems. Topics include bioorthogonal reactions and activity-based protein profiling, small molecule inhibitors and chemical genetics, fluorescent probes for biological studies, and unnatural amino acid mutagenesis. Also covers chemical biology approaches for studying dynamic post-translational modification reactions, natural product biosynthesis and mutasynthesis, and high-throughput drug screening. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "B. Imperiali",
+                "J. K. Weng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.74[J] Topics in Biophysics and Physical Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.590[J], 20.416[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides broad exposure to research in biophysics and physical biology, with emphasis on the critical evaluation of scientific literature. Weekly meetings include in-depth discussion of scientific literature led by distinct faculty on active research topics. Each session also includes brief discussion of non-research topics including effective presentation skills, writing papers and fellowship proposals, choosing scientific and technical research topics, time management, and scientific ethics."
+        ],
+        [
+            "inst",
+            [
+                "J. Gore",
+                "N. Fakhri"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.75 Human Genetics and Genomics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.35"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.52\" title=\"7.52\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.52');\">7.52</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Upper level seminar offering in-depth analysis and engaged discussion of primary literature on the dimensions and phenotypic consequences of variation in human genes, chromosomes, and genomes.  Topics include the human genome project; pedigree analysis; mutation and selection; linkage and association studies; medical genetics and disease; sex chromosomes and sex differences; the biology of the germ line; epigenetics, imprinting, and transgenerational inheritance; human origins; and evolutionary and population genetics. Students taking graduate version complete additional assignments. Limited to 20 total for versions meeting together."
+        ],
+        [
+            "inst",
+            [
+                "D. Page"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.76 Topics in Macromolecular Structure and Function"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth analysis and discussion of classic and current literature, with an emphasis on the structure, function, and mechanisms of proteins and other biological macromolecules."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.77 Nucleic Acids, Structure, Function, Evolution, and Their Interactions with Proteins"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.05, 7.51, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys primary literature, focusing on biochemical, biophysical, genetic, and combinatorial approaches for understanding nucleic acids. Topics include the general properties, functions, and structural motifs of DNA and RNA; RNAs as catalysts and as regulators of gene expression; RNA editing and surveillance, and the interaction of nucleic acids with proteins, such as zinc-finger proteins, modification enzymes, aminoacyl-tRNA synthetases and other proteins of the translational machinery. Includes some lectures but is mostly analysis and discussion of current literature in the context of student presentations."
+        ],
+        [
+            "inst",
+            [
+                "D. Bartel",
+                "A. Jain"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.80 Fundamentals of Chemical Biology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 5.08[J], 7.08[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=5.13\" title=\"5.13\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.13');\">5.13</a> and (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Spanning the fields of biology, chemistry, and engineering, this class introduces students to the principles of chemical biology and the application of chemical and physical methods and reagents to the study and manipulation of biological systems. Topics include nucleic acid structure, recognition, and manipulation; protein folding and stability, and proteostasis; bioorthogonal reactions and activity-based protein profiling; chemical genetics and small-molecule inhibitor screening; fluorescent probes for biological analysis and imaging; and unnatural amino acid mutagenesis. The class will also discuss the logic of dynamic post-translational modification reactions with an emphasis on chemical biology approaches for studying complex processes including glycosylation, phosphorylation, and lipidation. Students taking the graduate version are expected to explore the subject in greater depth."
+        ],
+        [
+            "inst",
+            [
+                "B. Imperiali",
+                "R. Raines"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.81[J] Systems Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as 8.591[J]\nSubject meets with 7.32"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a> and <a href=\"/search/?P=18.05\" title=\"18.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.05');\">18.05</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.591[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Gore"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.82 Development, Disease and Therapeutics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar covering the key concepts and technological approaches that are used to study and treat human disease. Topics include human genome variation, germline editing, gene therapy, stem cell derived organoids, human-animal chimeras and the application of these approaches to the study and treatment of major diseases."
+        ],
+        [
+            "inst",
+            [
+                "R. Jaenisch",
+                "R. Young"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.84 Advanced Concepts in Immunology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.24"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=7.63\" title=\"7.63[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.63');\">7.63[J]</a></i>; or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a comprehensive and intensified understanding of the relevance of the immune system beyond immunity. Focuses on how the immune system intersects with all aspects of body homeostasis/physiology or disease and how the immune system can be manipulated therapeutically. New advances in the intersection of immunology with cancer biology, neurosciences, metabolism, aging, and maternal-fetal immunology or similar explored. Presents new modern methods and techniques applicable beyond immunology. Includes critical analysis and discussion of assigned readings. Students apply principles learned in class to generate a potential research project, presented in a written form. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Moura Silva",
+                "S. Spranger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.85 The Hallmarks of Cancer"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.45"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=7.06\" title=\"7.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.06');\">7.06</a></i>; permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a comprehensive introduction to the fundamentals of cancer biology and cancer treatment. Topics include cancer genetics, genomics, and epigenetics; familial cancer syndromes; signal transduction, cell cycle control, and apoptosis; cancer metabolism; stem cells and cancer; metastasis; cancer immunology and immunotherapy; conventional and molecularly-targeted therapies; and early detection and prevention. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Hemann",
+                "T. Jacks"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.86 Building with Cells"
+        ],
+        [
+            "prerec",
+            "Subject meets with 7.46"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a> and <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on fundamental principles of developmental biology by which cells build organs and organisms. Analyzes the pivotal role of stem cells in tissue maintenance or repair, and in treatment of disease. Explores how to integrate this knowledge with engineering tools to construct functional tissue structures. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Boyer",
+                "P. Li"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.88[J] Protein Folding in Health and Disease"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.48[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=5.07\" title=\"5.07[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '5.07');\">5.07[J]</a> or <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>) and permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 5.48[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. Shoulders"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.89[J] Topics in Computational and Systems Biology"
+        ],
+        [
+            "prerec",
+            "Same subject as CSB.100[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject CSB.100[J]. Preference to first-year CSB PhD students."
+        ],
+        [
+            "inst",
+            [
+                "C. Burge"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.930[J] Research Experience in Biopharma"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.930[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 20.930[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. Clarke"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.931 Independent Study in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.932 Independent Study in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of study or research to be arranged with a department faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.933 Research Rotations in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to faculty participating in the Biology graduate program through a series of lab rotations, which provide broad exposure to biology research at MIT. Students select a lab for thesis research by the end of their first year. Limited to students in the Biology graduate program."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.934 Teaching Experience in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For qualified graduate students in the Biology graduate program interested in teaching. Classroom or laboratory teaching under the supervision of a faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.935 Responsible Conduct in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Sessions focus on the responsible conduct of science. Considers recordkeeping and reporting; roles of mentor and mentee; authorship, review, and confidentiality; resolving conflicts; misfeasance and malfeasance; collaborations, competing interests, and intellectual property; and proper practices in the use of animal and human subjects. Limited to second-year graduate students in Biology."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.936 Professional Development in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Required for course 7 doctoral students to gain professional perspective in career development activities such as internships, scientific meetings, and career and networking events. Written report required upon completion of activities."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.941 Research Problems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Directed research in a field of biological science, but not contributory to graduate thesis."
+        ],
+        [
+            "inst",
+            [
+                "Consult Biology Education Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.942 Research Problems"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Directed research in a field of biological science, but not contributory to graduate thesis."
+        ],
+        [
+            "inst",
+            [
+                "Consult Biology Education Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.95 Cancer Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.85 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced seminar involving intensive analysis of historical and current developments in cancer biology. Topics address principles of apoptosis, principles of cancer biology, cancer genetics, cancer cell metabolism, tumor immunology, and therapy. Detailed analysis of research literature, including important reports published in recent years. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. Weinberg",
+                "O. Yilmaz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.98[J] Neural Plasticity in Learning and Memory"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.301[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.301[J]. Juniors and seniors require instructor's permission."
+        ],
+        [
+            "inst",
+            [
+                "S. Tonegawa"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S930 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S931 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S932 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.S939 Special Subject in Biology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers material in various fields of biology not offered by the regular subjects of instruction."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "7.THG Graduate Biology Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of a Ph.D. thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

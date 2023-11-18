@@ -1,0 +1,3571 @@
+[
+    "History (Course 21H)",
+    [
+        "head",
+        "Introductory"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.000 The History of Now"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Exposes students to the study of history for a deeper understanding of the past, the present and the future by exploring current events in a historical perspective. Features guest lectures from experts inside and outside MIT. Subject can count toward the 6-unit discovery-focused credit limit for first-year students; preference to first-year students."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.001 How to Stage a Revolution"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores fundamental questions about the causes and nature of revolutions by looking at how people overthrow their rulers and establish new governments. Considers a set of major political transformations throughout the world and across centuries to understand the meaning of revolution and evaluate its impact. Examines how revolutionaries have attempted to establish their ideals and realize their goals. Asks whether radical upheavals require bloodshed, violence, or even terror. Seeks to explain why some revolutions succeed and others fail. Materials include the writings of revolutionaries, declarations and constitutions, music, films, art, novels, memoirs, and newspapers."
+        ],
+        [
+            "inst",
+            [
+                "P. Alimagham",
+                "T. Padilla",
+                "J. Ravel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.007[J] Introduction to Ancient and Medieval Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.014[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the fascinating history, culture, and society of the ancient and medieval worlds and the different methodologies scholars use to interpret them. Wrestles with big questions about the diversity of life and thought in pre-modern societies, the best ways to study the distant past, and the nature (and limitations) of knowledge about long-ago eras. Considers a wide range of scholarly subjects such as the rise and fall of the Roman empire, the triumph of Christianity and Islam, barbarian invasions and holy wars, courts and castles, philosophy and religion, and the diversity of art, literature, and politics. Ponders different types of evidence, reads across a variety of disciplines, and develops skills to identify continuities and changes in ancient and medieval societies."
+        ],
+        [
+            "inst",
+            [
+                "S. Frampton",
+                "E. Goldberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.009 World History and Its Fault Lines Since 1800"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how the world, as we know it today, came to be. Examines what it means to be modern and the consequences of modernity on people's everyday lives. Introduces real and perceived changes that made the world recognizably \"modern.\" Surveys the rise of empires, nation-states, industrialized economies, mass consumption, popular culture, and political ideas and movements, and studies how they resulted in new, often contested, dynamics of racial, class, religious, gendered, and political identity. Instruction provided in how the evolving relationships of people with political, social, and economic structures produced a world that is highly interconnected and, at the same time, divided along different fault lines."
+        ],
+        [
+            "inst",
+            [
+                "S. Aiyar",
+                "H. Nagahara"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.061 The History of American Presidential Elections"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the main themes and topics in the history of presidential elections from 1788 to the present. Explores structures of the US executive branch, the primary, convention, and election systems, and the Electoral College. Students examine academic debates in history and other social sciences, and write short papers on historical and contemporary topics. Meets with 21H.203 when offered concurrently. 21H.061 is offered only in an election year (not for HASS credit) and covers the first half of the course, leading up to election day."
+        ],
+        [
+            "inst",
+            [
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.090 Digital Humanities Laboratory (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.100A"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Combines research in HASS fields with computational methods of analysis, data collection, and presentation. Rotates to a different research project within SHASS each offering and meets with a research seminar taught by the PI of that project. Students work in teams to produce original computational research within the existing project, in collaboration with the research staff of the Programs in Digital Humanities. Leverage techniques from a wide range of practices including natural language processing, computer vision, machine learning, and web development. Repeatable for credit with permission of instructor. Limited to 25."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.101 American History to 1865"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "A basic history of American social, economic, and political development from the colonial period through the Civil War. Examines the colonial heritages of Spanish and British America; the American Revolution and its impact; the establishment and growth of the new nation; and the Civil War, its background, character, and impact. Readings include writings of the period by Winthrop, Paine, Jefferson, Madison, W. H. Garrison, G. Fitzhugh, H. B. Stowe, and Lincoln."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.102 American History since 1865"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the social, cultural, political, and economic history of the United States, from the Civil War to the present. Uses secondary analysis and primary documents, such as court cases, personal accounts, photographs, and films, to examine some of the key issues in the shaping of modern America, including industrialization and urbanization, immigration, the rise of a mass consumer society, the emergence of the US as a global power, and the development of civil rights activism and other major social movements."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.106[J] Black Matters: Introduction to Black Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as 24.912[J], 21L.008[J], 21W.741[J], CMS.150[J], WGS.190[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 24.912[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.107[J] Asian American History: 1865 to 1965"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.043[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.043[J]."
+        ],
+        [
+            "inst",
+            [
+                "Consult E. Teng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.108[J] Sexual and Gender Identities in the Modern United States"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.110[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject WGS.110[J]."
+        ],
+        [
+            "inst",
+            [
+                "C. Horan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.109[J] Gender: Historical Perspectives"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.303[J]\nSubject meets with 21H.983[J], WGS.310[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the definition of gender in scientific, societal, and historical contexts. Explores how gender influences state formation and the work of the state, what role gender plays in imperialism and in the welfare state, the ever-present relationship between gender and war, and different states' regulation of the body in gendered ways at different times. Investigates new directions in the study of gender as historians, anthropologists and others have taken on this fascinating set of problems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu",
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.130 The Ancient World: Greece"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "History of Ancient Greece from the Bronze Age to the death of Alexander. Major social, economic, political, and religious trends. Homer, heroism, and the Greek identity; the hoplite revolution and the rise of the city-state; Herodotus, Persia, and the (re)birth of history; Empire, Thucydidean rationalism, and the Peloponnesian War; Aristotle, Macedonia, and Hellenism. Emphasis on use of primary sources in translation."
+        ],
+        [
+            "inst",
+            [
+                "A. Forte"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.132 The Ancient World: Rome"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "History of Rome from its humble beginnings to the 5th century A.D. First half: Kingship to Republican form; the conquest of Italy; Roman expansion: Pyrrhus, Punic Wars and provinces; classes, courts, and the Roman revolution; Augustus and the formation of empire. Second half: Virgil to the Vandals; major social, economic, political and religious trends at Rome and in the provinces. Emphasis on use of primary sources in translation. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "W. Broadhead"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.133 The Medieval World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates the dynamic history of Europe and the wider world between the late Roman empire and voyages of discovery. Examines the rise of Christianity, the cult of the saints, and monasticism; the decline of the Roman empire, the barbarian invasions, and the foundation of post-Roman kingdoms; the meteoric rise of Islam; the formation of the Carolingian, Byzantine, and Islamic empires; the Vikings and Mongols; castles, knights, and crusades; religious thinkers, reformers, and heretics; changes in art, architecture, and literature; the Black Death and the fall of Constantinople; the Italian Renaissance and the voyages of discovery."
+        ],
+        [
+            "inst",
+            [
+                "E. Goldberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.134[J] Medieval Economic History in Comparative Perspective"
+        ],
+        [
+            "prerec",
+            "Same subject as 14.70[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the foundations of material life and changing social and economic conditions in medieval Europe in their broader Eurasian context. Covers the gradual disintegration of the Roman imperial order, the emergence and decline of feudal institutions, the transformation of peasant agriculture, living standards and the impact of climate and disease environments, and the ebb and flow of long-distance trade across the Eurasian system. Particular emphasis on the study of those factors, both institutional and technological, which contributed to the emergence of capitalist organization and economic growth in western Europe in comparison to the trajectories followed by the other major medieval economies."
+        ],
+        [
+            "inst",
+            [
+                "A. McCants"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.141 Renaissance to Revolution: Europe, 1300-1800"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to major political, social, cultural and intellectual changes in Europe from the beginnings of the Renaissance in Italy around 1300 to the outbreak of the French Revolution at the end of the 1700s. Focuses on the porous boundaries between categories of theology, magic and science. Examines how developments in these areas altered European political institutions, social structures, and cultural practices. Studies men and women, nobles and commoners, as well as Europeans and some non-Europeans with whom they came into contact."
+        ],
+        [
+            "inst",
+            [
+                "V. Pugliano"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.143[J] The \"Making\" of Modern Europe: 1789-Present"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.056[J]\nSubject meets with 21G.356"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of European history from 1789 to the present. Explores how the ideas of \"European\" and \"modern\" have been defined over time. Explores major events and the evolution of major tensions and issues that consumed Europe and Europeans through the period, including questions of identity, inclusion/exclusion, religion, and equality. Places major emphasis on the fiction, visual culture, and films of the century as the products and evidence of political, social and cultural change. Taught in English."
+        ],
+        [
+            "inst",
+            [
+                "C. Clark"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.144[J] Introduction to Russian Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.087[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.087[J]. Limited to 25."
+        ],
+        [
+            "inst",
+            [
+                "E. Wood",
+                "M. Khotimsky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.145[J] French Photography"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.674[J], 21G.049[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to the world of French photography from its invention in the 1820s to the present. Provides exposure to major photographers and images of the French tradition and encourages students to explore the social and cultural roles and meanings of photographs. Designed to help students navigate their own photo-saturated worlds; provides opportunity to gain practical experience in photography. Taught in English. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Clark"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.151 Dynastic China"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the first dynasty to 1800. Traces the rise of the world's first centralized bureaucratic state, the development of the world's oldest living written culture, and the formation of the pre-modern world's largest single commercial market. Studies women and men as they founded dynasties, engaged in philosophy, challenged orthodoxies, and invented technologies used around the globe. Explores China's past to understand the country's present, and reflects on what its stories mean for the global world."
+        ],
+        [
+            "inst",
+            [
+                "T. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.152 Modern China"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Discusses China's emergence as a global power, which has arisen out of two centuries of significant change. Explores those transformations from 1800 to the present by examining the advent of foreign imperialism in the nineteenth century, the collapse of the last imperial dynasty in 1911, China's debilitating war against Japan, the communist revolution, and the tumultuous history of the People's Republic of China from 1949. Addresses the historical transformations that have shaped contemporary Chinese politics, ethnicity, gender, environment, economics, and international relations."
+        ],
+        [
+            "inst",
+            [
+                "T. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.154 Inventing the Samurai"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21G.554"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the historical origins of the Japanese warrior class as well as its reinvention throughout the archipelago's history. Special focus on the pre-modern era (200-1600 CE). Highlights key historical contexts including the rise of the imperial court, interactions with the broader world, and the establishment of a warrior-dominated state. Also considers the modern imaginations and uses of the warrior figure."
+        ],
+        [
+            "inst",
+            [
+                "H. Nagahara"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.155 Modern Japan: 1600 to Present"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21G.555"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys Japanese history from the establishment of the Tokugawa shogunate in 1603 to the present and explores the local and global nature of modernity in Japan. Highlights key themes, including the emergence of a modern nation-state, the rise and fall of the Japanese Empire, the development of mass consumer culture and the middle class, and the continued importance of historical memory in Japan today."
+        ],
+        [
+            "inst",
+            [
+                "H. Nagahara"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.156[J] Global Chinese Food: A Historical Overview"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.045[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.045[J]. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "E. Teng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.157 Modern South Asia"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the political, social, and economic history of South Asia from the 18th century to the present day. Topics include colonial rule; anti-colonial movements; nationalism and the creation of modern India, Pakistan, and Bangladesh; the post-colonial nation state; social movements; religious identity; involvement of the United States in the region; and economic development. Students develop an understanding of the current successes, failures, and challenges facing the people and states of contemporary South Asia from a historical perspective."
+        ],
+        [
+            "inst",
+            [
+                "S. Aiyar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.160 Islam, the Middle East, and the West"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides students with an overview of basic themes and issues in Middle Eastern history from the rise of Islam to the present, with an emphasis on exchanges and encounters between the Middle East and Europe/North America. Examines the history of the notion of \"East\" and \"West;\" the emergence of Islam and the Christianization of Europe; Ottoman expansion; the flourishing of European powers; European competition with and colonization of Middle Eastern societies, and Middle Eastern responses, including Arab and Iranian nationalisms as well as the rise of Political Islam, the \"Clash of Civilizations\", and Islamophobia."
+        ],
+        [
+            "inst",
+            [
+                "P. Alimagham"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.161 The Modern Middle East"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the history of the Middle East, from the end of the 19th century to the present. Examines major political, social, intellectual and cultural issues and practices. Focuses on important events, movements, and ideas that prevailed during the last century and affect its current realities. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "P. Alimagham"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.165 A Survey of Modern African History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the history of 19th- and 20th-century Africa. Focuses on the European conquest of Africa and the dynamics of colonial rule, especially its socioeconomic and cultural consequences. Looks at how the rising tide of African nationalism, in the form of labor strikes and guerrilla wars, ushered out colonialism. Examines the postcolonial states, focusing on the politics of development, recent civil wars in countries like Rwanda and Liberia, the AIDS epidemic, and the history of Apartheid in South Africa up to 1994."
+        ],
+        [
+            "inst",
+            [
+                "K. Mutongi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.170[J] Introduction to Latin American Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.55[J], 21A.130[J], 21G.084[J]\nSubject meets with 21G.784"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.55[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. Padilla",
+                "P. Duong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.172[J] Latin America Through Film"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.078[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Traces Latin American history through film and analyzes how this medium represents events in the recent and distant past. Weekly movies provide a window through which to analyze themes such as colonialism, national formation, revolution, gender, race relations, popular mobilizations and counterinsurgency. Examines films for how they represent a particular group or country, the reality they capture or obscure, and the message they convey."
+        ],
+        [
+            "inst",
+            [
+                "T. Padilla"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.173 Socialism in Latin America, from Che Guevara to Hugo Chávez"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores various socialist projects in the Americas. Studies how Latin America's poor have supported socialism as an alternative to capitalist exploitation, as a strategy to break colonial vestiges, and an anti-imperialist ideology. Focuses on various case studies to address the meaning of socialism, how governments have implemented socialism and who has fought against it. Explores how socialism has attempted to address women's rights and combat racism, and how socialist projects have extended beyond national borders."
+        ],
+        [
+            "inst",
+            [
+                "T. Padilla"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.181[J] Libertarianism"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.035[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the history of the ideal of individual liberty in light of contemporary arguments over the proper scope of the regulatory state. Surveys the political theory of freedom and its relationship to other dominant norms (e.g., property, equality, community, republicanism, innovation, and the pursuit of wealth). Revisits the diversity of modern libertarian movements with attention to issues such as abolitionism and the Civil Rights revolution, religious liberty, the right to bear arms, and LGBTQ rights. Concludes with a set of policy and legal/constitutional debates about the role of government in regulating the financial markets, artificial intelligence, and/or the internet."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.185[J] Environment and History"
+        ],
+        [
+            "prerec",
+            "Same subject as 12.386[J], STS.031[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focusing on the period from 1500 to the present, explores the influence of climate, topography, plants, animals, and microorganisms on human history and the reciprocal influence of people on the environment. Topics include the European encounter with the Americas, the impact of modern technology, and the current environmental crisis. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Brown",
+                "S. Solomon"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.186 Nature and Environment in China"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the late imperial period with forays into the modern area. Explores how Chinese states and people related to and shaped their environments, which, in turn, shaped China. Considers the degree to which China's long environmental history has integrated with global trends and ponders the historical experiences and precedents we bring to today's environmental challenges. Explores the diverse ways in which scholars study China's environmental history and conceptions of nature, including the use of digital humanities tools for visualizing data and analyzing geography."
+        ],
+        [
+            "inst",
+            [
+                "T. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.187 US Environmental Governance: from National Parks to the Green New Deal"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the interwoven threads of politics, economics, and the environment in the 20th century.  Examines topics such as preservation, conservation, national park creation, federal projects, infrastructure, economic growth, hydrocarbon society, international development, nuclear power, consumer rights, public health crises, environmentalism, Earth Day, globalization, sustainability, and climate change.  Studies how politics, economics, and environment converged in modern U.S. history, the \"Green New Deal\" and how its role promoting economic growth conflicts with its commitments to environmental management, and the emergence of the environmental movement."
+        ],
+        [
+            "inst",
+            [
+                "M. Black"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Intermediate"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.201 The American Revolution"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "English and American backgrounds of the Revolution; issues and arguments in the Anglo-American conflict; colonial resistance and the beginnings of republicanism; the Revolutionary War; constitution writing for the states and nation; and effects of the American Revolution. Concerned primarily with the revolutionary origins of American government and laws. Readings emphasize documents from the period--pamphlets, correspondence, the minutes or resolutions of resistance organizations, constitutional documents and debates."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.203 The History of American Presidential Elections"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the main themes and topics in the history of presidential elections from 1788 to the present. Explores structures of the US executive branch, the primary, convention, and election systems, and the Electoral College. Students examine academic debates in history and other social sciences, and undertake a research project based on a past election of their choosing. Meets with 21H.061 when offered concurrently. 21H.061 is offered only in an election year (not for HASS credit) and covers the first half of the course, leading up to election day."
+        ],
+        [
+            "inst",
+            [
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.205[J] The Civil War and the Emergence of Modern America: 1861-1890"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.027[J]\nSubject meets with STS.427"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject STS.027[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. R. Smith"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.211 The United States in the Cold War Era"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the culture that developed in the US during the early years of the Cold War, at the dawn of the nuclear age. Topics include new family structures and civil defense strategies that emerged in response to the promise and perils of nuclear power; the role of anxiety and insecurity in transforming American politics and psychology; the development of computing technology and the changes it brought to American workspaces; the social impacts of space exploration, suburbanization, and the construction of highways and shopping malls; and new models used by social scientists and other experts to predict human behavior and the future."
+        ],
+        [
+            "inst",
+            [
+                "C. Horan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.213[J] The War at Home: American Politics and Society in Wartime"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.28[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.28[J]."
+        ],
+        [
+            "inst",
+            [
+                "A. Berinsky",
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.214 War and American Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines how issues of war and national security have affected politics, economics, and society from the First World War to the war in Iraq. Draws on historical evidence as well as representations in film, music and popular culture."
+        ],
+        [
+            "inst",
+            [
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.217[J] American Urban History"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.013[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.013[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Glenn "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.218[J] History of the Built Environment in the US"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.014[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 11.014[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. M. Fogelson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.220[J] Metropolis: A Comparative History of New York City"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.150[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the evolution of New York City from 1607 to the present. Readings focus on the city's social and physical histories. Discussions compare New York's development to patterns in other cities."
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.226[J] Riots, Strikes, and Conspiracies in American History"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.015[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on a series of short, complicated, traumatic events that shed light on American politics, culture, and society. Events studied may include the rendition of Anthony Burns in 1854, the most famous fugitive slave controversy in US history; the Homestead strike/lockout of 1892; the quiz show scandal of the 1950s; and the student uprisings at Columbia University in 1968. Emphasis on finding ways to make sense of these events and on using them to understand larger processes of change in American history."
+        ],
+        [
+            "inst",
+            [
+                "A. Pope"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.227 History of the US Supreme Court"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Exploration of the historical development of constitutional law and the relationship between the Supreme Court and broader social, political, and cultural trends. Introduces major themes and patterns of change in American constitutional law since 1787, including federal-state relations, racial and gender equality, economic regulation, and civil liberties. Readings consist of original court cases, especially from the US Supreme Court, including cases of the current term."
+        ],
+        [
+            "inst",
+            [
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.228 American Classics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Students read, discuss, and write about critical works in American history from the 17th through the 20th centuries. Includes writings by early Puritan writers, Franklin, Paine, Jefferson, and Madison; Lewis and Clark; Frederick Douglass; Harriet Beecher Stowe; the Lincoln-Douglas debates; U. S. Grant, W. E. B. Dubois, Andrew Carnegie, Horatio Alger, F. D. Roosevelt, Betty Friedan, and Martin Luther King, Jr. May also include music, recorded speeches, television programs, visual images, or films. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.229 The Black Radical Tradition in America"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on American history from the African-American perspective. Includes alternative visions of the nation's future, and definitions of its progress, that have called for a fundamental restructuring of political, economic and social relations. Introduces events, figures and institutions that have shaped African-American history, from the struggles to dominate the African coast and the emergence of a modern slave trade, through the fall of the Western slave societies. Also examines the experiences of Africans in other parts of North America, as well as South America and the Caribbean."
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.230 Barbarians, Saints, and Emperors"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the late Roman Empire and its transformations during Late Antiquity (c.300-c.700). Questions the traditional decline and fall narrative of the period, which argues that Christianity and barbarians destroyed classical civilization and ushered in the Dark Ages. Explores such topics as Romans and barbarians, paganism and Christianity, politics and war, Rome and Constantinople, and bishops and saints. Discusses the influence of such characters as Constantine the Great, St. Augustine, Attila the Hun, and the prophet Mohammed."
+        ],
+        [
+            "inst",
+            [
+                "E. Goldberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.237 The City of Athens in the Age of Pericles"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Historical topography of ancient Athens. Investigates the relationship between urban architecture and political, social, and cultural history of Athens in the 5th and 4th centuries BC. Surveys and analyzes archeological and literary evidence, including the sanctuary of Athena on the Acropolis, the Agora, Greek houses, the histories of Herodotus and Thucydides, plays of Sophocles and Aristophanes, and the panhellenic sanctuaries of Delphi and Olympia."
+        ],
+        [
+            "inst",
+            [
+                "W. Broadhead"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.238 The Vikings"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the complex relationship of the Vikings with the medieval world. Investigates the dynamics of Viking expansion, not only in terms of raiding and conflict, but also as a process of diplomacy, settlement, assimilation, and colonization. Examines developments within Scandinavian society such as state formation, social structures, trade, shipbuilding, slavery, urban growth, and Christianization. Considers the methodological difficulties presented by the diverse and often contradictory historical sources for information about the Vikings, such as chronicles, archaeology, coin hoards, stone inscriptions, and sagas."
+        ],
+        [
+            "inst",
+            [
+                "E. Goldberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.239 The City of Rome in the Age of the Caesars"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Historical topography of Ancient Rome. Investigates the relationship between urban architecture and the political, social, and cultural history of Rome from the 1st century BC to the 2nd century AD. Surveys and analyzes archaeological and literary evidence, including the Roman Forum, the Imperial fora, the palace of the emperors, the atrium houses of Roman Pompeii, the Colosseum, the Pantheon, Polybius' history, Martial's Epigrams, and Vitruvius' treatise on architecture."
+        ],
+        [
+            "inst",
+            [
+                "W. Broadhead"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.240 The World of Charlemagne"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates the world of the first medieval emperor, Charles the Great, or Charlemagne (768-814). Focuses on how Charlemagne and his dynasty, the Carolingians (ruled 751-888), forged a vast empire out of the diverse peoples and territories of Europe - not only through conquests and military might, but through Christianity and the Church, education and literacy, government and law, art and architecture, and a fundamental reorganization of the economy and society. Considers the enduring contributions of Charlemagne and his family to the formation of Europe as well as the shortcomings and failures of their empire."
+        ],
+        [
+            "inst",
+            [
+                "E. Goldberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.241[J] France: Enlightenment and Revolution"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.054[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the question of whether the French Enlightenment caused the French Revolution. Studies France prior to 1789, analyzes some of the most critically corrosive works of the French Enlightenment, and considers how ideas circulated through France and Europe in the eighteenth century. Examines the role of enlightened ideas in France during the revolutionary decade from 1789 to 1799."
+        ],
+        [
+            "inst",
+            [
+                "J. Ravel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.242[J] Frenchness in an Era of Globalization"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.322[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One intermediate subject in French or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.322[J]. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "C. Clark"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.244[J] Imperial and Revolutionary Russia: Culture and Politics, 1700-1917"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.085[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes Russia's social, cultural, and political heritage in the 18th and 19th centuries, up to and including the Russian Revolution of 1917. Compares reforming and revolutionary impulses in the context of serfdom, the rise of the intelligentsia, and debates over capitalism. Focuses on historical and literary texts, especially the intersections between the two."
+        ],
+        [
+            "inst",
+            [
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.245[J] Soviet and Post-Soviet Politics and Society: 1917 to the Present"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.57[J], 21G.086[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the political and historical evolution of the Soviet state and society from the 1917 Revolution to the present. Covers the creation of a revolutionary regime, causes and nature of the Stalin revolution, post-Stalinist efforts to achieve political and social reform, and causes of the Soviet collapse. Also examines current developments in Russia in light of Soviet history. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.247 Looking East/Looking West (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Examines how objects and images mediate encounters between people and helped define the \"Orient\" and the \"Occident.\" Explores the visual and material culture as well as textual accounts produced by and consumed during encounters between European and Asian travelers, diplomats, artists, writers, and tourists since the seventeenth century. Considers the frameworks scholars have used to understand these encounters and how we might deploy those frameworks ourselves. Employs historical thinking to work on our skills of visual and cultural analysis. Questions how these legacies of material and visual exchange have shaped the community within Boston area."
+        ],
+        [
+            "inst",
+            [
+                "C. Clark",
+                "H. Nagahara"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.253[J] The Global Chinese: Chinese Migration, 1567-Present"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.075[J]\nSubject meets with 21G.196"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.075[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Teng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.260 Cities in the Middle East: History, Politics and Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the role and centrality of cities in the history of the modern Middle East, through political, social, cultural and urban interactions. Begins with a theoretical introduction of the different approaches for investigating urban spaces, and follows with discussions of case studies that demonstrate the diversity of urban centers in the Middle East, including Beirut, Istanbul, Jerusalem, Mecca, Algiers, and Cairo."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.261 Modern Iran: A Century of Revolution"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of Iran's modern history from a social, cultural, and political perspective while also considering factors as they relate to gender and race. Covers the country's long and complicated interaction with the \"West.\" Situates Iran in the wider region, thereby delineating how political trends in the Middle East influenced the country and how its history of revolution has in turn impacted the region. Unpacks the Sunni-Shi'ite divide as a modern phenomenon rooted more in inter-state rivalry than in a theological dispute, Western perceptions of the Iranian and the Middle Eastern \"Other,\" the Iranian Diaspora, political Islam, and post-Islamism."
+        ],
+        [
+            "inst",
+            [
+                "P. Alimagham"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.262 Palestine and the Arab-Israeli Conflict"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the history and various realities and challenges of the Israeli-Palestinian conflict. Introduces the fundamental historical trajectories of the conflict. Analyzes the conflicting narratives and perceptions of both Palestinians and Israelis over key moments and issues in the conflict's history. Considers current challenges and possible solutions to the conflict. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "P. Alimagham"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.263[J] Women and Gender in the Middle East and North Africa"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.220[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject WGS.220[J]."
+        ],
+        [
+            "inst",
+            [
+                "L. Eckmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.265 Humanitarianism and Africa: A Critical History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines two centuries of foreign interventions in Africa in the name of humanitarian principles, from the abolition of the slave trade to the most recent Ebola crisis in West Africa. Explores humanitarianism and how it informs the understanding of poverty, race, and violence; and who gives and receives aid. Scrutinizes the prejudices about Africans embedded within salvation projects and how these campaigns have been part of the larger dynamics of power that have defined Africa's position in the world before, during, and after the European colonization of the continent. Reflects upon the practical and morally ethical alternatives in a world still shaped by suffering and injustice."
+        ],
+        [
+            "inst",
+            [
+                "K. Mutongi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.266 South Africa and Apartheid"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the spatial, legal, economic, social and political structures that created Apartheid in South Africa, and the factors that led to the collapse of the racist order. Examines the many forces of black oppression and the various forms of resistance to Apartheid. Themes include industrialization and the formation of the black working classes, constructions of race, ethnicities and sexualities, land alienation and rural struggles, township poverty and violence, black education, and the Black Consciousness Movement."
+        ],
+        [
+            "inst",
+            [
+                "K. Mutongi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.267 Atlantic Slave Revolts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the many ways enslaved people in the Americas resisted slavery, individually and collectively. Studies shipboard revolts, maronage, conspiracies, and armed uprisings. Investigates the causes and organization of rebellion. Uses the topic of rebellion to study how historians analyze and use primary sources, historical context, and write convincing prose. "
+        ],
+        [
+            "inst",
+            [
+                "M. Kars"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.268 Urban History in Africa (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the emergence of cities in sub-Saharan Africa, and traces major themes in the history of urban Africa. Examines urban Africans at work and leisure, including their popular culture and politics and the conflicts that arise from the cities' growth. Questions how the city emerged in Africa, what distinguishes African cities, and how urban Africans have responded to the dramatic historical changes and intense cultural interactions of African history (e.g. colonialism, industrialization, urbanization, globalization). Incorporates scholarly monographs and articles, African life histories, primary sources, fiction, and film to explore the variety of perspectives on urban history in Africa."
+        ],
+        [
+            "inst",
+            [
+                "K. Mutongi "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.270[J] Latinx in the Age of Empire"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.131[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes the histories and presence of the Latinx population in the context of US territorial expansion, foreign intervention and economic policy toward Latin America. Combines both historical and anthropological approaches to analyze local conditions that lead people to migrate within the broader forces of international political economy. Pays attention to the historical context in the home countries, especially as impacted by US policy. Explores Latinx community dynamics, politics of migrant labor, relational formations of race and transnational forms of belonging. Historically and ethnographically seeks to understand structures of criminalization, activist practices of resistance and the development of deportation regimes."
+        ],
+        [
+            "inst",
+            [
+                "H. Beltran",
+                "T. Padilla"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.273 From Coca to Cocaine: Drug Economies in Latin America"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how drug production and consumption has affected Latin America's political, cultural and economic life and shaped US foreign policy toward the region. Discusses the history of different psychoactive substances and analyzes why certain drugs became illegal. Pays particular attention to the relationship between strategies of interdiction, poverty, and drug violence. Limited to 35."
+        ],
+        [
+            "inst",
+            [
+                "T. Padilla"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.274[J] Creation of a Continent: Media Representations of Hispanic America, 1492 to present"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.731[J], CMS.357[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One intermediate Spanish subject or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Traces the creation of a new literature in Spanish to record and interpret New World experiences. Begins with excerpts from Columbus's diary and ends with writings on the late 19th-century Cuban and Puerto Rican independence movements. Pairs some of these pre-20th-century texts with more recent literary and film interpretations of the first 400 years of Hispanic American history. Conducted in Spanish."
+        ],
+        [
+            "inst",
+            [
+                "P. Duong"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.281 MIT and Slavery: Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the influence of slavery and race on MIT's founding and early development, and the connections between slavery and the rise of sciences and engineering.  Students will have their research projects published through the MIT and Slavery website.  While 21H.281 and 21H.282 are sequential, students have the option of taking either or both."
+        ],
+        [
+            "inst",
+            [
+                "N. Murphy",
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.282 MIT and Slavery: Publication"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Students work on turning research from 21H.281 into publishable quality essays, researching images and other supporting documentary materials, and developing the main narrative of the MIT and Slavery website, for which they receive editorial credit.  While 21H.281 and 21H.282 are sequential, students have the option of taking either or both."
+        ],
+        [
+            "inst",
+            [
+                "N. Murphy",
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.283 The Indigenous History of MIT"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Students work with MIT faculty, staff, and alumni, as well as faculty and researchers at other universities and centers, to focus on how Indigenous people and communities have influenced the rise and development of the Massachusetts Institute of Technology. Students build a research portfolio that will include an original research essay, archival and bibliographic records, maps and images, and other relevant documentary and supporting materials. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.284 South Asia and the Institute (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the longstanding connections between MIT and South Asia (India, Pakistan, Bangladesh, Sri Lanka, Nepal) since 1882. Investigates the history of MIT's alumni, faculty, and staff to examine the history of colonization and nation-building in South Asia, race and immigration in the United States, and globalization and technical revolutions across the world. Examines key historical moments of significance to both South Asia and America such as decolonization, the Cold War, and globalization as they intersected with the lives of MIT's South Asian affiliates. Instruction provided in historical methodologies through archival research and oral histories that are showcased in a final project. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "S. Aiyar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.285[J] Making the Modern World: The Industrial Revolution in Global Perspective"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.025[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject STS.025[J]."
+        ],
+        [
+            "inst",
+            [
+                "M. R. Smith"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.289 History Near and Dear: Writing Yourself into History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies a broad range of writers who have investigated their family history or an instance of local history near and dear to their hearts. Examines questions about historical and emotional truths, memory and identity and place, and the ability of individual experience to illuminate a broader social and political history. Selected texts are simultaneously narrative nonfiction, investigative memoir, and cultural criticism. Students produce a paper investigating an aspect of their own family or local history. Exercises include workshops, peer-review, reflections, and revisions."
+        ],
+        [
+            "inst",
+            [
+                "M. Kars"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.290 Economic Classics: The History of Economic Ideas from Ancient Times to the Present"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the history of economics by introducing students to some of the most powerful and influential economic thinkers, from Xenophon and Huan K'uan through Adam Smith, Karl Marx, and Paul Samuelson, to Abhijit Banerjee and Esther Duflo. Explores the evolution of key economic concepts — the state and the market, natural resources, and crises — by situating them in historical context and perspective. Through the close reading, analysis and discussion of some of the most important texts in the history of economic thought, traces the development of ideas, norms and ways of thinking that continue to shape decision-making in both daily life and global policy."
+        ],
+        [
+            "inst",
+            [
+                "A. McCants"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Seminars"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.315 American Consumer Culture"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the role of commerce and consumption in shaping American life. Introduces theoretical approaches to commodities and consumerism. Explores social and cultural transformations linked to the emergence of a market economy in the 19th century, the rise of a mass consumer society in the 20th century, and the development of a global digital marketplace in the 21st century. "
+        ],
+        [
+            "inst",
+            [
+                "C. Horan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.319 Race, Crime, and Citizenship in American Law"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to the law of race in the United States, focusing on the development of America's criminal justice system since Reconstruction. Examines ongoing debates over whether \"mass incarceration\" amounts to an instrument of racial control. Considers the relationship between American race legislation and changing definitions of citizenship at key moments in the late 19th and 20th centuries. Case studies include immigration restriction, the death penalty, criminal procedure, and national security policing before and after 9/11."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.320[J] Gender and the Law in US History"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.161[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the legal history of the US as a gendered system. Examines how women have shaped the meanings of American citizenship through pursuit of political rights such as suffrage, jury duty, and military service, as well as how the legal system has shaped gender relations through regulation of such issues as marriage, divorce, work, reproduction, and the family. Readings draw from primary and secondary materials, focusing on the broad historical relationship between law and society. No legal knowledge is required or assumed."
+        ],
+        [
+            "inst",
+            [
+                "C. Capozzola"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.321[J] Downtown"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.026[J]\nSubject meets with 11.339"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Seminar on downtown in US cities from the late 19th century to the late 20th. Emphasis on downtown as an idea, place, and cluster of interests, on the changing character of downtown, and on recent efforts to rebuild it. Considers subways, skyscrapers, highways, urban renewal, and retail centers. Focus on readings, discussions, and individual research projects. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. M. Fogelson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.322 Christianity in America"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines Christian encounters with Judaism, Islam, and the indigenous religions of Africa and America. Explores the intellectual and social consequences of Christian imperialism and the transformations of Christianity during its American encounters."
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.330 Ancient Empires: Persians and Greeks in Antiquity"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores interactions between Greeks and Persians in the Mediterranean and Near East from the Archaic Period to the Hellenistic Age, and works to illuminate the interface between these two distinct yet complementary cultures. Examines the general narrative of Greco-Persian history, from the foundation of the Achaemenid Empire in the middle of the sixth century BCE to the Macedonian conquest of Persia some 250 years later. Discusses how contact between Persia and the Greeks in antiquity has influenced discourse about the opposition between East and West in the modern world. Students examine archaeological, epigraphical, numismatic, and literary materials from a variety of sources including Greek historiography, tragedy, and oratory; Persian royal inscriptions and administrative documents; and the Hebrew Bible."
+        ],
+        [
+            "inst",
+            [
+                "A. Forte"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.331 Julius Caesar and the Fall of the Roman Republic"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Ancient Rome from 133 to 27 BC. Explores political, social, and economic factors commonly offered to explain the fall of the Roman Republic: growth of the territorial empire, increased intensity of aristocratic competition, transformation of the Italian economy, growth of the city of Rome and dependence of the urban plebs, changes in military recruitment and dependence of soldiers on their generals. Emphasis on the reading of ancient sources in translation, including Cicero, Sallust, Caesar, Augustus, Appian, Plutarch, and Suetonius. Instruction and practice in oral and written communication provided. Taught in seminar format with emphasis on class participation. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "W. Broadhead"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.333 Early Christianity"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the history of early Christianity, from Jesus to Muhammad. Investigates the origins and spread of the Jesus movement within the ancient Jewish and Roman worlds, the emergence of the Church, and the diversity of early Christian thought, spirituality, literature, and art. Examines such topics as the historical Jesus and Paul, relations among Jews, Romans, and Christians, debates over orthodoxy and heresy, the conversion of the Roman empire, the rise of bishops and monasticism, the Church Fathers, and the cult of the saints."
+        ],
+        [
+            "inst",
+            [
+                "E. Goldberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.336 The Making of a Roman Emperor"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Through close examination of the emperor Augustus and his Julio-Claudian successors, this subject investigates how Roman emperors used art, architecture, coinage, and other media to create and project an image of themselves, how the surviving literary sources from the Roman period reinforced or subverted that image, and how both phenomena have contributed to post-classical perceptions of Roman emperors. Also considers works of Suetonius and Tacitus, and modern representations of the emperors such as those found in the films I, Claudius, Quo Vadis, and HBO's Rome series. Enrollment limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "W. Broadhead"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.343[J] Making Books in the Renaissance and Today"
+        ],
+        [
+            "prerec",
+            "Same subject as CC.120[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the impact of new technology on the recording and distribution of words and images in Europe from 1400-1800. Assignments include essays and online projects. Students participate in the design and printing of an eight-page pamphlet on a hand-set printing press. Limited to 12."
+        ],
+        [
+            "inst",
+            [
+                "E. Zimmer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.350 Business in China Since 1800"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes the characteristics of business in China since 1800 to provide a historical context for its contemporary economic development. Topics include China's place in the world economy; early efforts at state-led industrialization; legal and social frameworks for business; foreign investments, companies, and competition; the emergence of a Chinese business class; the influence of socialism and reform-era politics on business. Includes case studies of contemporary companies and a research project."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.351[J] Shanghai and China's Modernization"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.153[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Considers the history and function of Shanghai, from 1840 to the present, and its rise from provincial backwater to international metropolis. Examines its role as a primary point of economic, political, and social contact between China and the world, and the strong grip Shanghai holds on both the Chinese and foreign imagination. Students discuss the major events and figures of Shanghai, critique the classic historiography, and complete an independent project on Shanghai history."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.352[J] Three Kingdoms: From History to Fiction, Comic, Film, and Game"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.042[J], 21L.492[J], CMS.359[J]\nSubject meets with 21G.133"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.042[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Teng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.354 World War II in Asia"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21G.556"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines World War II in the Asia-Pacific region, starting with the rise of the Japanese Empire after World War I and ending with the Allied occupation of Japan from 1945 to 1952. Highlights the diverse and, at times, contradictory forces in politics, society, and culture that shaped the wartime experiences of the empire's inhabitants."
+        ],
+        [
+            "inst",
+            [
+                "H. Nagahara"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.357 South Asian Migrations"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies how and why South Asians, who have migrated to America, Europe, Africa, the Caribbean and the Middle East, are considered a model minority in some countries and unwanted strangers in others. Through literature, memoirs, films, music, and historical writing, follows migrants as they discovered the world beyond their countries of origin: India, Pakistan, and Bangladesh. Students complete final projects on different aspects of MIT's relationship with the Indian subcontinent including research on South Asian students and alumni."
+        ],
+        [
+            "inst",
+            [
+                "S. Aiyar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.358 Colonialism in South Asia and Africa: Race, Gender, Resistance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.958"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a comparative perspective on the history of colonialism in India and Africa. Explores the political, social, and economic changes brought about by colonial rule. Discusses the international context for the emergence of European Imperialism in the 19th century; the nature of early colonial expansion and consolidation; the re-invention of tradition in colonial societies, especially with regard to racial and ethnic identity, gender, religion, and caste; and expressions of anti-colonial resistance. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. Aiyar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.365 Minorities and Majorities in the Middle East"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar considers \"difference\" and \"sameness\" as they have been conceived, experienced, and regulated by peoples of the Middle East, with a focus on the 19th and 20th centuries. First half discusses the Ottoman Empire. Explores how this multiethnic, polyglot empire survived for several relatively peaceful centuries and what happened when its formula for existence was challenged by politics based on mono-ethnic states. Second half focuses on post-Ottoman nation-states, such as Turkey and Egypt, and Western-mandated Arab states, such as Syria, Lebanon, Palestine, and Iraq. Concludes with a case analysis of Israel."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.380[J] People and Other Animals"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.411[J]\nSubject meets with 21A.419[J], 21H.980[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Historical exploration of the ways that people have interacted with their closest animal relatives, for example: hunting, domestication of livestock, exploitation of animal labor, scientific study of animals, display of exotic and performing animals, and pet-keeping. Themes include changing ideas about animal agency and intelligence, our moral obligations to animals, and the limits imposed on the use of animals. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Ritvo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.381[J] Women and War"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.222[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines women's experiences during and after war and genocide, covering the first half of the 20th century in Europe and the Middle East. Addresses ways in which women's wartime suffering has been used to further a variety of political and social agendas. Discussions focus on a different topic each week, such as sexual violence, women survivors, female perpetrators of genocide, nurses, children of genocidal rape, and the memory of war."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.383 Technology and the Global Economy, 1000-2000"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.982"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the global history of the last millennium, including technological change, commodity exchange, systems of production, and economic growth. Students engage with economic history, medieval and early modern origins of modern systems of production, consumption and global exchange. Topics include the long pre-history of modern economic development; medieval world systems; the age of discovery, the global crisis of the 17th century; demographic systems, global population movements; the industrial revolution, the rise of the modern consumer; colonialism and empire building; patterns of inequality, within and across states; resources and development; and the threat of climate change to modern economic systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. McCants"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.385[J] The Ghetto: From Venice to Harlem"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.152[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an in-depth look at a modern institution of oppression: the ghetto. Uses literature to examine ghettoization over time and across a wide geographical area, from Jews in Medieval Europe to African-Americans and Latinos in the 20th-century United States. Also explores segregation and poverty in the urban \"Third World.\""
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.388 Global Commodities, American Dreams"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.988"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores how American actors and institutions got the raw materials that built the nation. Approaches commodities as a lens through which to understand a more specific relationship between the United States and the wider world in political, economic, and environmental terms, and examines a global cartography of commodities, resources, and other \"stuff\" that became enmeshed in American life. Examines materials like sugar, cotton, wheat, bananas, rubber, aluminum, petroleum, uranium, drugs, and others, to trace a pattern of global resource exploitation back to sites of policymaking and consumption in the United States. Explores interconnections between human society and the non-human environment, troubling the boundary often understood to divide them. Includes themes of US empire, environment, labor, consumption, modernity, race, gender, class, and transnationalism. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Black"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.390 Theories and Methods in the Study of History"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.991"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Two History subjects or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the distinctive ways in which historians in different parts of the world have approached the task of writing history. Explores methodologies used, such as political, social, economic, cultural, and popular histories through the reading and discussion of relevant and innovative texts. Introduces a variety of sources (archival documents, statistical data, film, fiction, memoirs, artifacts, and images) and the ways they can be used to research, interpret, and present the past. Assignments include an original research paper. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. Mutongi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.391 Undergraduate Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual supervised work for students who wish to explore an area of interest in history. Before registering, a student must plan a course of study with a member of the History Faculty and secure approval from the Head of the History Faculty. Normal maximum is 6 units; exceptional 9-unit projects occasionally approved."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.392 Undergraduate Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual supervised work for students who wish to explore an area of interest in history. Before registering, a student must plan a course of study with a member of the History Faculty and secure approval from the Head of the History Faculty. Normal maximum is 6 units; exceptional 9-unit projects occasionally approved."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Special Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.S01 Special Subject: History"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of special subject not listed in the regular History curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.S02 Special Subject: History"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of special subject not listed in the regular History curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.S03 Special Subject: History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of special subject not listed in the regular History curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.S04 Special Subject: History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of special subject not listed in the regular History curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.S05 Special Subject: History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for group study of special subject not listed in the regular History curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Undergraduate Research"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.THT History Pre-Thesis Tutorial"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Students writing a thesis in History develop their research topics, review relevant research and scholarship, frame their research questions and arguments, choose an appropriate methodology for analysis, and draft the introductory and methodology sections of their theses. Includes substantial practice in writing (with revision) and oral presentations."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.THU History Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: 21H.THT"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Completion of work on the senior major thesis under supervision of a faculty thesis advisor. Includes oral presentation of thesis progress early in the term, assembling and revising the final text, and a final meeting with a committee of faculty evaluators to discuss the successes and limitations of the project. Required for students pursuing a full major in History."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing research project. For students in the Undergraduate Research Opportunities Program."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing research project. For students in the Undergraduate Research Opportunities Program."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Graduate Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.902 Reading Seminar in American History: 1877 to Present"
+        ],
+        [
+            "prerec",
+            "Prereq: 21H.991 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Develops teaching knowledge and research skills through extensive reading and discussion of major works in modern US history. Readings cover a range of topics and historical methods. Students make frequent oral presentations and submit a major work consisting of original research or historiographic interpretation."
+        ],
+        [
+            "inst",
+            [
+                "C. Wilder"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.958 Colonialism in South Asia and Africa: Race, Gender, Resistance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.358"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a comparative perspective on the history of colonialism in India and Africa. Explores the political, social, and economic changes brought about by colonial rule. Discusses the international context for the emergence of European Imperialism in the 19th century; the nature of early colonial expansion and consolidation; the re-invention of tradition in colonial societies, especially with regard to racial and ethnic identity, gender, religion, and caste; and expressions of anti-colonial resistance. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. Aiyar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.980[J] People and Other Animals"
+        ],
+        [
+            "prerec",
+            "Same subject as 21A.419[J]\nSubject meets with 21A.411[J], 21H.380[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Historical exploration of the ways that people have interacted with their closest animal relatives, for example: hunting, domestication of livestock, exploitation of animal labor, scientific study of animals, display of exotic and performing animals, and pet-keeping. Themes include changing ideas about animal agency and intelligence, our moral obligations to animals, and the limits imposed on the use of animals. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Ritvo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.981 Seminar in Nature, Environment, and Empire"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the relationship between the study of natural history, both domestic and exotic, by Europeans and Americans, and concrete exploitation of the natural world. Focuses on the 18th and 19th centuries."
+        ],
+        [
+            "inst",
+            [
+                "H. Ritvo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.982 Technology and the Global Economy, 1000-2000"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.383"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the global history of the last millennium, including technological change, commodity exchange, systems of production, and economic growth. Students engage with economic history, medieval and early modern origins of modern systems of production, consumption and global exchange. Topics include the long pre-history of modern economic development; medieval world systems; the age of discovery, the global crisis of the 17th century; demographic systems, global population movements; the industrial revolution, the rise of the modern consumer; colonialism and empire building; patterns of inequality, within and across states; resources and development; and the threat of climate change to modern economic systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "A. McCants"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.983[J] Gender: Historical Perspectives"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.310[J]\nSubject meets with 21H.109[J], WGS.303[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the definition of gender in scientific, societal, and historical contexts. Explores how gender influences state formation and the work of the state, what role gender plays in imperialism and in the welfare state, the ever-present relationship between gender and war, and different states' regulation of the body in gendered ways at different times. Investigates new directions in the study of gender as historians, anthropologists and others have taken on this fascinating set of problems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "L. Ekmekcioglu",
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.984[J] Risk, Fortune, and Futurity"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.414[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Exploration of interdisciplinary scholarship on risk, chance, and fortune. Begins with a survey of theoretical approaches to the field, then proceeds chronologically to explore the emergence of risk and its impacts on human life in multiple arenas including economics, politics, culture, environment, science, and technology from the 16th century to the present. Open to undergraduates with permission of instructor; consult department for details."
+        ],
+        [
+            "inst",
+            [
+                "W. Deringer",
+                "C. Horan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.985 Money, Credit, and Financial Crisis, 1600-1850"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the role of money and credit in the \"boom and bust\" dynamic that has characterized North Atlantic financial capitalism since its emergence in the late 17th century. Studies the late 17th to the early 19th centuries when the North Atlantic economies (France, Britain, the Netherlands, and their colonial dependencies) developed modern, capitalist institutions and practices of money, credit, and finance. Studies the creation of state banks, stock markets, the relationship between war and finance, and the transition from metallic to paper currency. Explores the explosive politics of speculation, banking, and paper money in the Atlantic revolutionary era and the interdependence of plantation slavery and credit markets in the antebellum period. While 21H.985 and 21H.986 are sequential, students have the option of taking either or both. Open to undergraduates with permission of instructor; consult department for details."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.986 Money, Credit, and Financial Crisis, 1850-2020"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines some of the major turning points in the development of the modern (American) financial system: the Civil War Greenback movement, the rise and fall of the gold standard, Wall Street's role in the Caribbean during the interwar period, the crash of 1929, the development of the Federal Reserve, the subprime crisis of 2007-2008, and the international effort to maintain the public bond and corporate borrowing markets under the strains of Covid-19. Concludes with the dollarization of large parts of the global economy, contemporary crises of currency devaluation and hyperinflation in the developing world, and the emergence of cryptocurrencies and digital money. While 21H.985 and 21H.986 are sequential, students have the option of taking either or both. Open to undergraduates with permission of instructor; consult department for details."
+        ],
+        [
+            "inst",
+            [
+                "M. Ghachem"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.988 Global Commodities, American Dreams"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.388"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores how American actors and institutions got the raw materials that built the nation. Approaches commodities as a lens through which to understand a more specific relationship between the United States and the wider world in political, economic, and environmental terms, and examines a global cartography of commodities, resources, and other \"stuff\" that became enmeshed in American life. Examines materials like sugar, cotton, wheat, bananas, rubber, aluminum, petroleum, uranium, drugs, and others, to trace a pattern of global resource exploitation back to sites of policymaking and consumption in the United States. Explores interconnections between human society and the non-human environment, troubling the boundary often understood to divide them. Includes themes of U.S. empire, environment, labor, consumption, modernity, race, gender, class, and transnationalism. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Black"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.989 Histories of Extraction and Mining"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the period after the Industrial Revolution, with a geographic emphasis on the United States, a major mineral producer and seeker in the wider world. Surveys mineral components of the lithosphere that became valued for an array of purposes above ground. Follows miners, geologists, engineers, investors, policymakers, and canaries into mines from the continental United States to Asia, Africa, and Latin America. Extends beyond political territories to zones of activity, from the oceans to the Arctic to outer space. Asks how mining, unfolding at the local level, interacted with global processes, including the Anthropocene, the latest planetary-scale transformation. Examines the relationship between economic activity and environmental wellbeing, and the consequences of this relationship. Open to advanced undergraduates with permission of instructor. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "M. Black"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.990[J] Narrating the Anthropocene: Understanding a Multi-Species Universe (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.432[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject STS.432[J]. Limited to 12."
+        ],
+        [
+            "inst",
+            [
+                "K. Brown",
+                "M. Black"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.991 Theories and Methods in the Study of History"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21H.390"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the distinctive ways in which historians in different parts of the world have approached the task of writing history. Explores methodologies used, such as political, social, economic, cultural, and popular histories through the reading and discussion of relevant and innovative texts. Introduces a variety of sources (archival documents, statistical data, film, fiction, memoirs, artifacts, and images) and the ways they can be used to research, interpret, and present the past. Assignments include an original research paper. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. Mutongi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.992 Graduate Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual supervised work for students who wish to explore an area of interest in history. Before registering, a student must plan a course of study with a member of the History Faculty and secure approval from the Head of the History Faculty."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.993 Graduate Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual supervised work for students who wish to explore an area of interest in history. Before registering, a student must plan a course of study with a member of the History Faculty and secure approval from the Head of the History Faculty."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.999 Teaching History"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For qualified graduate students serving as either a teaching assistant or instructor for subjects in History. Enrollment limited by availability of suitable teaching assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21H.135 J.R.R. Tolkien: Scholar, Author, and Thinker"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how an Oxford professor of medieval philology and literature wrote the most influential work of fantasy, The Lord of the Rings. Investigates how Tolkien's scholarship on Anglo-Saxon and Middle English, fascination with inventing languages, experiences during the First World War, and Catholic faith shaped the creation of his fantasy world often (mistakenly) called Middle Earth. Examines Tolkien's books within the context of his life, scholarship, ideas, and beliefs to uncover how an author of fantasy literature helped shape the image of the Middle Ages in the modern popular imagination. Considers the extent to which film adaptations do justice to the complexity of Tolkien's stories, themes, and characters."
+        ],
+        [
+            "inst",
+            [
+                "E. Goldberg"
+            ]
+        ]
+    ]
+]

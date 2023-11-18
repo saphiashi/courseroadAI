@@ -1,0 +1,1920 @@
+[
+    "Edgerton Center (EC)",
+    [
+        "head",
+        "Seminars"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.050 Re-create Experiments from History: Inform the Future from the Past"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.090"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Offers students alternative exploratory experience in teaching, learning, and researching. Through collaborative activities with open-ended experiments from diverse origins, participants re-create historical instruments and discoveries that challenged assumptions and sparked new investigations. Student curiosity and questions shape specific course content. Assignments include observations, experiments, readings, journal writing and sketching, and a final reflective paper. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Bales",
+                "E. Cavicchi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.074 The Start-up Experience at MIT"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores some of the critical actions in starting up a technology-based business, including concept generation, searching prior art and patents, protecting intellectual property, founders agreements, forming and building teams, and work-life balance. Students review case studies and complete exercises that develop practicable knowledge in these areas. Each student keeps an \"idea log book,\" which includes critical assessments of each case study, to be presented at the end of the term. First in a two-part series (seminars do not have to be taken sequentially; see EC.075 in spring term). Preference to undergraduates; open to graduate students with permission of advisor."
+        ],
+        [
+            "inst",
+            [
+                "J. Hadzima"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.075 Starting Up New Technology-Based Business Enterprises at MIT"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar participants define and study the development stages of new enterprises at MIT, from the exciting moment a new idea for a tech product or service is realized, through to selling, customer support, and the next new idea. Follows the history of successful MIT spin-off companies with attention to the people (and their ideas) behind the start-up. Students attend MIT technology and science start-up case presentations given by individuals and teams working from zero-stage, and by partners in going concerns of historical relevance to the Institute and the economy. Second in a two-part series (seminars do not have to be taken sequentially; see EC.074 in fall term)."
+        ],
+        [
+            "inst",
+            [
+                "J. G. Hadzima"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.090 Re-create Experiments from History: Inform the Future from the Past"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.050"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Offers students alternative exploratory experience in teaching, learning, and researching. Through collaborative activities with open-ended experiments from diverse origins, participants re-create historical instruments and discoveries that challenged assumptions and sparked new investigations. Student curiosity and questions shape specific course content. Assignments include observations, experiments, readings, journal writing and sketching, and a final reflective paper. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Bales",
+                "E. Cavicchi"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Electronics and Programming"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.120[J] Electronics Project Laboratory"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.2020[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.2020[J]. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Bales"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Media and Production"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.305 Digital and Darkroom Imaging"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.A305"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students use both film and digital photography to develop a creative imaging project of their own choice. Develops skills in the use of image editing software to enhance, select, and combine images that the student has taken. Uses the darkroom to develop film for scanning and for chemical enlargement. Discusses topics such as the camera, composition, lighting, modes and formats, image compression, and halftone and dye sublimation printing. Students are expected to produce a duplicate set of black and white and/or color prints, along with a writeup and digital copy as the project output."
+        ],
+        [
+            "inst",
+            [
+                "T. Mislick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.310 Creative Imaging"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on film and digital photography. Develops skill in the use of chemical darkrooms, scanners, digital printers and cameras to create striking still images capable of evoking strong emotional and intellectual responses from a viewer. Emphasizes the interplay between classical chemical and digital techniques and how they can be used to control the use of lighting, color, depth, and composition in an image. Students present their intermediate assignments to the class for critical discussion; at the end of the term, they submit a substantive project presenting their own creative images for critique and evaluation."
+        ],
+        [
+            "inst",
+            [
+                "T. Mislick",
+                "J. K. Vandiver"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "D-Lab"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.700 D-Lab: Field Study"
+        ],
+        [
+            "prerec",
+            "Prereq: One D-Lab subject and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides the opportunity to gain direct fieldwork experience in a global context. Subject spans three-four weeks in which students continue work from a prior D-Lab subject. Students work directly with international community partners to find solutions to real world problems, focusing on one or more issues in education, design, or public service. Group presentations and written reflection required."
+        ],
+        [
+            "inst",
+            [
+                "A. B. Smith",
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.701[J] D-Lab: Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.025[J]\nSubject meets with 11.472[J], EC.781[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Issues in international development, appropriate technology and project implementation addressed through lectures, case studies, guest speakers and laboratory exercises. Students form project teams to partner with community organizations in developing countries, and formulate plans for an optional IAP site visit. (Previous field sites include Ghana, Brazil, Honduras and India.) Recitation sections focus on specific project implementation, and include cultural, social, political, environmental and economic overviews of the target countries as well as an introduction to the local languages. Enrollment limited by lottery; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "S. L. Hsu",
+                "B. Sanyal"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.703 Entrepreneurship for the Idealist"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.783"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the nature of contemporary and historical injustices: their particularities, shared dynamics, tropes, myths, durability, and shape-shifting nature. Studies how innovation, technology, markets, and social enterprises relate to justice. Explores accompaniment — journeying, often literally, with the wronged until right is done — and its success in a broad range of settings. Instruction provided in designing accompaniment-centered approaches by picking a societal challenge, surveying and critiquing past efforts, and proposing a design of their own. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Bhardwaj",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.711[J] Introduction to Energy in Global Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.651[J]\nSubject meets with EC.791"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys energy technologies including solar, wind, and hydro power; cooking; indoor heating; irrigation; and agricultural productivity through an international development context to impart energy literacy and common-sense applications. Focuses on compact, robust, low-cost systems for meeting the needs of household and small business. Provides an overview of identifying user needs, assessing the suitability of specific technologies, and strategies for implementation in developing countries. Labs reinforce lecture material through activities including system assembly and testing. Team projects involve activities including connecting with pre-selected community partners, product design and analysis, and continuing the development of ongoing projects. Optional summer fieldwork may be available. Students taking graduate version complete additional assignments. Enrollment limited by lottery; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "D. Sweeney",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.712[J] Applications of Energy in Global Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.652[J]\nSubject meets with EC.782"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Engages students in project-based learning, in collaboration with D-Lab community partners, to improve access to affordable, reliable, sustainable, and modern energy for all. Teams work on off-grid energy projects addressing challenges in lighting, cooking, agricultural productivity, or other areas in collaboration with D-Lab community partners in developing countries. Project work includes assessment of user needs, technology identification, product design, prototyping, and development of implementation strategies to continue progress of ongoing projects. Optional IAP field visits may be available to test and implement the solutions developed during the semester. Students enrolled in the graduate version complete additional assignments.  Limited to 20; preference to students who have taken EC.711[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Sweeney",
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.713[J] D-Lab Schools: Building Technology Laboratory"
+        ],
+        [
+            "prerec",
+            "Same subject as 4.411[J]\nSubject meets with 4.412"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.01|18.01A|18.014\" onclick=\"return showCourse(this, '18.01|18.01A|18.014');\">Calculus I (GIR)</a> and <a href=\"/search/?P=8.01|8.01L|8.011|8.012\" onclick=\"return showCourse(this, '8.01|8.01L|8.011|8.012');\">Physics I (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 4.411[J]. Limited to 20 total for versions meeting together."
+        ],
+        [
+            "inst",
+            [
+                "L. K. Norford"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.715 D-Lab: Water, Sanitation and Hygiene"
+        ],
+        [
+            "prerec",
+            "Subject meets with 11.474"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on disseminating Water, Sanitation, and Hygiene (WASH) innovations in low-income countries and underserved communities worldwide. Structured around project-based learning, lectures, discussions, and student-led tutorials. Emphasizes core WASH principles, appropriate and sustainable technologies at household and community scales, urban challenges worldwide, culture-specific solutions, lessons from start-ups, collaborative partnerships, and social marketing. Mentored term project entails finding and implementing a viable solution focused on education/training; a technology, policy or plan; a marketing approach; and/or behavior change. Guest lecturers present case studies, emphasizing those developed and disseminated by MIT faculty, practitioners, students, and alumni. Field trips scheduled during class time, with optional field trips on weekends. Students taking graduate version complete additional assignments.  Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "S. E. Murcott",
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.717 D-Lab: Education and Learning"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of pedagogical theories and core teaching skills that allow students to craft their own K-12 curriculum using the design process. Working in groups and collaborating with an international partner, students use the design process to create a final project for a specific audience that emphasizes hands-on, inclusive, project-based learning. Suitable for students with varying levels of teaching experience. Local fieldwork and K-12 classroom visits are required throughout the semester and international fieldwork may be available to students in the summer. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "L. Nam",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.718[J] D-Lab: Gender and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as WGS.277[J]\nSubject meets with EC.798"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores gender roles, illuminates the power dynamics and root causes of inequality, and provides a framework for understanding gender dynamics. Develops skills to conduct a gender analysis and integrate gender-sensitive strategies into large- and small-scale development solutions. Prompts critical discussion about social, economic, and political conditions that shape gender in development. Begins with exploration of international development in the post-colonial era, using a gender lens, then provides students with the tools to integrate gender-sensitive strategies into international development work, with a particular focus on launching, building and scaling women's ventures. Opportunities may be available for international fieldwork over IAP. Meets with 24.234 when offered concurrently. Students taking graduate version complete additional assignments. Limited to 12; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "E. McDonald",
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.719 D-Lab: Climate Change and Planetary Health"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.789"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the current state and future projections of climate change and its effects on human, ecosystem, and planetary health, and develops solutions for these challenges. Class is project-based, student-focused, experiential, and transdisciplinary. Emphasizes nature- and community-based solutions, both local and global, with a focus on environmental and climate justice. Participation and teamwork are fundamental, as are experiential activities such as field trips to zero-carbon buildings and to sites undergoing rapid transformation. Working individually or in teams, students develop a term project on a climate change or planetary health solution of their choice, applying knowledge and skills to craft innovative, sustainable real-world solutions. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. Murcott",
+                "J. Simpson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.720[J] D-Lab: Design"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.722[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.670\" title=\"2.670\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.670');\">2.670</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses problems faced by underserved communities with a focus on design, experimentation, and prototyping processes. Particular attention placed on constraints faced when designing for developing countries. Multidisciplinary teams work on long-term projects in collaboration with community partners, field practitioners, and experts in relevant fields. Topics covered include design for affordability, manufacture, sustainability, and strategies for working effectively with community partners and customers. Students may continue projects begun in EC.701[J]. Enrollment limited by lottery; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "E. Squibb"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.724 D-Lab: Smallholder Agriculture"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.784"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of the scientific, social, and economic context of smallholder farmers in developing countries. Covers the scientific basis and environmental impacts of agriculture, the dynamics of smallholder farming, social and business systems, and the experience of farmers themselves. Lectures, guest experts, experiential activities, and semester projects with community partners contribute to learning objectives. Opportunities for summer fieldwork may be available. Students taking graduate version complete additional assignments. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "R. Nanes",
+                "G. Jones",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.725 Leadership in Design"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Places special focus on team capacity building and the communication skills critical to design leadership. Multidisciplinary teams work on semester-long projects in collaboration with international organizations, field practitioners, and experts, building team and leadership skills used to address problems faced by underserved communities while implementing design, experimentation, and hands-on prototyping processes. Topics covered include human-centered design, design for affordability and remote manufacturing, sustainability, and strategies for working effectively with international partners. Limited to 20 students in the Gordon Engineering Leadership Program."
+        ],
+        [
+            "inst",
+            [
+                "E. Squibb"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.726 D-Lab: Build-Its"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.796"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Engages students in the creation of \"build-its,\" hands-on pedagogical tools developed by D-Lab to teach workshop and design skills to a diverse audience around the world. Studies principles of experiential learning and successful examples of teaching in makerspaces and innovation centers. Students develop their own build-it, test and evaluate it with local students, and create instructions for its use. Optional travel opportunities exist over the summer to test the build-it at a D-Lab summit or training abroad. Opportunities for funded travel available. Students taking graduate version complete additional assignments. Opportunities for funded travel available. Limited to 16."
+        ],
+        [
+            "inst",
+            [
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.729[J] D-Lab: Design for Scale"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.729[J]\nSubject meets with 2.789[J], EC.797[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=2.008\" title=\"2.008\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.008');\">2.008</a></i>; or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on product development of technologies for people in less industrialized markets. Students work in interdisciplinary teams to develop previously established prototypes or technologies towards manufacturing-ready product designs. Topics are presented within the context of the developing world and include technology feasibility and scalability assessment; value chain analysis; product specification; design for affordability, manufacturability, usability, and desirability; and product testing and manufacturing at various scales. Lessons are experiential and case study-based; taught by instructors with field experience and by industry experts from product development consulting firms and the consumer electronics industry. Student taking graduate version complete additional oral and written assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Yang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.731[J] Global Ventures"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.375[J], MAS.665[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.665[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Bonsen",
+                "A. Pentland",
+                "R. Raskar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.733[J] D-Lab: Supply Chains"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.771[J], 15.772[J]\nSubject meets with 2.871"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.772[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. C. Graves"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.740 D-Lab: Inclusive Economies"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how innovations and market mechanisms can benefit humanity by rallying impact investments, engaging participants cooperatively, boosting equity and resilience, and broadening prosperity. Examines the ideas behind, and actions towards, multiple inclusive economic mechanisms and approaches. Students review and analyze the competing worldviews and historical pathways that led to the current dominant economic modalities, and both theoretical and empirical criticisms. Includes case studies developing alternative opportunities, modifications, and/or improvements to crafting circular economies and reinforcing local economies. Team projects focus on the facilitation of inclusive economy models in partnership with communities in Latin America or Africa. Optional project-focused travel may be available over IAP. Limited to 12."
+        ],
+        [
+            "inst",
+            [
+                "E. McDonald",
+                "K. Mytty",
+                "J. Bonsen"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.744 Technologies for Mental Health and Wellness"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.794"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to new technologies used in the practice of psychiatry and psychology, with emphasis on mental health and wellness. Discusses the effect of technology on mental health and the human experience. Topics include social identity and connection, mood and anxiety disorders, sleep and dreams, chronobiology, addiction and substance abuse, behavior medicine, and wellness activities such as meditation. Guest lectures from domain-expert doctors and reading assignments identify current needs and challenges found in clinical practice. Reviews emerging technologies being applied to mental health, including chatbots, social robots, wearable sensors, AI, virtual reality, biofeedback, neuromodulation, and mobile phone phenotyping. Topics of privacy and ethical use discussed. Students complete readings and weekly written assignments and three group design projects. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Fletcher",
+                "K. Hodges"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.746[J] Design for Complex Environmental Issues"
+        ],
+        [
+            "prerec",
+            "Same subject as 1.016[J], 2.00C[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Working in small teams with real clients, students develop solutions related to the year's Terrascope topic. They have significant autonomy as they follow a full engineering design cycle from client profile through increasingly sophisticated prototypes to final product. Provides opportunities to acquire skills with power tools, workshop practice, design, product testing, and teamwork. Focuses on sustainability and appropriate technology that matches the client's specific situation and constraints. Products are exhibited in the public Bazaar of Ideas and evaluated by an expert panel. Class taught in collaboration with D-Lab and Beaver Works. Limited to first-year students. Open to students outside of Terrascope."
+        ],
+        [
+            "inst",
+            [
+                "A. W. Epstein",
+                "J. Grimm",
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.750 Humanitarian Innovation: Design for Relief, Rebuilding, and Recovery"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.785"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the role innovation can and does play in how humanitarian aid is provided, and how it can impact people, products, and processes. Provides a fundamental background in the history and practice of humanitarian aid. Considers the various ways that design can be used to enhance aid, such as product and system design for affected populations, co-creation with affected populations, and capacity building to promote design by refugees and the displaced. Case studies and projects examine protracted displacement as well as recovery and resettlement, including efforts in Colombia, Lebanon, Nepal, Sudan, and Uganda. Potential for students to travel over the summer to partner communities."
+        ],
+        [
+            "inst",
+            [
+                "A. Smith",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.751 Mobiles for Development: Using Repurposed Electronics for Transformative Impact in Low-Income Communities (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.793"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students explore possible uses of repurposed electronic devices in several sectors of development, including agriculture, education, health, and energy, to have a positive impact on people living in low-income communities. Guest lecturers provide insight into current trends in information and communication technology for development. Students work in teams to apply principles of participatory and inclusive design to specific projects that they develop in collaboration with community innovators in refugee camps in Northern Uganda and rural areas of Tanzania. Optional travel to Uganda and Tanzania occurs over subsequent IAP with D-Lab partners in the field. Graduate students complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Lee",
+                "E. McDonald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.770 D-Lab: Independent Project"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a staff member. Projects require prior approval, as well as a written proposal and final report. Students work with international community partners to continue developing projects, focusing on one or more issues in education, design, or public service. Final presentations and written reflection required. May be repeated for credit for a maximum of 12 units."
+        ],
+        [
+            "inst",
+            [
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.780 D-Lab: Independent Project"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a staff member. Projects require prior approval, as well as a written proposal and final report. Students work with international community partners to continue developing projects, focusing on one or more issues in education, design, or public service. Final presentations and written reflection required. May be repeated for credit for a maximum of 12 units."
+        ],
+        [
+            "inst",
+            [
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.781[J] D-Lab: Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 11.472[J]\nSubject meets with 11.025[J], EC.701[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Issues in international development, appropriate technology and project implementation addressed through lectures, case studies, guest speakers and laboratory exercises. Students form project teams to partner with community organizations in developing countries, and formulate plans for an optional IAP site visit. (Previous field sites include Ghana, Brazil, Honduras and India.) Recitation sections focus on specific project implementation, and include cultural, social, political, environmental and economic overviews of the target countries as well as an introduction to the local languages. Enrollment limited by lottery; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "S. L. Hsu",
+                "A. B. Smith",
+                "B. Sanyal"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.782 Applications of Energy in Global Development"
+        ],
+        [
+            "prerec",
+            "Subject meets with 2.652[J], EC.712[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Engages students in project-based learning in collaboration with D-Lab community partners to improve access to affordable, reliable, sustainable, and modern energy for all. Teams work on off-grid energy projects addressing challenges in lighting, cooking, agricultural productivity, or other areas in collaboration with D-Lab community partners in developing countries. Project work includes assessment of user needs, technology identification, product design, prototyping, and development of implementation strategies to continue progress of ongoing projects. Optional IAP field visits may be available to test and implement the solutions developed during the semester. Students enrolled in the graduate version complete additional assignments.  Limited to 20; preference to students who have taken EC.791."
+        ],
+        [
+            "inst",
+            [
+                "D. Sweeney",
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.783 Entrepreneurship for the Idealist"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.703"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the nature of contemporary and historical injustices: their particularities, shared dynamics, tropes, myths, durability, and shape-shifting nature. Studies how innovation, technology, markets, and social enterprises relate to justice. Explores accompaniment — journeying, often literally, with the wronged until right is done — and its success in a broad range of settings. Instruction provided in designing accompaniment-centered approaches by picking a societal challenge, surveying and critiquing past efforts, and proposing a design of their own. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Bhardwaj",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.784 D-Lab: Smallholder Agriculture"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.724"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of the scientific, social, and economic context of smallholder farmers in developing countries. Covers the scientific basis and environmental impacts of agriculture, the dynamics of smallholder farming, social and business systems, and the experience of farmers themselves. Lectures, guest experts, experiential activities, and semester projects with community partners contribute to learning objectives. Opportunities for summer fieldwork may be available. Students taking graduate version complete additional assignments. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "R. Nanes",
+                "G. Jones",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.785 Humanitarian Innovation: Design for Relief, Rebuilding, and Recovery"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.750"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the role innovation can and does play in how humanitarian aid is provided, and how it can impact people, products, and processes. Provides a fundamental background in the history and practice of humanitarian aid. Considers the various ways that design can be used to enhance aid, such as product and system design for affected populations, co-creation with affected populations, and capacity building to promote design by refugees and the displaced. Case studies and projects examine protracted displacement as well as recovery and resettlement, including efforts in Colombia, Lebanon, Nepal, Sudan, and Uganda. Potential for students to travel over the summer to partner communities."
+        ],
+        [
+            "inst",
+            [
+                "A. Smith",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.787 D-Lab: Education and Learning"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an overview of pedagogical theories and core teaching skills that allow students to craft their own K-12 curriculum using the design process. Working in groups and collaborating with an international partner, students use the design process to create a final project for a specific audience that emphasizes hands-on, inclusive, project-based learning. Suitable for students with varying levels of teaching experience. Local fieldwork and K-12 classroom visits are required throughout the semester and international fieldwork may be available to students in the summer. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "L. Nam",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.788 D-Lab: Field Research"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Combines hands-on methods for conducting field research with exploration of questions that continue to challenge practitioners, donors, policymakers and researchers in international development. Designed for students preparing to conduct field-based research for theses, product design project, or development ventures. Practices key research skills particularly applicable to conducting research involving people and communities in the context of development. Limited to 16."
+        ],
+        [
+            "inst",
+            [
+                "E. Moreno"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.789 D-Lab: Climate Change and Planetary Health"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.719"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the current state and future projections of climate change and its effects on human, ecosystem, and planetary health, and develops solutions for these challenges. Class is project-based, student-focused, experiential, and transdisciplinary. Emphasizes nature- and community-based solutions, both local and global, with a focus on environmental and climate justice. Participation and teamwork are fundamental, as are experiential activities such as field trips to zero-carbon buildings and to sites undergoing rapid transformation. Working individually or in teams, students develop a term project on a climate change or planetary health solution of Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. Murcott",
+                "J. Simpson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.790 D-Lab: Field Study"
+        ],
+        [
+            "prerec",
+            "Prereq: One D-Lab subject and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides the opportunity to gain direct fieldwork experience in a global context. Subject spans three-four weeks in which students continue work from a prior D-Lab subject. Students work directly with international community partners to find solutions to real world problems, focusing on one or more issues in education, design, or public service. Group presentations and written reflection required."
+        ],
+        [
+            "inst",
+            [
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.791 Introduction to Energy in Global Development"
+        ],
+        [
+            "prerec",
+            "Subject meets with 2.651[J], EC.711[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys energy technologies including solar, wind, and hydro power; cooking; indoor heating; irrigation; and agricultural productivity through an international development context to impart energy literacy and common-sense applications. Focuses on compact, robust, low-cost systems for meeting the needs of household and small business. Provides an overview of identifying user needs, assessing the suitability of specific technologies, and strategies for implementation in developing countries. Labs reinforce lecture material through activities including system assembly and testing. Team projects involve activities including connecting with pre-selected community partners, product design and analysis, and continuing the development of ongoing projects. Optional summer fieldwork may be available. Students taking graduate version complete additional assignments. Enrollment limited by lottery; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "D. Sweeney",
+                "S. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.793 Mobiles for Development: Using Repurposed Electronics for Transformative Impact in Low-Income Communities (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.751"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students explore possible uses of repurposed electronic devices in several sectors of development, including agriculture, education, health, and energy, to have a positive impact on people living in low-income communities. Guest lecturers provide insight into current trends in information and communication technology for development. Students work in teams to apply principles of participatory and inclusive design to specific projects that they develop in collaboration with community innovators in refugee camps in Northern Uganda and rural areas of Tanzania. Optional travel to Uganda and Tanzania occurs over subsequent IAP with D-Lab partners in the field. Graduate students complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "H. Lee",
+                "E. McDonald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.794 Technologies for Mental Health and Wellness"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.744"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to new technologies used in the practice of psychiatry and psychology, with emphasis on mental health wellness. The effect of technology on mental health and the human experience is discussed. Topics include social identity and connection, mood and anxiety disorders, sleep and dreams, chronobiology, addiction and substance abuse, behavior medicine, and wellness activities such as meditation. Guest lectures from domain-expert doctors and reading assignments identify current needs and challenges found in clinical practice. Emerging technologies being applied to mental health are reviewed including chatbots, social robots, wearable sensors, AI, virtual reality, biofeedback, neuromodulation, and mobile phone phenotyping. Topics of privacy and ethical use discussed. Students complete readings and weekly written assignments and three group design projects. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Fletcher",
+                "K. Hodges"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.796 D-Lab: Build-Its"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.726"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Engages students in the creation of \"build-its,\" hands-on pedagogical tools developed by D-Lab to teach workshop and design skills to a diverse audience around the world. Studies principles of experiential learning and successful examples of teaching in makerspaces and innovation centers. Students develop their own build-it, test and evaluate it with local students, and create instructions for its use. Optional travel opportunities exist over the summer to test the build-it at a D-Lab summit or training abroad. Students taking graduate version complete additional assignments. Limited to 16."
+        ],
+        [
+            "inst",
+            [
+                "S. L. Hsu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.797[J] D-Lab: Design for Scale"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.789[J]\nSubject meets with 2.729[J], EC.729[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=2.008\" title=\"2.008\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.008');\">2.008</a></i>; or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on product development of technologies for people in less industrialized markets. Students work in interdisciplinary teams to develop previously established prototypes or technologies towards manufacturing-ready product designs. Topics are presented within the context of the developing world and include technology feasibility and scalability assessment; value chain analysis; product specification; design for affordability, manufacturability, usability, and desirability; and product testing and manufacturing at various scales. Lessons are experiential and case study-based; taught by instructors with field experience and by industry experts from product development consulting firms and the consumer electronics industry. Student taking graduate version complete additional oral and written assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Yang",
+                "H. Quintus-Bosz",
+                "S. Grama",
+                "K. Bergeron"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.798 D-Lab: Gender and Development"
+        ],
+        [
+            "prerec",
+            "Subject meets with EC.718[J], WGS.277[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores gender roles, illuminates the power dynamics and root causes of inequality, and provides a framework for understanding gender dynamics. Develops skills to conduct a gender analysis and integrate gender-sensitive strategies into large- and small-scale development solutions. Prompts critical discussion about social, economic, and political conditions that shape gender in development. Begins with exploration of international development in the post-colonial era, using a gender lens, then provides students with the tools to integrate gender-sensitive strategies into international development work, with a particular focus on launching, building and scaling women's ventures. Opportunities may be available for international fieldwork over IAP. Meets with 24.634 when offered concurrently. Students taking graduate version complete additional assignments. Limited to 12; must attend first class session."
+        ],
+        [
+            "inst",
+            [
+                "E. McDonald",
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Teaching, UROP, Independent Study"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.900 Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a staff member. Projects require prior approval, as well as a written proposal and final report."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.901 Edgerton Center Independent Study"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a staff member. Projects require prior approval, as well as a written proposal and final report."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.910 Edgerton Center Undergraduate Teaching"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "An opportunity for undergraduates to participate in teaching and tutoring Center subjects and seminars. Students develop one-on-one teaching skills under the supervision of an Edgerton Center instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.980 Edgerton Center Independent Study - Graduate"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for independent study under regular supervision by a staff member. Projects require prior approval, as well as a written proposal and final report."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.988 The Social Life of Materials"
+        ],
+        [
+            "prerec",
+            "Subject meets with 3.088"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students carry out projects on a material of their choice and study its technical, humanistic, and environmental origins and trajectories of development through historical methods; evaluate its current status within a social and humanistic context; and then imagine and evaluate potential futures. Projects supported by topics and scholarship in sociotechnical systems, social innovation, environmental history and justice, equity-based human-centered design, and futures literacy. Students taking the graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Ortiz",
+                "E. Spero"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.990 Edgerton Center Graduate Teaching"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An opportunity for graduate students to participate in teaching and tutoring Edgerton Center subjects and seminars. Permission of Edgerton Center staff required."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in the Edgerton Center."
+        ],
+        [
+            "inst",
+            [
+                "J. K. Vandiver"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate research opportunities in the Edgerton Center."
+        ],
+        [
+            "inst",
+            [
+                "J. K. Vandiver"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Special Subjects"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S00 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S01 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S02 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S03 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S04 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S05 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S06 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S07 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S08 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S09 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S10 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S11 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S12 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EC.S13 Special Subject at the Edgerton Center"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar combining lectures and lab run by students and academic staff at the Edgerton Center. Students explore specialized electronics, robotics, or mechanical design and fabrication topics not offered in the regular curriculum; classes range from beginner level to more advanced. Some offerings may be taught in an intensive fashion (meeting for up to several times a week for four weeks). Up to three sequential seminars may be offered per semester, covering a different topic each time. Students can take one or all of the seminars."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

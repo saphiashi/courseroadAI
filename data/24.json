@@ -1,0 +1,3975 @@
+[
+    "Linguistics and Philosophy (Course 24)",
+    [
+        "head",
+        "Discovery-focused"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.93 The Search for Meaning"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.A03"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "\"We create islands of meaning in the sea of information\" (Freeman Dyson). Primarily explores meanings conveyed through language, with an emphasis on concepts and tools from linguistics. Also brings in ideas from information theory, cryptography, logic, psychology, anthropology, computer science, philosophy, and literature. Topics include human language and its core properties, writing systems, auxiliary systems (talking drums, whistled languages), animal communication systems, the interplay of language and thought, the social dimensions of meaning, the unreasonable effectiveness of cursing, and much more. Includes some reading and thinking outside class, but no problem sets or papers. Subject can count toward the 6-unit discovery-focused credit limit for first-year students."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Philosophy"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.00 Problems of Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the problems of philosophy- in particular, to problems in ethics, metaphysics, theory of knowledge, and philosophy of logic, language, and science. A systematic rather than historical approach. Readings from classical and contemporary sources, but emphasis is on examination and evaluation of proposed solutions to the problems."
+        ],
+        [
+            "inst",
+            [
+                "E. Watkins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.01 Classics of Western Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to Western philosophical tradition through the study of selected major thinkers such as Plato, Aristotle, Lucretius, Descartes, Hobbes, Leibniz, Locke, Berkeley, Hume, Kant, Nietzsche and Marx. Emphasis on changes of intellectual outlook over time, and the complex interplay of scientific, religious and political concerns that influence the development of philosophical ideas."
+        ],
+        [
+            "inst",
+            [
+                "B. Brasher"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.013 Philosophy and the Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores philosophical questions about art in general, and about the particular arts, such as literature and music. Measures the answers philosophers have proposed to these questions against our own experiences with the arts. Readings include short works of literature. Includes a museum visit with no charge to students."
+        ],
+        [
+            "inst",
+            [
+                "B. Skow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.02 Moral Problems and the Good Life"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to important philosophical debates about moral issues and what constitutes a good life: What is right, what is wrong, and why? How important are personal happiness, longevity, and success if one is to live a good life? When is it good for you to get what you want? To what extent are we morally obliged to respect the rights and needs of others? What do we owe the poor, the discriminated, our loved ones, animals and fetuses?"
+        ],
+        [
+            "inst",
+            [
+                "S. Berstler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.03 Good Food: The Ethics and Politics of Food"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the values (aesthetic, moral, cultural, religious, prudential, political) expressed in the choices of food people eat. Analyzes the decisions individuals make about what to eat, how society should manage food production and consumption collectively, and how reflection on food choices might help resolve conflicts between different values."
+        ],
+        [
+            "inst",
+            [
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.04[J] Justice"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.01[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides an introduction to contemporary political thought centered around the ideal of justice and the realities of injustice. Examines what a just society might look like and how we should understand various forms of oppression and domination. Studies three theories of justice (utilitarianism, libertarianism, and egalitarian liberalism) and brings them into conversation with other traditions of political thought (critical theory, communitarianism, republicanism, and post-structuralism). Readings cover foundational debates about equality, freedom, recognition, and power."
+        ],
+        [
+            "inst",
+            [
+                "B. Zacka"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.05 Philosophy of Religion"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Uses key questions in the philosophy of religion to introduce tools of contemporary philosophy. Explores what defines a god, the possibility of the existence of gods, the potential conflict between religion and science, whether morality requires a divine author, and religious tolerance."
+        ],
+        [
+            "inst",
+            [
+                "J. Spencer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.06[J] Bioethics"
+        ],
+        [
+            "prerec",
+            "Same subject as STS.006[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Considers ethical questions that have arisen from the growth of biomedical research and the health-care industry since World War II. Should doctors be allowed to help patients end their lives? If so, when and how? Should embryos be cloned for research and/or reproduction? Should parents be given control over the genetic make-up of their children? What types of living things are appropriate to use as research subjects? How should we distribute scarce and expensive medical resources? Draws on philosophy, history, and anthropology to show how problems in bioethics can be approached from a variety of perspectives."
+        ],
+        [
+            "inst",
+            [
+                "R. Scheffler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.08[J] Philosophical Issues in Brain Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.48[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "An introduction to some central philosophical questions about the mind, specifically those intimately connected with contemporary psychology and neuroscience. Discussions focus on arguments over innate concepts; 'mental images' as pictures in the head; whether color is in the mind or in the world; and whether there can be a science of consciousness. Explains the relevant parts of psychology and neuroscience as the subject proceeds."
+        ],
+        [
+            "inst",
+            [
+                "E. J. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.09 Minds and Machines"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to philosophy of mind. Can computers think? Is the mind an immaterial thing? Alternatively, is the mind the brain? How can creatures like ourselves think thoughts that are about things? Can I know whether your experiences are the same as mine when we both look at raspberries, fire trucks, and stoplights? Can consciousness be given a scientific explanation?"
+        ],
+        [
+            "inst",
+            [
+                "D. Balcarras"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.111 Philosophy of Quantum Mechanics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Quantum mechanics is said to describe a world in which physical objects often lack \"definite\" properties, indeterminism creeps in at the point of \"observation,\" ordinary logic does not apply, and distant events are perfectly yet inexplicably correlated. Examination of these and other issues central to the philosophical foundations of quantum mechanics, with special attention to the measurement problem, no-hidden-variables proofs, and Bell's Inequalities. Rigorous approach to the subject matter nevertheless neither presupposes nor requires the development of detailed technical knowledge of the quantum theory."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.116 Philosophy of Statistics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Studies how to evaluate statistical hypotheses. Critically considers several prominent approaches, including frequentism (with its null hypotheses, test statistics, p-values), likelihoodism (with its likelihood ratios and relative support) and Bayesianism (with its priors, conditionalization, utilities). Focuses on foundations, not technicalities. Previous exposure to statistics will be helpful but isn't required."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.118 Paradox and Infinity"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents highlights of the more technical side of philosophy. Studies a cluster of puzzles, paradoxes, and intellectual wonders - from the higher infinite to Godel's Theorem - and discusses their philosophical implications. Recommended prerequisites: 6.100A, 18.01. Limited to 100."
+        ],
+        [
+            "inst",
+            [
+                "B. Brast-McKie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.121 Metaphysics (24.221)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of basic metaphysical issues concerning existence, the mind-body problem, personal identity, and causation plus its implications for freedom. Classical as well as contemporary readings. Provides practice in written and oral communication."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.122[J] Knowledge, Opinion, and Truth (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as CC.118[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject CC.118[J]. Preference to students in Concourse."
+        ],
+        [
+            "inst",
+            [
+                "L. Rabieh"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.130 Ethics (24.231)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic study of central theories in ethics, including egoism, act and rule utilitarianism, intuitionism, emotivism, rights theories, and contractualism. Discussion and readings also focus on problems associated with moral conflicts, justice, the relationship between rightness and goodness, objective vs. subjective moral judgments, moral truth, and relativism. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "T. Schapiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.131 Ethics of Technology"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the tools of philosophical ethics through application to contemporary issues concerning technology. Takes up current debates on topics such as privacy and surveillance, algorithmic bias, the promise and peril of artificial intelligence, automation and the future of work, and threats to democracy in the digital age from the perspective of users, practitioners, and regulatory/governing bodies."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.132 Workshop in Ethical Engineering"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Students study and apply a protocol for identifying and addressing ethical issues in a computer science, software development, or other engineering project. Builds a vocabulary to advocate for and justify ethical decisions in engineering contexts. For the final project, students either apply the protocol to a project they are working on, or develop their own protocol."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.133 Experiential Ethics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.134"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the ethical context around students' summer internships, research, and other experiential learning activities. During the summer and through the first four weeks of the fall term, students engage in small group discussions of applied ethical practices and case studies. Throughout the subject, they explore their own moral values through a reflective final project that examines their engagement with ethics during their summer experience. Includes local field trips, practitioner interviews, and/or similar opportunities for interaction with professional ethics. Concludes with a showcase of final presentations. Meets with 24.134, a 6-unit version which includes additional class time, assignments, theoretical content, and in-depth engagement.  Students planning to take this subject must apply in the spring; consult program website for details."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.134 Experiential Ethics (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.133"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Examines the ethical context around students' summer internships, research, and other experiential learning activities. During the summer and beginning of fall term, students engage in small group discussions of applied ethical problems. Includes an independent project and opportunities for interaction with professional ethics. Meets with 24.133 but includes additional class time, assignments, theoretical content, and in-depth engagement. Students planning to take this subject must apply in the spring; consult program website for details."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.137[J] Feminist Thought (24.237)"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.007[J], WGS.301[J]\nSubject meets with 17.006[J], 24.637[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject WGS.301[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Wood",
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.141 Logic I (24.241)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the aims and techniques of formal logic. The logic of truth functions and quantifiers. The concepts of validity and truth and their relation to formal deduction. Applications of logic and the place of logic in philosophy."
+        ],
+        [
+            "inst",
+            [
+                "B. Brast-McKie"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.150 Liberalism, Toleration, and Freedom of Speech"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the historical context in which the values of free speech and toleration emerged, the philosophical arguments that were made on their behalf, and the arguments that were and continue to be made against them. Considers arguments against free speech and examines free speech on contemporary college campuses."
+        ],
+        [
+            "inst",
+            [
+                "A. Byrne",
+                "B. Skow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.200 Ancient Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: One Philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates the origins of Western philosophy in ancient Greece. Aims both to understand the philosophical questions the Greeks were asking on their own terms, and to assess their answers to them. Examines how a human being can lead a good life, the relationship between morality and happiness, our knowledge of the world around us, and the entities we need to appeal to in order to explain that world. Students taking graduate version complete additional assignments. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.201 Topics in the History of Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Close examination of a text, an author, or a theme in the history of philosophy. Can be repeated for credit with permission of the instructor and advisor. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "B. Brasher"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.211 Theory of Knowledge"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of problems concerning our concept of knowledge, our knowledge of the past, our knowledge of the thoughts and feelings of ourselves and others, and our knowledge of the existence and properties of physical objects in our immediate environment. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "R. White"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.212 Philosophy of Perception"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth examination of philosophical issues concerning perception, such as whether we see mind-independent physical objects or, alternatively, mind-dependent representations; whether perception is a source of theory-neutral observations or is affected by the perceiver's beliefs in a way that compromises the objectivity of science. Readings primarily drawn from contemporary literature in both philosophy and psychology. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "E. J. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.213 Philosophy of Film"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the philosophical analysis of cinematic art. Topics may include the nature of film, authorship, interpretation, ethical, narration, metaphor, meta-criticism, political and emotional engagement with the cinematic experience. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.215 Topics in the Philosophy of Science"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Close examination of a small number of issues central to recent philosophy of science, such as the demarcation problem, causal relations, laws of nature, underdetermination of theory by data, paradoxes of confirmation, scientific realism, the role of mathematics in science, elimination of bias, and the objectivity of scientific discourse. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "B. Skow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.220 Moral Psychology (24.120)"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame and regret; evil; self-knowledge and self-deception; virtues and character traits. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "T. Schapiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.222 Decisions, Games and Rational Choice"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Foundations and philosophical applications of Bayesian decision theory, game theory and theory of collective choice. Why should degrees of belief be probabilities? Is it always rational to maximize expected utility? If so, why and what is its utility? What is a solution to a game? What does a game-theoretic solution concept such as Nash equilibrium say about how rational players will, or should, act in a game? How are the values and the actions of groups, institutions and societies related to the values and actions of the individuals that constitute them? Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.223 Rationality"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides the tools for thinking through the tension of empirical work that suggests humans are surprisingly irrational and other work that suggests humans are exquisitely rational. Doing so requires combining both normative and descriptive methods: the need to know how ideally rational agents <em>would</em> reason, as well as how real people <em>do</em> reason. The first half of the term is spent learning the details of how to work with the canonical (Bayesian) theory of rationality; it is blackboard- and problem-set based. The second half of the term is spent applying this theory to work out the proper interpretation of a variety of empirical results that have been taken to demonstrate human irrationality, such as hindsight bias, motivated reasoning, the gambler's fallacy, the sunk-cost fallacy, conformity, and polarization. Subject is paper- and discussion-based.   Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "K. Dorst"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.230 Meta-ethics"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Considers a range of philosophical questions about the foundations of morality, such as whether and in what sense morality is objective, the nature of moral discourse, and how we can come to know right from wrong. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.233 The Ethics of Climate Change (24.07)"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Deals with ethical questions raised by the way in which our climate is changing as a result of fossil fuel consumption. Explores the moral problems raised by these effects, the obligations of individuals and governments, the difficulties involved in dealing with uncertainty, catastrophe, and the ethics of future generations. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "C. Hare",
+                "K. Setiya"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.234 Global Justice, Gender, and Development"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.634"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses challenges in working towards global justice including poverty, food and water insecurity, healthcare disparities, human rights violations, violence and dislocation, and environmental risk. Focuses on gender and identity, locating the root causes of inequality within cultural, political and economic contexts. Designed to give a framework to understand gender dynamics. Teaches how to integrate gender sensitive strategies into development work. Classes, readings, and final projects illustrate how design and implementation of international development strategies can provide capacity building and income generation opportunities. Meets with EC.718[J] when offered concurrently. Students taking graduate version complete additional assignments. Limited to 20 total for versions meeting together."
+        ],
+        [
+            "inst",
+            [
+                "S. Haslanger",
+                "L. McDonald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.235[J] Philosophy of Law"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.021[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One philosophy subject or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examines fundamental issues in philosophy of law, such as the nature and limits of law and a legal system, and the relation of law to morality, with particular emphasis on the philosophical issues and problems associated with privacy, liberty, justice, punishment, and responsibility. Historical and contemporary readings, including court cases. Instruction and practice in oral and written communication provided. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.236 Topics in Social Theory and Practice"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.636"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One philsophy subject or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "An in-depth consideration of a topic in social theory with reflection on its implications for social change. Examples of topics include race and racism; punishment and prison reform; global justice and human rights; gender and global care chains; environmentalism and industrial agriculture; bioethics, disability, and human enhancement; capitalism and commodification; and sexuality and the family. Readings draw from both social science and philosophy with special attention to the normative literature relevant to the issue. Students taking graduate version complete additional assignments. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.240[J] Literature and Philosophy (24.140)"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.452[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One philosophy subject "
+            ]
+        ],
+        [
+            "desc",
+            "Highlights interactions between literary and philosophical texts, asking how philosophical themes can be explored in fiction, poetry, and drama. Exposes students to diverse modes of humanistic thought, interpretation, and argument, putting the tools and ideas of philosophy into conversation with those of the literary humanities. Students engage closely with selected literary and philosophical texts, explore selected topics in philosophy - such as ethics, epistemology, and aesthetics - through a literary lens, and participate in class discussion with peers and professors.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Gubar",
+                "K. Setiya"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.242 Logic II"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.141 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "The central results of modern logic: the completeness of predicate logic, recursive functions, the incompleteness of arithmetic, the unprovability of consistency, the indefinability of truth, Skolem-Löwenheim theorems, and nonstandard models. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.243 Classical Set Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.141 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the basic concepts and results of standard, i.e., Zermelo-Fraenkel, set theory, the axioms of ZF, ordinal and cardinal arithmetic, the structure of the set-theoretic universe, the axiom of choice, the (generalized) continuum hypothesis, inaccessibles, and beyond. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.244 Modal Logic"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.141"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Sentential and quantified modal logic, with emphasis on the model theory (\"possible worlds semantics\"). Soundness, completeness, and characterization results for alternative systems. Tense and dynamic logics, epistemic logics, as well as logics of necessity and possibility. Applications in philosophy, theoretical computer science, and linguistics. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.245 Theory of Models"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.141 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies fundamental results in the model theory of the first-order predicate calculus. Includes completeness, compactness, Löwenheim-Skolem, omitting types, ultraproducts, and categoricity in a cardinal, starting with Tarski's definition of logical consequence, in terms of truth in a model. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.251 Introduction to Philosophy of Language"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines views on the nature of meaning, reference, and truth, and their bearing on the use of language in communication. No knowledge of logic or linguistics presupposed. Instruction and practice in oral and written communication provided. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "D. Balcarras"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.252 Language and Power"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores topics at the intersection of philosophy of language and social/political philosophy. Topics may include linguistic harm, free speech, speech in non-cooperative contexts (lying, insincerity, antagonistic interlocutors), propaganda, pejoratives, and the relationship of language to features of the social world (race, gender, ideology). Instruction and practice in oral and written communication provided. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "S. Berstler",
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.253 Philosophy of Mathematics"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Philosophical issues about or related to mathematics, including the existence and nature of basic mathematical objects such as numbers and sets, how we can come to have knowledge of such objects, the status of mathematical truth, the relation of mathematics to logic, and whether classical logic can be called into question. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.260 Topics in Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Two subjects in philosophy"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Close examination of a single book, or group of related essays, with major significance in recent philosophy. Subject matter varies from year to year. Intended primarily for majors and minors in philosophy. Opportunities are provided for oral presentation. Students will be required to revise at least one paper in response to instructor's comments. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "C. Hare"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.280 Foundations of Probability"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or one subject on probability"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics include probability puzzles, common fallacies in probabilistic reasoning, defenses and criticisms of Kolmogorov's axiomatization, interpretations of probability (including the frequency, logical, propensity, and various subjectivist interpretations), the relation of objective chance to rational subjective credence, conditional probability, rules for updating probability, and proposals for supplementing the probability calculus with further principles. Enrollment may be limited; preference to Course 24 majors and minors."
+        ],
+        [
+            "inst",
+            [
+                "R. White"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.292 Independent Study: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Any two subjects in philosophy"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified students who wish to pursue special studies or projects. Students electing this subject must consult the undergraduate officer."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.293 Independent Study: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Any two subjects in philosophy"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified students who wish to pursue special studies or projects. Students electing this subject must consult the undergraduate officer."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S00 Special Subject: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S20 Special Subject: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Research opportunities in linguistics and philosophy. For further information, consult the departmental coordinators."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Research opportunities in linguistics and philosophy. For further information consult the departmental coordinators."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.191 Being, Thinking, Doing (or Not): Ethics in Your Life"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides an opportunity to explore a wide range of ethical issues through guided discussions that are geared to equip students for ongoing reflection and action. Lectures and discussions with guest faculty, as well as attendance at on-and off-campus events, expose students to ethical problems and resources for addressing them. Encourages students to work collaboratively as they clarify their personal and vocational principles. Topics vary each term and will reflect the interests of those enrolled."
+        ],
+        [
+            "inst",
+            [
+                "N. Lytton",
+                "E. Watkins"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.192 Language, Information, and Power"
+        ],
+        [
+            "prerec",
+            "Prereq: One philosophy subject or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores foundational issues about language and communication by investigating different ways language and its use affects various aspects of lived experience. Topics include speech act theory, lying, propaganda, censorship, expressions of knowledge, communication in non-cooperative contexts."
+        ],
+        [
+            "inst",
+            [
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.400 Proseminar in Philosophy I"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced study of the basic problems of philosophy. Intended for first-year graduate students in philosophy."
+        ],
+        [
+            "inst",
+            [
+                "A. Rayo",
+                "K. Setiya"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.401 Proseminar in Philosophy II"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced study of the basic problems of philosophy. Intended for first-year graduate students in philosophy."
+        ],
+        [
+            "inst",
+            [
+                "A. Byrne",
+                "R. White"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.410 Topics in the History of Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Intensive study of a philosopher or philosophical movement. Content varies from year to year and subject may be taken repeatedly with permission of instructor and advisor."
+        ],
+        [
+            "inst",
+            [
+                "T. Schapiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.420 Ancient Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates the origins of Western philosophy in ancient Greece. Aims both to understand the philosophical questions the Greeks were asking on their own terms, and to assess their answers to them. Examines how a human being can lead a good life, the relationship between morality and happiness, our knowledge of the world around us, and the entities we need to appeal to in order to explain that world. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.500 Topics in Philosophy of Mind"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Selected topics in philosophy of mind. Content varies from year to year. Topics may include consciousness, mental representation, perception, and mental causation."
+        ],
+        [
+            "inst",
+            [
+                "A. Byrne"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.501 Problems in Metaphysics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic examination of selected problems in metaphysics. Content varies from year to year and subject may be taken repeatedly with permission of instructor and advisor."
+        ],
+        [
+            "inst",
+            [
+                "J. Spencer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.502 Topics in Metaphysics and Ethics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic examination of selected problems concerning the relation between metaphysics and ethics, for example questions about personal identity and its relation to issues about fairness and distribution, or questions about the relation between causation and responsibility. Content may vary from year to year, and the subject may be taken repeatedly with the permission of the instructor and the student's advisor."
+        ],
+        [
+            "inst",
+            [
+                "J. Khoo",
+                "T. Schapiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.503 Topics in Philosophy of Religion"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Selected topics in philosophy of religion. Content varies from year to year. Topics may include the traditional arguments for the existence of God, religious experience, the problem of evil, survival after death, God and ethics."
+        ],
+        [
+            "inst",
+            [
+                "A. Byrne"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.504 Topics in Aesthetics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Selected topics in aesthetics. Content varies from year to year. Topics may include the definition of art, the expression of emotion in music, the nature of depiction, the role of artists intentions in interpretation, and the relationship between moral and aesthetic value."
+        ],
+        [
+            "inst",
+            [
+                "B. Skow",
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.601 Topics in Moral Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic examination of selected problems in moral philosophy. Content varies from year to year. Subject may be repeated only with permission of instructor and advisor."
+        ],
+        [
+            "inst",
+            [
+                "T. Schapiro",
+                "K. Setiya"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.602 Topics in the Philosophy of Agency"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Systematic examination of selected problems in the theory of agency. Content varies from year to year and subject may be taken repeatedly with permission of instructor and advisor."
+        ],
+        [
+            "inst",
+            [
+                "T. Schapiro"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.611[J] Political Philosophy"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.000[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.000[J]."
+        ],
+        [
+            "inst",
+            [
+                "Fall: B. Zacka. Spring: B. Skow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.634 Global Justice, Gender, and Development"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.234"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses challenges in working towards global justice including poverty, food and water insecurity, healthcare disparities, human rights violations, violence and dislocation, and environmental risk. Focuses on gender and identity, locating the root causes of inequality within cultural, political and economic contexts. Designed to give a framework to understand gender dynamics. Teaches how to integrate gender sensitive strategies into development work. Classes, readings, and final projects illustrate how design and implementation of international development strategies can provide capacity building and income generation opportunities. Meets with EC.798 when offered concurrently. Students taking graduate version complete additional assignments. Limited to 20 total for versions meeting together."
+        ],
+        [
+            "inst",
+            [
+                "S. Haslanger",
+                "L. McDonald"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.635 Topics in Critical Social Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores topics arising within critical race theory, feminist theory, queer theory, disability studies, working class studies, and related interdisciplinary efforts - both historical and contemporary - to understand and promote social justice."
+        ],
+        [
+            "inst",
+            [
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.636 Topics in Social Theory and Practice"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.236"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One philosophy subject or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "An in-depth consideration of a topic in social theory with reflection on its implications for social change. Examples of topics include race and racism; punishment and prison reform; global justice and human rights; gender and global care chains; environmentalism and industrial agriculture; bioethics, disability, and human enhancement; capitalism and commodification; and sexuality and the family. Readings draw from both social science and philosophy with special attention to the normative literature relevant to the issue. Students taking graduate version complete additional assignments. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "S. Haslanger"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.637[J] Feminist Thought"
+        ],
+        [
+            "prerec",
+            "Same subject as 17.006[J]\nSubject meets with 17.007[J], 24.137[J], WGS.301[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor, based on previous coursework "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 17.006[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.711 Topics in Philosophical Logic"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Problems of ontology, epistemology, and philosophy of language that bear directly on questions about the nature of logic and the conceptual analysis of logical theory, such as logical truth, logical consequence, and proof. Content varies from year to year and subject may be taken repeatedly upon permission of instructor and advisor."
+        ],
+        [
+            "inst",
+            [
+                "V. McGee"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.729 Topics in Philosophy of Language"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Major issues in the philosophy of language. Topics change each year and subject may be taken repeatedly with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "R. Stalnaker"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.805 Topics in Theory of Knowledge"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Major issues in theory of knowledge. Topics change each year and subject may be taken repeatedly with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "K. Dorst",
+                "C. Hare"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.810 Topics in Philosophy of Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics in the foundations of science: the nature of concepts and theories, the distinction between empirical and theoretical knowledge claims, realist and instrumentalist interpretation of such claims, and the analysis of scientific explanation. The central topic varies from year to year. Subject may be taken repeatedly with the permission of instructor and advisor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.891 Independent Study: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified graduate students in philosophy who wish to pursue special studies or projects. Consult with the intended supervisor and the Chair of the Committee on Graduate Students in Philosophy before registering."
+        ],
+        [
+            "inst",
+            [
+                "B. Skow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.892 Independent Study: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified graduate students in philosophy who wish to pursue special studies or projects. Consult with the intended supervisor and the Chair of the Committee on Graduate Students in Philosophy before registering."
+        ],
+        [
+            "inst",
+            [
+                "Consult B. Skow"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.893 Dissertation Workshop"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Workshop for students working on their dissertations. Restricted to Philosophy doctoral students."
+        ],
+        [
+            "inst",
+            [
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.894 Placement Workshop"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Workshop for students planning to apply for academic jobs in the following year. Advice and feedback on preparation of application materials, including writing sample, thesis abstract, and course syllabi. Limited to philosophy graduate students."
+        ],
+        [
+            "inst",
+            [
+                "K. Setiya"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.899 Topics in Linguistics and Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Selected topics at the intersection of linguistics and philosophy. Intended for graduate students in either linguistics or philosophy. Topics vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel",
+                "S. Iatridou",
+                "J. Khoo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research and writing of thesis, to be arranged by the student with supervising committee."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S40 Special Seminar: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S41 Special Seminar: Philosophy"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Linguistics"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.900 Introduction to Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies what is language and what does knowledge of a language consist of. It asks how do children learn languages and is language unique to humans; why are there many languages; how do languages change; is any language or dialect superior to another; and how are speech and writing related. Context for these and similar questions provided by basic examination of internal organization of sentences, words, and sound systems. Assumes no prior training in linguistics."
+        ],
+        [
+            "inst",
+            [
+                "Fall: A. Albright  Spring: D. Steriade"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.9000 How Language Works"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the field of linguistics as the scientific study of the human capacity for language, and its interaction with other cognitive systems. Examines specific phenomena that reveal the general laws and principles that govern the structure of all human languages, as well as the ways in which languages do differ. Topics include language acquisition and use, language change, dialects, and language technologies, with a special focus on collection and analysis of linguistic data. Assumes no prior training in linguistics."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.901 Language and Its Structure I: Phonology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.931"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a> or <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental concepts in phonological theory and their relation to issues in philosophy and cognitive psychology. Articulatory and acoustic phonetics, distinctive features and the structure of feature systems, underlying representations and underspecification, phonological rules and derivations, syllable structure, accentual systems, and the morphology-phonology interface. Examples and exercises from a variety of languages. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. Steriade"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.902 Language and Its Structure II: Syntax"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.932"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a> or <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental concepts in syntactic theory and its relation to issues in philosophy and cognitive psychology. Examples and exercises from a variety of languages. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Grishin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.903 Language and Its Structure III: Semantics and Pragmatics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.933"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a> or <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental concepts in semantic and pragmatic theory. Basic issues of form and meaning in natural languages. Ambiguities of structure and of meaning. Compositionality. Word meaning. Quantification and logical form. Contexts: indexicality, discourse, presupposition and conversational implicature. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.904 Language Acquisition"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.934"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a>, <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the major results in the study of first-language acquisition concentrating on the development of linguistic structure, including morphology, syntax, and semantics. Universal aspects of development are discussed, as well as a variety of cross-linguistic phenomena. Theories of language learning are considered, including parameter-setting and maturation."
+        ],
+        [
+            "inst",
+            [
+                "A. Aravind"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.905[J] Laboratory in Psycholinguistics"
+        ],
+        [
+            "prerec",
+            "Same subject as 9.59[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 9.59[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Gibson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.906[J] The Linguistic Study of Bilingualism"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.024[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a> or <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Development of bilingualism in human history (from Australopithecus to present day). Focuses on linguistic aspects of bilingualism; models of bilingualism and language acquisition; competence versus performance; effects of bilingualism on other domains of human cognition; brain imaging studies; early versus late bilingualism; opportunities to observe and conduct original research; and implications for educational policies among others. Students participate in six online web meetings with partner institutions. Taught in English. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "S. Flynn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.908 Creole Languages and Caribbean Identities"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Caribbean Creole languages result from language contact via colonization and the slave trade. Explores creolization from cognitive, historical and comparative perspectives and evaluates popular theories about \"Creole genesis\" and the role of language acquisition. Also explores non-linguistic creolization in literature, religion and music in the Caribbean and addresses issues of Caribbean identities by examining Creole speakers' and others' beliefs toward Creole cultures. Draws comparisons with aspects of African-American culture."
+        ],
+        [
+            "inst",
+            [
+                "M. DeGraff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.909 Field Methods in Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.901, 24.902, and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the structure of an unfamiliar language through direct work with a native speaker. Students complete a grammatical sketch of the phonology and syntax, work in groups on specific aspects of the language's structure, and assemble reports to create a partial grammar of the language. Provides instruction and practice in written and oral communication. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Ershova"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.910 Advanced Topics in Linguistic Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: (24.901, 24.902, and 24.903) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth study of an advanced topic in phonetics, phonology, morphology, syntax or semantics, with a focus on the interfaces among these grammar components. Provides practice in written and oral communication."
+        ],
+        [
+            "inst",
+            [
+                "K. Ershova"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.912[J] Black Matters: Introduction to Black Studies"
+        ],
+        [
+            "prerec",
+            "Same subject as 21H.106[J], 21L.008[J], 21W.741[J], CMS.150[J], WGS.190[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Interdisciplinary survey of people of African descent that draws on the overlapping approaches of history, literature, anthropology, legal studies, media studies, performance, linguistics, and creative writing. Connects the experiences of African-Americans and of other American minorities, focusing on social, political, and cultural histories, and on linguistic patterns. Includes lectures, discussions, workshops, and required field trips that involve minimal cost to students."
+        ],
+        [
+            "inst",
+            [
+                "D. Wood"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.914 Language Variation and Change"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.900 or 24.9000"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how linguistic systems vary across time and space. Uses case studies in particular languages to examine how language transmission and social factors shape the grammatical systems of individual speakers, and how grammar constrains variation and change. Students work in groups to analyze corpus or survey data. Provides instruction and practice in written and oral communication."
+        ],
+        [
+            "inst",
+            [
+                "E. Flemming"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.915 Linguistic Phonetics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.963"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a> or <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a> "
+            ]
+        ],
+        [
+            "desc",
+            "The study of speech sounds: how we produce and perceive them and their acoustic properties. The influence of the production and perception systems on phonological patterns and sound change. Acoustic analysis and experimental techniques. Students taking the graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Flemming"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.916[J] Old English and Beowulf"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.601[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.601[J]. Limited to 16."
+        ],
+        [
+            "inst",
+            [
+                "A. Bahr"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.917 ConLangs: How to Construct a Language"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores languages that have been deliberately constructed (ConLangs), including Esperanto, Klingon, and Tolkien's Elvish. Students construct their own languages while considering phenomena from a variety of languages of the world. Topics include writing systems, phonology (basic units of speech and how they combine), morphology (structure of words), syntax (how words are put together), and semantics (the expression of meaning, and what language leaves unexpressed). Through regular assignments, students describe their constructed language in light of the topics discussed. Final assignment is a grammatical description of the new language."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.918 Workshop in Linguistic Research"
+        ],
+        [
+            "prerec",
+            "Prereq: (24.901, 24.902, and 24.903) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students pursue individual research projects in linguistic analysis under the guidance of an advisor. Class meets weekly for presentation of student research and to critically discuss background reading. Focuses on developing skills in linguistic argumentation and presentation of findings. Provides practice in written and oral communication. Includes a 20-page final paper that each student presents to the class."
+        ],
+        [
+            "inst",
+            [
+                "S. Flynn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.919 Independent Study: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified students who wish to pursue special studies or projects."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Headquarters"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Research opportunities in linguistics and philosophy. For further information, consult the departmental coordinators."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Research opportunities in linguistics and philosophy. For further information consult the departmental coordinators."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S90 Special Subject: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.900 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "H. Kotek"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.921 Independent Study: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of advisor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified graduate students in linguistics who wish to pursue special studies or projects."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Headquarters"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.922 Independent Study: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of advisor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified graduate students in linguistics who wish to pursue special studies or projects."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Headquarters"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.931 Language and Its Structure I: Phonology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.901"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a>, <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental concepts in phonological theory and their relation to issues in philosophy and cognitive psychology. Articulatory and acoustic phonetics, distinctive features and the structure of feature systems, underlying representations and underspecification, phonological rules and derivations, syllable structure, accentual systems, and the morphology-phonology interface. Examples and exercises from a variety of languages. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "D. Steriade"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.932 Language and Its Structure II: Syntax"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.902"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a>, <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental concepts in syntactic theory and its relation to issues in philosophy and cognitive psychology. Examples and exercises from a variety of languages. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Grishin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.933 Language and Its Structure III: Semantics and Pragmatics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.903"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a>, <a href=\"/search/?P=24.9000\" title=\"24.9000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.9000');\">24.9000</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to fundamental concepts in semantic and pragmatic theory. Basic issues of form and meaning in natural languages. Ambiguities of structure and of meaning. Compositionality. Word meaning. Quantification and logical form. Contexts: indexicality, discourse, presupposition and conversational implicature. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.934 Language Acquisition"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.904"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers the major results in the study of first-language acquisition concentrating on the development of linguistic structure, including morphology, syntax, and semantics. Universal aspects of development are discussed, as well as a variety of cross-linguistic phenomena. Theories of language learning are considered. Students taking graduate version complete different assignments. "
+        ],
+        [
+            "inst",
+            [
+                "A. Aravind"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.942 Topics in the Grammar of a Less Familiar Language"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.951"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students work with a native speaker of a language whose structure is significantly different from English, examining aspects of its syntax, semantics, and phonology. In the course of doing this, students acquire techniques for gathering linguistic data from native speakers. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "N. Richards",
+                "M. Kenstowicz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.943 Syntax of a Language (Family)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Detailed examination of the syntax of a particular language or language family, and theories proposed in the existing literature to account for the observed phenomena."
+        ],
+        [
+            "inst",
+            [
+                "M. DeGraff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.946 Linguistic Theory and Japanese Language"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Detailed examination of the grammar of Japanese and its structure which is significantly different from English, with special emphasis on problems of interest in the study of linguistic universals. Data from a broad group of languages studied for comparison with Japanese. Assumes familiarity with linguistic theory."
+        ],
+        [
+            "inst",
+            [
+                "S. Miyagawa"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.947 Language Disorders in Children"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Reading and discussion of current linguistic theory, first language acquisition and language disorders in young children. Focus on development of a principled understanding of language disorders at the phonological, morphological and syntactic levels. Examines ways in which these disorders confront theories of language and acquisition."
+        ],
+        [
+            "inst",
+            [
+                "S. Flynn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.948 Linguistic Theory and Second and Third Language Acquisition in Children and Adults"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students read and discuss current linguistic theory, first language acquisition research, and data concerning second and third language acquisition in adults and children. Focuses on development of a theory of second and third language acquisition within current theories of language. Emphasizes syntactic, lexical, and phonological development. Examines ways in which these bodies of data confront theories of language and the mind. When possible, students participate in practica with second and/or third language learners."
+        ],
+        [
+            "inst",
+            [
+                "S. Flynn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.949 Language Acquisition I"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.952, 24.970, and 24.973"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Lectures, reading, and discussion of current theory and data concerning the psychology and biology of language acquisition. Emphasizes learning of syntax, semantics, and morphology, together with some discussion of phonology, and especially research relating grammatical theory and learnability theory to empirical studies of children."
+        ],
+        [
+            "inst",
+            [
+                "A. Aravind"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.951 Introduction to Syntax"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to theories of syntax underlying work currently being done within the lexical-functional and government-binding frameworks. Organized into three interrelated parts, each focused upon a particular area of concern: phrase structure; the lexicon; and principles and parameters. Grammatical rules and processes constitute a focus of attention throughout the course that serve to reveal both modular structure of grammar and interaction of grammatical components."
+        ],
+        [
+            "inst",
+            [
+                "S. Iatridou",
+                "N. Richards"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.952 Advanced Syntax"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.951"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Problems in constructing an explanatory theory of grammatical representation. Topics drawn from current work on anaphora, casemarking, control, argument structure, Wh- and related constructions. Study of language-particular parameters in the formulation of linguistic universals."
+        ],
+        [
+            "inst",
+            [
+                "A. Aravind",
+                "D. Pesetsky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.954 Pragmatics in Linguistic Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Formal theories of context-dependency, presupposition, implicature, context-change, focus and topic. Special emphasis on the division of labor between semantics and pragmatics. Applications to the analysis of quantification, definiteness, presupposition projection, conditionals and modality, anaphora, questions and answers."
+        ],
+        [
+            "inst",
+            [
+                "A. Anvari",
+                "D. Fox"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.955 More Advanced Syntax"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.951 and 24.952"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "An advanced-level survey of topics in syntax."
+        ],
+        [
+            "inst",
+            [
+                "S. Iatridou",
+                "W. Oxford"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.956 Topics in Syntax"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.951"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "The nature of linguistic universals that make it possible for languages to differ and place limits on these differences. Study of selected problem areas show how data from particular languages contribute to the development of a strong theory of universal grammar and how such a theory dictates solutions to traditional problems in the syntax of particular languages."
+        ],
+        [
+            "inst",
+            [
+                "Fall: K. Ershova. Spring: P. Grishin",
+                "E. Newman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.960 Syntactic Models"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.951 and 24.952"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Comparison of different proposed architectures for the syntax module of grammar. Subject traces several themes across a wide variety of approaches, with emphasis on testable differences among models. Models discussed include ancient and medieval proposals, structuralism, early generative grammar, generative semantics, government-binding theory/minimalism, LFG, HPSG, TAG, functionalist perspectives and others."
+        ],
+        [
+            "inst",
+            [
+                "D. Pesetsky"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.961 Introduction to Phonology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "First half of a year-long introduction to the phonological component of grammar. Introduces the major research results, questions, and analytic techniques in the field of phonology. Focuses on segmental feature structure and prosodic structure while the sequel (24.962) considers the interfaces of phonology with morphology, syntax, and the lexicon. Students should have basic knowledge of articulatory phonetic description and phonetic transcription."
+        ],
+        [
+            "inst",
+            [
+                "E. Flemming",
+                "M. Kenstowicz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.962 Advanced Phonology"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.961"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Continuation of 24.961."
+        ],
+        [
+            "inst",
+            [
+                "A. Albright"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.963 Linguistic Phonetics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 24.915"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "The study of speech sounds: how we produce and perceive them and their acoustic properties. The influence of the production and perception systems on phonological patterns and sound change. Acoustic analysis and experimental techniques. Students taking the graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Flemming"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.964 Topics in Phonology"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.961"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "In-depth study of a topic in current phonological theory."
+        ],
+        [
+            "inst",
+            [
+                "D. Steriade",
+                "K. Ryan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.965 Morphology"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Structure of the lexicon and its function in grammar. Properties of word-formation rules. Problems of selection, productivity, and compositionality. Systems of inflectional categories: case and tense. Phonological aspects of word structure: allomorphy, cyclic phonology, constituent structure, and boundaries. Detailed analysis of languages with complex morphology."
+        ],
+        [
+            "inst",
+            [
+                "S.  Zompì"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.967 Topics in Experimental Phonology"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.961, 24.963, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Experimental techniques to test predictions drawn from current phonological theory. Includes a survey of experimental methodologies currently in use, an introduction to experimental design and analysis, and critical consideration of how experimental results are used to inform theory."
+        ],
+        [
+            "inst",
+            [
+                "A. Albright",
+                "E. Flemming"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.970 Introduction to Semantics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic issues of form and meaning in formalized and natural languages. Conceptual, logical, and linguistic questions about truth. Reference, modal, and intensional notions. The role of grammar in language use and context-dependency. Ambiguities of structure and meaning, and dimensions of semantic variation in syntax and the lexicon."
+        ],
+        [
+            "inst",
+            [
+                "K. von Fintel",
+                "V. Schmitt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.973 Advanced Semantics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Current work on semantics and questions of logic and meaning for syntactic systems in generative grammar."
+        ],
+        [
+            "inst",
+            [
+                "A. Anvari",
+                "V. Schmitt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.979 Topics in Semantics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar on current research in semantics and generative grammar. Topics may vary from year to year."
+        ],
+        [
+            "inst",
+            [
+                "Fall: A. Anvari. Spring: D. Fox",
+                "V. Schmitt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.981 Topics in Computational Phonology"
+        ],
+        [
+            "prerec",
+            "Prereq: 24.961 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Exploration of issues in the computational modeling of phonology: finding generalizations in data, formalisms for representing phonological knowledge, modeling grammar acquisition, and testing phonological theories by means of implemented models. Experience using and developing models, including preparing training data, running simulations, and interpreting their results. No background in programming or machine learning is assumed."
+        ],
+        [
+            "inst",
+            [
+                "G. Magri"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.982 Topics in Computational Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Exploration of current issues in computational linguistics and their relationship to linguistic theory."
+        ],
+        [
+            "inst",
+            [
+                "J. Rawski"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.983 Methods in Computational Linguistics (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar on current models and techniques in computational linguistics. Instruction provided in implementing and using models, including model training, evaluation, and interpretation. No background in programming or machine learning is assumed."
+        ],
+        [
+            "inst",
+            [
+                "F. Davis"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.984[J] Natural Language and the Computer Representation of Knowledge (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.8630[J], 9.611[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.4100\" title=\"6.4100\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.4100');\">6.4100</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.8630[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. C. Berwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.991 Workshop in Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An intensive group tutorial/seminar for discussion of research being conducted by participants. No listeners."
+        ],
+        [
+            "inst",
+            [
+                "Fall:  M. Kenstowicz",
+                "S. Iatridou. Spring: M. Kenstowicz",
+                "N. Richards"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.993 Tutorial in Linguistics and Related Fields"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual or small-group tutorial in which students, under the guidance of a faculty member, explore the interrelations with linguistics of some specified area."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department Headquarters"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.995 Linguistics Professional Perspective"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Required for linguistics doctoral students to explore and gain professional perspective through industry and academic experiences. Professional perspective options include industry internships, academic internships, or training for academia. For an internship experience, an offer from a company or organization is required prior to enrollment. A written report is required upon completion of the experience. Proposals subject to departmental approval in consultation with advisor."
+        ],
+        [
+            "inst",
+            [
+                "Consult Department"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research and writing of thesis, to be arranged by the student with supervising committee."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S93 Special Seminar: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S94 Special Seminar: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Half-term subject that covers topics in linguistics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S95 Special Seminar: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "M. Honda"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "24.S96 Special Seminar: Linguistics"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Graduate subject that covers topics not offered in the regular curriculum. Consult department to learn of offerings for a particular term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,4974 @@
+[
+    "Music and Theater Arts (Course 21M)",
+    [
+        "head",
+        "Music"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.011 Introduction to Western Music"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a broad overview of Western music from the Middle Ages to the 21st century, with emphasis on late baroque, classical, romantic, and modernist styles. Designed to enhance the musical experience by developing listening skills and an understanding of diverse forms and genres. Major composers and works placed in social and cultural contexts. Weekly lectures feature demonstrations by professional performers and introduce topics to be discussed in sections. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "E. Pollock",
+                "M. Marks, T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.013[J] The Supernatural in Music, Literature and Culture"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.013[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the relationship between music and the supernatural, focusing on the social history and context of supernatural beliefs as reflected in key literary and musical works from 1600 to the present. Provides an understanding of the place of ambiguity and the role of interpretation in culture, science and art. Explores great works of art by Shakespeare, Verdi, Goethe (in translation), Gounod, Henry James and Benjamin Britten. Readings also include selections from the most recent scholarship on magic and the supernatural. Writing assignments range from web-based projects to analytic essays. No previous experience in music is necessary. Projected guest lectures, musical performances, field trips. Limited to 36."
+        ],
+        [
+            "inst",
+            [
+                "C. Shadle",
+                "M. Fuller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.030 Introduction to Musics of the World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "An introduction to diverse musical traditions of the world. Music from a wide range of geographical areas is studied in terms of structure, performance practice, social use, aesthetics, and cross-cultural contact. Includes music making, live demonstrations by guest artists, and ethnographic research projects. Enrollment limited by lottery."
+        ],
+        [
+            "inst",
+            [
+                "P. Tang",
+                "L. Tilley",
+                "E. Ziporyn"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.051 Fundamentals of Music"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to the rudiments of music through oral, aural, and written practice utilizing rhythm, melody, intervals, scales, chords, and musical notation. Individual skills are addressed through a variety of approaches, including keyboard practice in the required piano labs and sight singing lab. Intended for students with little to no prior experience reading music or performing. Not open to students who have completed 21M.150, 21M.151, 21M.301, or are participating in a performance ensemble where written music is employed. Limited to 20 per section by lottery."
+        ],
+        [
+            "inst",
+            [
+                "S. Iker",
+                "N. Lam",
+                "D. David"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.053 Rhythms of the World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Experiential, fully-embodied exploration into the fundamentals of music through the lens of largely non-Western, aural music cultures. From Bali to Ghana, Cuba to India, Zimbabwe to Andalucía, and through popular musics across the globe, students think about, talk about, and make music in new ways. Examines some of the basic concepts of music — structure, melody-making, meter, rhythm, interaction, movement, etc. — studying their diverse incarnations in different music cultures and encouraging a breadth of perspective and engagement. Students engage with a diverse blend of musical practices through music-making, in-depth discussion, listening and analysis, and creative composition. No musical experience required. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "L. Tilley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.065 Introduction to Musical Composition"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Through a progressive series of composition projects, students investigate the sonic organization of musical works and performances, focusing on fundamental questions of unity and variety. Aesthetic issues are considered in the pragmatic context of the instructions that composers provide to achieve a desired musical result, whether these instructions are notated in prose, as graphic images, or in symbolic notation. Weekly listening, reading, and composition assignments draw on a broad range of musical styles and intellectual traditions, from various cultures and historical periods. Basic music reading skills required.  Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "E. Ziporyn "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.080 Introduction to Music Technology"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.560"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates how technology is used in the analysis, modeling, synthesis and composition of music, and its contribution to the artistic production practice. With an eye towards historical context as well as modern usage, topics include the physics of sound, digital representations of music, the Digital Audio Workstation (DAW), analog and digital synthesis techniques, MIDI and sequencing, electronic instrument design, notation software, generative music systems, and computational analysis of music. Weekly assignments focus on both theory and practice, requiring technical proficiency, creative output, and aesthetic consideration. Students taking graduate version complete different assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.120 Tuning Systems and Temperament"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys selected tunings of the scale, including Pythagorean, just intonation, mean-tone, and equal temperaments, as well as non-Western systems and the impact of tunings and temperaments on musical composition and performance. Student projects will be based on live demonstrations as well as reading and listening assignments."
+        ],
+        [
+            "inst",
+            [
+                "T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.128 Moments in Music: History/Culture A"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines a particular moment in music history, an era, style, or even the composition of a major work through analysis and cultural context. Goes into further depth on a particular topic than would be possible in a longer survey. Periods and topics vary. Examples include minimalism, The Beatles, A Cappella, or The Lion King. May be repeated once for credit if content differs. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Marks",
+                "T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.129 Moments in Music: History/Culture B"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Examines a particular moment in music history, an era, style, or even the composition of a major work through analysis and cultural context. Goes into further depth on a particular topic than would be possible in a longer survey. Periods and topics vary. Examples include minimalism, The Beatles, A Cappella, or The Lion King. May be repeated once for credit if content differs. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Marks",
+                "T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.138 Moments in Music: Composition A"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Practice in a particular compositional technique not normally covered in the Harmony and Counterpoint or Musical Composition sequences. Possible topics include Renaissance counterpoint, fugue, ragtime, or indeterminacy. May be repeated once for credit if content differs. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Shadle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.139 Moments in Music: Composition B"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Practice in a particular compositional technique not normally covered in the Harmony and Counterpoint or Musical Composition sequences. Possible topics include Renaissance counterpoint, fugue, ragtime, or indeterminacy. May be repeated once for credit if content differs. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Shadle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.150 Introductory Music Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; first half of term)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to theoretical elements of music for students who need preparation in the fundamentals of music theory prior to taking 21M.301. Requires ability to read notation in at least one clef. Covers many of the same topics as 21M.051 but at a faster pace. Coverage includes intervals, triads, major and minor keys, basic musical analysis over a variety of idioms in Western music. Also emphasizes developing the ear, voice, and keyboard skills. Not open to students who have completed 21M.051, 21M.151, 21M.301 or 21M.302. 21M.150 is offered first half of term; 21M.151 is offered second half of term. Limited to 20 per section by lottery."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.151 Introductory Music Theory"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to theoretical elements of music for students who need preparation in the fundamentals of music theory prior to taking 21M.301. Requires ability to read notation in at least one clef. Covers many of the same topics as 21M.051 but at a faster pace. Coverage includes intervals, triads, major and minor keys, basic musical analysis over a variety of idioms in Western music. Also emphasizes developing the ear, voice, and keyboard skills. Not open to students who have completed 21M.051, 21M.150, 21M.301 or 21M.302. Offered second half of term or IAP. Limited to 20 per section by lottery."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.158 Moments in Music: Theory and Analysis A"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Specific musical compositions or topics in music theory will provide the basis for analysis and close reading. Topics vary. Examples include a Bach Cantana, a Beethoven Quartet, Pierrot Lunaire, or cross-cultural musical analysis. May be repeated once for credit if content differs. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.159 Moments in Music: Theory and Analysis B"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Specific musical compositions or topics in music theory will provide the basis for analysis and close reading. Topics vary. Examples include a Bach Cantana, a Beethoven Quartet, Pierrot Lunaire, or cross-cultural musical analysis. May be repeated once for credit if content differs. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.215 Music of the Americas"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A survey of the music of North and South America from the Renaissance to the present, with emphasis on the cross-fertilizations of indigenous and European traditions. Listening assignments will focus on composers as varied as Copland and Still, Revueltas and Chihara."
+        ],
+        [
+            "inst",
+            [
+                "C. Shadle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.220 Medieval and Renaissance Music"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 21M.301"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines European, Mediterranean basin, and Latin American music in the ancient world, Middle Ages, and the Renaissance (to 1630). Interweaves a chronological survey with the intensive study of three topics, which are usually chant and its development, music in Italy 1340-1420, and music in Elizabethan England. Focuses on methods and pitfalls in studying music of the distant past. Students work with original sources and facsimiles in crafting research papers, presentation, and assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Cuthbert"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.223 Folk Music of the British Isles and North America"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the production, transmission, preservation and the qualities of folk music in the British Isles and North America from the 18th century to the folk revival of the 1960s and the present. Special emphasis on balladry, fiddle styles, and African-American influences. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Maurer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.226 Jazz"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Historical survey from roots in African and American contexts, including spirituals, blues, and ragtime, through early jazz, Swing, bebop, and post-bop movements, with attention to recent developments. Key jazz styles, the relation of music and society, and major figures such as Armstrong, Ellington, Basie, Goodman, Parker, Monk, Mingus, Coltrane, and others are considered. Some investigation of cross-influences with popular, classical, folk, and rock musics. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.235 Baroque and Classical Music"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys genres from the Western tradition composed in the 17th and 18th centuries: opera, cantata, oratorio, sonata, concerto, quartet and symphony. Includes the composers Monteverdi, Purcell, Lully, Strozzi, Vivaldi, Bach, Handel, Haydn, Bologne, and Mozart. Bases written essays, projects, and oral presentations on live performances as well as listening and reading assignments. Basic music score-reading ability required."
+        ],
+        [
+            "inst",
+            [
+                "T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.250 Nineteenth-Century Music"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys 19th century Western concert music including Lied/song, choral music, opera, piano sonata/character piece, concerto, and symphony/symphonic poem. Includes the composers Beethoven, Schubert, Berlioz, Chopin, Farrenc, Brahms, Verdi, Tchaikovsky, Beach, Smyth, and Mahler. Bases written work and oral presentations on live performances as well as listening and reading assignments. Basic score-reading ability recommended."
+        ],
+        [
+            "inst",
+            [
+                "T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.260 Music since 1900"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys musical works drawn from many genres, representing stylistic movements that have transformed classical music over the past hundred years. Focal topics include musical modernism, serialism, neoclassicism, nationalism and ideology, minimalism, and aleatoric and noise composition experiments. Discusses electronic and computer music, and new media and the postmodern present. Begins with Stravinsky's early ballets and ends with music by current MIT composers and other important figures active today. Ability to read music required. Instruction and practice in oral and written communication provided."
+        ],
+        [
+            "inst",
+            [
+                "M. Marks"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.269 Studies in Western Music History"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores particular questions or repertories in Western classical music. Requires individual participation, presentations, and writing. Topics vary each year. Examples include women in music, musical borrowing, the Ars Nova, Schumann, or music after 1990. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.271 Symphony and Concerto"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the style, form, and history of approximately two dozen pieces of canonical symphonic repertoire. Students write short reviews of musicological articles on the rich cultural history of selected works and complete one project about classical music in contemporary society. Basic score-reading ability required."
+        ],
+        [
+            "inst",
+            [
+                "E. Pollock"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.273 Opera"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on the different styles and dramatic approaches exhibited by a range of operas. Important themes include dramatic and musical conventions, processes of adaptation, cultural and critical questions, and staging as a type of interpretation. Basic score-reading ability required."
+        ],
+        [
+            "inst",
+            [
+                "E. Pollock"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.283 Musicals"
+        ],
+        [
+            "prerec",
+            "Prereq: One subject in film, music, or theater or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers Broadway works and Hollywood films in depth. Proceeds chronologically, exploring landmark stage musicals and films, within four historical categories: breakthrough musicals of the 1920s and '30s; classic \"book musicals\" of the '40s and '50s; modernist and concept musicals of the '60s and '70s; and postmodern and cutting-edge works of the '80s and '90s. Attention given to the role of music in relation to script, characterization, and dramatic structure. Final papers involve comparison of one stage and one film work, selected in consultation with the instructor. Oral presentations required and in-class performances encouraged."
+        ],
+        [
+            "inst",
+            [
+                "M. Marks"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.284 Film Music"
+        ],
+        [
+            "prerec",
+            "Subject meets with CMS.925"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Provides a conceptual foundation and methodology for the study of music created for various types of (mainly) narrative films, from the medium's origins in the early twentieth century to the present. Close attention to select influential scores by composers active in Hollywood from the 1940s to the 1990s (e.g., Max Steiner, Bernard Herrmann, Quincy Jones, John Williams, Philip Glass). Those works are juxtaposed with landmarks of alternative film and musical styles from other countries and centers of production. Subsidiary topics include the history and challenges of live musical accompaniment to silent films, and the evolution of recording and sound-editing technologies from the studio era to the global present. Students taking the graduate version complete different assignments. Some background in the study of film and/or music is desirable, but not a prerequisite."
+        ],
+        [
+            "inst",
+            [
+                "M. Marks"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.285 The Beatles"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the music of the Beatles, from the band's early years as the Quarrymen (1956-1960), through the rise of \"Beatlemania\" in the 1960s, and the break-up of the group with the turn of 1970. Listening and reading assignments focus on the construction and analysis of selected songs with the goal of mapping how the Beatles' musical style changed from skiffle and rock to studio-based experimentation and the concept album. Discussions include the cultural influences that helped shape not only the music, but also the image of the group and its individual members, as well as the Beatles' influence on both popular music and culture worldwide. Limited to 21."
+        ],
+        [
+            "inst",
+            [
+                "T. Neff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.289 Studies in Western Classical Genres"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores topics concerned with specific types of classical music, such as repertories for instrumental soloists and/or small ensembles, orchestral works, solo songs, choral works, or compositions for theater, film, or new media. Topics vary and may require additional prerequisites or specialized skills such as score-reading or playing an instrument. Examples include the English madrigal, Baroque chamber music, Beethoven's symphonies, French art song, Wagner's 'Ring' cycle, American choral music, Stravinsky's theater works, and the Hollywood film score. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.291 Music of India"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on Hindustani classical music of North India, and also involves learning about the ancient foundations of the rich classical traditions of music and dance of all Indian art and culture. Practice of the ragas and talas through the learning of songs, dance, and drumming compositions. Develops insights through listening, readings, and concert attendance."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.292 Musics in Bali"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies diverse musical practices in Bali, Indonesia. Students encounter a broad spectrum of Balinese musics — from ancient ritual and court musics to popular genres, internationally renowned gamelan traditions to radical contemporary and fusion compositions — engaging with their structures and techniques through music-making, listening analysis, music theory, composition, and dance. Explores the cultural, political, social, and historical contexts of these musics, grappling with complex questions of identity, representation, power, and belief through readings and discussion forums, creative open-ended projects, and in-depth class discussion. No musical experience required. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "L. Tilley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.293 Music of Africa"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Studies musical traditions of sub-Saharan Africa, with focus on West Africa. Explores a variety of musical practices and their cultural contexts through listening, reading and writing assignments with an emphasis on class discussion. Includes in-class instruction in drumming, song and dance of Senegal, Ghana, and South Africa, as well as live lecture-demonstrations by guest performers from throughout sub-Saharan Africa. Limited to 15; preference to majors, minors, concentrators. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "P. Tang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.294 Popular Musics of the World"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines select popular music genres from around the world through audio-visual materials, reading assignments, and classroom discussion. Considers issues of globalization, appropriation, and the impact of social media. Case studies include bhangra, Latin pop, Afropop, reggae, Kpop, and global hip-hop. Limited to 25; preference to Music majors, minors, concentrators. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "P. Tang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.295 American Popular Music"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the development of popular music in the US, and in a cross-cultural milieu, relative to the history and sociology of the last two hundred years. Examines the ethnic mixture that characterizes modern music, and how it reflects many rich traditions and styles (minstrelsy, Tin Pan Alley, blues, country, rock, soul, rap, techno, etc.). Provides a background for understanding the musical vocabulary of current popular music styles. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "W. Marshall"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.296 Studies in Jazz and Popular Music"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies of selected topics in popular music and/or jazz.  Topics vary.  Examples include Duke Ellington, The Beatles, Bob Dylan, and the 1980s.  May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.297[J] Cultures of Popular Music in East Asia: Japan, Korea, China"
+        ],
+        [
+            "prerec",
+            "Same subject as 21G.095[J]\nSubject meets with 21G.595"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21G.095[J]."
+        ],
+        [
+            "inst",
+            [
+                "I. Condry"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.299 Studies in Global Musics"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.030 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies of selected topics in ethnomusicology (the study of music in culture). Topics vary. Examples include the social lives of musical instruments, music and storytelling, fieldwork methodologies, music and politics, and theories of global musics. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.301 Harmony and Counterpoint I"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.541"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.051\" title=\"21M.051\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.051');\">21M.051</a>, <a href=\"/search/?P=21M.151\" title=\"21M.151\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.151');\">21M.151</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the fundamental building blocks of Western diatonic music through regular composition and analysis assignments. Focuses on Western classical music, with complementary topics that engage a broader range of historical periods, traditions, and individuals. Topics include rhythm and meter, harmony and counterpoint within a single key, and a brief overview of form and modulation. Individual skills are addressed through a variety of approaches, including keyboard practice in the required piano and sight singing labs. Local musicians perform final composition projects. Students should have experience reading music. Students taking the graduate version complete additional assignments. Limited to 20 per section."
+        ],
+        [
+            "inst",
+            [
+                "S. Iker",
+                "E. Ruehr"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.302 Harmony and Counterpoint II"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.301 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A continuation of 21M.301, including chromatic harmony and modulation, a more extensive composition project, keyboard laboratory, and musicianship laboratory. Limited to 20 per section."
+        ],
+        [
+            "inst",
+            [
+                "S. Iker",
+                "P. Child"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.303 Writing in Tonal Forms I"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.302"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Written and analytic exercises based on 18th- and 19th-century small forms and harmonic practice found in music such as the chorale preludes of Bach; minuets and trios of Haydn, Mozart, and Beethoven; and the songs and character pieces of Schubert and Schumann. Musicianship laboratory is required. Limited to 20 per section."
+        ],
+        [
+            "inst",
+            [
+                "C. Shadle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.304 Writing in Tonal Forms II"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.303"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Further written and analytic exercises in tonal music, focusing on larger or more challenging forms. For example, students might compose a sonata-form movement for piano or a two-part invention in the style of Bach. Students have opportunities to write short works that experiment with the expanded tonal techniques of the late 19th and early 20th centuries. Musicianship laboratory is required. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "P. Child"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.310 Techniques of 20th-Century Composition"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.302 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Students complete written and analytical exercises based on compositional forms and practices from the first half of the 20th century. Areas covered include compositions based upon artificial scales and modes, as in Debussy, Bartok, and Stravinsky; compositions based on atonal pitch organizations, as with Schoenberg and Webern; compositions based on rhythmic process, timbral exploration, and/or non-Western influences. Basic instrumentation will be taught, and compositions will be performed in class."
+        ],
+        [
+            "inst",
+            [
+                "C. Shadle"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.340 Jazz Harmony and Arranging"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.051, 21M.226, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Basic harmony and theory of mainstream jazz and blues; includes required listening in jazz, writing and analysis work, and two full-scale arrangements. Serves as preparation for more advanced work in jazz with application to rock and pop music. Performance of student arrangements. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.341 Jazz Composition"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.226, 21M.340, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Jazz writing using tonal, modal, and extended compositional approaches as applied to the blues, the 32-bar song form, and post-bop structural designs. Consideration given to a variety of styles and to the ways improvisation informs the compositional process. Study of works by Ellington, Mingus, Parker, Russell, Golson, Coleman, Coltrane, Hancock, Tyner, Davis, and others. Performance of student compositions. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.342 Composing for Jazz Orchestra"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores composition and arrangement for the large jazz ensembles from 1920s foundations to current postmodern practice. Consideration given to a variety of styles and to the interaction of improvisation and composition. Study of works by Basie, Ellington, Evans, Gillespie, Golson, Mingus, Morris, Nelson, Williams, and others. Open rehearsals, workshops, and performances of student compositions by the MIT Festival Jazz Ensemble and the Aardvark Jazz Orchestra. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.351 Music Composition"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.505"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.304\" title=\"21M.304\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.304');\">21M.304</a>, <a href=\"/search/?P=21M.310\" title=\"21M.310\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.310');\">21M.310</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Directed composition of original writing involving voices and/or instruments. Includes a weekly seminar in composition for the presentation and discussion of work in progress. Students are expected to produce at least one substantive work that will be performed in public by the end of the term. Contemporary compositions and major works from 20th-century music literature are studied. Students taking the graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. Makan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.355 Musical Improvisation"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students study concepts and practice techniques of improvisation in solo and ensemble contexts. Examines relationships between improvisation, composition, and performance based in traditional and experimental approaches. Topics, with occasional guest lectures, may include jazz, non-western music, and western concert music, as well as improvisation with film, spoken word, theater, and dance. Enrollment limited to 15; open by audition to instrumental or vocal performers."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.359 Studies in Musical Composition, Theory and Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.051 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores techniques associated with musical composition and/or analysis. Written exercises in the form of music (composition) and/or prose (papers) may be required, depending on the topic. Topics vary each year; examples include fugue, contemporary aesthetics of composition, orchestration, music analysis, or music and mathematics. May be repeated for credit with permission of instructor. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "W. Cutter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.361 Electronic Music Composition I"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.561"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students develop basic skills in composition through weekly assignments focusing on sampling and audio processing. Source materials include samples of urban/natural environments, electronically generated sounds, inherent studio/recording noise, and pre-existing recordings. Audio processing includes digital signal processing (DSP) and analog devices. Covers compositional techniques, including mixing, algorithms, studio improvisation, and interaction. Students critique each other's work and give informal presentations on recordings drawn from sound art, experimental electronica, conventional and non-conventional classical electronic works, and popular music. Covers technology, math, and acoustics in varying detail. Students taking graduate version complete different assignments. Limited to 15 per section; ; preference to Music Technology graduate students, Music majors, minors, and concentrators."
+        ],
+        [
+            "inst",
+            [
+                "P. Whincop"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.362 Electronic Music Composition II"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.562"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.361\" title=\"21M.361\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.361');\">21M.361</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores sophisticated synthesis techniques, from finely tuned additive to noise filtering and distortion, granular synthesis to vintage emulation. Incorporates production techniques and use of multimedia, with guest lecturers/performers. Considers composing environments such as Max/MSP/Jitter, SPEAR, SoundHack, and Mathematica. Assignments include diverse listening sessions, followed by oral or written presentations, weekly sound studies, critiques, and modular compositions/soundscapes. Prior significant computer music experience preferred. Consult instructor for technical requirements. Students taking graduate version complete different assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "P. Whincop"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.369 Studies in Music Technology (21M.380)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.569"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores various technologies in relation to musical analysis, composition, performance, culture, and quantitative methods. Topics vary each term and may include development and impact on society, generative and algorithmic music, recording techniques or procedural sound design. May involve hands-on components such as laptop music ensemble, new instrument building, or comparing the theory and practice of audio recording. Students taking graduate version complete different assignments. Limited to 16."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.370 Digital Instrument Design"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.570"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Covers aesthetic and technical challenges in the creation of physical interfaces for musical performance. will engage in the design and creation of musical interfaces, and learn how to incorporate new technologies in their artistic practice. Topics covered include user experience design for artistic performance, musical human-computer interaction (HCI), hardware and software standards for digital musical systems, embedded programming and sound synthesis, analog and digital sensors, rapid prototyping and digital manufacturing, and creating performance practices around custom hardware. Students design and build their own digital musical instrument, and present a performance with the instrument as their final project. Students taking graduate version complete different assignments. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.383 Computational Music Theory and Analysis"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.583"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.1010\" title=\"6.1010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1010');\">6.1010</a> and (<a href=\"/search/?P=21M.301\" title=\"21M.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.301');\">21M.301</a> or <a href=\"/search/?P=21M.302\" title=\"21M.302\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.302');\">21M.302</a>) "
+            ]
+        ],
+        [
+            "desc",
+            "Covers major approaches to analyzing musical scores using computers. Topics include AI/machine learning of style, musical similarity, encoding, music composition, music perception, and big data repertory studies. Programming assignments given in Python. Culminates in an original final project. Students taking graduate version complete different assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Cuthbert"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.385[J] Interactive Music Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.4550[J]\nSubject meets with 21M.585"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.1010\" title=\"6.1010\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.1010');\">6.1010</a> and <a href=\"/search/?P=21M.301\" title=\"21M.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.301');\">21M.301</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores audio synthesis, musical structure, human computer interaction (HCI), and visual presentation for the creation of interactive musical experiences. Topics include audio synthesis; mixing and looping; MIDI sequencing; generative composition; motion sensors; music games; and graphics for UI, visualization, and aesthetics. Includes weekly programming assignments in python. Teams build an original, dynamic, and engaging interactive music system for their final project. Students taking graduate version complete different assignments. Limited to 36."
+        ],
+        [
+            "inst",
+            [
+                "E. Egozy",
+                "L. Kaelbling"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.387[J] Fundamentals of Music Processing"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.3020[J]\nSubject meets with 21M.587"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a> and <a href=\"/search/?P=21M.051\" title=\"21M.051\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.051');\">21M.051</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes recorded music in digital audio form using advanced signal processing and optimization techniques to understand higher-level musical meaning. Covers fundamental tools like windowing, feature extraction, discrete and short-time Fourier transforms, chromagrams, and onset detection. Addresses analysis methods including dynamic time warping, dynamic programming, self-similarity matrices, and matrix factorization. Explores a variety of applications, such as event classification, audio alignment, chord recognition, structural analysis, tempo and beat tracking, content-based audio retrieval, and audio decomposition. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Egozy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.401 MIT Concert Choir"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Rehearsals and performance of primarily large-scale works for chorus, soloists, and orchestra--from the Passions and Masses of J. S. Bach to oratorios of our own time. Open to graduate and undergraduate students by audition."
+        ],
+        [
+            "inst",
+            [
+                "W. Cutter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.405 MIT Chamber Chorus"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Rehearsal and performance of choral repertoire for small chorus, involving literature from the Renaissance to contemporary periods. Limited to 32 by audition."
+        ],
+        [
+            "inst",
+            [
+                "W. Cutter"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.410 Vocal Repertoire and Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.515"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: Participation in ensemble for vocalists</i> "
+            ]
+        ],
+        [
+            "desc",
+            "For the singer and/or pianist interested in collaborative study of solo vocal performance. Historical study of the repertoire includes listening assignments of representative French, German, Italian, and English works as sung by noted vocal artists of the genre. Topics include diction as facilitated by the study of the International Phonetic Alphabet; performance and audition techniques; and study of body awareness and alignment through the Alexander Technique and yoga. Admission by audition; Emerson Vocal Scholars contact department."
+        ],
+        [
+            "inst",
+            [
+                "A. Boyles"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.421 MIT Symphony"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Rehearsals prepare works for concerts and recordings. Analyses of musical style, structure, and performance practice are integrated into rehearsals as a means of enriching musical conception and the approach to performance. Likewise, additional scores of particular structural or stylistic interest are read whenever time permits. Admission by audition."
+        ],
+        [
+            "inst",
+            [
+                "A. Boyles"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.423 Conducting and Score-Reading"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.302 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces ensemble conducting as a technical and artistic discipline. Incorporates ear training, score-reading skills and analysis, rehearsal technique, and studies of various philosophies. Attendance of rehearsals and specific concerts required. Opportunities include conducting students, professional musicians, and MIT Symphony Orchestra (when possible). Instrumental proficiency required, although vocalists with keyboard abilities will be accepted. May be repeated once for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "A. Boyles"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.426 MIT Wind Ensemble"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed for advanced instrumentalists who are committed to the analysis, performance, and recording of woodwind, brass, and percussion literature from the Renaissance through the 21st century. The repertoire consists primarily of music for small and large wind ensembles. May include ensemble music from Gabrieli to Grainger, Schuller, Mozart, Dvorak, and various mixed media including strings. Performance of newly commissioned works. Opportunities for solo work and work with recognized professional artists and composers. Admission by audition."
+        ],
+        [
+            "inst",
+            [
+                "F. Harris"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.442 MIT Festival Jazz Ensemble"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Designed for instrumentalists dedicated to the analysis, performance, and recording of traditional and contemporary jazz ensemble compositions. Instrumentation includes saxophones, trumpets, trombones, piano, guitar or vibraphone, bass, percussion and occasionally french horn, double reeds, and strings. Provides opportunities to work with professional jazz artists and perform commissioned works by recognized jazz composers. Experience in improvisation preferred but not required. Admission by audition."
+        ],
+        [
+            "inst",
+            [
+                "F. Harris"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.445 Chamber Music Society"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Study of chamber music literature through analysis, rehearsal, and performance. Weekly seminars and coaching. Open to string, piano, brass, woodwind players, and singers. Admission by audition."
+        ],
+        [
+            "inst",
+            [
+                "M. Thompson",
+                "N. Lin Douglas",
+                "J. Rife",
+                "F. Harris",
+                "K. Kaumeheiwa",
+                "L. Jaye"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.450 MIT Balinese Gamelan"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A performing ensemble dedicated to the traditional music of Bali. Members of the ensemble study structures and techniques used on various Balinese gamelan instruments and learn to perform gamelan pieces. No previous experience required. Limited to 25 by audition."
+        ],
+        [
+            "inst",
+            [
+                "G. Komin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.451 Collaborative Piano"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.514"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Open by audition to pianists, instrumentalists and singers who wish to explore and develop their talents as collaborative musicians. Students are paired based on availability and receive weekly coachings by appointment. Students practice independently, rehearse with their collaborator, attend their collaborator's lessons as needed, and perform at a juried recital at the end of the term. Students may register for 3 units for a smaller-scale assignment or 6 units for a larger-scale assignment or two small assignments. May satisfy the ensemble requirement for pianists and instrumentalists in the Emerson/Harris program at the discretion of the instructor. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Kim"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.460 MIT Senegalese Drum Ensemble"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A performance ensemble focusing on the sabar drumming tradition of Senegal, West Africa. Study and rehearse Senegalese drumming techniques and spoken word. Perform in conjunction with MIT Rambax drumming group. No previous experience necessary, but prior enrollment in 21M.030 or 21M.293 strongly recommended. Limited to 30 by audition."
+        ],
+        [
+            "inst",
+            [
+                "L. Toure"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.470 MIT Laptop Ensemble"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.517"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "The MIT Laptop Ensemble is a forum for the exploration of emerging digital musical practices, giving ensemble members hands-on experience with compositional and performance strategies based on current research. Concerts by the ensemble include repertoire drawn both from historical electronic and computer music compositions, as well as new compositions by invited composers. Also includes opportunities for ensemble members to compose for and conduct the ensemble. Weekly rehearsals focus on concepts drawn from a variety of 20th- and 21st-century practices, including experimental and improvised music, telematic performance, gestural controllers, multimedia performance, live coding, and interactive music systems. No previous experience required. Students taking graduate version complete different assignments. Admission by audition."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.475 Music Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.511"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Designed for students who demonstrate considerable technical and musical skills and who wish to develop them through intensive private study. Students must take a weekly lesson, attend a regular performance seminar, participate in a departmental performing group, and participate in a group recital at the end of each term. Full-year commitment required. Information about lesson fees, scholarships, and auditions available in Music Section Office. Students taking graduate version complete different assignments. Admission by audition for Emerson/Harris Program."
+        ],
+        [
+            "inst",
+            [
+                "N. Lin Douglas",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.480 Advanced Music Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.512"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Designed for students who demonstrate considerable technical and musical skills and who wish to develop them through intensive private study. Students must take a weekly lesson, attend a regular performance seminar, and participate in a departmental performing group, and present a 50-minute solo recital at the end of the Spring term. Full-year commitment required. Information about lesson fees, scholarships, and auditions available in Music Section Office. Students taking graduate version complete different assignments. Admission by audition for the Emerson/Harris Program."
+        ],
+        [
+            "inst",
+            [
+                "N. Lin Douglas",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.490 Solo Recital"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.525"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Solo 50-minute recital prepared with a private teacher and approved by the Emerson Private Studies Committee based on evidence of readiness shown in the Fall Term performances. See Music and Theater Arts website for application deadlines and conditions. Restricted to Emerson Scholars."
+        ],
+        [
+            "inst",
+            [
+                "N. Lin Douglas",
+                "M. Thompson",
+                "J. Rife"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.500 Advanced Seminar in Music"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar that develops analytic and research skills in music history/culture or theory/composition. Topics vary, but are organized around a particular methodology, musical topic, or collection of works, that allow for application to a variety of interests and genres. Strong emphasis on student presentations, discussion, and a substantial writing project. May be repeated for credit with permission from instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.505 Music Composition"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.351"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.304\" title=\"21M.304\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.304');\">21M.304</a>, <a href=\"/search/?P=21M.310\" title=\"21M.310\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.310');\">21M.310</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Directed composition of original writing involving voices and/or instruments. Includes a weekly seminar in composition for the presentation and discussion of work in progress. Students are expected to produce at least one substantive work that will be performed in public by the end of the term. Contemporary compositions and major works from 20th-century music literature are studied. Students taking the graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "K. Makan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.511 Music Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.475"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Designed for students who demonstrate considerable technical and musical skills and who wish to develop them through intensive private study. Students must take a weekly lesson, attend a regular performance seminar, participate in a departmental performing group, and present a 50-minute solo recital at the end of the Spring term. Full-year commitment required. Information about lesson fees, scholarships, and auditions available in Music Section Office. Students taking graduate version complete different assignments. Admission by audition for Emerson/Harris Program."
+        ],
+        [
+            "inst",
+            [
+                "N. Lin Douglas",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.512 Advanced Music Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.480"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Designed for students who demonstrate considerable technical and musical skills and who wish to develop them through intensive private study. Students must take a weekly lesson, attend a regular performance seminar, and participate in a departmental performing group, and present a 50-minute solo recital at the end of the Spring term. Full-year commitment required. Information about lesson fees, scholarships, and auditions available in Music Section Office. Students taking graduate version complete different assignments. Admission by audition for the Emerson/Harris Program."
+        ],
+        [
+            "inst",
+            [
+                "N. Lin Douglas",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.514 Collaborative Piano (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.451"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Open by audition to pianists, instrumentalists and singers who wish to explore and develop their talents as collaborative musicians. Students are paired based on availability and receive weekly coachings by appointment. Students practice independently, rehearse with their collaborator, attend their collaborator's lessons as needed, and perform at a juried recital at the end of the term. Students may register for 3 units for a smaller-scale assignment or 6 units for a larger-scale assignment or two small assignments. May satisfy the ensemble requirement for pianists and instrumentalists the Emerson/Harris program at the discretion of the instructor. Students taking graduate version complete different assignments."
+        ],
+        [
+            "inst",
+            [
+                "M. Kim"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.515 Vocal Repertoire and Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.410"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "For the singer and/or pianist interested in collaborative study of solo vocal performance. Historical study of the repertoire includes listening assignments of representative French, German, Italian, and English works as sung by noted vocal artists of the genre. Topics include diction as facilitated by the study of the International Phonetic Alphabet; performance and audition techniques; and study of body awareness and alignment through the Alexander Technique and yoga. Admission by audition. Emerson Vocal Scholars contact department."
+        ],
+        [
+            "inst",
+            [
+                "A. Boyles"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.517 MIT Laptop Ensemble (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.470"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "The MIT Laptop Ensemble is a forum for the exploration of emerging digital musical practices, giving ensemble members hands-on experience with compositional and performance strategies based on current research. Concerts by the ensemble include repertoire drawn both from historical electronic and computer music compositions, as well as new compositions by invited composers. Also includes opportunities for ensemble members to compose for and conduct the ensemble. Weekly rehearsals focus on concepts drawn from a variety of 20th- and 21st-century practices, including experimental and improvised music, telematic performance, gestural controllers, multimedia performance, live coding, and interactive music systems. No previous experience required. Students taking graduate version complete different assignments. Admission by audition."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.525 Solo Recital"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.490"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Emerson Scholars may receive credit for a solo spring recital that has been prepared with and approved by the private teacher and the Emerson Private Studies Committee. Approval based on evidence of readiness shown in first term master classes. Restricted to Emerson Scholars."
+        ],
+        [
+            "inst",
+            [
+                "N. Lin Douglas",
+                "M. Thompson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.531 Independent Study in Music"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified students who wish to pursue independent studies or projects with members of the Music Section. Projects require prior approval by the Music and Theater Arts Chair."
+        ],
+        [
+            "inst",
+            [
+                "Consult Music Section Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.533 Independent Study in Music"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Open to qualified students who wish to pursue independent studies or projects with members of the Music Section. Projects require prior approval by the Music and Theater Arts Chair."
+        ],
+        [
+            "inst",
+            [
+                "Consult Music Section Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.540 Musical Thinking (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar focusing on developing skills needed to navigate graduate research projects in music. Topics include how to engage with primary and secondary sources, library and archival (real and virtual) collections, and research bibliographies. Emphasizes working with diverse materials, and viewpoints.  Ambiguity, uncertainty, and unsolved (and often unsolvable) questions in music research are emphasized. Includes brief overviews of major periods and works of Western Classical music and significant components and differences among three non-Western/non-Classical repertories."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.541 Harmony and Counterpoint I with Computational Applications (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.301"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None. <i>Coreq: <a href=\"/search/?P=21M.565\" title=\"21M.565\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.565');\">21M.565</a> or permission of instructor</i> "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the fundamental building blocks of Western diatonic music through regular composition and analysis assignments. Focuses on Western classical music, with complementary topics that engage a broader range of historical periods, traditions, and individuals. Topics include rhythm and meter, harmony and counterpoint within a single key, and a brief overview of form and modulation. Individual skills are addressed through a variety of approaches, including keyboard practice in the required piano and sight singing labs. Local musicians perform final composition projects. Students should have experience reading music. Students taking the graduate version submit an additional assignment to the director of the Master of Applied Science in Music Technology and Computation, applying computational methods to the understanding of Harmony and Counterpoint. Limited to 20 per section."
+        ],
+        [
+            "inst",
+            [
+                "S. Iker",
+                "E. Ruehr"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.560 Introduction to Music Technology (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.080"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates how technology is used in the analysis, modeling, synthesis and composition of music, and its contribution to the artistic production practice. With an eye towards historical context as well as modern usage, topics include the physics of sound, digital representations of music, the Digital Audio Workstation (DAW), analog and digital synthesis techniques, MIDI and sequencing, electronic instrument design, notation software, generative music systems, and computational analysis of music. Weekly assignments focus on both theory and practice, requiring technical proficiency, creative output, and aesthetic consideration. Students taking graduate version complete different assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.561 Electronic Music Composition I (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.361"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students develop basic skills in composition through weekly assignments focusing on sampling and audio processing. Source materials include samples of urban/natural environments, electronically generated sounds, inherent studio/recording noise, and pre-existing recordings. Audio processing includes digital signal processing (DSP) and analog devices. Covers compositional techniques, including mixing, algorithms, studio improvisation, and interaction. Students critique each other's work and give informal presentations on recordings drawn from sound art, experimental electronica, conventional and non-conventional classical electronic works, and popular music. Covers technology, math, and acoustics in varying detail. Students taking graduate version complete different assignments. Limited to 15 per section; preference to Music Technology graduate students, Music majors, minors, and concentrators."
+        ],
+        [
+            "inst",
+            [
+                "P. Whincop"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.562 Electronic Music Composition II (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.362"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.361\" title=\"21M.361\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.361');\">21M.361</a>, <a href=\"/search/?P=21M.561\" title=\"21M.561\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.561');\">21M.561</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores sophisticated synthesis techniques, from finely tuned additive to noise filtering and distortion, granular synthesis to vintage emulation. Incorporates production techniques and use of multimedia, with guest lecturers/performers. Considers composing environments such as Max/MSP/Jitter, SPEAR, SoundHack, and Mathematica. Assignments include diverse listening sessions, followed by oral or written presentations, weekly sound studies, critiques, and modular compositions/soundscapes. Prior significant computer music experience preferred. Consult instructor for technical requirements. Students taking graduate version complete different assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "P. Whincop"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.S53, 21M.S54 Special Subject in Music"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Study of musical topics not covered in the regular subject listings, particularly experimental subjects offered by permanent or visiting faculty."
+        ],
+        [
+            "inst",
+            [
+                "Consult Music Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.565 Programming for Music (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to programming skills needed for conducting research in music and music technology. Students develop skills to solve problems using python in music theory, history, performance, and technology and to compose using algorithms and data structures. Covers fundamental aspects of both computer science and software engineering as applied to music, including abstraction, data types, testing and debugging, time complexity, and recursion. Relies on students' prior experience with research methods in music and musical creativity to answer otherwise under-defined problems.  Culminates in an individual programming project."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.569 Studies in Music Technology (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.369"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores various technologies in relation to musical analysis, composition, performance, culture, and quantitative methods. Topics vary each term and may include development and impact on society, generative and algorithmic music, recording techniques or procedural sound design. May involve hands-on components such as laptop music ensemble, new instrument building, or comparing the theory and practice of audio recording. Students taking graduate version complete different assignments. Limited to 16."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.570 Digital Instrument Design (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.370"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Covers aesthetic and technical challenges in the creation of physical interfaces for musical performance. will engage in the design and creation of musical interfaces, and learn how to incorporate new technologies in their artistic practice. Topics covered include user experience design for artistic performance, musical human-computer interaction (HCI), hardware and software standards for digital musical systems, embedded programming and sound synthesis, analog and digital sensors, rapid prototyping and digital manufacturing, and creating performance practices around custom hardware. Students design and build their own digital musical instrument, and present a performance with the instrument as their final project. Students taking graduate version complete different assignments. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "I. Hattwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.572 Overview of Music Perception and Cognition (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "An overview of perceptual and biological structures of musical and auditory cognition with applications to music research. Differences between acoustical/technological and perceptual interpretations of sound and music are emphasized. Topics include musical memory and anticipation, emotion and psychological functions, and theories of music's origins and functions. Covers ethical and practical considerations of human subject research in music perception and important conclusions from the field. Not open to students who have taken HST.723[J] or HST.725."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.573 Overview of Acoustics and the Physics of Sound (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.572 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "An overview of the physics of wave propagation, absorption, and reflection in sound. Topics include harmonic motion, standing waves in one to three dimensions, interference and distortion, loudness, electro-acoustical modeling, microphones and loudspeakers, and physical models of musical instruments. Laboratory time is spent in measuring and modeling local acoustical spaces, instruments, and sound production. Not open to students who have taken 2.066."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.574 Overview of Musical Software and Formats (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 21M.565 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "An overview of the practical side of working with music software and formats for research in music technology. Covers audio editing, notation software, and sound/signal tools primarily using open-source examples. Topics include: compression/codecs, command-line and batch operations for automation; translation among formats, differences among and between audio and symbolic formats (including wav, mp3, MIDI, MusicXML, and historic formats)."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.576 Overview of Mathematics for Music Applications (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 21M.565 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; first half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Overview of mathematical tools and their use in music research. Topics include linear algebra and matrices, applications of complex numbers and trigonometric functions, exponentials, summation functions, logarithmic domains, function composition, probability (including Bayes' Theorem), statistics (including tests of significance), and estimating complex functions computationally. All topics are presented in conjunction with musical applications."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.577 Overview of the Principles of Signals (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.576 and 21M.572; Coreq: 21M.573 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; second half of term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Overview of signal processing techniques for music analysis in the audio domain, including their mathematical representations. Topics include sampling theory, filtering, convolution, and the Fourier transform, particularly in the discrete (digital) domain, with an emphasis on music applications and practice in Python."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.580[J] Musical Aesthetics and Media Technology"
+        ],
+        [
+            "prerec",
+            "Same subject as MAS.825[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.825[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. Machover"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.581[J] Projects in Media and Music"
+        ],
+        [
+            "prerec",
+            "Same subject as MAS.826[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=MAS.825\" title=\"MAS.825[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'MAS.825');\">MAS.825[J]</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.826[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. Machover"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.583 Computational Music Theory and Analysis (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.383"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=21M.541\" title=\"21M.541\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.541');\">21M.541</a> and <a href=\"/search/?P=21M.565\" title=\"21M.565\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.565');\">21M.565</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers major approaches to analyzing musical scores using computers. Topics include AI/machine learning of style, musical similarity, encoding, music composition, music perception, and big data repertory studies. Programming assignments given in Python. Culminates in an original final project. Students taking graduate version complete different assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Cuthbert"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.585 Interactive Music Systems"
+        ],
+        [
+            "prerec",
+            "Subject meets with 6.4550[J], 21M.385[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=21M.541\" title=\"21M.541\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.541');\">21M.541</a> and <a href=\"/search/?P=21M.565\" title=\"21M.565\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.565');\">21M.565</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Explores audio synthesis, musical structure, human computer interaction (HCI), and visual presentation for the creation of interactive musical experiences. Topics include audio synthesis; mixing and looping; MIDI sequencing; generative composition; motion sensors; music games; and graphics for UI, visualization, and aesthetics. Includes weekly programming assignments in python. Teams build an original, dynamic, and engaging interactive music system for their final project. Students taking graduate version complete different assignments. Limited to 36."
+        ],
+        [
+            "inst",
+            [
+                "E. Egozy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.587 Fundamentals of Music Processing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 6.3020[J], 21M.387[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=21M.541\" title=\"21M.541\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.541');\">21M.541</a>, <a href=\"/search/?P=21M.565\" title=\"21M.565\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.565');\">21M.565</a>, and <a href=\"/search/?P=21M.577\" title=\"21M.577\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.577');\">21M.577</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Analyzes recorded music in digital audio form using advanced signal processing and optimization techniques to understand higher-level musical meaning. Covers fundamental tools like windowing, feature extraction, discrete and short-time Fourier transforms, chromagrams, and onset detection. Addresses analysis methods including dynamic time warping, dynamic programming, self-similarity matrices, and matrix factorization. Explores a variety of applications, such as event classification, audio alignment, chord recognition, structural analysis, tempo and beat tracking, content-based audio retrieval, and audio decomposition. Students taking graduate version complete different assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "E. Egozy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.589 Studies in Advanced Music Technology and Music Computation (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: (21M.540, 21M.565, and (21M.301 or 21M.541)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Studies of a selected topic in music technology requiring substantial prior knowledge of music studies, music technology, and computation. Topics vary. Examples include computational modeling of music cognition, artificial intelligence and musical creativity, or real-time Internet musical collaboration. May be repeated for credit with permission of instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.590 Colloquium in Music Technology (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Presentations of recent work in music research from both academic and commercial spheres.  Students prepare to engage with guest speakers by reading and demonstrating understanding of the sphere of work, attend presentations, and reflect on the work. Enrollment limited with priority to graduate students in music technology. May be repeated for credit with permission of the instructor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.591 Capstone Project in Music Technology (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: (21M.540, 21M.565, and (21M.301 or 21M.541)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Preparation for and submission of the capstone project in the MASc in Music Technology. Provides an overview of expectations for the capstone project. Individual meetings with the research director/subject head and group meetings on the process of developing an idea from foundational music technology subjects with advanced topics learned simultaneously. Culminates in an individual research project and presentation. Restricted to MASc in Music Technology students."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.595 Music Technology And Computation Research Seminar (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Development of a thesis-level project in music technology and computation. Individual meetings with the research director/subject head and with individual thesis advisors, together with group meetings on research techniques, musical thinking, and graduate-level academic writing. Culminates in a submitted prospectus for a graduate project presented to the group. Restricted to SM in Music Technology and Computation students."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.THG Directed Research and Thesis in Music Technology and Computation (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research and writing of the SM thesis in Music Technology and Computation. Structure and hours to be arranged by the student with the supervising committee. Restricted to SM in Music Technology and Computation students."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Theater Arts"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.600 Introduction to Acting"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the actor's tools: body, voice, mind, imagination, and the essential self. Through studio exercises, students address issues of honesty and creativity in the theatrical moment, and begin to have a sense of their strengths and limitations as communicating theatrical artists. Provides an opportunity for students to discover their relationship to \"the other\" in the acting partner, the group, the environment, and the audience. Limited to 20 per section."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.601 Drawing for Designers"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores drawing as a fundamental component of the design process. In-class drawing exercises focus on developing the hand-to-eye relationship and pre-visualization skills essential to any designer. Studies the use drawing as a route to understanding space and form and achieving accuracy through expression. By drawing figures, landscapes and/or still life compositions in a variety of media, students investigate the figure/ground relationship while dealing with tone, line, and composition, which are all requisite elements of design. Provides exposure to designers who have used drawing as a central component of their work. Students create a portfolio that includes in-class drawings, studies done outside of class, and one research-based written project. Lab fee required.  Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "S. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.603 Fundamentals of Theater Design"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the fundamental skills and concepts of scenography through a series of individual design projects structured to explore the relationship of the performer to the environment, the interrelation of lighting and stage design, and the evolution of visual narrative. Develops a basic visual literacy for the theater by honing skills in drawing, model building, 3-D modeling, digital image manipulation, and color theory. Projects complimented by study of artworks and theories by Cindy Sherman, Sol LeWitt, Alan Kaprow, Robert Wilson, Bertolt Brecht, Caspar Neher, and others. Lab fee required. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "S. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.604[J] Playwriting Fundamentals"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.754[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the craft of writing for the theater, with special attention to the basics of dramatic structure. Through weekly assignments and in-class exercises, students explore character, conflict, language and plasticity in scenes and short plays. In workshop format, students present individual work for feedback and heavily revise their work based on that response. Readings include a variety of plays."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.605 Voice and Speech for the Actor"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Concentrates upon freeing the natural voice through awareness of physical, vocal and, at times, emotional habits and the willingness and desire to experience change. Teaches progression of contemporary approaches to voice through in-class vocal exercises. Students use sonnets or poems as vehicles to explore the components of language and the need to communicate and reveal oneself through the voice. Designed for students interested in theater or developing their voices for presentations and professional speaking. Limited to 18; preference to Theater majors, minors, and concentrators who have pre-registered."
+        ],
+        [
+            "inst",
+            [
+                "K. Eastley",
+                "O. D'Ambrosio"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.606 Introduction to Stagecraft"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a foundation in theater technology, examining the creation of a theatrical production from conception to performance. Explores the realization of an artistic and structural vision for a play, taking into account all facets of technical theater: history of productions, types of technical roles, design, drafting, carpentry, costume, lighting, rigging, stage management, sound, and video. Students serve on the production team responsible for building, installing and/or running the department's show that semester. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "S. Rodemann"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.607[J] Playwriting Methods"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.774[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Builds understanding of the methods playwrights use to transform an idea - drawn from their own lives, news and current events, even the plays of other writers - into a reality. Students use a variety of inspiration to write their own new scenes and short plays. Examines how research can help develop an idea for a new play and discusses ways to adapt a classic text for the contemporary stage. Writers also conduct personal interviews and use the transcript as source material for a new scene. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.608[J] Screenwriting"
+        ],
+        [
+            "prerec",
+            "Same subject as 21W.776[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Explores the fundamentals of screenplay writing.  Presents skills to create compelling characters and stories in different dramatic genres (comedy, drama). In addition to their own writing, students read a selection of screenplays and watch short films that form the basis of class discussion early in the term.  Class is modeled on a professional development workshop in which participants, over the course of the term, write a short screenplay, including a final draft.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.609[J] Introduction to Drama"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.005[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.005[J]. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "A. Fleche",
+                "D. Henderson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.622 Physical Improvisation: Scores and Structures"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores physical improvisation in dance/theater from a variety of task-based, conceptual vantage points. Focuses on conceptual frameworks for generating intensely physical dramatic actions and dances that unlock the students' creativity. Investigates topics such as narrative, how stories and scenarios can elicit movement and emotionally resonant physical interaction; visual composition, creating movement and actions on stage from an imagistic starting point; and hypothetical worlds, movement based on the creation of rules for alternate worlds (e.g., strange, indigenous time, strange evolution). Explores solos, duets, trios, and larger ensemble improvisations. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "D. Safer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.623 Physical Improvisation: Bodies in Motion"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the realities of the body in space and motion - interacting with gravity, momentum, inertia, alignment, negative space, one's imagination, one's body, other bodies, the present room and rooms from memory, geometry, stillness, and more. By releasing tension and abandoning the notion of pre-planning, students experience a natural, spontaneous flow of movement, opening themselves up to, and diving into, whatever might happen. Develops alertness in order to work in an energetic state of physical disorientation, self-correcting what doesn't work and reinforcing what does on the spot, discovering physical/emotional truths and shared moments that leave students aware, centered, incredibly present, and sharply alive. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "D. Safer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.624 Acting with the Camera"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Studio workshop explores the discipline of acting for the camera through in-class exercises that focus on the creative challenges inherent to both filming and being filmed. Investigates the performer in the history of cinema, television, and multimedia stage performance through readings, screenings, and experimentation with the theory and practice of performing for and with the camera. Culminates in student-written, edited, directed, and acted short films. Instruction in written and oral communication provided. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "A. Kohler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.645 Motion Theater"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the theatrical event from the perspective of composition in a performance workshop. Studio exercises address the process of developing a theatrical work through an internalized understanding of compositional principles in theater. Examines physical action in time and space. Includes outside readings, videos, short essays, and in-class discussions. Provides the performer, director, choreographer, designer or writer opportunities to engage with large and small group ensembles in creation of theatrical events. Topics include image, motion, shape, repetition, gesture, and spatial relationship. Preference to majors, minors, concentrators. Admittance may be controlled by lottery."
+        ],
+        [
+            "inst",
+            [
+                "J. Scheib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.690 Sport as Performance"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar investigates the aesthetics of sport as theatrical performance and explores the performance of race, gender, class, nation, and sexuality in sport. Readings drawn from theatre/performance studies, anthropology, sociology, ethnic studies, gender studies, history, and kinesiology. Topics include barnstorming, Olympics, Title IX, Native American mascots, and a variety of sports ranging from football to figure skating. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.700 China on Stage"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the role theater productions have played in shaping Chinese society, politics, and cultural exchange during the past century. Topics include censorship, audience reception, and current translingual and cross-cultural trends. Examines plays in English translation, videos, photographs, archival materials, and English-language books and articles about Chinese theater. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.701 China on Stage"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the role theater productions have played in shaping Chinese society, politics, and cultural exchange during the past century. Topics include censorship, audience reception, and current translingual and cross-cultural trends. Examines plays in English translation, videos, photographs, archival materials, and English-language books and articles about Chinese theater. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.702 Live Solo Performance: Monodrama and Composition"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Studies the theatrical canon of monodramas and solo performances to hone individual acting skills. Goes on to explore each student's original artistic voice by presenting strategies in composing and staging work, thus introducing them to experiments with performing the self in society. Each student creates their own original performance piece by the end of the term. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "A. Kohler"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.704 Music Theater Workshop"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.600 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces applications of music in theater and performance. Encourages experimentation with different genres of singing, acting, and movement by exploring an array of historical and contemporary styles and techniques. Students develop and perform their own original songs and textual materials, gaining a theoretical and practical understanding of the actor's contribution to the dynamic form of musical theater. Previous experience in musical theater not required."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.705 Acting Intensive"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.600 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Gives students who have begun the process of bringing themselves to a dramatic moment the opportunity to apply their skills to scripted material. Studio work in this class further develops the completeness, spontaneity, and honesty of expression of the actor's body, imagination, and voice; and introduces written material and the problems of synthesizing the self, the moment, and the scripted word. Weekly rehearsals with a scene partner. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Sonenberg",
+                "A. Kohler "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.706 Asian American Theater"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the history and impact of Asian American theater. Readings include plays and materials about cultural and political issues, family, and identity. Course includes short formal and creative writing assignments and scene work resulting in a collaborative final performance. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.707 Theater and Race"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores Black, Latinx, Asian American, Indigenous, and/or mixed race theater through the lens of identities and experiences. Emphasis on BIPOC voices, plays, artists, theater ensembles, collectives, and cultural organizations. Topics may include cross-ethnic casting, public action and activism, and other emerging contemporary performance platforms. Seminar discussions, readings, research and creative projects, sessions with visiting artists and scholars, and attendance of at least one live performance inform and enrich the experience. May be repeated for credit if content differs."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.709[J] Modern Drama"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.486[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: One subject in Literature "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.486[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Henderson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.710 Script Analysis"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on reading a play's script critically and theatrically, with a view to mounting a coherent production. Through careful, intensive analysis of a variety of plays from different periods and aesthetics, a pattern emerges for discerning what options exist for interpreting a script from the distinct perspectives of the playwright, the actor, the designer, and the director. Students discuss the consequences of those options for production.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "D. Gammons"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.711 Production Seminar"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Pursues detailed study of a particular playtext or theme and is related to some planned production activity during the following IAP. Seminar activities may include guest speakers from various disciplines who approach some aspect of the playtext or theme from the perspective of their fields; various theatrical practitioners; and critical and scholarly presentations by seminar members. Participation in the IAP production is not required."
+        ],
+        [
+            "inst",
+            [
+                "J. Scheib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.712 Choreography: Making Dances"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory-style class explores and invents techniques used to create dances. Students practice techniques focused on how and where to begin making a dance - sampling some of the endless ways to start a process, such as from the body, an idea, text, or a song - and then how to build up from there. Students make dances that are more than just a collection of moves, but events that do something, say something, or ask something. Builds a clear understanding of how a dance has an arc, a clear beginning, middle, and end, so that by doing it or watching it, both participants and audience end up somewhere new. Develops an understating of, and facility with, a wide variety of topics used to explore, start and generate movement, dance and performative events involving bodies moving through space. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "D. Safer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.713 History of American and European Scenography"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the history of visual theater design from the Ancient Greek theater to contemporary practice. Investigates the forces that shape different scenographic approaches, such as historical events, arts patronage, concurrent movements in art and culture, and technological innovations. Introduces students to the strategies, philosophies, and practice utilized by important design practitioners such as Caspar Neher, Lyubov Popova, Ming Cho Lee, Anna Viebrock, Josef Svoboda and others. Discusses how the fictional architecture of the stage intersects with the material culture. Students choose a designer and develop a project around their work that includes a research paper, a presentation, and the student's recreation of their designs using contemporary visualization technologies. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "S. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.714 Contemporary American Theater"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Examines the exciting terrain of contemporary American writing for the theater, focusing on what is known in New York as \"Off Broadway,\" \"downtown,\" or \"indie theater.\" Students read work by influential playwrights from earlier generations alongside plays by new voices currently in production in Boston, New York, and across the country. Students also examine the changing institution of American theater, reading a selection of plays in order to determine what constellation of issues and concerns they engage. Discussions unpack how these plays reflect, challenge and re-construct the idea of America in the 21st century. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.715 Topics in Theater Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Multidisciplinary seminar provides opportunity for study in performance theory and practice. Topics vary from term to term; may be taught by visiting faculty. May be repeated for credit if content differs."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.716 Play Translation and Cultural Transmission"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Through reading texts about translation and by doing an independent project, students develop significant skills in translation theory and practice, culminating in a public staged reading of their translations. Each student chooses a dramatic text from a non-English language and translates a scene during the semester. Readings include topics such as globalization, adaptation, gender in translation, and postcolonial approaches to translation."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.719[J] Studies in Drama"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.703[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Two subjects in Literature "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.703[J]. Limited to 12."
+        ],
+        [
+            "inst",
+            [
+                "S. Raman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.729[J] How We Got to Hamilton"
+        ],
+        [
+            "prerec",
+            "Same subject as 21L.500[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 21L.500[J]. Limited to 20."
+        ],
+        [
+            "inst",
+            [
+                "M. Gubar"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.731 Sound Design for Theater and Dance"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: U (Spring)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces the elements of a sound designer's work, such as music and sound effects which inform and make stage action plausible, to sound system design and placement and the use of microphones. Discusses how effective sound design enhances live performance by clarifying storytelling, heightening emotional experience, and making words and music legible to an audience. Provides students with the tools to continue practicing and appreciating the art regardless of their professional ambitions. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Frederickson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.732 Costume Design"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studio workshop designed for students who possess a basic understanding of the principles of design and seek a more intensive study of costume. Students develop designs through a collaborative creative process that incorporates production dramaturgy and script analysis, and map those findings to a scenographically charged directorial concept. Fosters period research, conceptual design, and rendering skills through practical studio exercises. Instruction in life drawing, visual presentation, and basic costume construction provides the tools for applying conceptual design skills in performance. Lab fee required. "
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.733 Set Design"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Investigates the creation of set design for live performance. Students develop designs related to current production projects at MIT. Focuses on developing the designer's communication tools, particularly in the areas of visual research, 3-D digital model making, and design presentation. Examines the relationship of set design to theater architecture, emerging media technologies and dramaturgies of the 20th and 21st centuries. In addition to creating their own designs, students research, write about, and present the work and practice of a set designer. Lab fee required."
+        ],
+        [
+            "inst",
+            [
+                "S. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.734 Lighting Design"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores the history, concepts and techniques of sculpting space with light within a contemporary context. Students experiment with a wide range of approaches, tools, and skills to develop their own creative vision. Focuses on discrete forms that include live performance, installation, architecture, and developments in applied technologies. Studio projects alternate between conceptual studies and realized designs reflective of students' own unique interests and talents. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Higgason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.735 Technical Design for Performance"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.606 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: Not offered",
+                "\nAcad Year 2024-2025: U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studio examines the role of the technical designer as an integral member of an ensemble. Focusing on the artistic process, students develop their own unique approaches to stage design, lighting, sound, video design and other new media applications for the performing arts. They also explore an array of pre-production research and rehearsal techniques and analyze dramatic texts. Introduces theoretical and practical aspects of technical design, from the budgeting of time and selection of materials, to use of new technologies. Culminates in a public showing of final design projects for an invited audience."
+        ],
+        [
+            "inst",
+            [
+                "C. Frederickson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.737 Interactive Design and Projection for Live Performance"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies design, history, artistic purposes, and programming techniques involved in the development of interactive performance design systems for controlling video projection, media, and lighting for live performances. Includes readings, viewings of historical and contemporary works, and in class-practice and performance. Students use motion-sensing input devices, such as the Kinect, infrared-light tracking, accelerometers, live video, and generative graphics, to create interactive design systems.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Higgason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.747 Talking and Dancing"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Interdisciplinary dance theater studio invites students to investigate the spaces between dance and theater. Students engage in an array of acting and dance techniques to generate text from movement and movement from text. In-studio exercises examine the process of melding the expressive languages of words with languages of the body. Students use existing texts and compose original texts in the development of solo, duet, and ensemble projects. Explores the process of seeing and providing peer feedback to further expand the process of revision. Readings, short writings, video viewings, and guest lectures provide multiple avenues of understanding and illumine differing ways of making. Culminates with an opportunity for students to refine, develop, and share their projects in performance."
+        ],
+        [
+            "inst",
+            [
+                "D. Safer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.781 Writing the Full-Length Play"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.780J, 21W.780[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students write and extensively revise a full-length play, from an initial idea to a revised draft. For our purposes, any script longer than thirty minutes and under a hundred minutes is considered a full-length play. Students respond to each other's work using a method inspired by dancer Liz Lerman, giving non-prescriptive advice and feedback to their fellow writers. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.784 Producing Podcasts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Students write and produce a pilot episode of a narrative podcast (about fifteen minutes in length); sources come from interviews or research that students conduct. At the start of the term, students pitch possible stories. Discussions of selected episodes of narrative podcasts such as Serial, Homecoming, and This American Life. Introduces the basics of podcast recording with a primer on using Logic Pro X and hardware like the Apogee Duet. Students record and edit a rough draft of their podcast using provided portable recording studio kits. Podcasts shared with the larger MIT community at the Podcast Listening Room at the end of term. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Frederickson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.785 Playwrights Lab"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.789"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: 21M.780 or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Students workshop their full-length play completed in 21M.780/21M.781 as part of the MTA Playwrights Lab, a collaboration between MIT students and professional actors and directors. Each writer engages in note sessions with a director and prepares a rehearsal draft. Writers attend rehearsals for a staged reading of their work and collaborate with their director and cast. Writers are expected to participate in other readings in the Lab, as a stage direction reader and as an audience member. Following the public presentation of the play, students process the experience and complete a final revision of the script. Students taking graduate version complete additional assignments. Limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.789 Playwrights Lab"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.785"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.781\" title=\"21M.781\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.781');\">21M.781</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Students workshop their full-length play completed in 21M.780/21M.781 as part of the MTA Playwrights Lab, a collaboration between MIT students and professional actors and directors. Each writer engages in note sessions with a director and prepares a rehearsal draft. Writers attend rehearsals for a staged reading of their work and collaborate with their director and cast. Writers are expected to participate in other readings in the Lab, as a stage direction reader and as an audience member. Following the public presentation of the play, students process the experience and complete a final revision of the script. Students taking graduate version complete additional assignments. Enrollment is limited to 10."
+        ],
+        [
+            "inst",
+            [
+                "K. Urban"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.790 Fundamentals of Directing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.791"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Studio workshop introduces students to the collaborative artistic practice of directing for the theater, opera, and other live performance disciplines. Weekly sessions provide students the opportunity to develop innovative theatrical events through rigorous analysis of dramatic texts, social practices, musical scores and libretti, and other source materials. With a focus on collaboration, students conduct dramaturgical research, experiment with behavior and motion, create compositional studies, design interventions, and complete other scenographic exercises culminating in an end-of-semester presentation for an invited audience. Generative studio prompts are complimented by selected readings, field trips, interactions with guest artists, and video viewings. Students are encouraged to bring their own unique points of view and to celebrate difference. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Scheib",
+                "D. Safer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.791 Fundamentals of Directing"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.790"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Studio workshop introduces students to the collaborative artistic practice of directing for the theater, opera, and other live performance disciplines. Weekly sessions provide students the opportunity to develop innovative theatrical events through rigorous analysis of dramatic texts, social practices, musical scores and libretti, and other source materials. With a focus on collaboration, students conduct dramaturgical research, experiment with behavior and motion, create compositional studies, design interventions, and other scenographic exercises culminating in an end-of-semester presentation for an invited audience. Generative studio prompts are complimented by selected readings, fieldtrips, interactions with guest artists, and video viewings. Students are encouraged to bring their own unique points of view and to celebrate difference. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Scheib",
+                "D. Safer"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.800 All the World's a Stage: Socio-Political Perspectives in Global Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.801"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates repertoire from international creators of theater, opera, performance art, and dance. Explores diverse storytelling and directorial points of view, examining the contexts which inform approaches to performance making. Discusses specific cultural and political shifts that have inspired the work of international artists, such as Marina Abramovic (Serbia), Pina Bausch (Germany), Nora Chipaumire (Zimbabwe), Ping Chong (US/Canada), Peter Sellars (US), and The Yes Men (US). Weekly readings, screenings and guest artists provide the foundation for an understanding of the role of director as an artist who finds inspiration in the contradictions of the world. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Brathwaite"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.801 All the Worlds a Stage: Socio-Political Perspectives in Global Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.800"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates repertoire from international creators of theater, opera, performance art, and dance. Explores diverse storytelling and directorial points of view, examining the contexts which inform approaches to performance making. Discusses specific cultural and political shifts that have inspired the work of international artists, such as Marina Abramovic (Serbia), Pina Bausch (Germany), Nora Chipaumire (Zimbabwe), Ping Chong (US/Canada), Peter Sellars (US), and The Yes Men (US). Weekly readings, screenings and guest artists provide the foundation for an understanding of the role of director as an artist who finds inspiration in the contradictions of the world. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Brathwaite"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.803 Performance and Design Workshop"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides directed practice in the disciplines of performance practice, including design, acting, directing, technical theater, management, dramaturgy and other creative fields. Students test and refine their skills by participating in the creation of produced plays, intensive workshops, installations and other design or performance projects in dance, film, music theater, opera, and other performing arts events. Students work closely with faculty, peers and guest artists. Students seeking to design individual performance and design workshops must be supervised by a theater arts faculty member, and obtain his or her written approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.806 Applied Performance and Design Production"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides opportunities for applied practice in the disciplines of performance, including acting, directing, playwriting, design, technical theater, dramaturgy, and management. Students test and refine their skills in the prototyping of design projects, installations, plays, dance, film, music theater, opera, and other performing arts events. They also apply theory and practice while tracing the research and rehearsal process through production and public presentation in the theater or in the studio. Students seeking to design an applied project must be supervised by a theater arts faculty member, and obtain his or her written approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.809 Performance and Design Intensive"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Multidisciplinary, term-long, independent study geared toward the development of significant artistic and technical projects in performance and design. Students pursue projects in an array of fields and are invited to propose artistic and research projects as actors, directors, designers, dramaturges, and/or technical designers. Often in conjunction with Theater Arts-produced productions, proposals for intensives must be vetted and supervised by a member of the Theater Arts faculty with whom the student will work over the course of term."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.810 Creating the World We Want: Protest, Activism, and Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.811"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates how people acting as a collective change the status quo, and how art/performance supports and inspires powerful political, social, economic, and cultural shifts. Discusses the connection between art and activism and performance and world-making, from the Haitian Revolution in 1791 to more contemporary examples — the 1960s Civil Rights era, 1980s Act Up die-ins, and chanting the names of those killed by police violence in solidarity with #BlackLivesMatter in 2020. Studies how art and artistic tools made change possible in the historical and social fights for justice. Examines the challenges facing the oppressed today with the intention of creating work that will serve to inspire change within communities. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Brathwaite"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.811 Creating the World We Want: Protest, Activism, and Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.810"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Investigates how people acting as a collective change the status quo, and how art/performance supports and inspires powerful political, social, economic, and cultural shifts. Discusses the connection between art and activism and performance and world-making, from the Haitian Revolution in 1791 to more contemporary examples — the 1960s Civil Rights era, 1980s Act Up die-ins, and chanting the names of those killed by police violence in solidarity with #BlackLivesMatter in 2020. Studies how art and artistic tools made change possible in the historical and social fights for justice. Examines the challenges facing the oppressed today with the intention of creating work that will serve to inspire change within communities. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Brathwaite"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.812 Theater Arts Production (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.822"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Students to join Theater Arts faculty and staff in the development of a fully-staged production for an audience in MIT's laboratory for the performing arts at W97. Students collaborate as performers, designers, writers, choreographers and technicians. Weekly rehearsals, design labs, and workshops introduce students to an array of rehearsal and performance techniques over the course of the term. Culminates in a public performance, open to students at all levels of experience. Each term evolves a different project which may include community-driven interventions, classical or contemporary plays, devised works, screenplays, musicals or other live performance events.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.816 Advanced Play Translation"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.817"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.716\" title=\"21M.716\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.716');\">21M.716</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Builds on skills and theories introduced in 21M.716, with the goal of expansion of the one-scene translation project from the previous class into a full-length play translation. Includes selected readings and continued weekly progress on the play translation project, in consultation with instructor. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.817 Advanced Play Translation"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.816"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Builds on skills and theories introduced in 21M.716, with goal of expansion of the one-scene translation project from the previous class into a full-length play translation. Includes selected readings and continued weekly progress on the play translation project, in consultation with instructor. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.820 Production Design Visualization"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.821"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Engages the skills and techniques used by contemporary production designers to pre-visualize their designs. Students explore perspective drawing, painting, drafting, storyboarding and an array of physical and 3D computer modeling techniques used in theatrical and cinematic production design practices. Emphasizes the combination of digital and analog approaches. Studio projects focus on the challenges of adapting existing found spaces as well as imagined environments for the stage and screen. Using the Nine Square Grid problem, students create virtual reality landscapes and interact dynamically with their production designs in AR and VR. Includes readings, video viewings and talks by guest artists. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.821 Production Design Visualization"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.820"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Engages the skills and techniques used by contemporary production designers to pre-visualize their designs. Students explore perspective drawing, painting, drafting, storyboarding and an array of physical and 3D computer modeling techniques used in theatrical and cinematic production design practices. Emphasizes the combination of digital and analog approaches. Studio projects focus on the challenges of adapting existing found spaces as well as imagined environments for the stage and screen. Using the Nine Square Grid problem, students create virtual reality landscapes and interact dynamically with their production designs in AR and VR. Includes readings, video viewings and talks by guest artists. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "S. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.822 Theater Arts Production (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.812"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Production studio invites students to join Theater Arts faculty and staff in the development of a fully-staged production for an invited audience in MIT's new laboratory for the performing arts. Students are immersed in the collaboration as performers, designers, writers, choreographers and technicians. Weekly rehearsals, design labs, and workshops introduce students to an array of rehearsal and performance techniques over the course of the semester. Culminating in a public performance, students at all levels of experience are encouraged to join. Each semester evolves a different project which may include community-driven interventions, classical or contemporary plays, devised works, screenplays, musicals or other live performance events.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.830 Acting: Techniques and Style"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.835"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=21M.600\" title=\"21M.600\" class=\"bubblelink code\" onclick=\"return showCourse(this, '21M.600');\">21M.600</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Refines the student actor's use of the language of the stage with work on text and physical presentation. Explores issues of style, including the understanding and honoring, in performance, of the specific requirements from several different periods of the Western theatrical tradition. Periods may differ from term to term. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.835 Acting: Techniques and Style"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.830"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Refines the student actor's use of the language of the stage with work on text and physical presentation. Explores issues of style, including the understanding and honoring, in performance, of the specific requirements from several different periods of the Western theatrical tradition. Periods may differ from term to term. Students taking graduate versions complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.840 Performance Media"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.841"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Integrates media and communication technologies in performing arts. Studio exercises provide a forum for experimentation. Contemporary and historical techniques for media integration examined through readings, viewing videos and short written essays. Technologies examined include digital imaging, composite and live feed digital video, and web-based performance. Engages the designer, director, choreographer, performer, visual artist or programmer in the practice of integrating media into live art events. Equipment is provided. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Higgason",
+                "J. Scheib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.841 Performance Media"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.840"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Integrates media and communication technologies in performing arts. Studio exercises provide a forum for experimentation. Contemporary and historical techniques for media integration examined through readings, viewing videos and short written essays. Technologies examined include digital imaging, composite and live feed digital video, and web-based performance. Engages the designer, director, choreographer, performer, visual artist or programmer in the practice of integrating media into live art events. Equipment is provided. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "J. Higgason",
+                "J. Scheib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.842 Live Cinema Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.843"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Interdisciplinary studio introduces the theoretical basis, technical idiosyncrasies, and artistic practices of Live Cinema Performance. Examines the meaningful integration of live theatrical and cinematic idioms through merging the disciplines of the performer and the director, scenographer and cinematographer, choreographer and filmmaker. Studio exercises, readings, screenings, field trips, and in-class presentations give students the opportunity to study the history and theory surrounding the development of the genre and engage the artistic practice from both sides of the camera. Guest artists, lectures, and master classes deepen the perspective. Each session focuses on a particular dramatist, theme, or artistic genre, culminating in a research-driven, full-length collaboration, to be presented in the final week of class for an invited audience. Students taking graduate version complete additional assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Scheib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.843 Live Cinema Performance"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.842"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Interdisciplinary studio introduces the theoretical basis, technical idiosyncrasies, and artistic practices of Live Cinema Performance. Examines the meaningful integration of live theatrical and cinematic idioms through merging the disciplines of the performer and the director, scenographer and cinematographer, choreographer and filmmaker. Studio exercises, readings, screenings, field trips, and in-class presentations give students the opportunity to study the history and theory surrounding the development of the genre and engage the artistic practice from both sides of the camera. Guest artists, lectures, and master classes deepen the perspective. Each session focuses on a particular dramatist, theme, or artistic genre, culminating in a research-driven, full-length collaboration, to be presented in the final week of class for an invited audience. Students taking graduate version complete additional assignments. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Scheib"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.846 Topics in Performance Studies"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.847"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Multidisciplinary lecture/workshop engages students in a variety of approaches to the study and practice of performance as an area of aesthetic and social interaction. Special attention paid to the use of diverse media in performance. Interdisciplinary approaches to study encourage students to seek out material histories of performance and practice. May be repeated for credit if topics differ."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.847 Topics in Performance Studies"
+        ],
+        [
+            "prerec",
+            "Subject meets with 21M.846"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under 21M.846. Assignments differ."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.848 Performance Studies: Advanced Theories of Sport"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.690 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Seminar explores connections between athletics and theatre, performance studies, sociology, anthropology, and history. Focuses on performance of nation, race, and gender in sport, and how sport performs in society. Specific topics selected based on the research focus of each student. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "C. Conceison"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.851 Independent Study in Performance and Design"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Multidisciplinary independent study provides opportunity for individual practica in the performing arts. While opportunities may include directed theoretical research and practice in production and performance with permanent and visiting faculty, students are encouraged to propose independent programs of study to a member of the theater arts faculty. Permission of supervising faculty member required."
+        ],
+        [
+            "inst",
+            [
+                "Theater Arts Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.861 Topics in Performance Technique"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores elements of technique in a variety of performance disciplines.  Topics vary from term to term; may be taught by visiting faculty. May be repeated for credit if content differs.  Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "K. Mancuso"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.862 Topics in Performance Practice"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Class explores elements of performance in a studio setting. Topics vary from term to term; may be taught by visiting faculty. May be repeated for credit if content differs. Enrollment may be limited."
+        ],
+        [
+            "inst",
+            [
+                "J. Higgason"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.863 Advanced Topics in Theater Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced multidisciplinary studio workshop provides opportunity for advanced study in the performing arts. Topics vary from term to term; may be taught by visiting faculty. May be repeated for credit if content differs."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.864 Research in Theater"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Offers directed research in the spheres of theory, history, performance studies, dramaturgy, etc. Permission of the supervising member of the Theater Arts faculty required."
+        ],
+        [
+            "inst",
+            [
+                "Consult Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.865 Research in Theater"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Offers directed research of advanced theatrical subjects occurring in either the performance or theoretical spheres. May be repeated for credit with permission."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.THT Pre-Thesis Tutorial"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Definition of and early-stage work on thesis project leading to 21M.THU Undergraduate Thesis in Music or Theater Arts. Taken during the first term, or during IAP, of the student's two-term commitment to the thesis project. Student works closely with an individual faculty tutor. Limited to Music or Theater Arts Majors."
+        ],
+        [
+            "inst",
+            [
+                "Consult Music & Theater Arts Headquarters"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.THU Undergraduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: 21M.THT or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Completion of work on senior major thesis in Music or Theater Arts under supervision of a faculty tutor. Includes oral presentation of thesis project early in the term, assembling and revising final text and meeting at the close with a committee of Music or Theater Arts faculty evaluators to discuss successes and limitations of the project. Limited to Music or Theater Arts majors."
+        ],
+        [
+            "inst",
+            [
+                "Consult Music and Theater Arts Headquarters"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.UR Undergraduate Research in Music and Theater Arts"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in ongoing Music and Theater Arts research projects. For students in the Undergraduate Research Opportunities Program."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21M.URG Undergraduate Research in Music"
+        ],
+        [
+            "prerec",
+            "U (Fall, IAP, Spring, Summer)"
+        ],
+        [
+            "terms",
+            [
+                "Units arranged"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing music research project. For students in the Undergraduate Research Opportunities Progam."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,2917 @@
+[
+    "Brain and Cognitive Sciences (Course 9)",
+    [
+        "block",
+        [
+            "title",
+            "9.00 Introduction to Psychological Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "A survey of the scientific study of human nature, including how the mind works, and how the brain supports the mind. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. Consideration of how such knowledge relates to debates about nature and nurture, free will, consciousness, human differences, self, and society."
+        ],
+        [
+            "inst",
+            [
+                "J. D. Gabrieli"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.000 Constructive Criticism of Research in the Brain & Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides training in the constructive analysis, critique, and defense of the content of scientific papers in the brain sciences. Instruction provided in analyzing, presenting, constructively reviewing, and defending the scientific claims of cutting-edge primary research from all areas of brain sciences: molecular, systems, cognitive, and computation. Training provided by example from the instructor and practice reviewing, critiquing, presenting, and defending. Practice with instructor feedback provided to each student through constructively critiquing research and presenting/defending research. Beyond preparing for the weekly class discussion, students are also expected to attend the Brain and Cognitive Sciences colloquium each week to practice critical analysis and constructive questioning. Open to first-year graduate students in Course 9."
+        ],
+        [
+            "inst",
+            [
+                "J. DiCarlo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.01 Introduction to Neuroscience"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain. Topics include the function of nerve cells, sensory systems, control of movement, learning and memory, and diseases of the brain."
+        ],
+        [
+            "inst",
+            [
+                "M. Bear"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.011 Systems Neuroscience Core I"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Survey of brain and behavioral studies. Examines principles underlying the structure and function of the nervous system, with a focus on systems approaches. Topics include development of the nervous system and its connections, sensory systems of the brain, the motor system, higher cortical functions, and behavioral and cellular analyses of learning and memory. Preference to first-year graduate students in BCS."
+        ],
+        [
+            "inst",
+            [
+                "R. Desimone",
+                "E. K. Miller"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.012 Cognitive Science"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Intensive survey of cognitive science. Topics include visual perception, language, memory, cognitive architecture, learning, reasoning, decision-making, and cognitive development. Topics covered from behavioral, computational, and neural perspectives."
+        ],
+        [
+            "inst",
+            [
+                "E. Gibson",
+                "P. Sinha",
+                "J. Tenenbaum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.013[J] Molecular and Cellular Neuroscience Core II"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.68[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Survey and primary literature review of major areas in molecular and cellular neurobiology. Covers genetic neurotrophin signaling, adult neurogenesis, G-protein coupled receptor signaling, glia function, epigenetics, neuronal and homeostatic plasticity, neuromodulators of circuit function, and neurological/psychiatric disease mechanisms. Includes lectures and exams, and involves presentation and discussion of primary literature. 9.015[J] recommended, though the core subjects can be taken in any sequence."
+        ],
+        [
+            "inst",
+            [
+                "G. Feng",
+                "L.-H. Tsai"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.014 Quantitative Methods and Computational Models in Neurosciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides theoretical background and practical skills needed to analyze and model neurobiological observations at the molecular, systems and cognitive levels. Develops an intuitive understanding of mathematical tools and computational techniques which students apply to analyze, visualize and model research data using MATLAB programming. Topics include linear systems and operations, dimensionality reduction (e.g., PCA), Bayesian approaches, descriptive and generative models, classification and clustering, and dynamical systems. Limited to 18; priority to current BCS Graduate students."
+        ],
+        [
+            "inst",
+            [
+                "M. Jazayeri",
+                "D. Zysman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.015[J] Molecular and Cellular Neuroscience Core I"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.65[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Survey and primary literature review of selected major topic areas in molecular and cellular neurobiology. Covers nervous system development, axonal pathfinding, synapse formation and function, synaptic plasticity, ion channels and receptors, cellular neurophysiology, glial cells, sensory transduction, and relevant examples in human disease. Includes lectures and weekly paper write-ups, together with student presentations and discussion of primary literature. A final two-page research write-up is also due at the end of the term."
+        ],
+        [
+            "inst",
+            [
+                "J. T. Littleton",
+                "M. Sheng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.016[J] Introduction to Sound, Speech, and Hearing"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.714[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a> and <a href=\"/search/?P=8.03\" title=\"8.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.03');\">8.03</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.714[J]."
+        ],
+        [
+            "inst",
+            [
+                "S. S. Ghosh",
+                "H. H. Nakajima",
+                "S. Puria"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.017 Systems Neuroscience Core II"
+        ],
+        [
+            "prerec",
+            "Prereq: 18.06 or (9.011 and 9.014)"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Covers systems and computational neuroscience topics relevant to understanding how animal brains solve a wide range of cognitive tasks. Focuses on experimental approaches in systems neuroscience (behavioral design, parametric stimulus control, recording techniques) and theory-driven analyses (dynamical systems, control theory, Bayesian theory), both at the level of behavioral and neural data. Also focuses on regional organization (cortex, thalamus, basal ganglia, midbrain, and cerebellum), along with traditional divisions in systems neuroscience: sensory systems, motor systems, and associative systems."
+        ],
+        [
+            "inst",
+            [
+                "M. Halassa"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.021[J] Cellular Neurophysiology and Computing"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.794[J], 6.4812[J], 20.470[J], HST.541[J]\nSubject meets with 2.791[J], 6.4810[J], 9.21[J], 20.370[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a>, <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, and (<a href=\"/search/?P=2.005\" title=\"2.005\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.005');\">2.005</a>, <a href=\"/search/?P=6.2000\" title=\"6.2000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.2000');\">6.2000</a>, <a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a>, <a href=\"/search/?P=10.301\" title=\"10.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.301');\">10.301</a>, or <a href=\"/search/?P=20.110\" title=\"20.110[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.110');\">20.110[J]</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.4812[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Han",
+                "T. Heldt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.07 Statistics for Brain and Cognitive Science"
+        ],
+        [
+            "prerec",
+            "Prereq: 6.100B"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides students with the basic tools for analyzing experimental data, properly interpreting statistical reports in the literature, and reasoning under uncertain situations. Topics organized around three key theories: probability, statistical, and the linear model. Probability theory covers axioms of probability, discrete and continuous probability models, law of large numbers, and the Central Limit Theorem. Statistical theory covers estimation, likelihood theory, Bayesian methods, bootstrap and other Monte Carlo methods, as well as hypothesis testing, confidence intervals, elementary design of experiments principles and goodness-of-fit. The linear model theory covers the simple regression model and the analysis of variance. Places equal emphasis on theory, data analyses, and simulation studies."
+        ],
+        [
+            "inst",
+            [
+                "E. N. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.073[J] Statistics for Neuroscience Research"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.460[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "A survey of statistical methods for neuroscience research. Core topics include introductions to the theory of point processes, the generalized linear model, Monte Carlo methods, Bayesian methods, multivariate methods, time-series analysis, spectral analysis and state-space modeling. Emphasis on developing a firm conceptual understanding of the statistical paradigm and statistical methods primarily through analyses of actual experimental data."
+        ],
+        [
+            "inst",
+            [
+                "E. N. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.09[J] Cellular and Molecular Neurobiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.29[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a> or <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 7.29[J]."
+        ],
+        [
+            "inst",
+            [
+                "T. Littleton",
+                "S. Prescott"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.110[J] Nonlinear Control"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.152[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.151\" title=\"2.151\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.151');\">2.151</a>, <a href=\"/search/?P=6.7100\" title=\"6.7100[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7100');\">6.7100[J]</a>, <a href=\"/search/?P=16.31\" title=\"16.31\" class=\"bubblelink code\" onclick=\"return showCourse(this, '16.31');\">16.31</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.152[J]."
+        ],
+        [
+            "inst",
+            [
+                "J.-J. E. Slotine"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.12 Experimental Molecular Neurobiology"
+        ],
+        [
+            "prerec",
+            "Prereq: Biology (GIR) and 9.01"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Experimental techniques in cellular and molecular neurobiology. Designed for students without previous experience in techniques of cellular and molecular biology. Experimental approaches include DNA manipulation, molecular cloning, protein biochemistry, dissection and culture of brain cells, synaptic protein analysis, immunocytochemistry, and fluorescent microscopy. One lab session plus one paper review session per week. Instruction and practice in written communication provided. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "G. Choi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.123[J] Neurotechnology in Action"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.203[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Offers a fast-paced introduction to numerous laboratory methods at the forefront of modern neurobiology. Comprises a sequence of modules focusing on neurotechnologies that are developed and used by MIT research groups. Each module consists of a background lecture and 1-2 days of firsthand laboratory experience. Topics typically include optical imaging, optogenetics, high throughput neurobiology, MRI/fMRI, advanced electrophysiology, viral and genetic tools, and connectomics."
+        ],
+        [
+            "inst",
+            [
+                "A. Jasanoff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.13 The Human Brain"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00, 9.01, or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the core perceptual and cognitive abilities of the human mind and asks how these are implemented in the brain. Key themes include the functional organization of the cortex, as well as the representations and computations, developmental origins, and degree of functional specificity of particular cortical regions. Emphasizes the methods available in human cognitive neuroscience, and what inferences can and cannot be drawn from each."
+        ],
+        [
+            "inst",
+            [
+                "N. Kanwisher"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.17 Systems Neuroscience Laboratory"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.01 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Consists of a series of laboratories designed to give students experience with basic techniques for conducting systems neuroscience research. Includes sessions on anatomical, neurophysiological, and data acquisition and analysis techniques, and how these techniques are used to study nervous system function. Involves the use of experimental animals. Assignments include weekly preparation for lab sessions, two major lab reports and a series of basic computer programming tutorials (MATLAB). Instruction and practice in written communication provided.  Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "M. Harnett",
+                "S. Flavell"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.175[J] Robotics"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.165[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.151\" title=\"2.151\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.151');\">2.151</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.165[J]."
+        ],
+        [
+            "inst",
+            [
+                "J.-J. E. Slotine",
+                "H. Asada"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.18[J] Developmental Neurobiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.49[J]\nSubject meets with 7.69[J], 9.181[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.03\" title=\"7.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.03');\">7.03</a>, <a href=\"/search/?P=7.05\" title=\"7.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '7.05');\">7.05</a>, <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Considers molecular control of neural specification, formation of neuronal connections, construction of neural systems, and the contributions of experience to shaping brain structure and function. Topics include: neural induction and pattern formation, cell lineage and fate determination, neuronal migration, axon guidance, synapse formation and stabilization, activity-dependent development and critical periods, development of behavior. Students taking graduate version complete additional readings that will be addressed in their mid-term and final exams."
+        ],
+        [
+            "inst",
+            [
+                "E. Nedivi",
+                "M. Heiman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.181[J] Developmental Neurobiology"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.69[J]\nSubject meets with 7.49[J], 9.18[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.011\" title=\"9.011\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.011');\">9.011</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Considers molecular control of neural specification, formation of neuronal connections, construction of neural systems, and the contributions of experience to shaping brain structure and function. Topics include: neural induction and pattern formation, cell lineage and fate determination, neuronal migration, axon guidance, synapse formation and stabilization, activity-dependent development and critical periods, development of behavior. In addition to final exam, analysis and presentation of research papers required for final grade. Students taking graduate version complete additional assignments. Students taking graduate version complete additional readings that will be addressed in their mid-term and final exams."
+        ],
+        [
+            "inst",
+            [
+                "E. Nedivi",
+                "M. Heiman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.19 Computational Psycholinguistics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.190"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a> and (<a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a>, or <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces computational approaches to natural language processing and acquisition by humans and machines, combining symbolic and probabilistic modeling techniques. Covers models such as n-grams, finite state automata, and context-free and mildly context-sensitive grammars, for analyzing phonology, morphology, syntax, semantics, pragmatics, and larger document structure. Applications range from accurate document classification and sentence parsing by machine to modeling human language acquisition and real-time understanding. Covers both theory and contemporary computational tools and datasets. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. P. Levy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.190 Computational Psycholinguistics"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.19"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.100B\" title=\"6.100B\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100B');\">6.100B</a> and (<a href=\"/search/?P=6.3702\" title=\"6.3702\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3702');\">6.3702</a>, <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a>, or <a href=\"/search/?P=24.900\" title=\"24.900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '24.900');\">24.900</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces computational approaches to natural language processing and acquisition by humans and machines, combining symbolic and probabilistic modeling techniques. Covers models such as n-grams, finite state automata, and context-free and mildly context-sensitive grammars, for analyzing phonology, morphology, syntax, semantics, pragmatics, and larger document structure. Applications range from accurate document classification and sentence parsing by machine to modeling human language acquisition and real-time understanding. Covers both theory and contemporary computational tools and datasets. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. P. Levy"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.21[J] Cellular Neurophysiology and Computing"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.791[J], 6.4810[J], 20.370[J]\nSubject meets with 2.794[J], 6.4812[J], 9.021[J], 20.470[J], HST.541[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=8.02|8.021|8.022\" onclick=\"return showCourse(this, '8.02|8.021|8.022');\">Physics II (GIR)</a>, <a href=\"/search/?P=18.03\" title=\"18.03\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.03');\">18.03</a>, and (<a href=\"/search/?P=2.005\" title=\"2.005\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.005');\">2.005</a>, <a href=\"/search/?P=6.2000\" title=\"6.2000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.2000');\">6.2000</a>, <a href=\"/search/?P=6.3000\" title=\"6.3000\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3000');\">6.3000</a>, <a href=\"/search/?P=10.301\" title=\"10.301\" class=\"bubblelink code\" onclick=\"return showCourse(this, '10.301');\">10.301</a>, or <a href=\"/search/?P=20.110\" title=\"20.110[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '20.110');\">20.110[J]</a>)) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.4810[J]. Preference to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "J. Han",
+                "T. Heldt"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.24 Disorders and Diseases of the Nervous System"
+        ],
+        [
+            "prerec",
+            "Prereq: (7.29[J] and 9.01) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Topics examined include regional functional anatomy of the CNS; brain systems and circuits; neurodevelopmental disorders including autism; neuropsychiatric disorders such as schizophrenia; neurodegenerative diseases such as Parkinson's and Alzheimer's; autoimmune disorders such as multiple sclerosis; gliomas. Emphasis on diseases for which a molecular mechanism is understood. Diagnostic criteria, clinical and pathological findings, genetics, model systems, pathophysiology, and treatment are discussed for individual disorders and diseases. Limited to 18."
+        ],
+        [
+            "inst",
+            [
+                "M. Sur"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.26[J] Principles and Applications of Genetic Engineering for Biotechnology and Neuroscience"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.205[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=7.012|7.013|7.014|7.015|7.016\" onclick=\"return showCourse(this, '7.012|7.013|7.014|7.015|7.016');\">Biology (GIR)</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Covers principles underlying current and future genetic engineering approaches, ranging from single cellular organisms to whole animals. Focuses on development and invention of technologies for engineering biological systems at the genomic level, and applications of engineered biological systems for medical and biotechnological needs, with particular emphasis on genetic manipulation of the nervous system. Design projects by students."
+        ],
+        [
+            "inst",
+            [
+                "F. Zhang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.271[J] Pioneering Technologies for Interrogating Complex Biological Systems"
+        ],
+        [
+            "prerec",
+            "Same subject as 10.562[J], HST.562[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.562[J]. Limited to 15."
+        ],
+        [
+            "inst",
+            [
+                "K. Chung"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.272[J] Topics in Neural Signal Processing"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.576[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Presents signal processing and statistical methods used to study neural systems and analyze neurophysiological data. Topics include state-space modeling formulated using the Bayesian Chapman-Kolmogorov system, theory of point processes, EM algorithm, Bayesian and sequential Monte Carlo methods. Applications include dynamic analyses of neural encoding, neural spike train decoding, studies of neural receptive field plasticity, algorithms for neural prosthetic control, EEG and MEG source localization. Students should know introductory probability theory and statistics."
+        ],
+        [
+            "inst",
+            [
+                "E. N. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.28 Current Topics in Developmental Neurobiology"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 9.18[J]"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Considers recent advances in the field of developmental neurobiology based on primary research articles that address molecular control of neural specification, formation of neuronal connections, construction of neural systems, and the contributions of experience to shaping brain structure and function. Also considers new techniques and methodologies as applied to the field. Students critically analyze articles and prepare concise and informative presentations based on their content. Instruction and practice in written and oral communication provided. Requires class participation, practice sessions, and presentations."
+        ],
+        [
+            "inst",
+            [
+                "E. Nedivi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.285[J] Audition: Neural Mechanisms, Perception and Cognition"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.723[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.723[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. McDermott",
+                "D. Polley",
+                "B. Delgutte",
+                "M. C. Brown"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.301[J] Neural Plasticity in Learning and Memory"
+        ],
+        [
+            "prerec",
+            "Same subject as 7.98[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Examination of the role of neural plasticity during learning and memory of invertebrates and mammals. Detailed critical analysis of the current literature of molecular, cellular, genetic, electrophysiological, and behavioral studies. Student-directed presentations and discussions of original papers supplemented by introductory lectures. Juniors and seniors require instructor's permission."
+        ],
+        [
+            "inst",
+            [
+                "S. Tonegawa"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.32 Genes, Circuits, and Behavior"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.29[J], 9.16, 9.18[J], or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on understanding molecular and cellular mechanisms of circuitry development, function and plasticity, and their relevance to normal and abnormal behaviors/psychiatric disorders. Highlights cutting-edge technologies for neuroscience research. Students build professional skills through presentations and critical evaluation of original research papers."
+        ],
+        [
+            "inst",
+            [
+                "G. Feng"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.34[J] Biomechanics and Neural Control of Movement"
+        ],
+        [
+            "prerec",
+            "Same subject as 2.183[J]\nSubject meets with 2.184"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=2.004\" title=\"2.004\" class=\"bubblelink code\" onclick=\"return showCourse(this, '2.004');\">2.004</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 2.183[J]."
+        ],
+        [
+            "inst",
+            [
+                "N. Hogan"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.35 Perception"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.01 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Studies how the senses work and how physical stimuli are transformed into signals in the nervous system. Examines how the brain uses those signals to make inferences about the world, and uses illusions and demonstrations to gain insight into those inferences. Emphasizes audition and vision, with some discussion of touch, taste, and smell. Provides experience with psychophysical methods."
+        ],
+        [
+            "inst",
+            [
+                "J. McDermott"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.357 Current Topics in Perception"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced seminar on issues of current interest in human and machine vision. Topics vary from year to year. Participants discuss current literature as well as their ongoing research."
+        ],
+        [
+            "inst",
+            [
+                "E. H. Adelson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.36 Neurobiology of Self"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.360"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Discusses the neurobiological mechanisms that distinguish \"the Self\" from external environment; the neural circuits that enable us to know that \"the Self\" is in pain, or feels hungry, thirsty, and tired; and the neurons and circuits that lead to the emotional and moody Self. Examines brain mechanism that encodes the body schema and the Self in space. This includes the neural computations that allow, for example, the hand to know where the mouth is. Discusses the possibility of making robots develop a sense of Self, as well as disorders and delusions of the Self. Contemporary research — ranging from molecules, cells, circuits, to systems in both animal models and humans — explored. Students in the graduate version do additional classwork or projects."
+        ],
+        [
+            "inst",
+            [
+                "F. Wang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.360 Neurobiology of Self (New)"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.36"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a> "
+            ]
+        ],
+        [
+            "desc",
+            "Discusses the neurobiological mechanisms that distinguish \"the Self\" from external environment; the neural circuits that enable us to know that \"the Self\" is in pain, or feels hungry, thirsty, and tired; and the neurons and circuits that lead to the emotional and moody Self. Examines brain mechanism that encodes the body schema and the Self in space. This includes the neural computations that allow, for example, the hand to know where the mouth is. Discusses the possibility of making robots develop a sense of Self, as well as disorders and delusions of the Self. Contemporary research — ranging from molecules, cells, circuits, to systems in both animal models and humans — explored. Students in the graduate version do additional classwork or projects."
+        ],
+        [
+            "inst",
+            [
+                "F. Wang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.39 Language in the Mind and Brain"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.390"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.00\" title=\"9.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.00');\">9.00</a>, <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the core mental abilities — and their neural substrates — that support language, and situates them within the broader landscape of human cognition. Topics explored include: how structured representations are extracted from language; the nature of abstract concepts and how they relate to words; the nature of the brain mechanisms that support language vs. other structured and/or meaningful inputs, like music, mathematical expressions, or pictures; the relationship between language and social cognition; how language is processed in individuals who speak multiple languages; how animal communication systems and artificial neural network language models differ from human language. Draws on evidence from diverse approaches and populations, focusing on cutting-edge research. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Fedorenko"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.390 Language in the Mind and Brain"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.39"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.00\" title=\"9.00\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.00');\">9.00</a>, <a href=\"/search/?P=9.01\" title=\"9.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.01');\">9.01</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Surveys the core mental abilities — and their neural substrates — that support language, and situates them within the broader landscape of human cognition. Topics explored include: how structured representations are extracted from language; the nature of abstract concepts and how they relate to words; the nature of the brain mechanisms that support language vs. other structured and/or meaningful inputs, like music, mathematical expressions, or pictures; the relationship between language and social cognition; how language is processed in individuals who speak multiple languages; how animal communication systems and artificial neural network language models differ from human language. Draws on evidence from diverse approaches and populations, focusing on cutting-edge research. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "E. Fedorenko"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.40 Introduction to Neural Computation"
+        ],
+        [
+            "prerec",
+            "Prereq: (Physics II (GIR), 6.100B, and 9.01) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduces quantitative approaches to understanding brain and cognitive functions. Topics include mathematical description of neurons, the response of neurons to sensory stimuli, simple neuronal networks, statistical inference and decision making. Also covers foundational quantitative tools of data analysis in neuroscience: correlation, convolution, spectral analysis, principal components analysis. Mathematical concepts include simple differential equations and linear algebra."
+        ],
+        [
+            "inst",
+            [
+                "M. Fee"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.401 Tools for Robust Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "New tools are being developed to improve credibility, facilitate collaboration, accelerate scientific discovery, and expedite translation of results. Students (i) identify obstacles to conducting robust cognitive and neuroscientific research, (ii) practice using current cutting-edge tools designed to overcome these obstacles by improving scientific practices and incentives, and (iii) critically evaluate these tools' potential and limitations. Example tools investigated include shared pre-registration, experimental design, data management plans, meta-data standards, repositories, FAIR code, open-source data processing pipelines, alternatives to scientific paper formats, alternative publishing agreements, citation audits, reformulated incentives for hiring and promotion, and more. "
+        ],
+        [
+            "inst",
+            [
+                "R. Saxe",
+                "J.DiCarlo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.41 Research and Communication in Neuroscience and Cognitive Science"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.URG and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Emphasizes research and scientific communication. Instruction and practice in written and oral communication provided. Based on results of his/her UROP research, each student creates a full-length paper and a poster as part of an oral presentation at the end of the term. Other assignments include peer editing and reading/critiquing published research papers. Prior to starting class, students must have collected enough data from their UROP research projects to write a paper. Limited to juniors and seniors."
+        ],
+        [
+            "inst",
+            [
+                "L. Schulz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.42 The Brain and Its Interface with the Body"
+        ],
+        [
+            "prerec",
+            "Prereq: 7.28, 7.29[J], or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers a range of topics, such as brain-immune system interaction, the gut-brain axis, and bioengineering approaches for studying the brain and its interactions with different organs. Explores how these interactions may be involved in nervous system disease processes."
+        ],
+        [
+            "inst",
+            [
+                "F. Zhang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.422[J] Principles of Neuroengineering"
+        ],
+        [
+            "prerec",
+            "Same subject as 20.452[J], MAS.881[J]\nSubject meets with 20.352"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.881[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. S. Boyden",
+                "III"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.455[J] Revolutionary Ventures: How to Invent and Deploy Transformative Technologies"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.128[J], 20.454[J], MAS.883[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject MAS.883[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. Boyden",
+                "J. Bonsen",
+                "J. Jacobson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.46 Neuroscience of Morality"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00, 9.01, and (9.13 or 9.85)"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced seminar that covers both classic and cutting-edge primary literature from psychology and the neuroscience of morality. Addresses questions about how the human brain decides which actions are morally right or wrong (including neural mechanisms of empathy and self-control), how such brain systems develop over childhood and differ across individuals and cultures, and how they are affected by brain diseases (such as psychopathy, autism, tumors, or addiction). Instruction and practice in written and oral communication provided. Limited to 24."
+        ],
+        [
+            "inst",
+            [
+                "R. Saxe"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.48[J] Philosophical Issues in Brain Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 24.08[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 24.08[J]."
+        ],
+        [
+            "inst",
+            [
+                "E. J. Green"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.49 Neural Circuits for Cognition"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.490"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Takes a computational approach to examine circuits in the brain that perform elemental cognitive tasks: tasks that are neither directly sensory nor directly motor in function, but are essential to bridging from perception to action. Covers circuits and circuit motifs in the brain that underlie computations like integration, decision-making, spatial navigation, inference, and other cognitive elements. Students study empirical results, build dynamical models of neural circuits, and examine the mathematical theory of representations and computation in such circuits. Considers noise, stability, plasticity, and learning rules for these systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "I. Fiete"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.490 Neural Circuits for Cognition"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.49"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Takes a computational approach to examine circuits in the brain that perform elemental cognitive tasks: tasks that are neither directly sensory nor directly motor in function, but are essential to bridging from perception to action. Covers circuits and circuit motifs in the brain that underlie computations like integration, decision-making, spatial navigation, inference, and other cognitive elements. Students study empirical results, build dynamical models of neural circuits, and examine the mathematical theory of representations and computation in such circuits. Considers noise, stability, plasticity, and learning rules for these systems. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "I. Fiete"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.50 Research in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00 and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Laboratory research in brain and cognitive science, using physiological, anatomical, pharmacological, developmental, behavioral, and computational methods. Each student carries out an experimental study under the direction of a member of the faculty. Project must be approved in advance by the faculty supervisor and the undergraduate faculty officer. Written presentation of results is required."
+        ],
+        [
+            "inst",
+            [
+                "Consult L. Schulz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.520[J] Statistical Learning Theory and Applications"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.7910[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=6.7900\" title=\"6.7900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7900');\">6.7900</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Covers foundations and recent advances in statistical machine learning theory, with the dual goals of providing students with the theoretical knowledge to use machine learning and preparing more advanced students to contribute to progress in the field. The content is roughly divided into three parts. The first part is about classical regularization, margin, stochastic gradient methods, overparametrization, implicit regularization, and stability. The second part is about deep networks: approximation and optimization theory plus roots of generalization. The third part is about the connections between learning theory and the brain. Occasional talks by leading researchers on advanced research topics. Emphasis on current research topics."
+        ],
+        [
+            "inst",
+            [
+                "T. Poggio",
+                "L. Rosasco"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.521[J] Mathematical Statistics: a Non-Asymptotic Approach"
+        ],
+        [
+            "prerec",
+            "Same subject as 18.656[J], IDS.160[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: (<a href=\"/search/?P=6.7700\" title=\"6.7700[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.7700');\">6.7700[J]</a>, <a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a>, and <a href=\"/search/?P=18.6501\" title=\"18.6501\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.6501');\">18.6501</a>) or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces students to modern non-asymptotic statistical analysis. Topics include high-dimensional models, nonparametric regression, covariance estimation, principal component analysis, oracle inequalities, prediction and margin analysis for classification. Develops a rigorous probabilistic toolkit, including tail bounds and a basic theory of empirical processes"
+        ],
+        [
+            "inst",
+            [
+                "S. Rakhlin",
+                "P. Rigollet"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.522 Statistical Reinforcement Learning (9.651)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Focuses on sample complexity and algorithms for online learning and decision-making. Prediction of individual sequences, online regression, and online density estimation. Multi-armed and contextual bandits. Decision-making with structured observations and the decision-estimation coefficient. Frequentist and Bayesian approaches. Reinforcement learning: tabular methods and function approximation. Behavioral and neural mechanisms of reinforcement learning."
+        ],
+        [
+            "inst",
+            [
+                "<p class=\"p1\">A. Rahklin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.53 Emergent Computations Within Distributed Neural Circuits"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.530"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the fundamental scientific question of how the human brain still outperforms the best computer algorithms in most domains of sensory, motor and cognitive function, as well as the parallel and distributed nature of neural processing (as opposed to the serial organization of computer architectures/algorithms) required to answer it. Explores the biologically plausible computational mechanisms and principles that underlie neural computing, such as competitive and unsupervised learning rules, attractor networks, self-organizing feature maps, content-addressable memory, expansion recoding, the stability-plasticity dilemma, the role of lateral and top-down feedback in neural systems, the role of noise in neural computing. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Ajemian"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.530 Emergent Computations Within Distributed Neural Circuits"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.53"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Addresses the fundamental scientific question of how the human brain still outperforms the best computer algorithms in most domains of sensory, motor and cognitive function, as well as the parallel and distributed nature of neural processing (as opposed to the serial organization of computer architectures/algorithms) required to answer it. Explores the biologically plausible computational mechanisms and principles that underlie neural computing, such as competitive and unsupervised learning rules, attractor networks, self-organizing feature maps, content-addressable memory, expansion recoding, the stability-plasticity dilemma, the role of lateral and top-down feedback in neural systems, the role of noise in neural computing. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "R. Ajemian"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.55[J] Consumer Behavior"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.8471[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.8471[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Rand"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.550[J] Consumer Behavior"
+        ],
+        [
+            "prerec",
+            "Same subject as 15.847[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=15.809\" title=\"15.809\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.809');\">15.809</a>, <a href=\"/search/?P=15.814\" title=\"15.814\" class=\"bubblelink code\" onclick=\"return showCourse(this, '15.814');\">15.814</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 15.847[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Rand"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.58 Projects in the Science of Intelligence"
+        ],
+        [
+            "prerec",
+            "Prereq: (6.3900 and (9.40 or 18.06)) or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction on the mechanistic basis of intelligence - how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines. Examines how human intelligence emerges from computations in neural circuits to reproduce similar intelligent behavior in machines. Working in teams, students complete computational projects and exercises that reinforce the theme of collaboration between (computer science + math) and (neuroscience + cognitive science). Culminates with student presentations of their projects. Instruction and practice in oral and written communication provided. Limited to 30."
+        ],
+        [
+            "inst",
+            [
+                "T. Poggio",
+                "S. Ullman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.583[J] Functional Magnetic Resonance Imaging: Data Acquisition and Analysis"
+        ],
+        [
+            "prerec",
+            "Same subject as HST.583[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.05\" title=\"18.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.05');\">18.05</a> and (<a href=\"/search/?P=18.06\" title=\"18.06\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.06');\">18.06</a> or permission of instructor) "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject HST.583[J]."
+        ],
+        [
+            "inst",
+            [
+                "J. Polimeni",
+                "A. Yendiki"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.59[J] Laboratory in Psycholinguistics"
+        ],
+        [
+            "prerec",
+            "Same subject as 24.905[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Hands-on experience designing, conducting, analyzing, and presenting experiments on the structure and processing of human language. Focuses on constructing, conducting, analyzing, and presenting an original and independent experimental project of publishable quality. Develops skills in reading and writing scientific research reports in cognitive science, including evaluating the methods section of a published paper, reading and understanding graphical displays and statistical claims about data, and evaluating theoretical claims based on experimental data. Instruction and practice in oral and written communication provided."
+        ],
+        [
+            "inst",
+            [
+                "E. Gibson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.60 Machine-Motivated Human Vision"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores how studies of human vision can be motivated by, and enhance the capabilities of, machine-based systems. Considers the twin questions of how the performance of state-of-the-art machine vision systems compares with that of humans, and what kinds of strategies the human visual system uses in tasks where human performance exceeds that of machines. Includes presentations by engineers from companies with significant engineering efforts in vision. Based on these presentations, students define and conduct studies to address the two aforementioned questions and present their results to the public at the end of the term. Directed towards students interested in exploring vision from computational, experimental and practical perspectives. Provides instruction and practice in written and oral communication."
+        ],
+        [
+            "inst",
+            [
+                "P. Sinha"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.611[J] Natural Language and the Computer Representation of Knowledge"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.8630[J], 24.984[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.4100\" title=\"6.4100\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.4100');\">6.4100</a> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 6.8630[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. C. Berwick"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.66[J] Computational Cognitive Science"
+        ],
+        [
+            "prerec",
+            "Same subject as 6.4120[J]\nSubject meets with 9.660"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.3700\" title=\"6.3700\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3700');\">6.3700</a>, <a href=\"/search/?P=6.3800\" title=\"6.3800\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3800');\">6.3800</a>, <a href=\"/search/?P=9.40\" title=\"9.40\" class=\"bubblelink code\" onclick=\"return showCourse(this, '9.40');\">9.40</a>, <a href=\"/search/?P=18.05\" title=\"18.05\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.05');\">18.05</a>, <a href=\"/search/?P=6.3900\" title=\"6.3900\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.3900');\">6.3900</a>, or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to computational theories of human cognition. Focus on principles of inductive learning and inference, and the representation of knowledge. Computational frameworks covered include Bayesian and hierarchical Bayesian models; probabilistic graphical models; nonparametric statistical models and the Bayesian Occam's razor; sampling algorithms for approximate learning and inference; and probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas. Applications to understanding core aspects of cognition, such as concept learning and categorization, causal reasoning, theory formation, language acquisition, and social inference. Graduate students complete a final project."
+        ],
+        [
+            "inst",
+            [
+                "J. Tenenbaum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.660 Computational Cognitive Science"
+        ],
+        [
+            "prerec",
+            "Subject meets with 6.4120[J], 9.66[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to computational theories of human cognition. Focuses on principles of inductive learning and inference, and the representation of knowledge. Computational frameworks include Bayesian and hierarchical Bayesian models, probabilistic graphical models, nonparametric statistical models and the Bayesian Occam's razor, sampling algorithms for approximate learning and inference, and probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas. Applications to understanding core aspects of cognition, such as concept learning and categorization, causal reasoning, theory formation, language acquisition, and social inference. Graduate students complete a final project."
+        ],
+        [
+            "inst",
+            [
+                "J. Tenenbaum"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.67[J] Materials Physics of Neural Interfaces"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.056[J]\nSubject meets with 3.64[J], 9.670[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=3.033\" title=\"3.033\" class=\"bubblelink code\" onclick=\"return showCourse(this, '3.033');\">3.033</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.056[J]."
+        ],
+        [
+            "inst",
+            [
+                "P. Anikeeva"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.670[J] Materials Physics of Neural Interfaces"
+        ],
+        [
+            "prerec",
+            "Same subject as 3.64[J]\nSubject meets with 3.056[J], 9.67[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 3.64[J]."
+        ],
+        [
+            "inst",
+            [
+                "P. Anikeeva"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.72 Vision in Art and Neuroscience"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.720"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces and provides practical engagement with core concepts in vision neuroscience. Combination of seminar and studio work fosters interdisciplinary dialogue between visual art and vision neuroscience, culminating in a gallery exhibition of students' individual, semester-long projects. Treats the processes of visual perception and the creation of visual art in parallel, making use of the fact that both are constructive. Through lectures and readings in experimental and computational vision research, explores the hierarchy of visual processing, from the moment that light strikes the retina to the internal experience of a rich visual world. In the studio, students examine how each stage of this process manifests in the experience of art, wherein the perceptual system observes itself. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Sinha",
+                "S. Riskin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.720 Vision in Art and Neuroscience"
+        ],
+        [
+            "prerec",
+            "Subject meets with 9.72"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "Introduces and provides practical engagement with core concepts in vision neuroscience. Combination of seminar and studio work fosters interdisciplinary dialogue between visual art and vision neuroscience, culminating in a gallery exhibition of students' individual, semester-long projects. Treats the processes of visual perception and the creation of visual art in parallel, making use of the fact that both are constructive. Through lectures and readings in experimental and computational vision research, explores the hierarchy of visual processing, from the moment that light strikes the retina to the internal experience of a rich visual world. In the studio, students examine how each stage of this process manifests in the experience of art, wherein the perceptual system observes itself. Students taking graduate version complete additional assignments."
+        ],
+        [
+            "inst",
+            [
+                "P. Sinha",
+                "S. Riskin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.822[J] Psychology and Economics"
+        ],
+        [
+            "prerec",
+            "Same subject as 14.137[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 14.137[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Prelec"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.830 Graduate Student Internship (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides academic credit for BCS graduate students who are engaging an internship opportunity in brain or cognitive sciences. Before enrolling, students must have an offer of employment from a company or organization, and approval from their advisor and the BCS Graduate Officer."
+        ],
+        [
+            "inst",
+            [
+                "Vallin",
+                "Sierra "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.85 Infant and Early Childhood Cognition"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Introduction to cognitive development focusing on childrens' understanding of objects, agents, and causality. Develops a critical understanding of experimental design. Discusses how developmental research might address philosophical questions about the origins of knowledge, appearance and reality, and the problem of other minds. Provides instruction and practice in written communication as necessary to research in cognitive science (including critical reviews of journal papers, a literature review and an original research proposal), as well as instruction and practice in oral communication in the form of a poster presentation of a journal paper."
+        ],
+        [
+            "inst",
+            [
+                "L. Schulz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.89 Off-Campus Undergraduate Research in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For Brain and Cognitive Sciences undergraduates participating in curriculum-related research off-campus. Before enrolling, students must consult the BCS Academic Office for details on procedures and restrictions, and have approval from their faculty advisor. Subject to departmental approval. Upon completion, the off-campus supervisor will provide an evaluation of the student's work.  The student must also submit a write-up of the experience, approved by the MIT supervisor. "
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.90 Practical Experience in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "For Brain and Cognitive Sciences undergraduates participating in curriculum-related off-campus professional experiences. Before enrolling, students must consult the BCS Academic Office for details on procedures and restrictions, and have approval from their faculty advisor. Subject to departmental approval. Upon completion, the student must submit a write-up of the experience, approved by the MIT supervisor."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.900 Clinical Connection Module"
+        ],
+        [
+            "prerec",
+            "Prereq: None. Coreq: 9.011, 9.012, 9.013[J], 9.014, or 9.015[J]; permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides students the opportunity to connect their core neuroscience training to clinical experience (pathogenesis, diagnosis, management and therapeutic clinical trials of nervous system diseases). Students attend, along with Harvard faculty, fellows, residents and medical students at Massachusetts General Hospital, clinical seminars at MGH conducted by clinical and basic science faculty of Harvard Medical School. Each clinical experience is one week in length; students have the option to attend up to four seminars in their individual week chosen from: neuroradiology, neuropathology, neurodegenerative diseases, epilepsy, movement disorders, psychiatry, neuropsychiatric diseases and behavioral neurology, and functional neurosurgery. Seminars are followed by one-on-one discussion with instructor to connect the clinical experience with parallel course material on the neurobiology of disease."
+        ],
+        [
+            "inst",
+            [
+                "T. Byrne"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.901 Responsible Conduct in Science"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides instruction and dialogue on practical ethical issues relating to the responsible conduct of human and animal research in the brain and cognitive sciences. Specific emphasis on topics relevant to young researchers including data handling, animal and human subjects, misconduct, mentoring, intellectual property, and publication. Preliminary assigned readings and initial faculty lecture followed by discussion groups of four to five students each. A short written summary of the discussions submitted at the end of each class. See IAP Guide for registration information."
+        ],
+        [
+            "inst",
+            [
+                "M. Wilson"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.91 Independent Study in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00, two additional subjects in Brain and Cognitive Sciences, and permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual study of a topic under the direction of a member of the faculty."
+        ],
+        [
+            "inst",
+            [
+                "Consult Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.918 BCS Grant Writing Workshop (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Fellowship writing workshop to develop applications for predoctoral fellowships, including the NSF and NDSEG programs."
+        ],
+        [
+            "inst",
+            [
+                "Kanwisher",
+                "Nancy "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.919 Teaching Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For teaching assistants in Brain and Cognitive Sciences, in cases where teaching assignment is approved for academic credit by the department."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.921 Research in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Guided research under the sponsorship of individual members of the faculty. Ordinarily restricted to candidates for the doctoral degree in Course 9."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.941 Graduate Thesis Proposal"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Students submit written proposals for thesis according to stated deadlines."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.980[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part I: Advancing Your Professional Strategies and Skills"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.961[J], 8.396[J], 12.396[J], 18.896[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.396[J]. Limited to 80."
+        ],
+        [
+            "inst",
+            [
+                "A. Frebel"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.981[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part II: Developing Your Leadership Competencies"
+        ],
+        [
+            "prerec",
+            "Same subject as 5.962[J], 8.397[J], 12.397[J], 18.897[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 8.397[J]. Limited to 80."
+        ],
+        [
+            "inst",
+            [
+                "D. Rigos"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.C20[J] Introduction to Computational Science and Engineering (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.C20[J], 18.C20[J], CSE.C20[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=6.100A\" title=\"6.100A\" class=\"bubblelink code\" onclick=\"return showCourse(this, '6.100A');\">6.100A</a>; <i>Coreq: <a href=\"/search/?P=8.01\" title=\"8.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '8.01');\">8.01</a> and <a href=\"/search/?P=18.01\" title=\"18.01\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.01');\">18.01</a></i> "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.C20[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. L. Darmofal",
+                "N. Seethapathi"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S51 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00 and any other two subjects in Brain and Cognitive Sciences"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "I. Pepperberg"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S52 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00 and any other two subjects in Brain and Cognitive Sciences"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "E. Fedorenko"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S911 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall; partial term)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum. 9.S911 is graded P/D/F."
+        ],
+        [
+            "inst",
+            [
+                "N. G. Kanwisher"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S912 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "L. Schulz"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S913 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "M. Kellis",
+                "M. Heiman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S914 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "R. Saxe"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S915 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "Acad Year 2023-2024: G (Fall)",
+                "\nAcad Year 2024-2025: Not offered"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S916 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S917 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "L. Udeigwe",
+                "J. DiCarlo",
+                "R. Ajemian "
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S918 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Advanced graduate study in brain and cognitive sciences; covers material not offered in regular curriculum. 9.S918 is graded P/D/F."
+        ],
+        [
+            "inst",
+            [
+                "J. DiCarlo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S92 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: 9.00"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Undergraduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Consult F. Wang"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S93 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S94 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences during Independent Activities Period; covers material not offered in regular curriculum. See IAP Guide for details."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S95 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences during Independent Activities Period; covers material not offered in regular curriculum. See IAP Guide for details."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S96 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences during Independent Activities Period; covers material not offered in regular curriculum. See IAP Guide for details."
+        ],
+        [
+            "inst",
+            [
+                "Consult Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S97 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences during Independent Activities Period; covers material not offered in regular curriculum. See IAP Guide for details."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S98 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (IAP)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences during Independent Activities Period; covers material not offered in regular curriculum. See IAP Guide for details."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.S99 Special Subject in Brain and Cognitive Sciences"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "For undergraduate study in brain and cognitive sciences; covers material not offered in regular curriculum."
+        ],
+        [
+            "inst",
+            [
+                "M. Kellis",
+                "M. Heiman"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.THG Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of a Ph.D. thesis; to be arranged by the student and an appropriate MIT faculty member."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.THM Master of Engineering Program Thesis (New)"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research leading to the writing of an MEng thesis; to be arranged by the student and an appropriate MIT faculty member. Restricted to MEng graduate students."
+        ],
+        [
+            "inst",
+            [
+                "Vallin",
+                "Sierra"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.UR Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing research project."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "9.URG Undergraduate Research"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing research project."
+        ],
+        [
+            "inst",
+            [
+                "Consult Staff"
+            ]
+        ]
+    ]
+]

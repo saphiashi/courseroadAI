@@ -1,0 +1,139 @@
+[
+    "Humanities (Course 21)",
+    [
+        "block",
+        [
+            "title",
+            "21.00 SHASS Exploration"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Provides a better understanding of what the humanities, arts, and social sciences at MIT are all about. Each week, a different faculty member from a SHASS unit discusses their research, giving students a sense of what they might expect from a major, minor, or concentration in their field. Subject can count toward the 6-unit discovery-focused credit limit for first year students."
+        ],
+        [
+            "inst",
+            [
+                "Consult A. Rayo"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21.THT Humanities Pre-Thesis Tutorial"
+        ],
+        [
+            "prerec",
+            "Prereq: As specified for particular field"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Definition of and early-stage work on thesis project leading to 21.THU Undergraduate Thesis in Humanities. Taken during the first term of the student's two-term commitment to the thesis project. Student works closely with an individual faculty tutor. Required for all students in Course 21, and those doing 21-E and 21-S degrees, for whom the thesis is a degree requirement."
+        ],
+        [
+            "inst",
+            [
+                "Information: SHASS Dean's Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21.THU Undergraduate Thesis in Humanities"
+        ],
+        [
+            "prerec",
+            "Prereq: 21.THT"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Completion of work on the senior major thesis under supervision of a faculty tutor. Includes oral presentation of thesis progress early in the term, assembling and revising the final text, and meeting at the close with a committee of faculty evaluators to discuss the successes and limitations of the project. Required for most students in Course 21 and those doing 21-E and 21-S degrees."
+        ],
+        [
+            "inst",
+            [
+                "Information: SHASS Dean's Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21.UR Undergraduate Research in Humanities"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing research project. For students in the Undergraduate Research Opportunities Program."
+        ],
+        [
+            "inst",
+            [
+                "Information: SHASS Dean's Office"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "21.URG Research in Humanities"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "U (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Individual participation in an ongoing research project. For students in the Undergraduate Research Opportunities Program."
+        ],
+        [
+            "inst",
+            [
+                "Information: SHASS Dean's Office"
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,598 @@
+[
+    "Engineering Management (EM)",
+    [
+        "head",
+        "System Design and Management"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.411 Foundations of System Design and Management"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents the foundations of systems architecture, systems engineering and project management in an integrated format, through a synchronized combination of in-class discussion, industrial guest speakers, team projects, and individual assignments. Topics include stakeholder analysis, project planning and monitoring, requirements definition, concept generation and selection, complexity management, system integration, verification and validation, cost modeling, systems safety, organizational design and effective teamwork, risk management, and leadership styles. Restricted to students in the SDM program."
+        ],
+        [
+            "inst",
+            [
+                "B. Moser",
+                "E. Crawley",
+                "B. Cameron"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.412 Foundations of System Design and Management II"
+        ],
+        [
+            "prerec",
+            "Prereq: EM.411"
+        ],
+        [
+            "terms",
+            [
+                "G (IAP)"
+            ]
+        ],
+        [
+            "desc",
+            "Deepens the foundations of systems architecture, systems engineering and project management introduced in EM.411 though a synchronized combination of lectures, recitations, opportunity sets, guest speakers, and team projects. Topics emphasize the transition from early conceptual design to detailed design and system integration. Features a technology showcase and project forum where students, faculty and company sponsors meet to discuss and select projects for EM.413. Includes team-based exercises and design challenges. Restricted to students in the SDM program."
+        ],
+        [
+            "inst",
+            [
+                "B. Cameron",
+                "E. Crawley",
+                "B. Moser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.413 Foundations of System Design and Management III"
+        ],
+        [
+            "prerec",
+            "Prereq: EM.412"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Presents advanced concepts in systems architecture, systems engineering and project management in an integrated manner through lectures, recitations, opportunity sets, guest lectures, and a semester-long team project. Topics emphasize complexity management, systems integration, verification, validation, and lifecycle management. Specific lifecycle properties addressed include quality, safety, robustness, resilience, flexibility and evolvability of systems over time. Additional topics include monitoring and control, the rework cycle, managing portfolios and programs of projects in a multi-cultural and global context, and managing product families and platforms. Restricted to students in the SDM program."
+        ],
+        [
+            "inst",
+            [
+                "B. Moser",
+                "B. Cameron",
+                "E. Crawley"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.421 SDM Certificate Capstone"
+        ],
+        [
+            "prerec",
+            "Prereq: EM.413"
+        ],
+        [
+            "terms",
+            [
+                "G (Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Practical application of systems management problems within a real company. Teams of 1-4 students are matched with a company to work on a project in which they identify systems challenges and devise methods for solving problems utilizing the system architecture, systems engineering and project management methodology covered in the EM core sequence. Mentors and sponsors are identified for each team. Restricted to System Design and Management Certificate students."
+        ],
+        [
+            "inst",
+            [
+                "J. Rubin"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.422 Engineering Systems Analysis for Design"
+        ],
+        [
+            "prerec",
+            "Engineering School-Wide Elective Subject.\nOffered under: 1.146, 16.861, EM.422, IDS.332"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.332. Enrollment limited."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.423[J] Risk and Decision Analysis"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.333[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: None "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.333[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.424[J] Real Options for Product and Systems Design"
+        ],
+        [
+            "prerec",
+            "Same subject as IDS.330[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=IDS.333\" title=\"IDS.333[J]\" class=\"bubblelink code\" onclick=\"return showCourse(this, 'IDS.333');\">IDS.333[J]</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.330[J]."
+        ],
+        [
+            "inst",
+            [
+                "R. de Neufville"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.425 Research Seminar on Engineering Projects and Teamwork"
+        ],
+        [
+            "prerec",
+            "Prereq: EM.411 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)"
+            ]
+        ],
+        [
+            "desc",
+            "Review of research on engineering as work and problem-solving by teams, including cases, professional practices, experimental results, and teamwork fundamentals. Topics include: projects structures and dependence; communication, coordination, and concurrency; exception handling, rework, and quality; awareness, attention, and engagement; and information, uncertainty, and learning. Students consider engineering teamwork phenomena which integrate technical and organizational aspects, leading to insights on performance during project shaping, ideation, planning, control, adaptation, and lessons learned. In the second half, students work as small teams to propose an experiment which explores teamwork during engineering. Proposed experiments often become basis for research and thesis activity."
+        ],
+        [
+            "inst",
+            [
+                "B. Moser",
+                "I. Vazquez"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.426 Model-building and Analysis Lab for Engineering Project Teamwork"
+        ],
+        [
+            "prerec",
+            "Prereq: EM.425 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Explores agent-based models and simulation for engineering project management. Students build and validate models of engineered systems and engineering teamwork, which integrate technology and organization useful during project shaping, ideation, planning, control, adaptation, and lessons learned. Models capture phenomena discussed in EM.425 and are simulated to forecast performance such as feasible scope, human activity, interactions, cost, schedule, quality, and risks. In the first half, students build a model and agent-based simulation from scratch. In the second half, students work in small teams on either a case modeled using methods introduced in the first half or an extension of said methods to explore a particular engineering phenomenon introduced in the first half."
+        ],
+        [
+            "inst",
+            [
+                "B. Moser"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.427[J] Technology Roadmapping and Development"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.887[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject 16.887[J]."
+        ],
+        [
+            "inst",
+            [
+                "O. L. de Weck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.428[J] Multidisciplinary Design Optimization"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.888[J], IDS.338[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: <a href=\"/search/?P=18.085\" title=\"18.085\" class=\"bubblelink code\" onclick=\"return showCourse(this, '18.085');\">18.085</a> or permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "Systems modeling for design and optimization. Selection of design variables, objective functions and constraints. Overview of principles, methods and tools in multidisciplinary design optimization (MDO). Subsystem identification, development and interface design. Design of experiments (DOE). Review of linear (LP) and non-linear (NLP) constrained optimization formulations. Scalar versus vector optimization problems. Karush-Kuhn-Tucker (KKT) conditions of optimality, Lagrange multipliers, adjoints, gradient search methods, sensitivity analysis, geometric programming, simulated annealing, genetic algorithms and particle swarm optimization. Constraint satisfaction problems and isoperformance. Non-dominance and Pareto frontiers. Surrogate models and multifidelity optimization strategies. System design for value. Students execute a term project in small teams related to their area of interest. "
+        ],
+        [
+            "inst",
+            [
+                "O. de Weck"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.429[J] Systems Architecting Applied to Enterprises (New)"
+        ],
+        [
+            "prerec",
+            "Same subject as 16.855[J], IDS.336[J]"
+        ],
+        [
+            "terms",
+            [
+                "Prereq: Permission of instructor "
+            ]
+        ],
+        [
+            "desc",
+            "See description under subject IDS.336[J]."
+        ],
+        [
+            "inst",
+            [
+                "D. Rhodes"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Integrated Design and Management"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.441 Integrated Design Lab I"
+        ],
+        [
+            "prerec",
+            "Prereq: None"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Presents fundamentals of the integrated design and product development process. Covers methods relevant at each stage of the process; students apply them in a series of design projects. Topics include stakeholder identification, customer engagement and ethnographic methods, concept generation and selection, project planning, manufacturing methods, supply systems, cost modeling, sustainability, and safety. Restricted to Integrated Design and Management (IDM) students."
+        ],
+        [
+            "inst",
+            [
+                "M. Kressy",
+                "T. Hu",
+                "S. Eppinger",
+                "W. Seering"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.442 Integrated Design Lab II"
+        ],
+        [
+            "prerec",
+            "Prereq: EM.441 or permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Presents advanced topics in integrated design and product development. Students pursue a product development project as a case study for understanding how teams work together to define and test a new product. Provides exposure to the state-of-the-art in product definition, product architectures, market testing, competitive analysis, product planning strategy, business case construction, and life cycle design. Students apply their previously acquired product development knowledge and engage in ongoing reflection in an action-oriented setting. Restricted to Integrated Design and Management (IDM) students."
+        ],
+        [
+            "inst",
+            [
+                "T. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.443 Integrated Design Seminar I"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers a broad range of topics relevant to integrated design, engineering, and business, including leadership, entrepreneurship, social impact, sustainability, and human centered design. Includes discussion of Integrated Design & Management thesis projects. Features lectures by guest speakers and faculty. Restricted to Integrated Design and Management (IDM) students."
+        ],
+        [
+            "inst",
+            [
+                "T. Hu"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.444 Integrated Design Seminar II"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Covers a broad range of topics relevant to integrated design, engineering, and business, including leadership, entrepreneurship, social impact, sustainability, and human centered design. Includes discussion of Integrated Design & Management thesis projects. Features lectures by guest speakers and faculty. Restricted to Integrated Design and Management (IDM) students."
+        ],
+        [
+            "inst",
+            [
+                "T. Hu"
+            ]
+        ]
+    ],
+    [
+        "head",
+        "Internship and Thesis"
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.451 Internship Experience"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Provides insight into the challenges of an organization that develops products or systems. Before enrolling each student must have a department approved internship opportunity. At the end of the internship, students deliver a report, for evaluation by the sponsoring faculty member, documenting ways that the organization addresses product or system development issues and applies the methods taught in the SDM or IDM core. Intended for students who have completed the SDM or IDM core course sequence."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.S20 Special Subject in Engineering Management"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Engineering Management not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to department approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.S21 Special Subject in Engineering Management"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)",
+                "\nNot offered regularly; consult department"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Engineering Management not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to department approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.S22 Special Subject in Engineering Management"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, Spring)"
+            ]
+        ],
+        [
+            "desc",
+            "Opportunity for study of advanced topics in Engineering Management not otherwise included in the curriculum at MIT. Offerings are initiated by faculty on an ad-hoc basis subject to department approval."
+        ],
+        [
+            "inst",
+            [
+                "Staff"
+            ]
+        ]
+    ],
+    [
+        "block",
+        [
+            "title",
+            "EM.THG EM Graduate Thesis"
+        ],
+        [
+            "prerec",
+            "Prereq: Permission of instructor"
+        ],
+        [
+            "terms",
+            [
+                "G (Fall, IAP, Spring, Summer)"
+            ]
+        ],
+        [
+            "desc",
+            "Program of research, leading to the writing of an SM thesis to be arranged by the student with an appropriate member of the MIT faculty."
+        ],
+        [
+            "inst",
+            [
+                "Consult W",
+                "Foley"
+            ]
+        ]
+    ]
+]
